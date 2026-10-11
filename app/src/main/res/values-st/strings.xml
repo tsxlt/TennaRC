@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Romela ho TV</string>
+    <string name="tile_label">Rimoto ya TV</string>
+    <string name="shortcut_link">Batla</string>
+    <string name="shortcut_keyboard">Ngola ho TV</string>
+
+    <!-- Status line -->
+    <string name="status_connected">E hoketswe</string>
+    <string name="status_connecting">E a hokela…</string>
+    <string name="status_awaiting">Amohela ho TV</string>
+    <string name="status_offline">TV e bonahala e timile</string>
+    <string name="status_not_paired">Ha e so kopanngwe</string>
+    <string name="status_standby">E emetse</string>
+    <string name="status_screen_off">Skrini e timile, molumo o a utlwahala</string>
+    <string name="standby_title">TV e timile</string>
+    <string name="action_turn_on">Bulela</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Kopanya le TV</string>
+    <string name="pair_body">Amohela ho TV ha e botsa.</string>
+    <string name="pair_declined_body">TV e hanne. Lekhetlong lena kgetha Amohela.</string>
+    <string name="pair_action">Kopanya</string>
+    <string name="pair_timeout_body">Ha ho karabo e tswang ho TV.</string>
+    <string name="pair_forgotten_body">TV e lebetse fono ena.</string>
+    <string name="approval_title">Amohela ho TV</string>
+    <string name="connecting_title">E a hokela…</string>
+    <string name="offline_title">TV e bonahala e timile</string>
+    <string name="action_retry">Leka hape</string>
+    <string name="action_cancel">Khansela</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Batla</string>
+    <string name="touchpad_label">Touchpad. Hula ho tsamaisa sesupa, tobetsa ho klika, hula ka menwana e mmedi ho skrola.</string>
+    <string name="dpad_label">Dikonopo tsa tataiso</string>
+    <string name="key_up">Hodimo</string>
+    <string name="key_down">Tlase</string>
+    <string name="key_left">Letshehadi</string>
+    <string name="key_right">Letona</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Morao</string>
+    <string name="key_home">Lehae</string>
+    <string name="key_keyboard">Khiiboto</string>
+    <string name="key_touchpad">Touchpad</string>
+    <string name="key_dpad">Metsu</string>
+    <string name="key_more">Tse ding</string>
+    <string name="key_rewind">Kgutlisetsa morao</string>
+    <string name="key_play">Bapala</string>
+    <string name="key_pause">Kgefutsa</string>
+    <string name="key_fast_forward">Potlakisetsa pele</string>
+    <string name="key_stop">Emisa</string>
+    <string name="key_volume_up">Phahamisa molumo</string>
+    <string name="key_volume_down">Theola molumo</string>
+    <string name="key_mute">Kgutsisa</string>
+    <string name="key_unmute">Kgutlisa molumo</string>
+    <string name="volume_value">Molumo %1$d</string>
+    <string name="volume_unknown">Molumo, boemo ha bo tsejwe</string>
+    <string name="volume_muted">E kgutsitswe</string>
+    <string name="power">Motlakase</string>
+    <string name="settings">Disetting</string>
+    <string name="all_apps">Diapp tsohle</string>
+    <string name="inputs">Dikenyo</string>
+    <string name="picture_title">Setshwantsho</string>
+    <string name="picture_standard">E tlwaelehileng</string>
+    <string name="picture_vivid">E kganyang</string>
+    <string name="picture_cinema">Sinema</string>
+    <string name="picture_game">Papadi</string>
+    <string name="picture_sports">Dipapadi</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Setsebi</string>
+    <string name="picture_backlight">Kganya</string>
+    <string name="sound_title">Molumo</string>
+    <string name="sound_tv">Dibui tsa TV</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optical</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Di-headphone</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Dibui</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Line out</string>
+    <string name="more_subtitles">Mangolo</string>
+    <string name="more_audio_track">Molumo</string>
+    <string name="sleep_title">Nako ya ho tima</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">E tla tima ka %1$s</string>
+    <string name="sleep_cancel">Khansela nako ya ho tima</string>
+    <string name="app_on_screen">%1$s, e skrining hona jwale</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">E a qala ho TV…</string>
+    <string name="cast_playing">E a bapala ho TV</string>
+    <string name="cast_paused">E kgefutsitswe</string>
+    <string name="cast_stalled">Ha e tsamaye. Na seva ya video e ntse e sebetsa?</string>
+    <string name="cast_play">Tswela pele</string>
+    <string name="cast_pause">Kgefutsa</string>
+    <string name="cast_stop">Emisa ho bapala ho TV</string>
+    <string name="cast_position">Sebaka sa ho bapala</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Kwala patlo</string>
+    <string name="tv_picker">Di-TV, hona jwale: %1$s</string>
+    <string name="tv_picker_add_short">Eketsa</string>
+    <string name="hold_hide">Pata</string>
+    <string name="hold_rename">Fetola lebitso</string>
+    <string name="rename_input">Fetola lebitso la kenyo</string>
+    <string name="rename_save">Boloka</string>
+    <string name="rename_reset">Sebelisa lebitso la TV</string>
+    <string name="more_channel_list">Lenane</string>
+    <string name="more_guide">Mananeo</string>
+    <string name="input_label">%1$s, kenyo</string>
+    <string name="channel_label">%2$s, tjhanele %1$s</string>
+    <string name="on_screen_now">E skrining hona jwale</string>
+    <string name="deck_expanded">E atolositswe</string>
+    <string name="deck_collapsed">E phuthilwe</string>
+    <string name="channel_hidden">%1$s e patilwe</string>
+    <string name="action_undo">Etsolla</string>
+    <string name="offline_switch">Sebelisa %1$s</string>
+    <string name="search_picks">Tse tummeng hona jwale</string>
+    <string name="search_clear">Hlakola</string>
+    <string name="search_fill">Kenya lebokosong la patlo</string>
+    <string name="search_type_on_tv">Ngola ho TV</string>
+    <string name="search_in_app">Batla ho %1$s</string>
+    <string name="search_web">Batla ka %1$s</string>
+    <string name="link_paste">Kgomaretsa</string>
+    <string name="link_recent">Tsa morao tjena</string>
+    <string name="link_clear_recent">Hlakola</string>
+    <string name="link_kind_youtube">Video ya YouTube</string>
+    <string name="link_kind_video">Faele ya video</string>
+    <string name="link_kind_audio">Faele ya molumo</string>
+    <string name="link_kind_image">Setshwantsho</string>
+    <string name="link_kind_web">Leqephe la web</string>
+    <string name="link_action_app">Bula ho %1$s</string>
+    <string name="link_action_media">Bapala ho TV</string>
+    <string name="link_action_browser">Bula ho sebadi sa TV</string>
+    <string name="link_sending">E a romela…</string>
+    <string name="link_sent">E butswe ho TV</string>
+    <string name="link_failed">TV ha e a bula sehokelo. Leka hape.</string>
+
+    <!-- Share -->
+    <string name="share_title">Romela ho TV</string>
+    <string name="share_no_link">Ha ho sehokelo ho seo o se arolelaneng.</string>
+    <string name="share_not_paired">Fono ena ha e so kopanngwe le TV.</string>
+    <string name="share_open_app">Bula rimoto</string>
+    <string name="share_waiting">E a hokela…</string>
+    <string name="share_cant_open">TV ena e ke ke ya bula dihokelo tsa %1$s</string>
+    <string name="action_close">Kwala</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Khiiboto</string>
+    <string name="keyboard_placeholder_waiting">Kgetha lebokose la mongolo ho TV</string>
+    <string name="keyboard_backspace">Backspace</string>
+    <string name="keyboard_clear">Hlakola</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">Ho se ho ena le tlhaku e %1$d ho TV</item>
+        <item quantity="other">Ho se ho ena le ditlhaku tse %1$d ho TV</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Tse ding</string>
+    <string name="more_menu">Disetting</string>
+    <string name="more_quick">Menyu e potlakileng</string>
+    <string name="more_quick_short">Menyu</string>
+    <string name="more_info">Info</string>
+    <string name="more_inputs">Dikenyo</string>
+    <string name="more_exit">Tswa</string>
+    <string name="more_channel_up">Tjhanele e latelang</string>
+    <string name="more_channel_down">Tjhanele e fetileng</string>
+    <string name="more_red">Kgubedu</string>
+    <string name="more_green">Tala</string>
+    <string name="more_yellow">Mosehla</string>
+    <string name="more_blue">Putswa</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Motlakase</string>
+    <string name="power_screen_off">Tima skrini</string>
+    <string name="power_off">Tima TV</string>
+    <string name="power_off_confirm">Tobetsa hape ho tima</string>
+    <string name="power_turn_off">Tima</string>
+    <string name="power_tap_again">Tobetsa hape</string>
+    <string name="switch_on">E bulehile</string>
+    <string name="switch_off">E timile</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Disetting</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Lebitso</string>
+    <string name="settings_host">Aterese</string>
+    <string name="settings_host_invalid">Kenya aterese ya IP kapa lebitso la host</string>
+    <string name="settings_mac">Aterese ya MAC (ho e bulela)</string>
+    <string name="settings_mac_invalid">Dipara tse tsheletseng tsa dinomoro tsa hex, jwalo ka 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Batla di-TV tse haufi</string>
+    <string name="settings_finding">E batla di-TV…</string>
+    <string name="settings_found_none">Ha ho TV e arabileng.</string>
+    <string name="settings_found_no_new">Ha ho di-TV tse ding tse fumanweng</string>
+    <string name="settings_in_use">E sebedisoa</string>
+    <string name="settings_add">Eketsa</string>
+    <string name="settings_forget_tv">Lebala %1$s</string>
+    <string name="settings_use_tv">Sebelisa TV ena</string>
+    <string name="settings_edit_tv">Fetola</string>
+    <string name="settings_remove_tv">Tlosa</string>
+    <string name="settings_remove_confirm">Tobetsa hape ho tlosa</string>
+    <string name="settings_move_up">Isa hodimo</string>
+    <string name="settings_move_down">Isa tlase</string>
+    <string name="settings_sensitivity">Kutlo</string>
+    <string name="settings_touchpad">Touchpad</string>
+    <string name="settings_phone">Fono</string>
+    <string name="settings_natural_scroll">Ho skrola ka tlhaho</string>
+    <string name="settings_scroll_strip">Moqolo wa ho skrola</string>
+    <string name="settings_hidden">Tse patilweng</string>
+    <string name="settings_show">Bontsha</string>
+    <string name="settings_theme">Sebopeho</string>
+    <string name="settings_theme_auto">Ka bowona</string>
+    <string name="settings_language">Puo</string>
+    <string name="settings_theme_system">Sistimi</string>
+    <string name="settings_theme_light">Kganya</string>
+    <string name="settings_theme_dark">Lefifi</string>
+    <string name="settings_scroll_strip_right">Letona</string>
+    <string name="settings_scroll_strip_left">Letshehadi</string>
+    <string name="settings_scroll_strip_off">E timile</string>
+    <string name="settings_search_engine">Patlo ya web</string>
+    <string name="settings_search">Patlo</string>
+    <string name="settings_find_titles">Lipapadi le livideo ha ho batla</string>
+    <string name="find_titles_ask">Ho di fumana, TennaRC e romela seo o se ngolang ho YouTube, JustWatch le Wikidata. O ka fetola sena ho Disetting.</string>
+    <string name="find_titles_not_now">Eseng hona jwale</string>
+    <string name="settings_volume_keys">Dikonopo tsa molumo</string>
+    <string name="settings_auto_keyboard">Khiiboto e itlhahang</string>
+    <string name="settings_haptics">Ho thothomela</string>
+    <string name="settings_keep_screen_on">Boloka skrini e bulehile</string>
+    <string name="settings_forget">Lebala kopanyo</string>
+    <string name="settings_forget_body">TV e tla botsa hape nakong e tlang</string>
+    <string name="settings_forget_confirm">Tobetsa hape ho lebala</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Ha e a hokelwa le TV</string>
+    <string name="notice_command_failed">TV ha e a araba seo</string>
+    <string name="notice_launch_failed">Ha e a kgona ho bula app eo</string>
+    <string name="notice_open_failed">TV ha e a kgona ho bula sehokelo</string>
+    <string name="notice_no_renderer">Sebapadi sa media sa TV ha se arabe. Na se bulehile?</string>
+    <string name="notice_cast_failed">TV ha e a kgona ho bapala sehokelo seo</string>
+    <string name="notice_wake_sent">Letshwao la ho bulela le romilwe</string>
+    <string name="notice_tv_moved">TV e fumanwe atereseng e ntjha</string>
+    <string name="notice_wake_failed">Ha e a kgona ho romela letshwao la ho bulela. Hlahloba aterese ya MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Kgokahano e diehang</string>
+    <string name="link_help_stalling">Wi-Fi ya TV e ntse e kgaoha nakwana.</string>
+    <string name="link_help_slow">Wi-Fi ya TV e fokola kapa e phathahane.</string>
+    <string name="link_fix_24_title">Hokela TV ho Wi-Fi ya 2.4 GHz</string>
+    <string name="link_fix_ethernet_title">Sebedisa kabole ya Ethernet</string>
+    <string name="link_fix_extender_title">Kenya sematlafatsi sa Wi-Fi bohareng</string>
+    <string name="link_fix_listen_title">Tima Listen Mode ho Screen Share</string>
+    <string name="link_fix_closer_title">Atametsa router haufi le TV</string>
+    <string name="link_fix_band_title">Leka band e nngwe ya Wi-Fi</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Rimoto ya TV</string>
+    <string name="notify_channel_body">Ho bapala, ho kgefutsa le molumo wa TV ha e bulehile</string>
+    <string name="notify_on_tv">Ho TV</string>
+    <string name="notify_close">Kwala</string>
+    <string name="settings_notification_controls">Ditaolo tsa media</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Ngola khoutu e bontshwang ho TV</string>
+    <string name="pair_code_title">Kenya khoutu e tswang ho TV</string>
+    <string name="pair_code_wrong">Khoutu eo ha e a lumellana. Leka e ntjha e ho TV.</string>
+    <string name="pair_code_label">Khoutu</string>
+    <string name="pair_code_submit">Kopanya</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">TV ya teko</string>
+    <string name="settings_demo_tv_body">Leka rimoto ntle le TV</string>
+    <string name="settings_demo_tv_listed">E eketsa TV ya maiketsetso ho di-TV tsa hao</string>
+    <string name="settings_help">Thuso</string>
+    <string name="settings_report">Tlaleha bothata</string>
+    <string name="settings_privacy">Leano la lekunutu</string>
+    <string name="settings_reset">Seta botjha disetting</string>
+    <string name="settings_reset_body">Di-TV tsa hao di tla dula di hokahane</string>
+    <string name="settings_reset_confirm">Tobetsa hape ho seta botjha</string>
+    <string name="offline_no_wifi_title">Ha ho Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku e amohela feela ditaelo tse itseng tse tswang difonong. Ho Advanced system settings, beha Control by mobile apps ho Enabled.</string>
+    <string name="notice_adb_off">Bulela ADB debugging ho Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">E timile</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Molumo</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Kopanya ho laola Ambilight</string>
+    <string name="ambilight_pin_hint">PIN ho TV</string>
+    <string name="ambilight_pin_wrong">PIN e fosahetse. Leka e ntjha</string>
+    <string name="search_opens_app">E bula %1$s</string>
+    <string name="voice_search">Batla ka lentswe</string>
+    <string name="voice_stop">Emisa ho mamela</string>
+    <string name="voice_listening">E mamela…</string>
+    <string name="voice_mic_off">Phihlello ya maekrofounu e timilwe</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC e kwalehile ka tshohanyetso</string>
+    <string name="crash_send">Romela</string>
+    <string name="crash_report_subject">Tlaleho ya phoso ya TennaRC %1$s</string>
+    <string name="crash_sent">Tlaleho e rometswe. Kea leboha</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Ho bapala, ho kgefutsa le molumo wa TV</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Bapala ho tswa fonong ena</string>
+    <string name="phone_mirror">Bontsha skrini</string>
+    <string name="phone_mirror_label">Bontsha skrini sa fono ena ho TV</string>
+    <string name="phone_gallery">Galeri</string>
+    <string name="phone_gallery_label">Bapala setshwantsho kapa video ho tswa fonong ena</string>
+    <string name="share_cant_play_file">TV ena e ke ke ya bapala difaele tse tswang fonong</string>
+    <string name="notice_cast_unsupported">TV e ke ke ya bontsha mofuta ona wa setshwantsho</string>
+    <string name="notice_not_on_tv_network">Hokela fono ho Wi-Fi ya TV ho bapala difaele tsa yona</string>
+    <string name="notice_file_unreadable">Ha e a kgona ho bala faele eo</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">E batla di-TV</string>
+    <string name="setup_choose">Khetha TV ya hao</string>
+    <string name="setup_none">Ha ho di-TV tse fumanweng</string>
+    <string name="setup_search_again">Batla hape</string>
+    <string name="setup_enter_ip">Kenya aterese ya IP</string>
+    <string name="setup_ip_label">Aterese ya IP</string>
+    <string name="setup_ip_none">Ha ho TV e arabileng moo</string>
+    <string name="setup_connect">Hokela</string>
+    <string name="setup_demo">Leka demo</string>
+    <string name="setup_code_wrong">Hlahloba khoutu ho TV</string>
+    <string name="setup_fire_tv_allow">Tshwaya Always allow, ebe OK</string>
+    <string name="setup_adb_title">Bulela ADB debugging</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Bulela Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Ho phethilwe</string>
+    <!-- Developer connection for ADB debugging -->
+    <string name="dev_link_title">Kgokahano ya bahlahisi</string>
+    <string name="dev_link_body">E bontsha dikenyo le diapp tsohle tsa TV, e fetola kenyo ho di-TV tse sa arabeng dikonopo tsa HDMI, mme e beha kganya ho tse ding. E sebetsa ka kgokahano ya debugging (ADB) ya TV. Dikonopo le ho ngola di sebetsa ka tsela e tshwanang ntle le yona.</string>
+    <string name="dev_link_step_developer">Ho TV, bula Settings › System › About mme o kgethe Android TV OS build makgetlo a supileng. Ho di-TV tsa kgale ke Device Preferences › About › Build.</string>
+    <string name="dev_link_step_debugging">Bula Developer options, haufi le About, mme o bulele USB debugging. Ho Shield ke Network debugging.</string>
+    <string name="dev_link_step_allow">Tobetsa Hokela, ebe ho TV o tshwaya Always allow mme o kgethe OK.</string>
+    <string name="dev_link_connect">Hokela</string>
+    <string name="dev_link_allow">Dumella ho TV</string>
+    <string name="dev_link_allow_body">Tshwaya Always allow from this computer, ebe OK</string>
+    <string name="dev_link_turn_off">Tima</string>
+    <string name="dev_link_off">E timile. E eketsa dikenyo le diapp tsohle</string>
+    <string name="dev_link_away">TV ha e arabe. App e leka hape ka bo yona ha rimoto e ntse e bulehile.</string>
+    <string name="dev_link_away_short">Ha e arabe</string>
+    <string name="dev_link_debugging_off">TV e hanne kgokahano. Hlahloba hore USB debugging e bulehile. Ho tloha Android TV 14 di-TV tse ding di amohela Wireless debugging feela, eo TennaRC e sa kgoneng ho e sebedisa hajwale.</string>
+    <string name="dev_link_debugging_off_short">Debugging e timile ho TV</string>
+    <string name="dev_link_wireless">Ke Wireless debugging feela e bulehileng, eo TennaRC e sa kgoneng ho e sebedisa hajwale. Bulela le USB debugging, kapa o kopanye hanngwe ho tswa khomputareng mme o tsamaise adb tcpip 5555, e tla sebetsa ho fihlela TV e qala botjha.</string>
+    <string name="dev_link_wireless_short">Ke Wireless debugging feela e bulehileng</string>
+    <string name="dev_link_not_allowed">Ha ho ya e dumelletseng ho TV. Leka hape, mme o kgethe OK moo.</string>
+    <string name="dev_link_not_allowed_short">Ha e a dumellwa ho TV</string>
+    <string name="dev_link_forgotten">TV e lebetse fono ena, jwalo ka ha Android TV e etsa ka sesebediswa seo e sa kang ya se bona beke. Leka hape, mme o e dumelle ho TV.</string>
+    <string name="dev_link_forgotten_short">TV e lebetse fono ena</string>
+</resources>

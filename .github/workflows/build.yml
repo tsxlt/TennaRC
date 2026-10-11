@@ -1,0 +1,115 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ !startsWith(github.ref, 'refs/tags/') }}
+
+env:
+  UPLOAD_CERT_SHA256: 8cc538cc5a9dadefeab708519b72f981c507e6595459cfe940ebd5eee53125a3
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: cachix/install-nix-action@v31
+
+      - uses: actions/cache@v6
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: gradle-${{ hashFiles('gradle/wrapper/gradle-wrapper.properties', 'gradle/libs.versions.toml', '**/*.gradle.kts') }}
+          restore-keys: gradle-
+
+      - name: Load the upload key
+        if: github.event_name != 'pull_request'
+        env:
+          UPLOAD_JKS: ${{ secrets.UPLOAD_JKS }}
+          UPLOAD_STORE_PASSWORD: ${{ secrets.UPLOAD_STORE_PASSWORD }}
+          UPLOAD_KEY_ALIAS: ${{ secrets.UPLOAD_KEY_ALIAS }}
+          UPLOAD_KEY_PASSWORD: ${{ secrets.UPLOAD_KEY_PASSWORD }}
+        run: |
+          test -n "$UPLOAD_JKS" && test -n "$UPLOAD_STORE_PASSWORD" && test -n "$UPLOAD_KEY_ALIAS" && test -n "$UPLOAD_KEY_PASSWORD"
+          key="$RUNNER_TEMP/upload"
+          mkdir -m 700 "$key"
+          printf '%s' "$UPLOAD_JKS" | base64 -d > "$key/upload.jks"
+          printf 'storeFile=%s\nstorePassword=%s\nkeyAlias=%s\nkeyPassword=%s\n' \
+            "$key/upload.jks" "$UPLOAD_STORE_PASSWORD" "$UPLOAD_KEY_ALIAS" "$UPLOAD_KEY_PASSWORD" > "$key/upload.properties"
+          echo "TENNA_UPLOAD_KEY=$key/upload.properties" >> "$GITHUB_ENV"
+
+      - name: Test
+        run: nix develop -c ./gradlew :app:testDebugUnitTest
+
+      - name: Build debug APK
+        if: github.event_name == 'pull_request'
+        run: |
+          nix develop -c ./gradlew :app:assembleDebug
+          mkdir out
+          cp app/build/outputs/apk/debug/app-debug.apk out/TennaRC-debug.apk
+
+      - name: Build release APK and bundle
+        if: github.event_name != 'pull_request'
+        run: |
+          nix develop -c ./gradlew :app:assembleRelease :app:bundleRelease
+          mkdir out
+          cp app/build/outputs/apk/release/app-release.apk out/TennaRC.apk
+          cp app/build/outputs/bundle/release/app-release.aab out/TennaRC.aab
+          cp app/build/outputs/mapping/release/mapping.txt out/TennaRC-mapping.txt
+          nix develop -c sh -c '"$ANDROID_HOME"/build-tools/*/apksigner verify --print-certs out/TennaRC.apk' | tee out/signer.txt
+          grep -q "SHA-256 digest: $UPLOAD_CERT_SHA256" out/signer.txt
+          nix develop -c keytool -printcert -jarfile out/TennaRC.aab | tr -d ' :\t' | tr '[:upper:]' '[:lower:]' | grep -q "sha256$UPLOAD_CERT_SHA256"
+          rm out/signer.txt
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: ${{ github.event_name == 'pull_request' && 'debug' || 'release' }}
+          path: out/
+
+      - uses: actions/upload-artifact@v7
+        if: failure()
+        with:
+          name: test-reports
+          path: app/build/reports/tests/
+
+  release:
+    needs: build
+    if: startsWith(github.ref, 'refs/tags/v')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - run: git fetch --force --tags
+
+      - uses: actions/download-artifact@v8
+        with:
+          name: release
+          path: out
+
+      - name: Publish the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$GITHUB_REF_NAME" > /dev/null 2>&1; then
+            gh release upload "$GITHUB_REF_NAME" --clobber out/TennaRC.apk out/TennaRC.aab out/TennaRC-mapping.txt
+          else
+            gh release create "$GITHUB_REF_NAME" --verify-tag --notes-from-tag --title "TennaRC ${GITHUB_REF_NAME#v}" out/TennaRC.apk out/TennaRC.aab out/TennaRC-mapping.txt
+          fi

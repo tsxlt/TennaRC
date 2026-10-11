@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The widget's colours by night; see values/widget.xml. -->
+    <color name="widget_surface">#15171B</color>
+    <color name="widget_ink">#EDEEF0</color>
+    <color name="widget_ink_dim">#9BA1AB</color>
+    <color name="widget_key">#24282E</color>
+    <color name="widget_on_key">#EDEEF0</color>
+    <color name="widget_dot">#FF8A4C</color>
+    <color name="widget_rim">#12FFFFFF</color>
+    <color name="widget_hairline">#1FFFFFFF</color>
+</resources>

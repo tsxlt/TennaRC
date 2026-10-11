@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Pošalji na televizor</string>
+    <string name="tile_label">Daljinski za TV</string>
+    <string name="shortcut_link">Pretraži</string>
+    <string name="shortcut_keyboard">Tipkaj na televizoru</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Spojeno</string>
+    <string name="status_connecting">Spajanje…</string>
+    <string name="status_awaiting">Prihvati na televizoru</string>
+    <string name="status_offline">Televizor je vjerojatno isključen</string>
+    <string name="status_not_paired">Još nije upareno</string>
+    <string name="status_standby">U stanju pripravnosti</string>
+    <string name="status_screen_off">Zaslon isključen, zvuk uključen</string>
+    <string name="standby_title">Televizor je isključen</string>
+    <string name="action_turn_on">Uključi</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Upari s televizorom</string>
+    <string name="pair_body">Prihvati na televizoru kad te pita.</string>
+    <string name="pair_declined_body">Televizor je odbio. Ovaj put prihvati zahtjev.</string>
+    <string name="pair_action">Upari</string>
+    <string name="pair_timeout_body">Televizor nije odgovorio.</string>
+    <string name="pair_forgotten_body">Televizor je zaboravio ovaj telefon.</string>
+    <string name="approval_title">Prihvati na televizoru</string>
+    <string name="connecting_title">Spajanje…</string>
+    <string name="offline_title">Televizor je vjerojatno isključen</string>
+    <string name="action_retry">Pokušaj ponovno</string>
+    <string name="action_cancel">Otkaži</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Pretraži</string>
+    <string name="touchpad_label">Dodirna pločica. Povuci za pomicanje pokazivača, dodirni za klik, povuci s dva prsta za pomicanje sadržaja.</string>
+    <string name="dpad_label">Tipke za smjer</string>
+    <string name="key_up">Gore</string>
+    <string name="key_down">Dolje</string>
+    <string name="key_left">Lijevo</string>
+    <string name="key_right">Desno</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Natrag</string>
+    <string name="key_home">Početna</string>
+    <string name="key_keyboard">Tipkovnica</string>
+    <string name="key_touchpad">Dodirna pločica</string>
+    <string name="key_dpad">Strelice</string>
+    <string name="key_more">Više</string>
+    <string name="key_rewind">Premotaj unatrag</string>
+    <string name="key_play">Reproduciraj</string>
+    <string name="key_pause">Pauziraj</string>
+    <string name="key_fast_forward">Premotaj naprijed</string>
+    <string name="key_stop">Zaustavi</string>
+    <string name="key_volume_up">Pojačaj zvuk</string>
+    <string name="key_volume_down">Stišaj zvuk</string>
+    <string name="key_mute">Isključi zvuk</string>
+    <string name="key_unmute">Uključi zvuk</string>
+    <string name="volume_value">Glasnoća %1$d</string>
+    <string name="volume_unknown">Glasnoća, nepoznata razina</string>
+    <string name="volume_muted">Zvuk isključen</string>
+    <string name="power">Napajanje</string>
+    <string name="settings">Postavke</string>
+    <string name="all_apps">Sve aplikacije</string>
+    <string name="inputs">Ulazi</string>
+    <string name="picture_title">Slika</string>
+    <string name="picture_standard">Standardno</string>
+    <string name="picture_vivid">Živopisno</string>
+    <string name="picture_cinema">Kino</string>
+    <string name="picture_game">Igra</string>
+    <string name="picture_sports">Sport</string>
+    <string name="picture_eco">Eko</string>
+    <string name="picture_expert">Stručni</string>
+    <string name="picture_backlight">Svjetlina</string>
+    <string name="sound_title">Zvuk</string>
+    <string name="sound_tv">Zvučnici televizora</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optički</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Slušalice</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Zvučnici</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Linijski izlaz</string>
+    <string name="more_subtitles">Titlovi</string>
+    <string name="more_audio_track">Audio</string>
+    <string name="sleep_title">Timer za isključivanje</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Isključuje se u %1$s</string>
+    <string name="sleep_cancel">Otkaži timer</string>
+    <string name="app_on_screen">%1$s, sada na zaslonu</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Pokreće se na televizoru…</string>
+    <string name="cast_playing">Reproducira se na televizoru</string>
+    <string name="cast_paused">Pauzirano</string>
+    <string name="cast_stalled">Reprodukcija je zapela. Radi li poslužitelj videozapisa još?</string>
+    <string name="cast_play">Nastavi</string>
+    <string name="cast_pause">Pauziraj</string>
+    <string name="cast_stop">Zaustavi reprodukciju na televizoru</string>
+    <string name="cast_position">Pozicija reprodukcije</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Zatvori pretragu</string>
+    <string name="tv_picker">Televizori, sada %1$s</string>
+    <string name="tv_picker_add_short">Dodaj</string>
+    <string name="hold_hide">Sakrij</string>
+    <string name="hold_rename">Preimenuj</string>
+    <string name="rename_input">Preimenuj ulaz</string>
+    <string name="rename_save">Spremi</string>
+    <string name="rename_reset">Koristi naziv s televizora</string>
+    <string name="more_channel_list">Popis</string>
+    <string name="more_guide">Vodič</string>
+    <string name="input_label">%1$s, ulaz</string>
+    <string name="channel_label">%2$s, kanal %1$s</string>
+    <string name="on_screen_now">Sada na zaslonu</string>
+    <string name="deck_expanded">Prošireno</string>
+    <string name="deck_collapsed">Skupljeno</string>
+    <string name="channel_hidden">Skriveno: %1$s</string>
+    <string name="action_undo">Poništi</string>
+    <string name="offline_switch">Koristi %1$s</string>
+    <string name="search_picks">Popularno</string>
+    <string name="search_clear">Očisti</string>
+    <string name="search_fill">Stavi u polje za pretraživanje</string>
+    <string name="search_type_on_tv">Tipkaj na televizoru</string>
+    <string name="search_in_app">Pretraži u %1$s</string>
+    <string name="search_web">Pretraži putem %1$s</string>
+    <string name="link_paste">Zalijepi</string>
+    <string name="link_recent">Nedavno</string>
+    <string name="link_clear_recent">Očisti</string>
+    <string name="link_kind_youtube">Videozapis s YouTubea</string>
+    <string name="link_kind_video">Videodatoteka</string>
+    <string name="link_kind_audio">Audiodatoteka</string>
+    <string name="link_kind_image">Slika</string>
+    <string name="link_kind_web">Web-stranica</string>
+    <string name="link_action_app">Otvori u %1$s</string>
+    <string name="link_action_media">Reproduciraj na televizoru</string>
+    <string name="link_action_browser">Otvori u pregledniku televizora</string>
+    <string name="link_sending">Slanje…</string>
+    <string name="link_sent">Otvoreno na televizoru</string>
+    <string name="link_failed">Televizor to nije otvorio. Pokušaj ponovno.</string>
+
+    <!-- Share -->
+    <string name="share_title">Pošalji na televizor</string>
+    <string name="share_no_link">U podijeljenom sadržaju nema poveznice.</string>
+    <string name="share_not_paired">Ovaj telefon još nije uparen s televizorom.</string>
+    <string name="share_open_app">Otvori daljinski</string>
+    <string name="share_waiting">Spajanje…</string>
+    <string name="share_cant_open">Ovaj televizor ne može otvoriti poveznice %1$s</string>
+    <string name="action_close">Zatvori</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Tipkovnica</string>
+    <string name="keyboard_placeholder_waiting">Odaberi tekstno polje na televizoru</string>
+    <string name="keyboard_backspace">Brisanje</string>
+    <string name="keyboard_clear">Očisti</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d znak već je na televizoru</item>
+        <item quantity="few">%1$d znaka već su na televizoru</item>
+        <item quantity="other">%1$d znakova već je na televizoru</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Više</string>
+    <string name="more_menu">Postavke</string>
+    <string name="more_quick">Brzi izbornik</string>
+    <string name="more_quick_short">Izbornik</string>
+    <string name="more_info">Info</string>
+    <string name="more_inputs">Ulazi</string>
+    <string name="more_exit">Izlaz</string>
+    <string name="more_channel_up">Sljedeći kanal</string>
+    <string name="more_channel_down">Prethodni kanal</string>
+    <string name="more_red">Crveno</string>
+    <string name="more_green">Zeleno</string>
+    <string name="more_yellow">Žuto</string>
+    <string name="more_blue">Plavo</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Napajanje</string>
+    <string name="power_screen_off">Isključi zaslon</string>
+    <string name="power_off">Isključi televizor</string>
+    <string name="power_off_confirm">Dodirni ponovno za isključivanje</string>
+    <string name="power_turn_off">Isključi</string>
+    <string name="power_tap_again">Dodirni ponovno</string>
+    <string name="switch_on">Uključeno</string>
+    <string name="switch_off">Isključeno</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Postavke</string>
+    <string name="settings_tv">Televizor</string>
+    <string name="settings_name">Naziv</string>
+    <string name="settings_host">Adresa</string>
+    <string name="settings_host_invalid">Unesi IP adresu ili naziv hosta</string>
+    <string name="settings_mac">MAC adresa (za uključivanje)</string>
+    <string name="settings_mac_invalid">Šest parova heksadecimalnih znamenki, poput 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Pronađi televizore u blizini</string>
+    <string name="settings_finding">Tražim televizore…</string>
+    <string name="settings_found_none">Nijedan televizor nije odgovorio.</string>
+    <string name="settings_found_no_new">Nisu pronađeni drugi televizori</string>
+    <string name="settings_in_use">U upotrebi</string>
+    <string name="settings_add">Dodaj</string>
+    <string name="settings_forget_tv">Zaboravi %1$s</string>
+    <string name="settings_use_tv">Koristi ovaj televizor</string>
+    <string name="settings_remove_tv">Ukloni</string>
+    <string name="settings_remove_confirm">Dodirni ponovno za uklanjanje</string>
+    <string name="settings_move_up">Pomakni gore</string>
+    <string name="settings_move_down">Pomakni dolje</string>
+    <string name="settings_sensitivity">Osjetljivost</string>
+    <string name="settings_touchpad">Dodirna pločica</string>
+    <string name="settings_phone">Telefon</string>
+    <string name="settings_natural_scroll">Prirodno pomicanje</string>
+    <string name="settings_scroll_strip">Traka za pomicanje</string>
+    <string name="settings_hidden">Skriveno</string>
+    <string name="settings_show">Prikaži</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_auto">Automatski</string>
+    <string name="settings_language">Jezik</string>
+    <string name="settings_theme_system">Sustav</string>
+    <string name="settings_theme_light">Svijetla</string>
+    <string name="settings_theme_dark">Tamna</string>
+    <string name="settings_scroll_strip_right">Desno</string>
+    <string name="settings_scroll_strip_left">Lijevo</string>
+    <string name="settings_scroll_strip_off">Isključeno</string>
+    <string name="settings_search_engine">Web tražilica</string>
+    <string name="settings_search">Pretraživanje</string>
+    <string name="settings_find_titles">Pretraži filmove i videozapise</string>
+    <string name="find_titles_ask">Da bi ih pronašao, TennaRC šalje ono što upišeš na YouTube, JustWatch i Wikidata. To možeš promijeniti u Postavkama.</string>
+    <string name="find_titles_not_now">Ne sada</string>
+    <string name="settings_volume_keys">Gumbi za glasnoću</string>
+    <string name="settings_auto_keyboard">Automatska tipkovnica</string>
+    <string name="settings_haptics">Vibracija</string>
+    <string name="settings_keep_screen_on">Ne isključuj zaslon</string>
+    <string name="settings_forget">Zaboravi uparivanje</string>
+    <string name="settings_forget_body">Televizor će sljedeći put ponovno pitati</string>
+    <string name="settings_forget_confirm">Dodirni ponovno za zaboravljanje</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Nema veze s televizorom</string>
+    <string name="notice_command_failed">Televizor nije reagirao na naredbu</string>
+    <string name="notice_launch_failed">Aplikacija se nije mogla otvoriti</string>
+    <string name="notice_open_failed">Televizor nije mogao otvoriti poveznicu</string>
+    <string name="notice_no_renderer">Medijski reproduktor televizora ne odgovara. Je li uključen?</string>
+    <string name="notice_cast_failed">Televizor nije mogao reproducirati poveznicu</string>
+    <string name="notice_wake_sent">Signal za buđenje je poslan</string>
+    <string name="notice_tv_moved">Televizor je pronađen na novoj adresi</string>
+    <string name="notice_wake_failed">Signal za buđenje nije poslan. Provjeri MAC adresu.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Spora veza</string>
+    <string name="link_help_stalling">Wi-Fi veza televizora stalno se na trenutak prekida.</string>
+    <string name="link_help_slow">Wi-Fi veza televizora je slaba ili opterećena.</string>
+    <string name="link_fix_24_title">Spoji televizor na Wi-Fi od 2,4 GHz</string>
+    <string name="link_fix_ethernet_title">Koristi Ethernet kabel</string>
+    <string name="link_fix_extender_title">Postavi Wi-Fi pojačivač na pola puta</string>
+    <string name="link_fix_listen_title">Isključi Listen Mode u Screen Shareu</string>
+    <string name="link_fix_closer_title">Približi router televizoru</string>
+    <string name="link_fix_band_title">Pokušaj drugi Wi-Fi pojas</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Daljinski za TV</string>
+    <string name="notify_channel_body">Reprodukcija, pauza i zvuk dok je televizor uključen</string>
+    <string name="notify_on_tv">Na televizoru</string>
+    <string name="notify_close">Zatvori</string>
+    <string name="settings_notification_controls">Upravljanje medijima</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Upiši kod prikazan na televizoru</string>
+    <string name="pair_code_title">Unesi kod s televizora</string>
+    <string name="pair_code_wrong">Kod se ne podudara. Unesi novi kod s televizora.</string>
+    <string name="pair_code_label">Kod</string>
+    <string name="pair_code_submit">Upari</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Demo TV</string>
+    <string name="settings_demo_tv_body">Isprobaj daljinski bez televizora</string>
+    <string name="settings_demo_tv_listed">Dodaje izmišljeni televizor na popis</string>
+    <string name="settings_help">Pomoć</string>
+    <string name="settings_report">Prijavi problem</string>
+    <string name="settings_privacy">Pravila o privatnosti</string>
+    <string name="settings_reset">Vrati postavke na zadano</string>
+    <string name="settings_reset_body">Televizori ostaju upareni</string>
+    <string name="settings_reset_confirm">Dodirni ponovno za vraćanje</string>
+    <string name="offline_no_wifi_title">Bez Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku prima samo neke naredbe s telefona. U Advanced system settings postavi Control by mobile apps na Enabled.</string>
+    <string name="notice_adb_off">Uključi ADB otklanjanje pogrešaka na Fire TV-u: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Isključeno</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Zvuk</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Upari za upravljanje Ambilightom</string>
+    <string name="ambilight_pin_hint">PIN na televizoru</string>
+    <string name="ambilight_pin_wrong">Pogrešan PIN. Pokušaj novi</string>
+    <string name="search_opens_app">Otvara %1$s</string>
+    <string name="voice_search">Glasovna pretraga</string>
+    <string name="voice_stop">Prestani slušati</string>
+    <string name="voice_listening">Slušam…</string>
+    <string name="voice_mic_off">Pristup mikrofonu je isključen</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">Aplikacija TennaRC neočekivano se zatvorila</string>
+    <string name="crash_send">Pošalji</string>
+    <string name="crash_report_subject">Izvješće o rušenju TennaRC %1$s</string>
+    <string name="crash_sent">Izvješće je poslano. Hvala</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Reprodukcija, pauza i zvuk za televizor</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Reproduciraj s ovog telefona</string>
+    <string name="phone_mirror">Zrcali</string>
+    <string name="phone_mirror_label">Zrcali zaslon ovog telefona</string>
+    <string name="phone_gallery">Galerija</string>
+    <string name="phone_gallery_label">Prikaži fotografiju ili videozapis s ovog telefona</string>
+    <string name="share_cant_play_file">Ovaj televizor ne može reproducirati datoteke s telefona</string>
+    <string name="notice_cast_unsupported">Televizor ne može prikazati ovu vrstu slike</string>
+    <string name="notice_not_on_tv_network">Spoji telefon na istu Wi-Fi mrežu kao televizor za reprodukciju datoteka s telefona</string>
+    <string name="notice_file_unreadable">Datoteka se nije mogla pročitati</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Tražim televizore</string>
+    <string name="setup_choose">Odaberi svoj televizor</string>
+    <string name="setup_none">Nije pronađen nijedan televizor</string>
+    <string name="setup_search_again">Traži ponovno</string>
+    <string name="setup_enter_ip">Unesi IP adresu</string>
+    <string name="setup_ip_label">IP adresa</string>
+    <string name="setup_ip_none">Na toj adresi nije odgovorio nijedan televizor</string>
+    <string name="setup_connect">Spoji</string>
+    <string name="setup_demo">Isprobaj demo</string>
+    <string name="setup_code_wrong">Provjeri kod na televizoru</string>
+    <string name="setup_fire_tv_allow">Označi Always allow, zatim OK</string>
+    <string name="setup_adb_title">Uključi ADB otklanjanje pogrešaka</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Uključi Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Gotovo</string>
+    <string name="settings_edit_tv">Uredi</string>
+    <string name="dev_link_title">Veza za razvojne programere</string>
+    <string name="dev_link_body">Prikazuje vlastite ulaze televizora i sve njegove aplikacije, mijenja ulaz na televizorima koji ne reagiraju na tipke HDMI, a na nekima podešava i svjetlinu. Radi preko veze za otklanjanje pogrešaka na televizoru (ADB). Tipke i tipkanje rade jednako i bez nje.</string>
+    <string name="dev_link_step_developer">Na televizoru otvori Postavke › Sustav › O uređaju i sedam puta odaberi Međuverzija OS-a Android TV. Na starijim televizorima to je Postavke uređaja › O uređaju › Međuverzija.</string>
+    <string name="dev_link_step_debugging">Otvori Opcije za razvojne programere pokraj O uređaju i uključi Otklanjanje pogrešaka putem USB-a. Na Shieldu je to Mrežno otklanjanje pogrešaka.</string>
+    <string name="dev_link_step_allow">Dodirni Poveži, zatim na televizoru označi Uvijek dopusti i odaberi U redu.</string>
+    <string name="dev_link_connect">Poveži</string>
+    <string name="dev_link_allow">Dopusti na televizoru</string>
+    <string name="dev_link_allow_body">Označi Uvijek dopusti s ovog računala, zatim U redu</string>
+    <string name="dev_link_turn_off">Isključi</string>
+    <string name="dev_link_off">Isključeno. Dodaje ulaze i sve aplikacije</string>
+    <string name="dev_link_away">Televizor ne odgovara. Veza sama pokušava ponovno dok je daljinski otvoren.</string>
+    <string name="dev_link_away_short">Ne odgovara</string>
+    <string name="dev_link_debugging_off">Televizor je odbio vezu. Provjeri je li uključeno Otklanjanje pogrešaka putem USB-a. Od Android TV-a 14 neki televizori prihvaćaju samo Bežično otklanjanje pogrešaka, koje TennaRC još ne podržava.</string>
+    <string name="dev_link_debugging_off_short">Otklanjanje pogrešaka je isključeno</string>
+    <string name="dev_link_wireless">Uključeno je samo Bežično otklanjanje pogrešaka, koje TennaRC još ne podržava. Uključi i Otklanjanje pogrešaka putem USB-a ili jednom upari s računala i pokreni adb tcpip 5555, što vrijedi do ponovnog pokretanja televizora.</string>
+    <string name="dev_link_wireless_short">Uključeno je samo bežično otklanjanje</string>
+    <string name="dev_link_not_allowed">Nitko to nije dopustio na televizoru. Pokušaj ponovno i ondje odaberi U redu.</string>
+    <string name="dev_link_not_allowed_short">Nije dopušteno na televizoru</string>
+    <string name="dev_link_forgotten">Televizor je zaboravio ovaj telefon, kao što Android TV čini s telefonom koji nije vidio tjedan dana. Pokušaj ponovno i dopusti vezu na televizoru.</string>
+    <string name="dev_link_forgotten_short">Televizor je zaboravio ovaj telefon</string>
+</resources>

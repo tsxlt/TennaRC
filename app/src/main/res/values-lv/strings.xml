@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Sūtīt uz TV</string>
+    <string name="tile_label">TV pults</string>
+    <string name="shortcut_link">Meklēt</string>
+    <string name="shortcut_keyboard">Rakstīt televizorā</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Savienots</string>
+    <string name="status_connecting">Savienojas…</string>
+    <string name="status_awaiting">Apstipriniet televizorā</string>
+    <string name="status_offline">Televizors, šķiet, izslēgts</string>
+    <string name="status_not_paired">Vēl nav savienots pārī</string>
+    <string name="status_standby">Gaidstāvē</string>
+    <string name="status_screen_off">Ekrāns izslēgts, skaņa ieslēgta</string>
+    <string name="standby_title">Televizors ir izslēgts</string>
+    <string name="action_turn_on">Ieslēgt</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Savienot pārī ar televizoru</string>
+    <string name="pair_body">Apstipriniet televizorā, kad tas jautā.</string>
+    <string name="pair_declined_body">Televizors atteica. Šoreiz izvēlieties Apstiprināt.</string>
+    <string name="pair_action">Savienot pārī</string>
+    <string name="pair_timeout_body">Televizors neatbildēja.</string>
+    <string name="pair_forgotten_body">Televizors aizmirsa šo tālruni.</string>
+    <string name="approval_title">Apstipriniet televizorā</string>
+    <string name="connecting_title">Savienojas…</string>
+    <string name="offline_title">Televizors, šķiet, izslēgts</string>
+    <string name="action_retry">Mēģināt vēlreiz</string>
+    <string name="action_cancel">Atcelt</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Meklēt</string>
+    <string name="touchpad_label">Skārienpaliktnis. Velciet, lai pārvietotu rādītāju, pieskarieties, lai noklikšķinātu, un velciet ar diviem pirkstiem, lai ritinātu.</string>
+    <string name="dpad_label">Virziena pogas</string>
+    <string name="key_up">Uz augšu</string>
+    <string name="key_down">Uz leju</string>
+    <string name="key_left">Pa kreisi</string>
+    <string name="key_right">Pa labi</string>
+    <string name="key_ok">Labi</string>
+    <string name="key_back">Atpakaļ</string>
+    <string name="key_home">Sākums</string>
+    <string name="key_keyboard">Tastatūra</string>
+    <string name="key_touchpad">Skārienpaliktnis</string>
+    <string name="key_dpad">Bultiņas</string>
+    <string name="key_more">Vēl</string>
+    <string name="key_rewind">Attīt atpakaļ</string>
+    <string name="key_play">Atskaņot</string>
+    <string name="key_pause">Pauzēt</string>
+    <string name="key_fast_forward">Patīt uz priekšu</string>
+    <string name="key_stop">Apturēt</string>
+    <string name="key_volume_up">Skaļāk</string>
+    <string name="key_volume_down">Klusāk</string>
+    <string name="key_mute">Izslēgt skaņu</string>
+    <string name="key_unmute">Ieslēgt skaņu</string>
+    <string name="volume_value">Skaļums %1$d</string>
+    <string name="volume_unknown">Skaļums, līmenis nav zināms</string>
+    <string name="volume_muted">Skaņa izslēgta</string>
+    <string name="power">Barošana</string>
+    <string name="settings">Iestatījumi</string>
+    <string name="all_apps">Visas lietotnes</string>
+    <string name="inputs">Ieejas</string>
+    <string name="picture_title">Attēls</string>
+    <string name="picture_standard">Standarta</string>
+    <string name="picture_vivid">Spilgts</string>
+    <string name="picture_cinema">Kino</string>
+    <string name="picture_game">Spēle</string>
+    <string name="picture_sports">Sports</string>
+    <string name="picture_eco">Eko</string>
+    <string name="picture_expert">Eksperts</string>
+    <string name="picture_backlight">Spilgtums</string>
+    <string name="sound_title">Skaņa</string>
+    <string name="sound_tv">TV skaļruņi</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optiskais</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Austiņas</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Skaļruņi</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Līnijas izeja</string>
+    <string name="more_subtitles">Subtitri</string>
+    <string name="more_audio_track">Audio</string>
+    <string name="sleep_title">Miega taimeris</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Izslēgsies %1$s</string>
+    <string name="sleep_cancel">Atcelt taimeri</string>
+    <string name="app_on_screen">%1$s, tagad ekrānā</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Palaiž televizorā…</string>
+    <string name="cast_playing">Atskaņo televizorā</string>
+    <string name="cast_paused">Pauzēts</string>
+    <string name="cast_stalled">Atskaņošana apstājusies. Vai video serveris vēl darbojas?</string>
+    <string name="cast_play">Turpināt</string>
+    <string name="cast_pause">Pauzēt</string>
+    <string name="cast_stop">Apturēt atskaņošanu televizorā</string>
+    <string name="cast_position">Atskaņošanas pozīcija</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Aizvērt meklēšanu</string>
+    <string name="tv_picker">Televizori, tagad %1$s</string>
+    <string name="tv_picker_add_short">Pievienot</string>
+    <string name="hold_hide">Paslēpt</string>
+    <string name="hold_rename">Pārdēvēt</string>
+    <string name="rename_input">Pārdēvēt ieeju</string>
+    <string name="rename_save">Saglabāt</string>
+    <string name="rename_reset">Izmantot televizora nosaukumu</string>
+    <string name="more_channel_list">Saraksts</string>
+    <string name="more_guide">Gids</string>
+    <string name="input_label">%1$s, ieeja</string>
+    <string name="channel_label">%2$s, kanāls %1$s</string>
+    <string name="on_screen_now">Tagad ekrānā</string>
+    <string name="deck_expanded">Paplašināts</string>
+    <string name="deck_collapsed">Sakļauts</string>
+    <string name="channel_hidden">%1$s paslēpts</string>
+    <string name="action_undo">Atsaukt</string>
+    <string name="offline_switch">Izmantot %1$s</string>
+    <string name="search_picks">Šobrīd populāri</string>
+    <string name="search_clear">Notīrīt</string>
+    <string name="search_fill">Ievietot meklēšanas lodziņā</string>
+    <string name="search_type_on_tv">Rakstīt televizorā</string>
+    <string name="search_in_app">Meklēt lietotnē %1$s</string>
+    <string name="search_web">Meklēt ar %1$s</string>
+    <string name="link_paste">Ielīmēt</string>
+    <string name="link_recent">Nesenie</string>
+    <string name="link_clear_recent">Notīrīt</string>
+    <string name="link_kind_youtube">YouTube video</string>
+    <string name="link_kind_video">Video fails</string>
+    <string name="link_kind_audio">Audio fails</string>
+    <string name="link_kind_image">Attēls</string>
+    <string name="link_kind_web">Tīmekļa lapa</string>
+    <string name="link_action_app">Atvērt lietotnē %1$s</string>
+    <string name="link_action_media">Atskaņot televizorā</string>
+    <string name="link_action_browser">Atvērt televizora pārlūkā</string>
+    <string name="link_sending">Sūta…</string>
+    <string name="link_sent">Atvērts televizorā</string>
+    <string name="link_failed">Televizors to neatvēra. Mēģiniet vēlreiz.</string>
+
+    <!-- Share -->
+    <string name="share_title">Sūtīt uz TV</string>
+    <string name="share_no_link">Kopīgotajā saturā nav saites.</string>
+    <string name="share_not_paired">Šis tālrunis vēl nav savienots pārī ar televizoru.</string>
+    <string name="share_open_app">Atvērt pulti</string>
+    <string name="share_waiting">Savienojas…</string>
+    <string name="share_cant_open">Šis televizors nevar atvērt %1$s saites</string>
+    <string name="action_close">Aizvērt</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Tastatūra</string>
+    <string name="keyboard_placeholder_waiting">Atlasiet teksta lauku televizorā</string>
+    <string name="keyboard_backspace">Dzēst</string>
+    <string name="keyboard_clear">Notīrīt</string>
+    <string name="keyboard_enter">Ievadīt</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="zero">%1$d rakstzīmes jau televizorā</item>
+        <item quantity="one">%1$d rakstzīme jau televizorā</item>
+        <item quantity="other">%1$d rakstzīmes jau televizorā</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Vēl</string>
+    <string name="more_menu">Iestatījumi</string>
+    <string name="more_quick">Ātrā izvēlne</string>
+    <string name="more_quick_short">Izvēlne</string>
+    <string name="more_info">Informācija</string>
+    <string name="more_inputs">Ieejas</string>
+    <string name="more_exit">Iziet</string>
+    <string name="more_channel_up">Nākamais kanāls</string>
+    <string name="more_channel_down">Iepriekšējais kanāls</string>
+    <string name="more_red">Sarkans</string>
+    <string name="more_green">Zaļš</string>
+    <string name="more_yellow">Dzeltens</string>
+    <string name="more_blue">Zils</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Barošana</string>
+    <string name="power_screen_off">Izslēgt ekrānu</string>
+    <string name="power_off">Izslēgt televizoru</string>
+    <string name="power_off_confirm">Pieskarieties vēlreiz, lai izslēgtu</string>
+    <string name="power_turn_off">Izslēgt</string>
+    <string name="power_tap_again">Pieskarieties vēlreiz</string>
+    <string name="switch_on">Ieslēgts</string>
+    <string name="switch_off">Izslēgts</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Iestatījumi</string>
+    <string name="settings_tv">Televizors</string>
+    <string name="settings_name">Nosaukums</string>
+    <string name="settings_host">Adrese</string>
+    <string name="settings_host_invalid">Ievadiet IP adresi vai resursdatora nosaukumu</string>
+    <string name="settings_mac">MAC adrese (ieslēgšanai)</string>
+    <string name="settings_mac_invalid">Seši heksadecimālo ciparu pāri, piemēram, 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Atrast tuvumā esošus televizorus</string>
+    <string name="settings_finding">Meklē televizorus…</string>
+    <string name="settings_found_none">Neviens televizors neatbildēja.</string>
+    <string name="settings_found_no_new">Citi televizori nav atrasti</string>
+    <string name="settings_in_use">Lietošanā</string>
+    <string name="settings_add">Pievienot</string>
+    <string name="settings_forget_tv">Aizmirst %1$s</string>
+    <string name="settings_use_tv">Izmantot šo televizoru</string>
+    <string name="settings_remove_tv">Noņemt</string>
+    <string name="settings_remove_confirm">Pieskarieties vēlreiz, lai noņemtu</string>
+    <string name="settings_move_up">Pārvietot uz augšu</string>
+    <string name="settings_move_down">Pārvietot uz leju</string>
+    <string name="settings_sensitivity">Jutīgums</string>
+    <string name="settings_touchpad">Skārienpaliktnis</string>
+    <string name="settings_phone">Tālrunis</string>
+    <string name="settings_natural_scroll">Dabiskā ritināšana</string>
+    <string name="settings_scroll_strip">Ritināšanas josla</string>
+    <string name="settings_hidden">Paslēptie</string>
+    <string name="settings_show">Rādīt</string>
+    <string name="settings_theme">Motīvs</string>
+    <string name="settings_theme_auto">Automātiski</string>
+    <string name="settings_language">Valoda</string>
+    <string name="settings_theme_system">Sistēmas</string>
+    <string name="settings_theme_light">Gaišs</string>
+    <string name="settings_theme_dark">Tumšs</string>
+    <string name="settings_scroll_strip_right">Pa labi</string>
+    <string name="settings_scroll_strip_left">Pa kreisi</string>
+    <string name="settings_scroll_strip_off">Izslēgta</string>
+    <string name="settings_search_engine">Tīmekļa meklēšana</string>
+    <string name="settings_search">Meklēt</string>
+    
+    <string name="settings_volume_keys">Skaļuma pogas</string>
+    <string name="settings_auto_keyboard">Automātiskā tastatūra</string>
+    <string name="settings_haptics">Vibrācija</string>
+    <string name="settings_keep_screen_on">Neizslēgt ekrānu</string>
+    <string name="settings_forget">Aizmirst savienošanu pārī</string>
+    <string name="settings_forget_body">Nākamreiz televizors jautās vēlreiz</string>
+    <string name="settings_forget_confirm">Pieskarieties vēlreiz, lai aizmirstu</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Nav savienojuma ar televizoru</string>
+    <string name="notice_command_failed">Televizors nereaģēja uz komandu</string>
+    <string name="notice_launch_failed">Nevarēja atvērt šo lietotni</string>
+    <string name="notice_open_failed">Televizors nevarēja atvērt saiti</string>
+    <string name="notice_no_renderer">Televizora multivides atskaņotājs neatbild. Vai tas ir ieslēgts?</string>
+    <string name="notice_cast_failed">Televizors nevarēja atskaņot šo saiti</string>
+    <string name="notice_wake_sent">Ieslēgšanas signāls nosūtīts</string>
+    <string name="notice_tv_moved">Televizors atrasts jaunā adresē</string>
+    <string name="notice_wake_failed">Nevarēja nosūtīt ieslēgšanas signālu. Pārbaudiet MAC adresi.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Lēns savienojums</string>
+    <string name="link_help_stalling">Televizora Wi-Fi savienojums ik pa brīdim pārtrūkst.</string>
+    <string name="link_help_slow">Televizora Wi-Fi signāls ir vājš vai tīkls ir noslogots.</string>
+    <string name="link_fix_24_title">Pievienojiet televizoru 2,4 GHz Wi-Fi tīklam</string>
+    <string name="link_fix_ethernet_title">Izmantojiet Ethernet kabeli</string>
+    <string name="link_fix_extender_title">Uzstādiet Wi-Fi retranslatoru pusceļā</string>
+    <string name="link_fix_listen_title">Izslēdziet Listen Mode lietotnē Screen Share</string>
+    <string name="link_fix_closer_title">Pārvietojiet maršrutētāju tuvāk televizoram</string>
+    <string name="link_fix_band_title">Izmēģiniet otru Wi-Fi joslu</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">TV pults</string>
+    <string name="notify_channel_body">Atskaņošana, pauze un skaļums, kamēr televizors ir ieslēgts</string>
+    <string name="notify_on_tv">Televizorā</string>
+    <string name="notify_close">Aizvērt</string>
+    <string name="settings_notification_controls">Multivides vadīklas</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Ievadiet televizorā redzamo kodu</string>
+    <string name="pair_code_title">Ievadiet kodu no televizora</string>
+    <string name="pair_code_wrong">Kods neatbilst. Ievadiet jauno kodu no televizora.</string>
+    <string name="pair_code_label">Kods</string>
+    <string name="pair_code_submit">Savienot pārī</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Demo TV</string>
+    <string name="settings_demo_tv_body">Izmēģiniet pulti bez televizora</string>
+    <string name="settings_demo_tv_listed">Pievieno jūsu sarakstam izdomātu televizoru</string>
+    <string name="settings_help">Palīdzība</string>
+    <string name="settings_report">Ziņot par problēmu</string>
+    <string name="settings_privacy">Privātuma politika</string>
+    <string name="settings_reset">Atiestatīt iestatījumus</string>
+    <string name="settings_reset_body">Televizori paliks savienoti pārī</string>
+    <string name="settings_reset_confirm">Pieskarieties vēlreiz, lai atiestatītu</string>
+    <string name="offline_no_wifi_title">Nav Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku pieņem tikai dažas komandas no tālruņiem. Sadaļā Advanced system settings iestatiet Control by mobile apps uz Enabled.</string>
+    <string name="notice_adb_off">Ieslēdziet ADB atkļūdošanu Fire TV ierīcē: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Izslēgts</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Skaņa</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Savienojiet pārī, lai vadītu Ambilight</string>
+    <string name="ambilight_pin_hint">PIN kods televizorā</string>
+    <string name="ambilight_pin_wrong">Nepareizs PIN. Ievadiet jauno</string>
+    <string name="search_opens_app">Atver %1$s</string>
+    <string name="voice_search">Meklēt ar balsi</string>
+    <string name="voice_stop">Beigt klausīties</string>
+    <string name="voice_listening">Klausās…</string>
+    <string name="voice_mic_off">Mikrofona piekļuve izslēgta</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC neparedzēti aizvērās</string>
+    <string name="crash_send">Sūtīt</string>
+    <string name="crash_report_subject">TennaRC avārijas ziņojums %1$s</string>
+    <string name="crash_sent">Ziņojums nosūtīts. Paldies</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Televizora atskaņošana, pauze un skaļums</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Atskaņot no šī tālruņa</string>
+    <string name="phone_mirror">Spoguļot</string>
+    <string name="phone_mirror_label">Spoguļot šī tālruņa ekrānu</string>
+    <string name="phone_gallery">Galerija</string>
+    <string name="phone_gallery_label">Rādīt fotoattēlu vai video no šī tālruņa</string>
+    <string name="share_cant_play_file">Šis televizors nevar atskaņot failus no tālruņa</string>
+    <string name="notice_cast_unsupported">Televizors nevar parādīt šāda veida attēlu</string>
+    <string name="notice_not_on_tv_network">Pievienojiet tālruni televizora Wi-Fi tīklam, lai atskaņotu tā failus</string>
+    <string name="notice_file_unreadable">Nevarēja nolasīt šo failu</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Meklē televizorus</string>
+    <string name="setup_choose">Izvēlieties televizoru</string>
+    <string name="setup_none">Televizori nav atrasti</string>
+    <string name="setup_search_again">Meklēt vēlreiz</string>
+    <string name="setup_enter_ip">Ievadiet IP adresi</string>
+    <string name="setup_ip_label">IP adrese</string>
+    <string name="setup_ip_none">Šajā adresē neviens televizors neatbildēja</string>
+    <string name="setup_connect">Savienot</string>
+    <string name="setup_demo">Izmēģināt demo</string>
+    <string name="setup_code_wrong">Pārbaudiet kodu televizorā</string>
+    <string name="setup_fire_tv_allow">Atzīmējiet Always allow, pēc tam OK</string>
+    <string name="setup_adb_title">Ieslēdziet ADB atkļūdošanu</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Ieslēdziet Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Gatavs</string>
+
+    <string name="dev_link_allow">Atļaujiet televizorā</string>
+    <string name="dev_link_allow_body">Atzīmējiet Vienmēr atļaut no šī datora, pēc tam Labi</string>
+    <string name="dev_link_away">Televizors neatbild. Kamēr pults ir atvērta, tiek automātiski mēģināts vēlreiz.</string>
+    <string name="dev_link_away_short">Neatbild</string>
+    <string name="dev_link_body">Parāda televizora ieejas un visas tā lietotnes, pārslēdz ieejas televizoros, kas neņem vērā HDMI pogas, un dažos iestata spilgtumu. Darbojas caur televizora atkļūdošanas savienojumu (ADB). Pogas un rakstīšana tāpat darbojas arī bez tā.</string>
+    <string name="dev_link_connect">Savienot</string>
+    <string name="dev_link_debugging_off">Televizors atteica savienojumu. Pārbaudiet, vai ir ieslēgta USB atkļūdošana. Kopš Android TV 14 daži televizori pieņem tikai bezvadu atkļūdošanu, ko TennaRC vēl nevar izmantot.</string>
+    <string name="dev_link_debugging_off_short">Televizorā izslēgta atkļūdošana</string>
+    <string name="dev_link_forgotten">Televizors ir aizmirsis šo tālruni, kā Android TV dara ar ierīcēm, kas nav redzētas nedēļu. Mēģiniet vēlreiz un atļaujiet to televizorā.</string>
+    <string name="dev_link_forgotten_short">Televizors aizmirsa šo tālruni</string>
+    <string name="dev_link_not_allowed">Televizorā neviens to neatļāva. Mēģiniet vēlreiz un tur izvēlieties Labi.</string>
+    <string name="dev_link_not_allowed_short">Televizorā nav atļauts</string>
+    <string name="dev_link_off">Izslēgts. Pievieno ieejas un visas lietotnes</string>
+    <string name="dev_link_step_allow">Pieskarieties Savienot, pēc tam televizorā atzīmējiet Vienmēr atļaut un izvēlieties Labi.</string>
+    <string name="dev_link_step_debugging">Atveriet Izstrādātāju opcijas blakus sadaļai Par un ieslēdziet USB atkļūdošanu. Shield ierīcē tā ir Tīkla atkļūdošana.</string>
+    <string name="dev_link_step_developer">Televizorā atveriet Iestatījumi › Sistēma › Par un septiņas reizes atlasiet Android TV OS versija. Vecākos televizoros tas ir Ierīces preferences › Par › Versijas numurs.</string>
+    <string name="dev_link_title">Izstrādātāja savienojums</string>
+    <string name="dev_link_turn_off">Izslēgt</string>
+    <string name="dev_link_wireless">Ieslēgta tikai bezvadu atkļūdošana, ko TennaRC vēl nevar izmantot. Ieslēdziet arī USB atkļūdošanu vai vienreiz savienojiet pārī no datora un palaidiet adb tcpip 5555 — tas darbosies, līdz televizors tiks restartēts.</string>
+    <string name="dev_link_wireless_short">Ieslēgta tikai bezvadu atkļūdošana</string>
+    <string name="settings_edit_tv">Rediģēt</string>
+    <string name="settings_find_titles">Meklēt filmām un videoklipiem</string>
+    <string name="find_titles_ask">Lai tos atrastu, TennaRC sūta ievadīto uz YouTube, JustWatch un Wikidata. To var mainīt iestatījumos.</string>
+    <string name="find_titles_not_now">Ne tagad</string>
+</resources>

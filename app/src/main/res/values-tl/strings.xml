@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Ipadala sa TV</string>
+    <string name="tile_label">TV remote</string>
+    <string name="shortcut_link">Maghanap</string>
+    <string name="shortcut_keyboard">Mag-type sa TV</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Konektado</string>
+    <string name="status_connecting">Kumokonekta…</string>
+    <string name="status_awaiting">Tanggapin sa TV</string>
+    <string name="status_offline">Mukhang naka-off ang TV</string>
+    <string name="status_not_paired">Hindi pa nakapares</string>
+    <string name="status_standby">Naka-standby</string>
+    <string name="status_screen_off">Naka-off ang screen, naka-on ang tunog</string>
+    <string name="standby_title">Naka-off ang TV</string>
+    <string name="action_turn_on">I-on</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Ipares sa TV</string>
+    <string name="pair_body">Tanggapin sa TV kapag nagtanong ito.</string>
+    <string name="pair_declined_body">Tumanggi ang TV. Piliin ang Tanggapin ngayon.</string>
+    <string name="pair_action">Ipares</string>
+    <string name="pair_timeout_body">Walang tugon mula sa TV.</string>
+    <string name="pair_forgotten_body">Kinalimutan ng TV ang phone na ito.</string>
+    <string name="approval_title">Tanggapin sa TV</string>
+    <string name="connecting_title">Kumokonekta…</string>
+    <string name="offline_title">Mukhang naka-off ang TV</string>
+    <string name="action_retry">Subukan muli</string>
+    <string name="action_cancel">Kanselahin</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Maghanap</string>
+    <string name="touchpad_label">Touchpad. I-drag para igalaw ang pointer, i-tap para mag-click, at i-drag gamit ang dalawang daliri para mag-scroll.</string>
+    <string name="dpad_label">Directional pad</string>
+    <string name="key_up">Pataas</string>
+    <string name="key_down">Pababa</string>
+    <string name="key_left">Kaliwa</string>
+    <string name="key_right">Kanan</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Bumalik</string>
+    <string name="key_home">Home</string>
+    <string name="key_keyboard">Keyboard</string>
+    <string name="key_touchpad">Touchpad</string>
+    <string name="key_dpad">Arrows</string>
+    <string name="key_more">Higit pa</string>
+    <string name="key_rewind">I-rewind</string>
+    <string name="key_play">I-play</string>
+    <string name="key_pause">I-pause</string>
+    <string name="key_fast_forward">I-fast forward</string>
+    <string name="key_stop">Ihinto</string>
+    <string name="key_volume_up">Lakasan ang volume</string>
+    <string name="key_volume_down">Hinaan ang volume</string>
+    <string name="key_mute">I-mute</string>
+    <string name="key_unmute">I-unmute</string>
+    <string name="volume_value">Volume %1$d</string>
+    <string name="volume_unknown">Volume, hindi alam ang level</string>
+    <string name="volume_muted">Naka-mute</string>
+    <string name="power">Power</string>
+    <string name="settings">Mga setting</string>
+    <string name="all_apps">Lahat ng app</string>
+    <string name="inputs">Mga input</string>
+    <string name="picture_title">Larawan</string>
+    <string name="picture_standard">Standard</string>
+    <string name="picture_vivid">Vivid</string>
+    <string name="picture_cinema">Cinema</string>
+    <string name="picture_game">Game</string>
+    <string name="picture_sports">Sports</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Expert</string>
+    <string name="picture_backlight">Brightness</string>
+    <string name="sound_title">Tunog</string>
+    <string name="sound_tv">TV speakers</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optical</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Headphones</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Speakers</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Line out</string>
+    <string name="more_subtitles">Mga subtitle</string>
+    <string name="more_audio_track">Audio</string>
+    <string name="sleep_title">Sleep timer</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Mag-o-off nang %1$s</string>
+    <string name="sleep_cancel">Kanselahin ang timer</string>
+    <string name="app_on_screen">%1$s, nasa screen ngayon</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Nagsisimula sa TV…</string>
+    <string name="cast_playing">Nagpe-play sa TV</string>
+    <string name="cast_paused">Naka-pause</string>
+    <string name="cast_stalled">Hindi gumagalaw. Gumagana pa ba ang server ng video?</string>
+    <string name="cast_play">Magpatuloy</string>
+    <string name="cast_pause">I-pause</string>
+    <string name="cast_stop">Ihinto ang pag-play sa TV</string>
+    <string name="cast_position">Playback position</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Isara ang paghahanap</string>
+    <string name="tv_picker">Mga TV, ngayon %1$s</string>
+    <string name="tv_picker_add_short">Bago</string>
+    <string name="hold_hide">Itago</string>
+    <string name="hold_rename">Palitan ang pangalan</string>
+    <string name="rename_input">Palitan ang pangalan ng input</string>
+    <string name="rename_save">I-save</string>
+    <string name="rename_reset">Gamitin ang pangalan sa TV</string>
+    <string name="more_channel_list">List</string>
+    <string name="more_guide">Guide</string>
+    <string name="input_label">%1$s, input</string>
+    <string name="channel_label">%2$s, channel %1$s</string>
+    <string name="on_screen_now">Nasa screen ngayon</string>
+    <string name="deck_expanded">Naka-expand</string>
+    <string name="deck_collapsed">Naka-collapse</string>
+    <string name="channel_hidden">Itinago ang %1$s</string>
+    <string name="action_undo">I-undo</string>
+    <string name="offline_switch">Gamitin ang %1$s</string>
+    <string name="search_picks">Trending ngayon</string>
+    <string name="search_clear">I-clear</string>
+    <string name="search_fill">Ilagay sa search box</string>
+    <string name="search_type_on_tv">Mag-type sa TV</string>
+    <string name="search_in_app">Maghanap sa %1$s</string>
+    <string name="search_web">Maghanap gamit ang %1$s</string>
+    <string name="link_paste">Ipaste</string>
+    <string name="link_recent">Kamakainan</string>
+    <string name="link_clear_recent">I-clear</string>
+    <string name="link_kind_youtube">YouTube video</string>
+    <string name="link_kind_video">Video file</string>
+    <string name="link_kind_audio">Audio file</string>
+    <string name="link_kind_image">Larawan</string>
+    <string name="link_kind_web">Web page</string>
+    <string name="link_action_app">Buksan sa %1$s</string>
+    <string name="link_action_media">I-play sa TV</string>
+    <string name="link_action_browser">Buksan sa TV browser</string>
+    <string name="link_sending">Nagpapadala…</string>
+    <string name="link_sent">Binuksan sa TV</string>
+    <string name="link_failed">Hindi ito nabuksan ng TV. Subukan ulit.</string>
+
+    <!-- Share -->
+    <string name="share_title">Ipadala sa TV</string>
+    <string name="share_no_link">Walang link sa ibinahagi mo.</string>
+    <string name="share_not_paired">Hindi pa nakapares sa TV ang phone na ito.</string>
+    <string name="share_open_app">Buksan ang remote</string>
+    <string name="share_waiting">Kumokonekta…</string>
+    <string name="share_cant_open">Hindi kayang buksan ng TV na ito ang mga link ng %1$s</string>
+    <string name="action_close">Isara</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Keyboard</string>
+    <string name="keyboard_placeholder_waiting">Pumili ng text box sa TV</string>
+    <string name="keyboard_backspace">Backspace</string>
+    <string name="keyboard_clear">I-clear</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d character na ang nasa TV</item>
+        <item quantity="other">%1$d character na ang nasa TV</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Higit pa</string>
+    <string name="more_menu">Mga setting</string>
+    <string name="more_quick">Quick menu</string>
+    <string name="more_quick_short">Menu</string>
+    <string name="more_info">Info</string>
+    <string name="more_inputs">Mga input</string>
+    <string name="more_exit">Exit</string>
+    <string name="more_channel_up">Susunod na channel</string>
+    <string name="more_channel_down">Nakaraang channel</string>
+    <string name="more_red">Pula</string>
+    <string name="more_green">Luntian</string>
+    <string name="more_yellow">Dilaw</string>
+    <string name="more_blue">Asul</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Power</string>
+    <string name="power_screen_off">Screen off</string>
+    <string name="power_off">I-off ang TV</string>
+    <string name="power_off_confirm">I-tap ulit para i-off</string>
+    <string name="power_turn_off">I-off</string>
+    <string name="power_tap_again">I-tap ulit</string>
+    <string name="switch_on">On</string>
+    <string name="switch_off">Off</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Mga setting</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Pangalan</string>
+    <string name="settings_host">Address</string>
+    <string name="settings_host_invalid">Maglagay ng IP address o host name</string>
+    <string name="settings_mac">MAC address (upang i-on)</string>
+    <string name="settings_mac_invalid">Anim na pares ng hex digits, tulad ng 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Maghanap ng mga TV sa malapit</string>
+    <string name="settings_finding">Naghahanap ng mga TV…</string>
+    <string name="settings_found_none">Walang TV na sumagot.</string>
+    <string name="settings_found_no_new">Walang ibang TV na nakita</string>
+    <string name="settings_in_use">Ginagamit</string>
+    <string name="settings_add">Magdagdag</string>
+    <string name="settings_forget_tv">Kalimutan ang %1$s</string>
+    <string name="settings_use_tv">Gamitin ang TV na ito</string>
+    <string name="settings_remove_tv">Alisin</string>
+    <string name="settings_remove_confirm">I-tap ulit para alisin</string>
+    <string name="settings_move_up">Itaas</string>
+    <string name="settings_move_down">Ibaba</string>
+    <string name="settings_sensitivity">Pagkasensitibo</string>
+    <string name="settings_touchpad">Touchpad</string>
+    <string name="settings_phone">Phone</string>
+    <string name="settings_natural_scroll">Natural scrolling</string>
+    <string name="settings_scroll_strip">Scroll strip</string>
+    <string name="settings_hidden">Nakatago</string>
+    <string name="settings_show">Ipakita</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_auto">Auto</string>
+    <string name="settings_language">Wika</string>
+    <string name="settings_theme_system">System</string>
+    <string name="settings_theme_light">Maliwanag</string>
+    <string name="settings_theme_dark">Madilim</string>
+    <string name="settings_scroll_strip_right">Kanan</string>
+    <string name="settings_scroll_strip_left">Kaliwa</string>
+    <string name="settings_scroll_strip_off">Off</string>
+    <string name="settings_search_engine">Web search</string>
+    <string name="settings_search">Paghahanap</string>
+    
+    <string name="settings_volume_keys">Volume buttons</string>
+    <string name="settings_auto_keyboard">Auto keyboard</string>
+    <string name="settings_haptics">Vibration</string>
+    <string name="settings_keep_screen_on">Panatilihing naka-on ang screen</string>
+    <string name="settings_forget">Kalimutan ang pagpapares</string>
+    <string name="settings_forget_body">Magtatanong ulit ang TV sa susunod</string>
+    <string name="settings_forget_confirm">I-tap ulit para kalimutan</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Hindi nakakonekta sa TV</string>
+    <string name="notice_command_failed">Hindi tumugon ang TV sa utos na iyon</string>
+    <string name="notice_launch_failed">Hindi mabuksan ang app na iyon</string>
+    <string name="notice_open_failed">Hindi nabuksan ng TV ang link</string>
+    <string name="notice_no_renderer">Hindi sumasagot ang media player ng TV. Naka-on ba ito?</string>
+    <string name="notice_cast_failed">Hindi na-play ng TV ang link na iyon</string>
+    <string name="notice_wake_sent">Ipinadala ang wake signal</string>
+    <string name="notice_tv_moved">Nakita ang TV sa bagong address</string>
+    <string name="notice_wake_failed">Hindi naipadala ang wake signal. Tingnan ang MAC address.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Mabagal na koneksyon</string>
+    <string name="link_help_stalling">Paulit-ulit na nawawala sandali ang Wi-Fi ng TV.</string>
+    <string name="link_help_slow">Ang Wi-Fi ng TV ay mahina o abala.</string>
+    <string name="link_fix_24_title">Ikonekta ang TV sa 2.4 GHz Wi-Fi</string>
+    <string name="link_fix_ethernet_title">Gumamit ng Ethernet cable</string>
+    <string name="link_fix_extender_title">Magdagdag ng Wi-Fi extender sa gitna</string>
+    <string name="link_fix_listen_title">I-off ang Listen Mode sa Screen Share</string>
+    <string name="link_fix_closer_title">Ilagay ang router na mas malapit sa TV</string>
+    <string name="link_fix_band_title">Subukan ang ibang Wi-Fi band</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">TV remote</string>
+    <string name="notify_channel_body">I-play, i-pause, at volume ng TV habang naka-on ito</string>
+    <string name="notify_on_tv">Sa TV</string>
+    <string name="notify_close">Isara</string>
+    <string name="settings_notification_controls">Media controls</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">I-type ang code na ipinapakita sa TV</string>
+    <string name="pair_code_title">Ilagay ang code mula sa TV</string>
+    <string name="pair_code_wrong">Hindi tugma ang code. Subukan ang bagong code sa TV.</string>
+    <string name="pair_code_label">Code</string>
+    <string name="pair_code_submit">Ipares</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Demo TV</string>
+    <string name="settings_demo_tv_body">Subukan ang remote nang walang TV</string>
+    <string name="settings_demo_tv_listed">Nagdadagdag ng kunwaring TV sa mga TV mo</string>
+    <string name="settings_help">Tulong</string>
+    <string name="settings_report">Mag-ulat ng problema</string>
+    <string name="settings_privacy">Patakaran sa privacy</string>
+    <string name="settings_reset">I-reset ang mga setting</string>
+    <string name="settings_reset_body">Mananatiling naka-pair ang mga TV mo</string>
+    <string name="settings_reset_confirm">I-tap ulit para i-reset</string>
+    <string name="offline_no_wifi_title">Walang Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Ilang utos lang mula sa phone ang tinatanggap ng Roku. Sa Advanced system settings nito, itakda ang Control by mobile apps sa Enabled.</string>
+    <string name="notice_adb_off">I-on ang ADB debugging sa Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Off</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Audio</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Ipares para makontrol ang Ambilight</string>
+    <string name="ambilight_pin_hint">PIN sa TV</string>
+    <string name="ambilight_pin_wrong">Maling PIN. Subukan ang bago</string>
+    <string name="search_opens_app">Bubuksan ang %1$s</string>
+    <string name="voice_search">Maghanap gamit ang boses</string>
+    <string name="voice_stop">Ihinto ang pakikinig</string>
+    <string name="voice_listening">Nakikinig…</string>
+    <string name="voice_mic_off">Naka-off ang access sa mikropono</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">Biglang nagsara ang TennaRC</string>
+    <string name="crash_send">Ipadala</string>
+    <string name="crash_report_subject">TennaRC crash report %1$s</string>
+    <string name="crash_sent">Naipadala ang ulat. Salamat</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">I-play, i-pause, at volume ng TV</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">I-play mula sa phone na ito</string>
+    <string name="phone_mirror">I-mirror</string>
+    <string name="phone_mirror_label">I-mirror ang screen ng phone na ito</string>
+    <string name="phone_gallery">Gallery</string>
+    <string name="phone_gallery_label">I-play ang isang larawan o video mula sa phone na ito</string>
+    <string name="share_cant_play_file">Hindi kayang i-play ng TV na ito ang mga file mula sa phone</string>
+    <string name="notice_cast_unsupported">Hindi kayang ipakita ng TV ang ganitong uri ng larawan</string>
+    <string name="notice_not_on_tv_network">Ikonekta ang phone sa Wi-Fi ng TV para ma-play ang mga file nito</string>
+    <string name="notice_file_unreadable">Hindi mabasa ang file na iyon</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Naghahanap ng mga TV</string>
+    <string name="setup_choose">Piliin ang iyong TV</string>
+    <string name="setup_none">Walang nakitang TV</string>
+    <string name="setup_search_again">Maghanap muli</string>
+    <string name="setup_enter_ip">Ilagay ang IP address</string>
+    <string name="setup_ip_label">IP address</string>
+    <string name="setup_ip_none">Walang TV na sumagot sa address na iyon</string>
+    <string name="setup_connect">Kumonekta</string>
+    <string name="setup_demo">Subukan ang demo</string>
+    <string name="setup_code_wrong">Suriin ang code sa TV</string>
+    <string name="setup_fire_tv_allow">I-tick ang Always allow, pagkatapos OK</string>
+    <string name="setup_adb_title">I-on ang ADB debugging</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">I-on ang Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Tapos na</string>
+
+    <string name="dev_link_allow">Payagan sa TV</string>
+    <string name="dev_link_allow_body">I-check ang Palaging payagan mula sa computer na ito, tapos OK</string>
+    <string name="dev_link_away">Hindi sumasagot ang TV. Kusa itong susubok ulit habang bukas ang remote.</string>
+    <string name="dev_link_away_short">Hindi sumasagot</string>
+    <string name="dev_link_body">Inililista ang sariling mga input ng TV at lahat ng app nito, nagpapalit ng input sa mga TV na hindi pumapansin sa mga HDMI key, at nagse-set ng liwanag sa ilan. Dumadaan ito sa debugging connection ng TV (ADB). Gumagana pa rin nang pareho ang mga key at pag-type kahit wala ito.</string>
+    <string name="dev_link_connect">Kumonekta</string>
+    <string name="dev_link_debugging_off">Tinanggihan ng TV ang koneksyon. Tiyaking naka-on ang Pag-debug ng USB. Mula Android TV 14, Wireless na pag-debug lang ang tinatanggap ng ilang TV, na hindi pa magagamit ng TennaRC.</string>
+    <string name="dev_link_debugging_off_short">Naka-off ang pag-debug sa TV</string>
+    <string name="dev_link_forgotten">Kinalimutan ng TV ang phone na ito, gaya ng ginagawa ng Android TV sa phone na isang linggo na nitong hindi nakikita. Subukan ulit, at payagan ito sa TV.</string>
+    <string name="dev_link_forgotten_short">Kinalimutan ng TV ang phone na ito</string>
+    <string name="dev_link_not_allowed">Walang nagpahintulot sa TV. Subukan ulit, at piliin doon ang OK.</string>
+    <string name="dev_link_not_allowed_short">Hindi pinayagan sa TV</string>
+    <string name="dev_link_off">Naka-off. Nagdadagdag ng mga input at lahat ng app</string>
+    <string name="dev_link_step_allow">I-tap ang Kumonekta, tapos sa TV, i-check ang Palaging payagan at piliin ang OK.</string>
+    <string name="dev_link_step_debugging">Buksan ang Mga opsyon ng developer, katabi ng Tungkol sa, at i-on ang Pag-debug ng USB. Sa Shield, Network debugging ito.</string>
+    <string name="dev_link_step_developer">Sa TV, buksan ang Mga setting › System › Tungkol sa at piliin nang pitong beses ang Android TV OS build. Sa mas lumang TV, nasa Mga Kagustuhan sa Device › Tungkol sa › Build ito.</string>
+    <string name="dev_link_title">Koneksyon ng developer</string>
+    <string name="dev_link_turn_off">I-off</string>
+    <string name="dev_link_wireless">Wireless na pag-debug lang ang naka-on, na hindi pa magagamit ng TennaRC. I-on din ang Pag-debug ng USB, o mag-pair nang isang beses mula sa computer at patakbuhin ang adb tcpip 5555, na tatagal hanggang mag-restart ang TV.</string>
+    <string name="dev_link_wireless_short">Wireless na pag-debug lang ang naka-on</string>
+    <string name="settings_edit_tv">I-edit</string>
+    <string name="settings_find_titles">Maghanap ng mga pelikula at video</string>
+    <string name="find_titles_ask">Para mahanap ang mga ito, ipinapadala ng TennaRC ang tina-type mo sa YouTube, JustWatch at Wikidata. Mababago mo ito sa Mga setting.</string>
+    <string name="find_titles_not_now">Hindi muna</string>
+</resources>

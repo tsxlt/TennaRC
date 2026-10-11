@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Send til TV</string>
+    <string name="tile_label">TV-fjernkontroll</string>
+    <string name="shortcut_link">Søk</string>
+    <string name="shortcut_keyboard">Skriv på TV-en</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Tilkoblet</string>
+    <string name="status_connecting">Kobler til…</string>
+    <string name="status_awaiting">Godta på TV-en</string>
+    <string name="status_offline">TV-en virker avslått</string>
+    <string name="status_not_paired">Ikke parret ennå</string>
+    <string name="status_standby">I hvilemodus</string>
+    <string name="status_screen_off">Skjerm av, lyd på</string>
+    <string name="standby_title">TV-en er av</string>
+    <string name="action_turn_on">Slå på</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Par med TV-en</string>
+    <string name="pair_body">Godta på TV-en når den spør.</string>
+    <string name="pair_declined_body">TV-en avslo. Godta forespørselen denne gangen.</string>
+    <string name="pair_action">Par</string>
+    <string name="pair_timeout_body">Ikke noe svar fra TV-en.</string>
+    <string name="pair_forgotten_body">TV-en har glemt denne telefonen.</string>
+    <string name="approval_title">Godta på TV-en</string>
+    <string name="connecting_title">Kobler til…</string>
+    <string name="offline_title">TV-en virker avslått</string>
+    <string name="action_retry">Prøv igjen</string>
+    <string name="action_cancel">Avbryt</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Søk</string>
+    <string name="touchpad_label">Styreflate. Dra for å flytte pekeren, trykk for å klikke, og dra med to fingre for å rulle.</string>
+    <string name="dpad_label">Retningsknapper</string>
+    <string name="key_up">Opp</string>
+    <string name="key_down">Ned</string>
+    <string name="key_left">Venstre</string>
+    <string name="key_right">Høyre</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Tilbake</string>
+    <string name="key_home">Hjem</string>
+    <string name="key_keyboard">Tastatur</string>
+    <string name="key_touchpad">Styreflate</string>
+    <string name="key_dpad">Piler</string>
+    <string name="key_more">Mer</string>
+    <string name="key_rewind">Spol tilbake</string>
+    <string name="key_play">Spill av</string>
+    <string name="key_pause">Pause</string>
+    <string name="key_fast_forward">Spol fremover</string>
+    <string name="key_stop">Stopp</string>
+    <string name="key_volume_up">Volum opp</string>
+    <string name="key_volume_down">Volum ned</string>
+    <string name="key_mute">Slå av lyden</string>
+    <string name="key_unmute">Slå på lyden</string>
+    <string name="volume_value">Volum %1$d</string>
+    <string name="volume_unknown">Volum, ukjent nivå</string>
+    <string name="volume_muted">Lydløs</string>
+    <string name="power">Av/på</string>
+    <string name="settings">Innstillinger</string>
+    <string name="all_apps">Alle apper</string>
+    <string name="inputs">Innganger</string>
+    <string name="picture_title">Bilde</string>
+    <string name="picture_standard">Standard</string>
+    <string name="picture_vivid">Levende</string>
+    <string name="picture_cinema">Kino</string>
+    <string name="picture_game">Spill</string>
+    <string name="picture_sports">Sport</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Ekspert</string>
+    <string name="picture_backlight">Lysstyrke</string>
+    <string name="sound_title">Lyd</string>
+    <string name="sound_tv">TV-høyttalere</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optisk</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Hodetelefoner</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Høyttalere</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Lineutgang</string>
+    <string name="more_subtitles">Teksting</string>
+    <string name="more_audio_track">Lydspor</string>
+    <string name="sleep_title">Sleep-timer</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Slås av kl. %1$s</string>
+    <string name="sleep_cancel">Avbryt tidtaker</string>
+    <string name="app_on_screen">%1$s, på skjermen nå</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Starter på TV-en…</string>
+    <string name="cast_playing">Spilles av på TV-en</string>
+    <string name="cast_paused">Satt på pause</string>
+    <string name="cast_stalled">Videoen står stille. Er serveren fortsatt oppe?</string>
+    <string name="cast_play">Fortsett</string>
+    <string name="cast_pause">Pause</string>
+    <string name="cast_stop">Stopp avspilling på TV-en</string>
+    <string name="cast_position">Avspillingsposisjon</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Lukk søk</string>
+    <string name="tv_picker">TV-er, nå %1$s</string>
+    <string name="tv_picker_add_short">Legg til</string>
+    <string name="hold_hide">Skjul</string>
+    <string name="hold_rename">Endre navn</string>
+    <string name="rename_input">Endre navn på inngang</string>
+    <string name="rename_save">Lagre</string>
+    <string name="rename_reset">Bruk TV-ens navn</string>
+    <string name="more_channel_list">Liste</string>
+    <string name="more_guide">Guide</string>
+    <string name="input_label">%1$s, inngang</string>
+    <string name="channel_label">%2$s, kanal %1$s</string>
+    <string name="on_screen_now">På skjermen nå</string>
+    <string name="deck_expanded">Utvidet</string>
+    <string name="deck_collapsed">Skjult</string>
+    <string name="channel_hidden">%1$s skjult</string>
+    <string name="action_undo">Angre</string>
+    <string name="offline_switch">Bruk %1$s</string>
+    <string name="search_picks">Populært nå</string>
+    <string name="search_clear">Tøm</string>
+    <string name="search_fill">Sett inn i søkefeltet</string>
+    <string name="search_type_on_tv">Skriv på TV-en</string>
+    <string name="search_in_app">Søk i %1$s</string>
+    <string name="search_web">Søk med %1$s</string>
+    <string name="link_paste">Lim inn</string>
+    <string name="link_recent">Nylige</string>
+    <string name="link_clear_recent">Tøm</string>
+    <string name="link_kind_youtube">YouTube-video</string>
+    <string name="link_kind_video">Videofil</string>
+    <string name="link_kind_audio">Lydfil</string>
+    <string name="link_kind_image">Bilde</string>
+    <string name="link_kind_web">Nettside</string>
+    <string name="link_action_app">Åpne i %1$s</string>
+    <string name="link_action_media">Spill av på TV-en</string>
+    <string name="link_action_browser">Åpne i TV-ens nettleser</string>
+    <string name="link_sending">Sender…</string>
+    <string name="link_sent">Åpnet på TV-en</string>
+    <string name="link_failed">TV-en åpnet det ikke. Prøv igjen.</string>
+
+    <!-- Share -->
+    <string name="share_title">Send til TV</string>
+    <string name="share_no_link">Det er ingen lenke i det du delte.</string>
+    <string name="share_not_paired">Denne telefonen er ikke paret med TV-en ennå.</string>
+    <string name="share_open_app">Åpne fjernkontroll</string>
+    <string name="share_waiting">Kobler til…</string>
+    <string name="share_cant_open">Denne TV-en kan ikke åpne %1$s-lenker</string>
+    <string name="action_close">Lukk</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Tastatur</string>
+    <string name="keyboard_placeholder_waiting">Velg et tekstfelt på TV-en</string>
+    <string name="keyboard_backspace">Slett</string>
+    <string name="keyboard_clear">Tøm</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d tegn er allerede på TV-en</item>
+        <item quantity="other">%1$d tegn er allerede på TV-en</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Mer</string>
+    <string name="more_menu">Innstillinger</string>
+    <string name="more_quick">Hurtigmeny</string>
+    <string name="more_quick_short">Meny</string>
+    <string name="more_info">Info</string>
+    <string name="more_inputs">Innganger</string>
+    <string name="more_exit">Avslutt</string>
+    <string name="more_channel_up">Kanal opp</string>
+    <string name="more_channel_down">Kanal ned</string>
+    <string name="more_red">Rød</string>
+    <string name="more_green">Grønn</string>
+    <string name="more_yellow">Gul</string>
+    <string name="more_blue">Blå</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Av/på</string>
+    <string name="power_screen_off">Skjerm av</string>
+    <string name="power_off">Slå av TV-en</string>
+    <string name="power_off_confirm">Trykk igjen for å slå av</string>
+    <string name="power_turn_off">Slå av</string>
+    <string name="power_tap_again">Trykk igjen</string>
+    <string name="switch_on">På</string>
+    <string name="switch_off">Av</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Innstillinger</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Navn</string>
+    <string name="settings_host">Adresse</string>
+    <string name="settings_host_invalid">Skriv inn en IP-adresse eller et vertsnavn</string>
+    <string name="settings_mac">MAC-adresse (for å slå den på)</string>
+    <string name="settings_mac_invalid">Seks par heksadesimale sifre, f.eks. 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Finn TV-er i nærheten</string>
+    <string name="settings_finding">Søker etter TV-er…</string>
+    <string name="settings_found_none">Ingen TV-er svarte.</string>
+    <string name="settings_found_no_new">Ingen andre TV-er funnet</string>
+    <string name="settings_in_use">I bruk</string>
+    <string name="settings_add">Legg til</string>
+    <string name="settings_forget_tv">Glem %1$s</string>
+    <string name="settings_use_tv">Bruk denne TV-en</string>
+    <string name="settings_remove_tv">Fjern</string>
+    <string name="settings_remove_confirm">Trykk igjen for å fjerne</string>
+    <string name="settings_move_up">Flytt opp</string>
+    <string name="settings_move_down">Flytt ned</string>
+    <string name="settings_sensitivity">Følsomhet</string>
+    <string name="settings_touchpad">Styreflate</string>
+    <string name="settings_phone">Telefon</string>
+    <string name="settings_natural_scroll">Naturlig rulling</string>
+    <string name="settings_scroll_strip">Rullestripe</string>
+    <string name="settings_hidden">Skjulte</string>
+    <string name="settings_show">Vis</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_auto">Automatisk</string>
+    <string name="settings_language">Språk</string>
+    <string name="settings_theme_system">System</string>
+    <string name="settings_theme_light">Lyst</string>
+    <string name="settings_theme_dark">Mørkt</string>
+    <string name="settings_scroll_strip_right">Høyre</string>
+    <string name="settings_scroll_strip_left">Venstre</string>
+    <string name="settings_scroll_strip_off">Av</string>
+    <string name="settings_search_engine">Nettsøk</string>
+    <string name="settings_search">Søk</string>
+    
+    <string name="settings_volume_keys">Volumknapper</string>
+    <string name="settings_auto_keyboard">Automatisk tastatur</string>
+    <string name="settings_haptics">Vibrasjon</string>
+    <string name="settings_keep_screen_on">Hold skjermen på</string>
+    <string name="settings_forget">Glem parring</string>
+    <string name="settings_forget_body">TV-en spør igjen neste gang</string>
+    <string name="settings_forget_confirm">Trykk igjen for å glemme</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Telefonen er ikke koblet til TV-en</string>
+    <string name="notice_command_failed">TV-en svarte ikke på det</string>
+    <string name="notice_launch_failed">Appen kunne ikke åpnes</string>
+    <string name="notice_open_failed">TV-en kunne ikke åpne lenken</string>
+    <string name="notice_no_renderer">TV-ens mediespiller svarer ikke. Er den på?</string>
+    <string name="notice_cast_failed">TV-en kunne ikke spille av lenken</string>
+    <string name="notice_wake_sent">Vekkesignal sendt</string>
+    <string name="notice_tv_moved">Fant TV-en på en ny adresse</string>
+    <string name="notice_wake_failed">Kunne ikke sende vekkesignalet. Sjekk MAC-adressen.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Treg tilkobling</string>
+    <string name="link_help_stalling">Wi-Fi-forbindelsen til TV-en faller ut et øyeblikk, gang på gang.</string>
+    <string name="link_help_slow">Wi-Fi-forbindelsen til TV-en er svak eller overbelastet.</string>
+    <string name="link_fix_24_title">Koble TV-en til 2,4 GHz Wi-Fi</string>
+    <string name="link_fix_ethernet_title">Bruk en Ethernet-kabel</string>
+    <string name="link_fix_extender_title">Sett opp en Wi-Fi-forsterker midt imellom</string>
+    <string name="link_fix_listen_title">Slå av Listen Mode i Screen Share</string>
+    <string name="link_fix_closer_title">Flytt ruteren nærmere TV-en</string>
+    <string name="link_fix_band_title">Prøv det andre Wi-Fi-båndet</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">TV-fjernkontroll</string>
+    <string name="notify_channel_body">Spill av, pause og volum for TV-en mens den er på</string>
+    <string name="notify_on_tv">På TV-en</string>
+    <string name="notify_close">Lukk</string>
+    <string name="settings_notification_controls">Mediekontroller</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Skriv inn koden som vises på TV-en</string>
+    <string name="pair_code_title">Skriv inn koden fra TV-en</string>
+    <string name="pair_code_wrong">Koden stemte ikke. Prøv den nye på TV-en.</string>
+    <string name="pair_code_label">Kode</string>
+    <string name="pair_code_submit">Par</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Demo-TV</string>
+    <string name="settings_demo_tv_body">Prøv fjernkontrollen uten TV</string>
+    <string name="settings_demo_tv_listed">Legger til en demo-TV blant TV-ene dine</string>
+    <string name="settings_help">Hjelp</string>
+    <string name="settings_report">Rapporter et problem</string>
+    <string name="settings_privacy">Personvernerklæring</string>
+    <string name="settings_reset">Tilbakestill innstillinger</string>
+    <string name="settings_reset_body">TV-ene dine forblir sammenkoblet</string>
+    <string name="settings_reset_confirm">Trykk igjen for å tilbakestille</string>
+    <string name="offline_no_wifi_title">Ingen Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku-en tar bare imot noen kommandoer fra telefoner. Sett «Control by mobile apps» til «Enabled» under Advanced system settings.</string>
+    <string name="notice_adb_off">Slå på ADB-feilsøking på Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Av</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Lyd</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Par for å styre Ambilight</string>
+    <string name="ambilight_pin_hint">PIN-koden på TV-en</string>
+    <string name="ambilight_pin_wrong">Feil PIN-kode. Prøv den nye</string>
+    <string name="search_opens_app">Åpner %1$s</string>
+    <string name="voice_search">Søk med stemmen</string>
+    <string name="voice_stop">Slutt å lytte</string>
+    <string name="voice_listening">Lytter…</string>
+    <string name="voice_mic_off">Mikrofontilgang er slått av</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC lukket seg uventet</string>
+    <string name="crash_send">Send</string>
+    <string name="crash_report_subject">TennaRC-krasjrapport %1$s</string>
+    <string name="crash_sent">Rapport sendt. Takk</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Spill av, pause og volum for TV-en</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Spill av fra denne telefonen</string>
+    <string name="phone_mirror">Speil</string>
+    <string name="phone_mirror_label">Speil denne telefonens skjerm</string>
+    <string name="phone_gallery">Galleri</string>
+    <string name="phone_gallery_label">Vis et bilde eller en video fra denne telefonen</string>
+    <string name="share_cant_play_file">Denne TV-en kan ikke spille av filer fra telefonen</string>
+    <string name="notice_cast_unsupported">TV-en kan ikke vise denne typen bilde</string>
+    <string name="notice_not_on_tv_network">Koble telefonen til TV-ens Wi-Fi for å spille av filer fra den</string>
+    <string name="notice_file_unreadable">Filen kunne ikke leses</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Søker etter TV-er</string>
+    <string name="setup_choose">Velg TV-en din</string>
+    <string name="setup_none">Ingen TV-er funnet</string>
+    <string name="setup_search_again">Søk igjen</string>
+    <string name="setup_enter_ip">Skriv inn IP-adresse</string>
+    <string name="setup_ip_label">IP-adresse</string>
+    <string name="setup_ip_none">Ingen TV svarte på den adressen</string>
+    <string name="setup_connect">Koble til</string>
+    <string name="setup_demo">Prøv demo</string>
+    <string name="setup_code_wrong">Sjekk koden på TV-en</string>
+    <string name="setup_fire_tv_allow">Kryss av for Always allow, og velg OK</string>
+    <string name="setup_adb_title">Slå på ADB-feilsøking</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Slå på Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Ferdig</string>
+
+    <string name="dev_link_allow">Tillat på TV-en</string>
+    <string name="dev_link_allow_body">Kryss av for Tillat alltid fra denne datamaskinen, og velg OK</string>
+    <string name="dev_link_away">TV-en svarer ikke. Tilkoblingen prøver igjen av seg selv mens fjernkontrollen er åpen.</string>
+    <string name="dev_link_away_short">Svarer ikke</string>
+    <string name="dev_link_body">Viser TV-ens egne innganger og alle appene, bytter inngang på TV-er som ignorerer HDMI-tastene, og stiller inn lysstyrken på noen. Den går via TV-ens feilsøkingstilkobling (ADB). Taster og skriving fungerer likt uten den.</string>
+    <string name="dev_link_connect">Koble til</string>
+    <string name="dev_link_debugging_off">TV-en avviste tilkoblingen. Sjekk at USB-feilsøking er på. Fra og med Android TV 14 tar noen TV-er bare imot trådløs feilsøking, som TennaRC ikke kan bruke ennå.</string>
+    <string name="dev_link_debugging_off_short">Feilsøking er av på TV-en</string>
+    <string name="dev_link_forgotten">TV-en har glemt denne telefonen, slik Android TV gjør med en telefon den ikke har sett på en uke. Prøv igjen, og tillat den på TV-en.</string>
+    <string name="dev_link_forgotten_short">TV-en har glemt denne telefonen</string>
+    <string name="dev_link_not_allowed">Ingen tillot det på TV-en. Prøv igjen, og velg OK der.</string>
+    <string name="dev_link_not_allowed_short">Ikke tillatt på TV-en</string>
+    <string name="dev_link_off">Av. Legger til innganger og alle apper</string>
+    <string name="dev_link_step_allow">Trykk på Koble til, kryss så av for Tillat alltid på TV-en, og velg OK.</string>
+    <string name="dev_link_step_debugging">Åpne Utvikleralternativer ved siden av Om, og slå på USB-feilsøking. På Shield heter det Nettverksfeilsøking.</string>
+    <string name="dev_link_step_developer">Åpne Innstillinger › System › Om på TV-en, og velg Android TV OS-delversjon sju ganger. På eldre TV-er er det Enhetsinnstillinger › Om › Delversjon.</string>
+    <string name="dev_link_title">Utviklertilkobling</string>
+    <string name="dev_link_turn_off">Slå av</string>
+    <string name="dev_link_wireless">Bare trådløs feilsøking er på, og den kan ikke TennaRC bruke ennå. Slå på USB-feilsøking også, eller par fra en datamaskin én gang og kjør adb tcpip 5555, som varer til TV-en startes på nytt.</string>
+    <string name="dev_link_wireless_short">Bare trådløs feilsøking er på</string>
+    <string name="settings_edit_tv">Rediger</string>
+    <string name="settings_find_titles">Søk i filmer og videoer</string>
+    <string name="find_titles_ask">For å finne dem sender TennaRC det du skriver, til YouTube, JustWatch og Wikidata. Du kan endre dette i Innstillinger.</string>
+    <string name="find_titles_not_now">Ikke nå</string>
+</resources>

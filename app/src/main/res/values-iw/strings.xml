@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">שליחה לטלוויזיה</string>
+    <string name="tile_label">שלט טלוויזיה</string>
+    <string name="shortcut_link">חיפוש</string>
+    <string name="shortcut_keyboard">הקלדה בטלוויזיה</string>
+
+    <!-- Status line -->
+    <string name="status_connected">מחובר</string>
+    <string name="status_connecting">מתחבר…</string>
+    <string name="status_awaiting">יש לאשר בטלוויזיה</string>
+    <string name="status_offline">נראה שהטלוויזיה כבויה</string>
+    <string name="status_not_paired">עדיין אין התאמה</string>
+    <string name="status_standby">במצב המתנה</string>
+    <string name="status_screen_off">המסך כבוי, הקול פועל</string>
+    <string name="standby_title">הטלוויזיה כבויה</string>
+    <string name="action_turn_on">הפעלה</string>
+
+    <!-- State panels -->
+    <string name="pair_title">התאמה לטלוויזיה</string>
+    <string name="pair_body">יש לאשר בטלוויזיה כשהיא תבקש.</string>
+    <string name="pair_declined_body">הטלוויזיה סירבה. הפעם יש לבחור באישור.</string>
+    <string name="pair_action">התאמה</string>
+    <string name="pair_timeout_body">אין תגובה מהטלוויזיה.</string>
+    <string name="pair_forgotten_body">הטלוויזיה שכחה את הטלפון הזה.</string>
+    <string name="approval_title">יש לאשר בטלוויזיה</string>
+    <string name="connecting_title">מתחבר…</string>
+    <string name="offline_title">נראה שהטלוויזיה כבויה</string>
+    <string name="action_retry">נסה שוב</string>
+    <string name="action_cancel">ביטול</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">חיפוש</string>
+    <string name="touchpad_label">משטח מגע. גוררים כדי להזיז את הסמן, מקישים כדי ללחוץ וגוררים בשתי אצבעות כדי לגלול.</string>
+    <string name="dpad_label">מקשי חיצים</string>
+    <string name="key_up">למעלה</string>
+    <string name="key_down">למטה</string>
+    <string name="key_left">שמאל</string>
+    <string name="key_right">ימין</string>
+    <string name="key_ok">אישור</string>
+    <string name="key_back">חזרה</string>
+    <string name="key_home">מסך הבית</string>
+    <string name="key_keyboard">מקלדת</string>
+    <string name="key_touchpad">משטח מגע</string>
+    <string name="key_dpad">חצים</string>
+    <string name="key_more">עוד</string>
+    <string name="key_rewind">הרצה אחורה</string>
+    <string name="key_play">הפעלה</string>
+    <string name="key_pause">השהיה</string>
+    <string name="key_fast_forward">הרצה קדימה</string>
+    <string name="key_stop">עצירה</string>
+    <string name="key_volume_up">הגברת עוצמת הקול</string>
+    <string name="key_volume_down">הנמכת עוצמת הקול</string>
+    <string name="key_mute">השתקה</string>
+    <string name="key_unmute">ביטול השתקה</string>
+    <string name="volume_value">עוצמת קול %1$d</string>
+    <string name="volume_unknown">עוצמת קול, רמה לא ידועה</string>
+    <string name="volume_muted">מושתק</string>
+    <string name="power">הפעלה/כיבוי</string>
+    <string name="settings">הגדרות</string>
+    <string name="all_apps">כל האפליקציות</string>
+    <string name="inputs">קלטים</string>
+    <string name="picture_title">תמונה</string>
+    <string name="picture_standard">רגיל</string>
+    <string name="picture_vivid">עז</string>
+    <string name="picture_cinema">קולנוע</string>
+    <string name="picture_game">משחק</string>
+    <string name="picture_sports">ספורט</string>
+    <string name="picture_eco">חיסכון</string>
+    <string name="picture_expert">מומחה</string>
+    <string name="picture_backlight">בהירות</string>
+    <string name="sound_title">קול</string>
+    <string name="sound_tv">רמקולי טלוויזיה</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">אופטי</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">אוזניות</string>
+    <string name="sound_tv_short">רמקולים</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">יציאת קו</string>
+    <string name="more_subtitles">כתוביות</string>
+    <string name="more_audio_track">אודיו</string>
+    <string name="sleep_title">טיימר שינה</string>
+    <string name="sleep_minutes">%1$d דק׳</string>
+    <string name="sleep_at">כיבוי ב-%1$s</string>
+    <string name="sleep_cancel">ביטול הטיימר</string>
+    <string name="app_on_screen">%1$s, על המסך עכשיו</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">מתחיל בטלוויזיה…</string>
+    <string name="cast_playing">מתנגן בטלוויזיה</string>
+    <string name="cast_paused">מושהה</string>
+    <string name="cast_stalled">הסרטון תקוע. האם השרת שלו עדיין פועל?</string>
+    <string name="cast_play">המשך</string>
+    <string name="cast_pause">השהיה</string>
+    <string name="cast_stop">עצירת הניגון בטלוויזיה</string>
+    <string name="cast_position">מיקום בניגון</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">סגירת החיפוש</string>
+    <string name="tv_picker">טלוויזיות, כרגע %1$s</string>
+    <string name="tv_picker_add_short">הוסף</string>
+    <string name="hold_hide">הסתרה</string>
+    <string name="hold_rename">שינוי שם</string>
+    <string name="rename_input">שינוי שם הקלט</string>
+    <string name="rename_save">שמירה</string>
+    <string name="rename_reset">שימוש בשם מהטלוויזיה</string>
+    <string name="more_channel_list">רשימה</string>
+    <string name="more_guide">לוח שידורים</string>
+    <string name="input_label">%1$s, קלט</string>
+    <string name="channel_label">%2$s, ערוץ %1$s</string>
+    <string name="on_screen_now">על המסך עכשיו</string>
+    <string name="deck_expanded">מורחב</string>
+    <string name="deck_collapsed">מקופל</string>
+    <string name="channel_hidden">%1$s הוסתר</string>
+    <string name="action_undo">ביטול פעולה</string>
+    <string name="offline_switch">מעבר ל-%1$s</string>
+    <string name="search_picks">פופולרי כעת</string>
+    <string name="search_clear">ניקוי</string>
+    <string name="search_fill">הוספה לתיבת החיפוש</string>
+    <string name="search_type_on_tv">הקלדה בטלוויזיה</string>
+    <string name="search_in_app">חיפוש ב-%1$s</string>
+    <string name="search_web">חיפוש ב-%1$s</string>
+    <string name="link_paste">הדבק</string>
+    <string name="link_recent">אחרונים</string>
+    <string name="link_clear_recent">ניקוי</string>
+    <string name="link_kind_youtube">סרטון YouTube</string>
+    <string name="link_kind_video">קובץ וידאו</string>
+    <string name="link_kind_audio">קובץ אודיו</string>
+    <string name="link_kind_image">תמונה</string>
+    <string name="link_kind_web">דף אינטרנט</string>
+    <string name="link_action_app">פתיחה ב-%1$s</string>
+    <string name="link_action_media">הפעלה בטלוויזיה</string>
+    <string name="link_action_browser">פתיחה בדפדפן הטלוויזיה</string>
+    <string name="link_sending">שולח…</string>
+    <string name="link_sent">נפתח בטלוויזיה</string>
+    <string name="link_failed">הטלוויזיה לא פתחה את זה. אפשר לנסות שוב.</string>
+
+    <!-- Share -->
+    <string name="share_title">שליחה לטלוויזיה</string>
+    <string name="share_no_link">אין קישור בתוכן ששותף.</string>
+    <string name="share_not_paired">הטלפון הזה עדיין לא מותאם לטלוויזיה.</string>
+    <string name="share_open_app">פתיחת השלט</string>
+    <string name="share_waiting">מתחבר…</string>
+    <string name="share_cant_open">הטלוויזיה הזו לא יכולה לפתוח קישורי %1$s</string>
+    <string name="action_close">סגירה</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">מקלדת</string>
+    <string name="keyboard_placeholder_waiting">יש לבחור תיבת טקסט בטלוויזיה</string>
+    <string name="keyboard_backspace">מחיקה</string>
+    <string name="keyboard_clear">ניקוי</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">תו אחד כבר בטלוויזיה</item>
+        <item quantity="two">שני תווים כבר בטלוויזיה</item>
+        <item quantity="other">%1$d תווים כבר בטלוויזיה</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">עוד</string>
+    <string name="more_menu">הגדרות</string>
+    <string name="more_quick">תפריט מהיר</string>
+    <string name="more_quick_short">תפריט</string>
+    <string name="more_info">מידע</string>
+    <string name="more_inputs">קלטים</string>
+    <string name="more_exit">יציאה</string>
+    <string name="more_channel_up">הערוץ הבא</string>
+    <string name="more_channel_down">הערוץ הקודם</string>
+    <string name="more_red">אדום</string>
+    <string name="more_green">ירוק</string>
+    <string name="more_yellow">צהוב</string>
+    <string name="more_blue">כחול</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">הפעלה/כיבוי</string>
+    <string name="power_screen_off">כיבוי המסך</string>
+    <string name="power_off">כיבוי הטלוויזיה</string>
+    <string name="power_off_confirm">יש להקיש שוב כדי לכבות</string>
+    <string name="power_turn_off">כיבוי</string>
+    <string name="power_tap_again">יש להקיש שוב</string>
+    <string name="switch_on">פועל</string>
+    <string name="switch_off">כבוי</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">הגדרות</string>
+    <string name="settings_tv">טלוויזיה</string>
+    <string name="settings_name">שם</string>
+    <string name="settings_host">כתובת</string>
+    <string name="settings_host_invalid">יש להזין כתובת IP או שם מארח</string>
+    <string name="settings_mac">כתובת MAC (להפעלה)</string>
+    <string name="settings_mac_invalid">שישה זוגות ספרות הקסדצימליות, כמו 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">חיפוש טלוויזיות בקרבת מקום</string>
+    <string name="settings_finding">מחפש טלוויזיות…</string>
+    <string name="settings_found_none">אף טלוויזיה לא הגיבה.</string>
+    <string name="settings_found_no_new">לא נמצאו טלוויזיות נוספות</string>
+    <string name="settings_in_use">בשימוש</string>
+    <string name="settings_add">הוספה</string>
+    <string name="settings_forget_tv">שכחת %1$s</string>
+    <string name="settings_use_tv">שימוש בטלוויזיה הזו</string>
+    <string name="settings_remove_tv">הסרה</string>
+    <string name="settings_remove_confirm">יש להקיש שוב כדי להסיר</string>
+    <string name="settings_move_up">הזזה למעלה</string>
+    <string name="settings_move_down">הזזה למטה</string>
+    <string name="settings_sensitivity">רגישות</string>
+    <string name="settings_touchpad">משטח מגע</string>
+    <string name="settings_phone">טלפון</string>
+    <string name="settings_natural_scroll">גלילה טבעית</string>
+    <string name="settings_scroll_strip">פס גלילה</string>
+    <string name="settings_hidden">מוסתרים</string>
+    <string name="settings_show">הצגה</string>
+    <string name="settings_theme">ערכת נושא</string>
+    <string name="settings_theme_auto">אוטומטי</string>
+    <string name="settings_language">שפה</string>
+    <string name="settings_theme_system">מערכת</string>
+    <string name="settings_theme_light">בהיר</string>
+    <string name="settings_theme_dark">כהה</string>
+    <string name="settings_scroll_strip_right">ימין</string>
+    <string name="settings_scroll_strip_left">שמאל</string>
+    <string name="settings_scroll_strip_off">כבוי</string>
+    <string name="settings_search_engine">חיפוש אינטרנט</string>
+    <string name="settings_search">חיפוש</string>
+    <string name="settings_find_titles">חפש סרטים וסרטונים</string>
+    <string name="find_titles_ask">כדי למצוא אותם, TennaRC שולחת את מה שמקלידים ל-YouTube, ל-JustWatch ול-Wikidata. אפשר לשנות זאת בהגדרות.</string>
+    <string name="find_titles_not_now">לא עכשיו</string>
+    <string name="settings_volume_keys">לחצני עוצמת הקול</string>
+    <string name="settings_auto_keyboard">מקלדת אוטומטית</string>
+    <string name="settings_haptics">רטט</string>
+    <string name="settings_keep_screen_on">המסך יישאר דלוק</string>
+    <string name="settings_forget">ביטול ההתאמה</string>
+    <string name="settings_forget_body">בפעם הבאה הטלוויזיה תשאל שוב</string>
+    <string name="settings_forget_confirm">יש להקיש שוב כדי לשכוח</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">אין חיבור לטלוויזיה</string>
+    <string name="notice_command_failed">הטלוויזיה לא הגיבה לפקודה</string>
+    <string name="notice_launch_failed">לא ניתן לפתוח את האפליקציה</string>
+    <string name="notice_open_failed">הטלוויזיה לא הצליחה לפתוח את הקישור</string>
+    <string name="notice_no_renderer">נגן המדיה של הטלוויזיה לא מגיב. האם הוא פועל?</string>
+    <string name="notice_cast_failed">הטלוויזיה לא הצליחה להפעיל את הקישור</string>
+    <string name="notice_wake_sent">אות ההפעלה נשלח</string>
+    <string name="notice_tv_moved">הטלוויזיה נמצאה בכתובת חדשה</string>
+    <string name="notice_wake_failed">לא ניתן לשלוח את אות ההפעלה. כדאי לבדוק את כתובת ה-MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">חיבור איטי</string>
+    <string name="link_help_stalling">ה-Wi-Fi של הטלוויזיה מתנתק לרגע שוב ושוב.</string>
+    <string name="link_help_slow">ה-Wi-Fi של הטלוויזיה חלש או עמוס.</string>
+    <string name="link_fix_24_title">חיבור הטלוויזיה ל-Wi-Fi של 2.4 GHz</string>
+    <string name="link_fix_ethernet_title">שימוש בכבל Ethernet</string>
+    <string name="link_fix_extender_title">הוספת מגדיל טווח Wi-Fi באמצע הדרך</string>
+    <string name="link_fix_listen_title">כיבוי Listen Mode ב-Screen Share</string>
+    <string name="link_fix_closer_title">קירוב הנתב לטלוויזיה</string>
+    <string name="link_fix_band_title">ניסיון בפס ה-Wi-Fi השני</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">שלט טלוויזיה</string>
+    <string name="notify_channel_body">הפעלה, השהיה ועוצמת קול כשהטלוויזיה פועלת</string>
+    <string name="notify_on_tv">בטלוויזיה</string>
+    <string name="notify_close">סגירה</string>
+    <string name="settings_notification_controls">בקרות מדיה</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">יש להקליד את הקוד שמוצג בטלוויזיה</string>
+    <string name="pair_code_title">יש להזין את הקוד מהטלוויזיה</string>
+    <string name="pair_code_wrong">הקוד לא תאם. יש להזין את הקוד החדש מהטלוויזיה.</string>
+    <string name="pair_code_label">קוד</string>
+    <string name="pair_code_submit">התאמה</string>
+    <string name="settings_labs">ניסויים</string>
+    <string name="settings_demo_tv">טלוויזיית הדגמה</string>
+    <string name="settings_demo_tv_body">אפשר לנסות את השלט בלי טלוויזיה</string>
+    <string name="settings_demo_tv_listed">מוסיף טלוויזיה מדומה לרשימה</string>
+    <string name="settings_help">עזרה</string>
+    <string name="settings_report">דיווח על בעיה</string>
+    <string name="settings_privacy">מדיניות הפרטיות</string>
+    <string name="settings_reset">איפוס ההגדרות</string>
+    <string name="settings_reset_body">הטלוויזיות יישארו מותאמות</string>
+    <string name="settings_reset_confirm">יש להקיש שוב כדי לאפס</string>
+    <string name="offline_no_wifi_title">אין Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku מקבל מהטלפון רק חלק מהפקודות. ב-Advanced system settings יש להגדיר את Control by mobile apps ל-Enabled.</string>
+    <string name="notice_adb_off">יש להפעיל ניפוי באגים ב-ADB ב-Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">כבוי</string>
+    <string name="ambilight_video">וידאו</string>
+    <string name="ambilight_audio">אודיו</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">יש לבצע התאמה כדי לשלוט ב-Ambilight</string>
+    <string name="ambilight_pin_hint">PIN בטלוויזיה</string>
+    <string name="ambilight_pin_wrong">PIN שגוי. יש לנסות את החדש</string>
+    <string name="search_opens_app">פותח את %1$s</string>
+    <string name="voice_search">חיפוש קולי</string>
+    <string name="voice_stop">הפסקת ההאזנה</string>
+    <string name="voice_listening">בהאזנה…</string>
+    <string name="voice_mic_off">הגישה למיקרופון כבויה</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">האפליקציה TennaRC נסגרה באופן לא צפוי</string>
+    <string name="crash_send">שלח</string>
+    <string name="crash_report_subject">דוח קריסה של TennaRC %1$s</string>
+    <string name="crash_sent">הדיווח נשלח. תודה</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">הפעלה, השהיה ועוצמת קול לטלוויזיה</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">הפעלה מהטלפון הזה</string>
+    <string name="phone_mirror">שיקוף</string>
+    <string name="phone_mirror_label">שיקוף המסך של הטלפון הזה</string>
+    <string name="phone_gallery">גלריה</string>
+    <string name="phone_gallery_label">הצגת תמונה או סרטון מהטלפון הזה</string>
+    <string name="share_cant_play_file">הטלוויזיה הזו לא יכולה להפעיל קבצים מהטלפון</string>
+    <string name="notice_cast_unsupported">הטלוויזיה לא יכולה להציג תמונה מהסוג הזה</string>
+    <string name="notice_not_on_tv_network">יש לחבר את הטלפון ל-Wi-Fi של הטלוויזיה כדי להפעיל את הקבצים שלו</string>
+    <string name="notice_file_unreadable">לא ניתן לקרוא את הקובץ</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">מחפש טלוויזיות</string>
+    <string name="setup_choose">בחירת הטלוויזיה</string>
+    <string name="setup_none">לא נמצאו טלוויזיות</string>
+    <string name="setup_search_again">חיפוש חוזר</string>
+    <string name="setup_enter_ip">הזנת כתובת IP</string>
+    <string name="setup_ip_label">כתובת IP</string>
+    <string name="setup_ip_none">אף טלוויזיה לא הגיבה בכתובת הזו</string>
+    <string name="setup_connect">התחברות</string>
+    <string name="setup_demo">ניסיון בהדגמה</string>
+    <string name="setup_code_wrong">כדאי לבדוק את הקוד בטלוויזיה</string>
+    <string name="setup_fire_tv_allow">יש לסמן Always allow ואז OK</string>
+    <string name="setup_adb_title">הפעלת ניפוי באגים ב-ADB</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">הפעלת Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">סיום</string>
+    <string name="settings_edit_tv">ערוך</string>
+    <string name="dev_link_title">חיבור למפתחים</string>
+    <string name="dev_link_body">מציג את הקלטים של הטלוויזיה ואת כל האפליקציות שלה, מחליף קלט בטלוויזיות שמתעלמות ממקשי ה-HDMI, ובחלקן גם מכוון את הבהירות. החיבור עובר דרך ממשק ניפוי הבאגים של הטלוויזיה (ADB). המקשים וההקלדה עובדים אותו דבר גם בלעדיו.</string>
+    <string name="dev_link_step_developer">בטלוויזיה יש לפתוח את הגדרות › מערכת › מידע כללי ולבחור שבע פעמים בגרסת ה-Build של Android TV OS. בטלוויזיות ישנות יותר זה העדפות המכשיר › מידע כללי › Build.</string>
+    <string name="dev_link_step_debugging">יש לפתוח את אפשרויות למפתחים, ליד מידע כללי, ולהפעיל ניפוי באגים ב-USB. ב-Shield זה נקרא ניפוי באגים ברשת.</string>
+    <string name="dev_link_step_allow">יש להקיש על התחברות, ואז בטלוויזיה לסמן את אפשר תמיד ולבחור אישור.</string>
+    <string name="dev_link_connect">התחברות</string>
+    <string name="dev_link_allow">יש לאשר בטלוויזיה</string>
+    <string name="dev_link_allow_body">יש לסמן את אפשר תמיד ממחשב זה, ואז אישור</string>
+    <string name="dev_link_turn_off">כיבוי</string>
+    <string name="dev_link_off">כבוי. מוסיף קלטים ואת כל האפליקציות</string>
+    <string name="dev_link_away">הטלוויזיה לא מגיבה. כל עוד השלט פתוח, החיבור ינסה שוב מעצמו.</string>
+    <string name="dev_link_away_short">לא מגיבה</string>
+    <string name="dev_link_debugging_off">הטלוויזיה דחתה את החיבור. יש לוודא שניפוי באגים ב-USB מופעל. החל מ-Android TV 14, חלק מהטלוויזיות מקבלות רק ניפוי באגים אלחוטי, ש-TennaRC עדיין לא תומכת בו.</string>
+    <string name="dev_link_debugging_off_short">ניפוי הבאגים בטלוויזיה כבוי</string>
+    <string name="dev_link_wireless">רק ניפוי באגים אלחוטי מופעל, ו-TennaRC עדיין לא תומכת בו. אפשר להפעיל גם ניפוי באגים ב-USB, או לבצע התאמה פעם אחת ממחשב ולהריץ adb tcpip 5555, שנשאר בתוקף עד שהטלוויזיה מופעלת מחדש.</string>
+    <string name="dev_link_wireless_short">רק ניפוי באגים אלחוטי מופעל</string>
+    <string name="dev_link_not_allowed">אף אחד לא אישר בטלוויזיה. אפשר לנסות שוב ולבחור שם אישור.</string>
+    <string name="dev_link_not_allowed_short">לא אושר בטלוויזיה</string>
+    <string name="dev_link_forgotten">הטלוויזיה שכחה את הטלפון הזה, כמו ש-Android TV עושה עם טלפון שלא ראתה שבוע. אפשר לנסות שוב ולאשר בטלוויזיה.</string>
+    <string name="dev_link_forgotten_short">הטלוויזיה שכחה את הטלפון הזה</string>
+</resources>

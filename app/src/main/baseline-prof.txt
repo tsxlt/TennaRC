@@ -1,0 +1,4 @@
+# Every method of the app itself compiled ahead of time on install, not left to the JIT warming up:
+# with frequent installs the app would otherwise run interpreted at first, dropping frames.
+HSPLlt/tsx/tennarc/**;->**(**)**
+Llt/tsx/tennarc/**;

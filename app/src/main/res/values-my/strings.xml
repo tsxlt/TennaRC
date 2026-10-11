@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">TV သို့ ပို့ရန်</string>
+    <string name="tile_label">TV အဝေးထိန်း</string>
+    <string name="shortcut_link">ရှာရန်</string>
+    <string name="shortcut_keyboard">TV တွင် စာရိုက်ရန်</string>
+
+    <!-- Status line -->
+    <string name="status_connected">ချိတ်ဆက်ထားသည်</string>
+    <string name="status_connecting">ချိတ်ဆက်နေသည်…</string>
+    <string name="status_awaiting">TV တွင် လက်ခံရန်</string>
+    <string name="status_offline">TV ပိတ်ထားပုံရသည်</string>
+    <string name="status_not_paired">မတွဲချိတ်ရသေးပါ</string>
+    <string name="status_standby">အသင့်အနေအထားတွင်</string>
+    <string name="status_screen_off">မျက်နှာပြင်ပိတ်၊ အသံဖွင့်</string>
+    <string name="standby_title">TV ပိတ်ထားသည်</string>
+    <string name="action_turn_on">ဖွင့်ရန်</string>
+
+    <!-- State panels -->
+    <string name="pair_title">TV နှင့် တွဲချိတ်ရန်</string>
+    <string name="pair_body">TV က မေးသောအခါ လက်ခံပါ။</string>
+    <string name="pair_declined_body">TV က ငြင်းလိုက်သည်။ ဤတစ်ကြိမ် လက်ခံရန် ကို ရွေးပါ။</string>
+    <string name="pair_action">တွဲချိတ်ရန်</string>
+    <string name="pair_timeout_body">TV ထံမှ တုံ့ပြန်မှု မရှိပါ။</string>
+    <string name="pair_forgotten_body">TV က ဤဖုန်းကို မေ့သွားသည်။</string>
+    <string name="approval_title">TV တွင် လက်ခံရန်</string>
+    <string name="connecting_title">ချိတ်ဆက်နေသည်…</string>
+    <string name="offline_title">TV ပိတ်ထားပုံရသည်</string>
+    <string name="action_retry">ထပ်စမ်းကြည့်ရန်</string>
+    <string name="action_cancel">မလုပ်တော့</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">ရှာရန်</string>
+    <string name="touchpad_label">တာ့ချ်ပက်။ ညွှန်မှတ်ကို ရွှေ့ရန် ဆွဲပါ၊ နှိပ်ရန် တို့ပါ၊ လှိမ့်ရန် လက်နှစ်ချောင်းဖြင့် ဆွဲပါ။</string>
+    <string name="dpad_label">လမ်းကြောင်းခလုတ်များ</string>
+    <string name="key_up">အပေါ်</string>
+    <string name="key_down">အောက်</string>
+    <string name="key_left">ဘယ်</string>
+    <string name="key_right">ညာ</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">နောက်သို့</string>
+    <string name="key_home">ပင်မ</string>
+    <string name="key_keyboard">ကီးဘုတ်</string>
+    <string name="key_touchpad">တာ့ချ်ပက်</string>
+    <string name="key_dpad">မြှားများ</string>
+    <string name="key_more">နောက်ထပ်</string>
+    <string name="key_rewind">နောက်ပြန်ရစ်</string>
+    <string name="key_play">ဖွင့်ရန်</string>
+    <string name="key_pause">ခဏရပ်ရန်</string>
+    <string name="key_fast_forward">ရှေ့သို့ အမြန်</string>
+    <string name="key_stop">ရပ်ရန်</string>
+    <string name="key_volume_up">အသံ ကျယ်ရန်</string>
+    <string name="key_volume_down">အသံ တိုးရန်</string>
+    <string name="key_mute">အသံပိတ်ရန်</string>
+    <string name="key_unmute">အသံဖွင့်ရန်</string>
+    <string name="volume_value">အသံ %1$d</string>
+    <string name="volume_unknown">အသံ၊ အဆင့် မသိရ</string>
+    <string name="volume_muted">အသံပိတ်ထားသည်</string>
+    <string name="power">ပါဝါ</string>
+    <string name="settings">ဆက်တင်များ</string>
+    <string name="all_apps">အက်ပ်အားလုံး</string>
+    <string name="inputs">အဝင်များ</string>
+    <string name="picture_title">ရုပ်ပုံ</string>
+    <string name="picture_standard">စံ</string>
+    <string name="picture_vivid">တောက်ပ</string>
+    <string name="picture_cinema">ရုပ်ရှင်</string>
+    <string name="picture_game">ဂိမ်း</string>
+    <string name="picture_sports">အားကစား</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">ကျွမ်းကျင်သူ</string>
+    <string name="picture_backlight">အလင်းအမှောင်</string>
+    <string name="sound_title">အသံ</string>
+    <string name="sound_tv">TV စပီကာ</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optical</string>
+    <string name="sound_bluetooth">ဘလူးတုသ်</string>
+    <string name="sound_headphones">နားကြပ်</string>
+    <string name="sound_tv_short">စပီကာ</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Line out</string>
+    <string name="more_subtitles">စာတန်းထိုး</string>
+    <string name="more_audio_track">အသံ</string>
+    <string name="sleep_title">အိပ်ချိန် တိုင်မာ</string>
+    <string name="sleep_minutes">%1$d မိနစ်</string>
+    <string name="sleep_at">%1$s တွင် ပိတ်မည်</string>
+    <string name="sleep_cancel">တိုင်မာ ပယ်ဖျက်ရန်</string>
+    <string name="app_on_screen">%1$s ယခု မျက်နှာပြင်ပေါ်တွင်</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">TV တွင် စတင်နေသည်…</string>
+    <string name="cast_playing">TV တွင် ဖွင့်နေသည်</string>
+    <string name="cast_paused">ခဏရပ်ထားသည်</string>
+    <string name="cast_stalled">ရှေ့မဆက်ပါ။ ဗီဒီယို၏ ဆာဗာ ဆက်အလုပ်လုပ်နေသေးသလား။</string>
+    <string name="cast_play">ဆက်ဖွင့်ရန်</string>
+    <string name="cast_pause">ခဏရပ်ရန်</string>
+    <string name="cast_stop">TV တွင် ဖွင့်ခြင်း ရပ်ရန်</string>
+    <string name="cast_position">ဖွင့်နေသည့် နေရာ</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">ရှာဖွေမှု ပိတ်ရန်</string>
+    <string name="tv_picker">TV များ၊ ယခု %1$s</string>
+    <string name="tv_picker_add_short">ထည့်ရန်</string>
+    <string name="hold_hide">ဖျောက်ရန်</string>
+    <string name="hold_rename">အမည်ပြောင်းရန်</string>
+    <string name="rename_input">အဝင် အမည်ပြောင်းရန်</string>
+    <string name="rename_save">သိမ်းရန်</string>
+    <string name="rename_reset">TV ၏ အမည်ကို သုံးရန်</string>
+    <string name="more_channel_list">စာရင်း</string>
+    <string name="more_guide">အစီအစဉ်</string>
+    <string name="input_label">%1$s အဝင်</string>
+    <string name="channel_label">%2$s ချန်နယ် %1$s</string>
+    <string name="on_screen_now">ယခု မျက်နှာပြင်ပေါ်တွင်</string>
+    <string name="deck_expanded">ချဲ့ထားသည်</string>
+    <string name="deck_collapsed">ခေါက်ထားသည်</string>
+    <string name="channel_hidden">%1$s ကို ဖျောက်ထားသည်</string>
+    <string name="action_undo">နောက်ပြန်ရန်</string>
+    <string name="offline_switch">%1$s ကို သုံးရန်</string>
+    <string name="search_picks">ယခု ခေတ်စားနေသည်</string>
+    <string name="search_clear">ရှင်းရန်</string>
+    <string name="search_fill">ရှာဖွေရေးအကွက်ထဲ ထည့်ရန်</string>
+    <string name="search_type_on_tv">TV တွင် စာရိုက်ရန်</string>
+    <string name="search_in_app">%1$s တွင် ရှာရန်</string>
+    <string name="search_web">%1$s တွင် ရှာရန်</string>
+    <string name="link_paste">ကူးထည့်ရန်</string>
+    <string name="link_recent">လတ်တလော</string>
+    <string name="link_clear_recent">ရှင်းရန်</string>
+    <string name="link_kind_youtube">YouTube ဗီဒီယို</string>
+    <string name="link_kind_video">ဗီဒီယို ဖိုင်</string>
+    <string name="link_kind_audio">အသံ ဖိုင်</string>
+    <string name="link_kind_image">ပုံ</string>
+    <string name="link_kind_web">ဝဘ်စာမျက်နှာ</string>
+    <string name="link_action_app">%1$s တွင် ဖွင့်ရန်</string>
+    <string name="link_action_media">TV တွင် ဖွင့်ရန်</string>
+    <string name="link_action_browser">TV ဘရောက်ဇာတွင် ဖွင့်ရန်</string>
+    <string name="link_sending">ပို့နေသည်…</string>
+    <string name="link_sent">TV တွင် ဖွင့်လိုက်ပြီ</string>
+    <string name="link_failed">TV က မဖွင့်ပါ။ ထပ်စမ်းကြည့်ပါ။</string>
+
+    <!-- Share -->
+    <string name="share_title">TV သို့ ပို့ရန်</string>
+    <string name="share_no_link">သင်မျှဝေသည့်အရာတွင် လင့်ခ် မပါပါ။</string>
+    <string name="share_not_paired">ဤဖုန်းကို TV နှင့် မတွဲချိတ်ရသေးပါ။</string>
+    <string name="share_open_app">အဝေးထိန်း ဖွင့်ရန်</string>
+    <string name="share_waiting">ချိတ်ဆက်နေသည်…</string>
+    <string name="share_cant_open">ဤ TV သည် %1$s လင့်ခ်များကို မဖွင့်နိုင်ပါ</string>
+    <string name="action_close">ပိတ်ရန်</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">ကီးဘုတ်</string>
+    <string name="keyboard_placeholder_waiting">TV ပေါ်ရှိ စာသားအကွက်တစ်ခု ရွေးပါ</string>
+    <string name="keyboard_backspace">နောက်ပြန်ဖျက်</string>
+    <string name="keyboard_clear">ရှင်းရန်</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="other">TV ပေါ်တွင် စာလုံး %1$d လုံး ရှိပြီးသား</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">နောက်ထပ်</string>
+    <string name="more_menu">ဆက်တင်များ</string>
+    <string name="more_quick">အမြန် မီနူး</string>
+    <string name="more_quick_short">မီနူး</string>
+    <string name="more_info">အချက်အလက်</string>
+    <string name="more_inputs">အဝင်များ</string>
+    <string name="more_exit">ထွက်ရန်</string>
+    <string name="more_channel_up">နောက်ချန်နယ်</string>
+    <string name="more_channel_down">ယခင်ချန်နယ်</string>
+    <string name="more_red">အနီရောင်</string>
+    <string name="more_green">အစိမ်းရောင်</string>
+    <string name="more_yellow">အဝါရောင်</string>
+    <string name="more_blue">အပြာရောင်</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">ပါဝါ</string>
+    <string name="power_screen_off">အသံသာ</string>
+    <string name="power_off">TV ပိတ်ရန်</string>
+    <string name="power_off_confirm">ပိတ်ရန် ထပ်နှိပ်ပါ</string>
+    <string name="power_turn_off">ပိတ်ရန်</string>
+    <string name="power_tap_again">ထပ်နှိပ်ပါ</string>
+    <string name="switch_on">ဖွင့်</string>
+    <string name="switch_off">ပိတ်</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">ဆက်တင်များ</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">အမည်</string>
+    <string name="settings_host">လိပ်စာ</string>
+    <string name="settings_host_invalid">IP လိပ်စာ သို့မဟုတ် host အမည် ထည့်ပါ</string>
+    <string name="settings_mac">MAC လိပ်စာ (ဖွင့်ရန်)</string>
+    <string name="settings_mac_invalid">hex ဂဏန်း ခြောက်တွဲ၊ ဥပမာ 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">အနီးရှိ TV များ ရှာရန်</string>
+    <string name="settings_finding">TV များ ရှာနေသည်…</string>
+    <string name="settings_found_none">မည်သည့် TV မျှ မတုံ့ပြန်ပါ။</string>
+    <string name="settings_found_no_new">အခြား TV မတွေ့ပါ</string>
+    <string name="settings_in_use">သုံးနေသည်</string>
+    <string name="settings_add">ထည့်ရန်</string>
+    <string name="settings_forget_tv">%1$s ကို မေ့ရန်</string>
+    <string name="settings_use_tv">ဤ TV ကို သုံးရန်</string>
+    <string name="settings_remove_tv">ဖယ်ရှားရန်</string>
+    <string name="settings_remove_confirm">ဖယ်ရှားရန် ထပ်နှိပ်ပါ</string>
+    <string name="settings_move_up">အပေါ်ရွှေ့ရန်</string>
+    <string name="settings_move_down">အောက်ရွှေ့ရန်</string>
+    <string name="settings_sensitivity">အာရုံခံနိုင်စွမ်း</string>
+    <string name="settings_touchpad">တာ့ချ်ပက်</string>
+    <string name="settings_phone">ဖုန်း</string>
+    <string name="settings_natural_scroll">သဘာဝ လှိမ့်ခြင်း</string>
+    <string name="settings_scroll_strip">လှိမ့်တန်း</string>
+    <string name="settings_hidden">ဖျောက်ထားသည်</string>
+    <string name="settings_show">ပြရန်</string>
+    <string name="settings_theme">အပြင်အဆင်</string>
+    <string name="settings_theme_auto">အလိုအလျောက်</string>
+    <string name="settings_language">ဘာသာ</string>
+    <string name="settings_theme_system">စနစ်</string>
+    <string name="settings_theme_light">အလင်း</string>
+    <string name="settings_theme_dark">အမှောင်</string>
+    <string name="settings_scroll_strip_right">ညာ</string>
+    <string name="settings_scroll_strip_left">ဘယ်</string>
+    <string name="settings_scroll_strip_off">ပိတ်</string>
+    <string name="settings_search_engine">ဝဘ် ရှာဖွေမှု</string>
+    <string name="settings_search">ရှာဖွေမှု</string>
+    
+    <string name="settings_volume_keys">အသံခလုတ်များ</string>
+    <string name="settings_auto_keyboard">အလိုအလျောက် ကီးဘုတ်</string>
+    <string name="settings_haptics">တုန်ခါမှု</string>
+    <string name="settings_keep_screen_on">မျက်နှာပြင် ဖွင့်ထားရန်</string>
+    <string name="settings_forget">တွဲချိတ်မှု မေ့ရန်</string>
+    <string name="settings_forget_body">TV က နောက်တစ်ကြိမ် ထပ်မေးပါမည်</string>
+    <string name="settings_forget_confirm">မေ့ရန် ထပ်နှိပ်ပါ</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">TV နှင့် မချိတ်ဆက်ထားပါ</string>
+    <string name="notice_command_failed">TV က ၎င်းကို မတုံ့ပြန်ပါ</string>
+    <string name="notice_launch_failed">ထိုအက်ပ်ကို ဖွင့်၍မရပါ</string>
+    <string name="notice_open_failed">TV က လင့်ခ်ကို ဖွင့်၍မရပါ</string>
+    <string name="notice_no_renderer">TV ၏ မီဒီယာပလေယာ မတုံ့ပြန်ပါ။ ဖွင့်ထားသလား။</string>
+    <string name="notice_cast_failed">TV က ထိုလင့်ခ်ကို ဖွင့်၍မရပါ</string>
+    <string name="notice_wake_sent">နိုးစေသည့် အချက်ပြ ပို့ပြီး</string>
+    <string name="notice_tv_moved">TV ကို လိပ်စာအသစ်တွင် တွေ့သည်</string>
+    <string name="notice_wake_failed">နိုးစေသည့် အချက်ပြ ပို့၍မရပါ။ MAC လိပ်စာကို စစ်ပါ။</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">ချိတ်ဆက်မှု နှေးနေသည်</string>
+    <string name="link_help_stalling">TV ၏ Wi-Fi ခဏခဏ ပြတ်တောက်နေသည်။</string>
+    <string name="link_help_slow">TV ၏ Wi-Fi အားနည်းနေသည် သို့မဟုတ် အလုပ်များနေသည်။</string>
+    <string name="link_fix_24_title">TV ကို 2.4 GHz Wi-Fi သို့ ချိတ်ပါ</string>
+    <string name="link_fix_ethernet_title">Ethernet ကြိုး သုံးပါ</string>
+    <string name="link_fix_extender_title">အလယ်တွင် Wi-Fi extender တပ်ပါ</string>
+    <string name="link_fix_listen_title">Screen Share တွင် Listen Mode ပိတ်ပါ</string>
+    <string name="link_fix_closer_title">router ကို TV အနီး ရွှေ့ပါ</string>
+    <string name="link_fix_band_title">အခြား Wi-Fi band ကို စမ်းကြည့်ပါ</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">TV အဝေးထိန်း</string>
+    <string name="notify_channel_body">TV ဖွင့်ထားစဉ် ဖွင့်ရန်၊ ခဏရပ်ရန်နှင့် အသံ</string>
+    <string name="notify_on_tv">TV ပေါ်တွင်</string>
+    <string name="notify_close">ပိတ်ရန်</string>
+    <string name="settings_notification_controls">မီဒီယာ ထိန်းချုပ်မှုများ</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">TV တွင် ပြထားသည့် ကုဒ်ကို ရိုက်ပါ</string>
+    <string name="pair_code_title">TV မှ ကုဒ်ကို ထည့်ပါ</string>
+    <string name="pair_code_wrong">ကုဒ် မကိုက်ညီပါ။ TV ပေါ်ရှိ ကုဒ်အသစ်ကို စမ်းပါ။</string>
+    <string name="pair_code_label">ကုဒ်</string>
+    <string name="pair_code_submit">တွဲချိတ်ရန်</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">နမူနာ TV</string>
+    <string name="settings_demo_tv_body">TV မပါဘဲ အဝေးထိန်းကို စမ်းကြည့်ရန်</string>
+    <string name="settings_demo_tv_listed">သင့် TV စာရင်းတွင် အတု TV တစ်လုံး ထည့်ပေးသည်</string>
+    <string name="settings_help">အကူအညီ</string>
+    <string name="settings_report">ပြဿနာ တိုင်ကြားရန်</string>
+    <string name="settings_privacy">ကိုယ်ရေးအချက်အလက် မူဝါဒ</string>
+    <string name="settings_reset">ဆက်တင်များ ပြန်သတ်မှတ်ရန်</string>
+    <string name="settings_reset_body">သင့် TV များ ချိတ်ဆက်ထားဆဲ ဖြစ်မည်</string>
+    <string name="settings_reset_confirm">ပြန်သတ်မှတ်ရန် ထပ်နှိပ်ပါ</string>
+    <string name="offline_no_wifi_title">Wi-Fi မရှိ</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku သည် ဖုန်းမှ အမိန့်အချို့ကိုသာ လက်ခံသည်။ ၎င်း၏ Advanced system settings တွင် Control by mobile apps ကို Enabled ဟု သတ်မှတ်ပါ။</string>
+    <string name="notice_adb_off">Fire TV တွင် ADB debugging ဖွင့်ပါ: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">ပိတ်</string>
+    <string name="ambilight_video">ဗီဒီယို</string>
+    <string name="ambilight_audio">အသံ</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Ambilight အတွက် တွဲချိတ်ပါ</string>
+    <string name="ambilight_pin_hint">TV ပေါ်ရှိ PIN</string>
+    <string name="ambilight_pin_wrong">PIN မှားသည်။ အသစ်ထည့်ပါ</string>
+    <string name="search_opens_app">%1$s ကို ဖွင့်သည်</string>
+    <string name="voice_search">အသံဖြင့် ရှာခြင်း</string>
+    <string name="voice_stop">နားထောင်ခြင်း ရပ်ရန်</string>
+    <string name="voice_listening">နားထောင်နေသည်…</string>
+    <string name="voice_mic_off">မိုက်ခရိုဖုန်း သုံးခွင့် ပိတ်ထားသည်</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC မမျှော်လင့်ဘဲ ပိတ်သွားသည်</string>
+    <string name="crash_send">ပို့ရန်</string>
+    <string name="crash_report_subject">TennaRC ပျက်စီးမှု အစီရင်ခံစာ %1$s</string>
+    <string name="crash_sent">တိုင်ကြားချက် ပို့ပြီးပါပြီ။ ကျေးဇူးတင်ပါသည်</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">TV အတွက် ဖွင့်ရန်၊ ခဏရပ်ရန်နှင့် အသံ</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">ဤဖုန်းမှ ဖွင့်ရန်</string>
+    <string name="phone_mirror">ပွားပြရန်</string>
+    <string name="phone_mirror_label">ဤဖုန်း၏ မျက်နှာပြင်ကို ပွားပြရန်</string>
+    <string name="phone_gallery">ဓာတ်ပုံပြခန်း</string>
+    <string name="phone_gallery_label">ဤဖုန်းမှ ဓာတ်ပုံ သို့မဟုတ် ဗီဒီယို ဖွင့်ရန်</string>
+    <string name="share_cant_play_file">ဤ TV သည် ဖုန်းမှ ဖိုင်များကို မဖွင့်နိုင်ပါ</string>
+    <string name="notice_cast_unsupported">TV သည် ဤပုံအမျိုးအစားကို မပြနိုင်ပါ</string>
+    <string name="notice_not_on_tv_network">ဖုန်း၏ ဖိုင်များကို ဖွင့်ရန် ဖုန်းကို TV ၏ Wi-Fi နှင့် ချိတ်ပါ</string>
+    <string name="notice_file_unreadable">ထိုဖိုင်ကို ဖတ်၍မရပါ</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">TV များ ရှာနေသည်</string>
+    <string name="setup_choose">သင့် TV ကို ရွေးပါ</string>
+    <string name="setup_none">TV မတွေ့ပါ</string>
+    <string name="setup_search_again">ထပ်ရှာရန်</string>
+    <string name="setup_enter_ip">IP လိပ်စာ ထည့်ရန်</string>
+    <string name="setup_ip_label">IP လိပ်စာ</string>
+    <string name="setup_ip_none">ထိုနေရာတွင် မည်သည့် TV မျှ မတုံ့ပြန်ပါ</string>
+    <string name="setup_connect">ချိတ်ဆက်ရန်</string>
+    <string name="setup_demo">နမူနာ စမ်းရန်</string>
+    <string name="setup_code_wrong">TV ပေါ်ရှိ ကုဒ်ကို စစ်ပါ</string>
+    <string name="setup_fire_tv_allow">Always allow ကို အမှန်ခြစ်ပြီး OK</string>
+    <string name="setup_adb_title">ADB debugging ဖွင့်ရန်</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Control by mobile apps ဖွင့်ရန်</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">ပြီးပြီ</string>
+
+    <string name="dev_link_allow">TV တွင် ခွင့်ပြုရန်</string>
+    <string name="dev_link_allow_body">Always allow from this computer ကို အမှန်ခြစ်ပြီး OK</string>
+    <string name="dev_link_away">TV မတုံ့ပြန်ပါ။ အဝေးထိန်း ဖွင့်ထားသရွေ့ ၎င်းက အလိုအလျောက် ထပ်ကြိုးစားသည်။</string>
+    <string name="dev_link_away_short">မတုံ့ပြန်ပါ</string>
+    <string name="dev_link_body">TV ၏ ကိုယ်ပိုင် အဝင်များနှင့် အက်ပ်အားလုံးကို ပြသည်၊ HDMI ခလုတ်များကို လျစ်လျူရှုသည့် TV များတွင် အဝင်ပြောင်းပေးပြီး အချို့တွင် အလင်းအမှောင်ကို ချိန်ပေးသည်။ ၎င်းသည် TV ၏ debugging ချိတ်ဆက်မှု (ADB) မှတစ်ဆင့် အလုပ်လုပ်သည်။ ၎င်းမပါဘဲလည်း ခလုတ်များနှင့် စာရိုက်ခြင်း အတူတူ အလုပ်လုပ်သည်။</string>
+    <string name="dev_link_connect">ချိတ်ဆက်ရန်</string>
+    <string name="dev_link_debugging_off">TV က ချိတ်ဆက်မှုကို ငြင်းလိုက်သည်။ USB debugging ဖွင့်ထားကြောင်း စစ်ပါ။ Android TV 14 မှစ၍ TV အချို့သည် Wireless debugging ကိုသာ လက်ခံပြီး TennaRC က ၎င်းကို မသုံးနိုင်သေးပါ။</string>
+    <string name="dev_link_debugging_off_short">TV တွင် debugging ပိတ်ထားသည်</string>
+    <string name="dev_link_forgotten">Android TV က တစ်ပတ်ကြာ မတွေ့ရသည့် စက်ကို မေ့သကဲ့သို့ TV က ဤဖုန်းကို မေ့သွားသည်။ ထပ်စမ်းပြီး TV တွင် ခွင့်ပြုပါ။</string>
+    <string name="dev_link_forgotten_short">TV က ဤဖုန်းကို မေ့သွားသည်</string>
+    <string name="dev_link_not_allowed">TV တွင် မည်သူမျှ ခွင့်မပြုပါ။ ထပ်စမ်းပြီး ထိုနေရာတွင် OK ကို ရွေးပါ။</string>
+    <string name="dev_link_not_allowed_short">TV တွင် ခွင့်မပြုထားပါ</string>
+    <string name="dev_link_off">ပိတ်ထားသည်။ အဝင်များနှင့် အက်ပ်အားလုံး ထည့်ပေးသည်</string>
+    <string name="dev_link_step_allow">ချိတ်ဆက်ရန် ကို တို့ပြီး TV တွင် Always allow ကို အမှန်ခြစ်ကာ OK ကို ရွေးပါ။</string>
+    <string name="dev_link_step_debugging">About ဘေးရှိ Developer options ကို ဖွင့်ပြီး USB debugging ကို ဖွင့်ပါ။ Shield တွင် Network debugging ဖြစ်သည်။</string>
+    <string name="dev_link_step_developer">TV တွင် Settings › System › About ကို ဖွင့်ပြီး Android TV OS build ကို ခုနစ်ကြိမ် ရွေးပါ။ TV အဟောင်းများတွင် Device Preferences › About › Build ဖြစ်သည်။</string>
+    <string name="dev_link_title">Developer ချိတ်ဆက်မှု</string>
+    <string name="dev_link_turn_off">ပိတ်ရန်</string>
+    <string name="dev_link_wireless">Wireless debugging သာ ဖွင့်ထားပြီး TennaRC က ၎င်းကို မသုံးနိုင်သေးပါ။ USB debugging ကိုလည်း ဖွင့်ပါ၊ သို့မဟုတ် ကွန်ပျူတာမှ တစ်ကြိမ် တွဲချိတ်ပြီး adb tcpip 5555 ကို run ပါ၊ TV ပြန်စသည်အထိ ခံသည်။</string>
+    <string name="dev_link_wireless_short">Wireless debugging သာ ဖွင့်ထားသည်</string>
+    <string name="settings_edit_tv">တည်းဖြတ်ရန်</string>
+    <string name="settings_find_titles">ရုပ်ဆိုင်းများ သို့မဟုတ် ဗီဒီယိုများ ရှာနည်း</string>
+    <string name="find_titles_ask">၎င်းတို့ကိုရှာရန် TennaRC သည် သင်ရိုက်သည့်စာကို YouTube၊ JustWatch နှင့် Wikidata သို့ ပို့ပါသည်။ ဆက်တင်များတွင် ပြောင်းနိုင်ပါသည်။</string>
+    <string name="find_titles_not_now">ယခု မလုပ်ပါ</string>
+</resources>

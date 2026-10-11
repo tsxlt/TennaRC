@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Naar tv sturen</string>
+    <string name="tile_label">Tv-afstandsbediening</string>
+    <string name="shortcut_link">Zoeken</string>
+    <string name="shortcut_keyboard">Op tv typen</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Verbonden</string>
+    <string name="status_connecting">Verbinden…</string>
+    <string name="status_awaiting">Bevestig op de tv</string>
+    <string name="status_offline">De tv lijkt uit te staan</string>
+    <string name="status_not_paired">Nog niet gekoppeld</string>
+    <string name="status_standby">Stand-by</string>
+    <string name="status_screen_off">Scherm uit, geluid aan</string>
+    <string name="standby_title">De tv staat uit</string>
+    <string name="action_turn_on">Aanzetten</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Koppelen met de tv</string>
+    <string name="pair_body">Bevestig op de tv als die erom vraagt.</string>
+    <string name="pair_declined_body">De tv heeft geweigerd. Bevestig deze keer het verzoek.</string>
+    <string name="pair_action">Koppelen</string>
+    <string name="pair_timeout_body">Geen antwoord van de tv.</string>
+    <string name="pair_forgotten_body">De tv is deze telefoon vergeten.</string>
+    <string name="approval_title">Bevestig op de tv</string>
+    <string name="connecting_title">Verbinden…</string>
+    <string name="offline_title">De tv lijkt uit te staan</string>
+    <string name="action_retry">Opnieuw proberen</string>
+    <string name="action_cancel">Annuleren</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Zoeken</string>
+    <string name="touchpad_label">Touchpad. Sleep om de aanwijzer te bewegen, tik om te klikken, sleep met twee vingers om te scrollen.</string>
+    <string name="dpad_label">Richtingsknoppen</string>
+    <string name="key_up">Omhoog</string>
+    <string name="key_down">Omlaag</string>
+    <string name="key_left">Links</string>
+    <string name="key_right">Rechts</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Terug</string>
+    <string name="key_home">Home</string>
+    <string name="key_keyboard">Toetsenbord</string>
+    <string name="key_touchpad">Touchpad</string>
+    <string name="key_dpad">Pijltjes</string>
+    <string name="key_more">Meer</string>
+    <string name="key_rewind">Terugspoelen</string>
+    <string name="key_play">Afspelen</string>
+    <string name="key_pause">Pauzeren</string>
+    <string name="key_fast_forward">Vooruitspoelen</string>
+    <string name="key_stop">Stoppen</string>
+    <string name="key_volume_up">Volume omhoog</string>
+    <string name="key_volume_down">Volume omlaag</string>
+    <string name="key_mute">Dempen</string>
+    <string name="key_unmute">Geluid aan</string>
+    <string name="volume_value">Volume %1$d</string>
+    <string name="volume_unknown">Volume, niveau onbekend</string>
+    <string name="volume_muted">Gedempt</string>
+    <string name="power">Aan/uit</string>
+    <string name="settings">Instellingen</string>
+    <string name="all_apps">Alle apps</string>
+    <string name="inputs">Ingangen</string>
+    <string name="picture_title">Beeld</string>
+    <string name="picture_standard">Standaard</string>
+    <string name="picture_vivid">Levendig</string>
+    <string name="picture_cinema">Bioscoop</string>
+    <string name="picture_game">Spel</string>
+    <string name="picture_sports">Sport</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Expert</string>
+    <string name="picture_backlight">Helderheid</string>
+    <string name="sound_title">Geluid</string>
+    <string name="sound_tv">Tv-luidsprekers</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optisch</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Koptelefoon</string>
+    <string name="sound_tv_short">Luidsprekers</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Lijnuitgang</string>
+    <string name="more_subtitles">Ondertiteling</string>
+    <string name="more_audio_track">Audio</string>
+    <string name="sleep_title">Sleeptimer</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Uit om %1$s</string>
+    <string name="sleep_cancel">Timer annuleren</string>
+    <string name="app_on_screen">%1$s, nu in beeld</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Starten op de tv…</string>
+    <string name="cast_playing">Speelt op de tv</string>
+    <string name="cast_paused">Gepauzeerd</string>
+    <string name="cast_stalled">De video staat stil. Is de server nog bereikbaar?</string>
+    <string name="cast_play">Hervatten</string>
+    <string name="cast_pause">Pauzeren</string>
+    <string name="cast_stop">Afspelen op de tv stoppen</string>
+    <string name="cast_position">Afspeelpositie</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Zoeken sluiten</string>
+    <string name="tv_picker">Tv\'s, nu %1$s</string>
+    <string name="tv_picker_add_short">Nieuw</string>
+    <string name="hold_hide">Verbergen</string>
+    <string name="hold_rename">Naam wijzigen</string>
+    <string name="rename_input">Naam van ingang wijzigen</string>
+    <string name="rename_save">Opslaan</string>
+    <string name="rename_reset">Naam van de tv gebruiken</string>
+    <string name="more_channel_list">Lijst</string>
+    <string name="more_guide">Gids</string>
+    <string name="input_label">%1$s, ingang</string>
+    <string name="channel_label">%2$s, kanaal %1$s</string>
+    <string name="on_screen_now">Nu in beeld</string>
+    <string name="deck_expanded">Uitgeklapt</string>
+    <string name="deck_collapsed">Ingeklapt</string>
+    <string name="channel_hidden">%1$s verborgen</string>
+    <string name="action_undo">Ongedaan maken</string>
+    <string name="offline_switch">%1$s gebruiken</string>
+    <string name="search_picks">Nu populair</string>
+    <string name="search_clear">Wissen</string>
+    <string name="search_fill">In zoekveld zetten</string>
+    <string name="search_type_on_tv">Op tv typen</string>
+    <string name="search_in_app">Zoeken in %1$s</string>
+    <string name="search_web">Zoeken met %1$s</string>
+    <string name="link_paste">Plakken</string>
+    <string name="link_recent">Recent</string>
+    <string name="link_clear_recent">Wissen</string>
+    <string name="link_kind_youtube">YouTube-video</string>
+    <string name="link_kind_video">Videobestand</string>
+    <string name="link_kind_audio">Audiobestand</string>
+    <string name="link_kind_image">Afbeelding</string>
+    <string name="link_kind_web">Webpagina</string>
+    <string name="link_action_app">Openen in %1$s</string>
+    <string name="link_action_media">Afspelen op tv</string>
+    <string name="link_action_browser">Openen in tv-browser</string>
+    <string name="link_sending">Verzenden…</string>
+    <string name="link_sent">Geopend op de tv</string>
+    <string name="link_failed">De tv heeft de link niet geopend. Probeer het opnieuw.</string>
+
+    <!-- Share -->
+    <string name="share_title">Naar tv sturen</string>
+    <string name="share_no_link">Er zit geen link in wat je hebt gedeeld.</string>
+    <string name="share_not_paired">Deze telefoon is nog niet met de tv gekoppeld.</string>
+    <string name="share_open_app">Afstandsbediening openen</string>
+    <string name="share_waiting">Verbinden…</string>
+    <string name="share_cant_open">Deze tv kan geen %1$s-links openen</string>
+    <string name="action_close">Sluiten</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Toetsenbord</string>
+    <string name="keyboard_placeholder_waiting">Kies een tekstveld op de tv</string>
+    <string name="keyboard_backspace">Backspace</string>
+    <string name="keyboard_clear">Wissen</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">Er staat al %1$d teken op de tv</item>
+        <item quantity="other">Er staan al %1$d tekens op de tv</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Meer</string>
+    <string name="more_menu">Instellingen</string>
+    <string name="more_quick">Snelmenu</string>
+    <string name="more_quick_short">Menu</string>
+    <string name="more_info">Info</string>
+    <string name="more_inputs">Ingangen</string>
+    <string name="more_exit">Afsluiten</string>
+    <string name="more_channel_up">Kanaal omhoog</string>
+    <string name="more_channel_down">Kanaal omlaag</string>
+    <string name="more_red">Rood</string>
+    <string name="more_green">Groen</string>
+    <string name="more_yellow">Geel</string>
+    <string name="more_blue">Blauw</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Aan/uit</string>
+    <string name="power_screen_off">Scherm uit</string>
+    <string name="power_off">Tv uitzetten</string>
+    <string name="power_off_confirm">Tik opnieuw om uit te zetten</string>
+    <string name="power_turn_off">Uitzetten</string>
+    <string name="power_tap_again">Tik opnieuw</string>
+    <string name="switch_on">Aan</string>
+    <string name="switch_off">Uit</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Instellingen</string>
+    <string name="settings_tv">Tv</string>
+    <string name="settings_name">Naam</string>
+    <string name="settings_host">Adres</string>
+    <string name="settings_host_invalid">Voer een IP-adres of hostnaam in</string>
+    <string name="settings_mac">MAC-adres (om de tv aan te zetten)</string>
+    <string name="settings_mac_invalid">Zes paren hexcijfers, zoals 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Tv\'s in de buurt zoeken</string>
+    <string name="settings_finding">Zoeken naar tv\'s…</string>
+    <string name="settings_found_none">Er heeft geen tv gereageerd.</string>
+    <string name="settings_found_no_new">Geen andere tv\'s gevonden</string>
+    <string name="settings_in_use">In gebruik</string>
+    <string name="settings_add">Toevoegen</string>
+    <string name="settings_forget_tv">%1$s vergeten</string>
+    <string name="settings_use_tv">Deze tv gebruiken</string>
+    <string name="settings_remove_tv">Verwijderen</string>
+    <string name="settings_remove_confirm">Tik opnieuw om te verwijderen</string>
+    <string name="settings_move_up">Omhoog verplaatsen</string>
+    <string name="settings_move_down">Omlaag verplaatsen</string>
+    <string name="settings_sensitivity">Gevoeligheid</string>
+    <string name="settings_touchpad">Touchpad</string>
+    <string name="settings_phone">Telefoon</string>
+    <string name="settings_natural_scroll">Natuurlijk scrollen</string>
+    <string name="settings_scroll_strip">Scrollbalk</string>
+    <string name="settings_hidden">Verborgen</string>
+    <string name="settings_show">Tonen</string>
+    <string name="settings_theme">Thema</string>
+    <string name="settings_theme_auto">Auto</string>
+    <string name="settings_language">Taal</string>
+    <string name="settings_theme_system">Systeem</string>
+    <string name="settings_theme_light">Licht</string>
+    <string name="settings_theme_dark">Donker</string>
+    <string name="settings_scroll_strip_right">Rechts</string>
+    <string name="settings_scroll_strip_left">Links</string>
+    <string name="settings_scroll_strip_off">Uit</string>
+    <string name="settings_search_engine">Zoeken op het web</string>
+    <string name="settings_search">Zoeken</string>
+    
+    <string name="settings_volume_keys">Volumeknoppen</string>
+    <string name="settings_auto_keyboard">Automatisch toetsenbord</string>
+    <string name="settings_haptics">Trillen</string>
+    <string name="settings_keep_screen_on">Scherm aan laten</string>
+    <string name="settings_forget">Koppeling vergeten</string>
+    <string name="settings_forget_body">De tv vraagt het de volgende keer opnieuw</string>
+    <string name="settings_forget_confirm">Tik opnieuw om te vergeten</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Niet verbonden met de tv</string>
+    <string name="notice_command_failed">De tv reageerde daar niet op</string>
+    <string name="notice_launch_failed">Kan die app niet openen</string>
+    <string name="notice_open_failed">De tv kon de link niet openen</string>
+    <string name="notice_no_renderer">De mediaspeler van de tv reageert niet. Staat die aan?</string>
+    <string name="notice_cast_failed">De tv kon die link niet afspelen</string>
+    <string name="notice_wake_sent">Inschakelsignaal verstuurd</string>
+    <string name="notice_tv_moved">De tv is gevonden op een nieuw adres</string>
+    <string name="notice_wake_failed">Kan het inschakelsignaal niet versturen. Controleer het MAC-adres.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Haperende verbinding</string>
+    <string name="link_help_stalling">De wifi van de tv valt steeds even weg.</string>
+    <string name="link_help_slow">De wifi van de tv is zwak of overbelast.</string>
+    <string name="link_fix_24_title">Zet de tv op wifi van 2,4 GHz</string>
+    <string name="link_fix_ethernet_title">Gebruik een netwerkkabel</string>
+    <string name="link_fix_extender_title">Plaats halverwege een wifiversterker</string>
+    <string name="link_fix_listen_title">Zet Listen Mode in Screen Share uit</string>
+    <string name="link_fix_closer_title">Zet de router dichter bij de tv</string>
+    <string name="link_fix_band_title">Probeer de andere wifiband</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Tv-afstandsbediening</string>
+    <string name="notify_channel_body">Afspelen, pauzeren en volume voor de tv zolang die aanstaat</string>
+    <string name="notify_on_tv">Op de tv</string>
+    <string name="notify_close">Sluiten</string>
+    <string name="settings_notification_controls">Mediabediening</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Typ de code die op de tv staat</string>
+    <string name="pair_code_title">Voer de code van de tv in</string>
+    <string name="pair_code_wrong">Die code klopt niet. Probeer de nieuwe code op de tv.</string>
+    <string name="pair_code_label">Code</string>
+    <string name="pair_code_submit">Koppelen</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Demo-tv</string>
+    <string name="settings_demo_tv_body">Probeer de afstandsbediening zonder tv</string>
+    <string name="settings_demo_tv_listed">Voegt een nep-tv toe aan je tv\'s</string>
+    <string name="settings_help">Help</string>
+    <string name="settings_report">Probleem melden</string>
+    <string name="settings_privacy">Privacybeleid</string>
+    <string name="settings_reset">Instellingen resetten</string>
+    <string name="settings_reset_body">Je tv\'s blijven gekoppeld</string>
+    <string name="settings_reset_confirm">Tik opnieuw om te resetten</string>
+    <string name="offline_no_wifi_title">Geen wifi</string>
+    <string name="action_wifi_settings">Wifi</string>
+    <string name="notice_roku_limited">De Roku accepteert van telefoons maar een deel van de commando\'s. Zet in Advanced system settings de optie ‘Control by mobile apps’ op ‘Enabled’.</string>
+    <string name="notice_adb_off">Zet ADB-foutopsporing aan op de Fire TV: Instellingen › Mijn Fire TV › Ontwikkelaarsopties</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Uit</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Audio</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Koppel om Ambilight te bedienen</string>
+    <string name="ambilight_pin_hint">PIN op de tv</string>
+    <string name="ambilight_pin_wrong">Verkeerde PIN. Probeer de nieuwe</string>
+    <string name="search_opens_app">Opent %1$s</string>
+    <string name="voice_search">Gesproken zoekopdracht</string>
+    <string name="voice_stop">Stoppen met luisteren</string>
+    <string name="voice_listening">Luisteren…</string>
+    <string name="voice_mic_off">Microfoontoegang staat uit</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC is onverwacht gesloten</string>
+    <string name="crash_send">Verzenden</string>
+    <string name="crash_report_subject">TennaRC-crashrapport %1$s</string>
+    <string name="crash_sent">Melding verstuurd. Bedankt</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Afspelen, pauzeren en volume voor de tv</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Afspelen vanaf deze telefoon</string>
+    <string name="phone_mirror">Spiegelen</string>
+    <string name="phone_mirror_label">Scherm van deze telefoon spiegelen</string>
+    <string name="phone_gallery">Galerij</string>
+    <string name="phone_gallery_label">Foto of video van deze telefoon afspelen</string>
+    <string name="share_cant_play_file">Deze tv kan geen bestanden van de telefoon afspelen</string>
+    <string name="notice_cast_unsupported">De tv kan dit soort afbeelding niet tonen</string>
+    <string name="notice_not_on_tv_network">Verbind de telefoon met de wifi van de tv om er bestanden van af te spelen</string>
+    <string name="notice_file_unreadable">Kan dat bestand niet lezen</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Zoeken naar tv\'s</string>
+    <string name="setup_choose">Kies je tv</string>
+    <string name="setup_none">Geen tv\'s gevonden</string>
+    <string name="setup_search_again">Opnieuw zoeken</string>
+    <string name="setup_enter_ip">IP-adres invoeren</string>
+    <string name="setup_ip_label">IP-adres</string>
+    <string name="setup_ip_none">Daar reageerde geen tv</string>
+    <string name="setup_connect">Verbinden</string>
+    <string name="setup_demo">Demo proberen</string>
+    <string name="setup_code_wrong">Controleer de code op de tv</string>
+    <string name="setup_fire_tv_allow">Vink Altijd toestaan aan en kies OK</string>
+    <string name="setup_adb_title">ADB-foutopsporing aanzetten</string>
+    <string name="setup_adb_path">Instellingen › Mijn Fire TV › Ontwikkelaarsopties</string>
+    <string name="setup_roku_title">Zet ‘Control by mobile apps’ aan</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Klaar</string>
+
+    <string name="dev_link_allow">Toestaan op de tv</string>
+    <string name="dev_link_allow_body">Vink ‘Altijd toestaan vanaf deze computer’ aan en kies OK</string>
+    <string name="dev_link_away">De tv reageert niet. Zolang de afstandsbediening open is, probeert de app het steeds opnieuw.</string>
+    <string name="dev_link_away_short">Reageert niet</string>
+    <string name="dev_link_body">Toont de ingangen en alle apps van de tv, wisselt van ingang op tv\'s die de HDMI-knoppen negeren en regelt bij sommige de helderheid. Werkt via de foutopsporingsverbinding (ADB) van de tv. Knoppen en typen werken ook zonder.</string>
+    <string name="dev_link_connect">Verbinden</string>
+    <string name="dev_link_debugging_off">De tv heeft de verbinding geweigerd. Controleer of USB-foutopsporing aanstaat. Sinds Android TV 14 accepteren sommige tv\'s alleen draadloze foutopsporing, en die kan TennaRC nog niet gebruiken.</string>
+    <string name="dev_link_debugging_off_short">Foutopsporing staat uit op de tv</string>
+    <string name="dev_link_forgotten">De tv is deze telefoon vergeten, zoals Android TV doet met apparaten die het een week niet heeft gezien. Probeer het opnieuw en sta de verbinding toe op de tv.</string>
+    <string name="dev_link_forgotten_short">De tv is deze telefoon vergeten</string>
+    <string name="dev_link_not_allowed">Op de tv is de verbinding niet toegestaan. Probeer het opnieuw en kies daar OK.</string>
+    <string name="dev_link_not_allowed_short">Niet toegestaan op de tv</string>
+    <string name="dev_link_off">Uit. Voegt ingangen en alle apps toe</string>
+    <string name="dev_link_step_allow">Tik op Verbinden, vink daarna op de tv Altijd toestaan aan en kies OK.</string>
+    <string name="dev_link_step_debugging">Open Ontwikkelaarsopties (naast Over) en zet USB-foutopsporing aan. Op een Shield heet het Netwerkfoutopsporing.</string>
+    <string name="dev_link_step_developer">Open op de tv Instellingen › Systeem › Over en selecteer zeven keer Android TV OS-build. Op oudere tv\'s: Apparaatvoorkeuren › Over › Build.</string>
+    <string name="dev_link_title">Ontwikkelaarsverbinding</string>
+    <string name="dev_link_turn_off">Uitzetten</string>
+    <string name="dev_link_wireless">Alleen draadloze foutopsporing staat aan, en die kan TennaRC nog niet gebruiken. Zet ook USB-foutopsporing aan, of koppel één keer vanaf een computer en voer adb tcpip 5555 uit; dat blijft werken tot de tv opnieuw opstart.</string>
+    <string name="dev_link_wireless_short">Alleen draadloze foutopsporing staat aan</string>
+    <string name="settings_edit_tv">Bewerken</string>
+    <string name="settings_find_titles">Films en video\'s zoeken</string>
+    <string name="find_titles_ask">Om ze te vinden, stuurt TennaRC wat je typt naar YouTube, JustWatch en Wikidata. Je kunt dit wijzigen in Instellingen.</string>
+    <string name="find_titles_not_now">Niet nu</string>
+</resources>

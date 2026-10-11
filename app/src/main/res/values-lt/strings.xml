@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Siųsti į televizorių</string>
+    <string name="tile_label">TV pultas</string>
+    <string name="shortcut_link">Paieška</string>
+    <string name="shortcut_keyboard">Rašyti televizoriuje</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Prisijungta</string>
+    <string name="status_connecting">Jungiamasi…</string>
+    <string name="status_awaiting">Patvirtinkite televizoriuje</string>
+    <string name="status_offline">Televizorius, atrodo, išjungtas</string>
+    <string name="status_not_paired">Dar nesusieta</string>
+    <string name="status_standby">Budėjimo režimu</string>
+    <string name="status_screen_off">Ekranas išjungtas, garsas įjungtas</string>
+    <string name="standby_title">Televizorius išjungtas</string>
+    <string name="action_turn_on">Įjungti</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Susieti su televizoriumi</string>
+    <string name="pair_body">Patvirtinkite televizoriuje, kai jis paklaus.</string>
+    <string name="pair_declined_body">Televizorius atmetė užklausą. Šį kartą patvirtinkite.</string>
+    <string name="pair_action">Susieti</string>
+    <string name="pair_timeout_body">Televizorius neatsakė.</string>
+    <string name="pair_forgotten_body">Televizorius pamiršo šį telefoną.</string>
+    <string name="approval_title">Patvirtinkite televizoriuje</string>
+    <string name="connecting_title">Jungiamasi…</string>
+    <string name="offline_title">Televizorius, atrodo, išjungtas</string>
+    <string name="action_retry">Bandyti dar kartą</string>
+    <string name="action_cancel">Atšaukti</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Paieška</string>
+    <string name="touchpad_label">Jutiklinė planšetė. Vilkite, kad perkeltumėte žymeklį, bakstelėkite, kad spustelėtumėte, vilkite dviem pirštais, kad slinktumėte.</string>
+    <string name="dpad_label">Krypčių mygtukai</string>
+    <string name="key_up">Aukštyn</string>
+    <string name="key_down">Žemyn</string>
+    <string name="key_left">Kairėn</string>
+    <string name="key_right">Dešinėn</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Atgal</string>
+    <string name="key_home">Pradžia</string>
+    <string name="key_keyboard">Klaviatūra</string>
+    <string name="key_touchpad">Jutiklinė planšetė</string>
+    <string name="key_dpad">Rodyklės</string>
+    <string name="key_more">Daugiau</string>
+    <string name="key_rewind">Prasukti atgal</string>
+    <string name="key_play">Leisti</string>
+    <string name="key_pause">Pristabdyti</string>
+    <string name="key_fast_forward">Prasukti pirmyn</string>
+    <string name="key_stop">Sustabdyti</string>
+    <string name="key_volume_up">Garsiau</string>
+    <string name="key_volume_down">Tyliau</string>
+    <string name="key_mute">Nutildyti</string>
+    <string name="key_unmute">Įjungti garsą</string>
+    <string name="volume_value">Garsumas %1$d</string>
+    <string name="volume_unknown">Garsumas nežinomas</string>
+    <string name="volume_muted">Nutildyta</string>
+    <string name="power">Maitinimas</string>
+    <string name="settings">Nustatymai</string>
+    <string name="all_apps">Visos programos</string>
+    <string name="inputs">Įvestys</string>
+    <string name="picture_title">Vaizdas</string>
+    <string name="picture_standard">Standartinis</string>
+    <string name="picture_vivid">Ryškus</string>
+    <string name="picture_cinema">Kinas</string>
+    <string name="picture_game">Žaidimas</string>
+    <string name="picture_sports">Sportas</string>
+    <string name="picture_eco">Eko</string>
+    <string name="picture_expert">Ekspertas</string>
+    <string name="picture_backlight">Šviesumas</string>
+    <string name="sound_title">Garsas</string>
+    <string name="sound_tv">TV garsiakalbiai</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optinis</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Ausinės</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Garsiakalbiai</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Linijinė išvestis</string>
+    <string name="more_subtitles">Subtitrai</string>
+    <string name="more_audio_track">Garso takelis</string>
+    <string name="sleep_title">Išjungimo laikmatis</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Išsijungs %1$s</string>
+    <string name="sleep_cancel">Atšaukti laikmatį</string>
+    <string name="app_on_screen">%1$s, dabar ekrane</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Paleidžiama televizoriuje…</string>
+    <string name="cast_playing">Leidžiama televizoriuje</string>
+    <string name="cast_paused">Pristabdyta</string>
+    <string name="cast_stalled">Vaizdas sustingo. Ar vaizdo įrašo serveris dar veikia?</string>
+    <string name="cast_play">Tęsti</string>
+    <string name="cast_pause">Pristabdyti</string>
+    <string name="cast_stop">Sustabdyti televizoriuje</string>
+    <string name="cast_position">Leidimo vieta</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Uždaryti paiešką</string>
+    <string name="tv_picker">Televizoriai, dabar: %1$s</string>
+    <string name="tv_picker_add_short">Pridėti</string>
+    <string name="hold_hide">Paslėpti</string>
+    <string name="hold_rename">Pervadinti</string>
+    <string name="rename_input">Pervadinti įvestį</string>
+    <string name="rename_save">Išsaugoti</string>
+    <string name="rename_reset">Naudoti televizoriaus pavadinimą</string>
+    <string name="more_channel_list">Sąrašas</string>
+    <string name="more_guide">Programa</string>
+    <string name="input_label">%1$s, įvestis</string>
+    <string name="channel_label">%2$s, kanalas %1$s</string>
+    <string name="on_screen_now">Dabar ekrane</string>
+    <string name="deck_expanded">Išplėsta</string>
+    <string name="deck_collapsed">Sutraukta</string>
+    <string name="channel_hidden">Paslėpta: %1$s</string>
+    <string name="action_undo">Anuliuoti</string>
+    <string name="offline_switch">Naudoti %1$s</string>
+    <string name="search_picks">Dabar populiaru</string>
+    <string name="search_clear">Išvalyti</string>
+    <string name="search_fill">Įrašyti į paieškos lauką</string>
+    <string name="search_type_on_tv">Rašyti televizoriuje</string>
+    <string name="search_in_app">Ieškoti programoje %1$s</string>
+    <string name="search_web">Ieškoti naudojant %1$s</string>
+    <string name="link_paste">Įklijuoti</string>
+    <string name="link_recent">Naujausi</string>
+    <string name="link_clear_recent">Išvalyti</string>
+    <string name="link_kind_youtube">YouTube vaizdo įrašas</string>
+    <string name="link_kind_video">Vaizdo failas</string>
+    <string name="link_kind_audio">Garso failas</string>
+    <string name="link_kind_image">Paveikslėlis</string>
+    <string name="link_kind_web">Tinklalapis</string>
+    <string name="link_action_app">Atidaryti programoje %1$s</string>
+    <string name="link_action_media">Leisti televizoriuje</string>
+    <string name="link_action_browser">Atidaryti televizoriaus naršyklėje</string>
+    <string name="link_sending">Siunčiama…</string>
+    <string name="link_sent">Atidaryta televizoriuje</string>
+    <string name="link_failed">Televizorius nuorodos neatidarė. Bandykite dar kartą.</string>
+
+    <!-- Share -->
+    <string name="share_title">Siųsti į televizorių</string>
+    <string name="share_no_link">Bendrintame turinyje nėra nuorodos.</string>
+    <string name="share_not_paired">Šis telefonas dar nesusietas su televizoriumi.</string>
+    <string name="share_open_app">Atidaryti pultą</string>
+    <string name="share_waiting">Jungiamasi…</string>
+    <string name="share_cant_open">Šis televizorius negali atidaryti %1$s nuorodų</string>
+    <string name="action_close">Uždaryti</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Klaviatūra</string>
+    <string name="keyboard_placeholder_waiting">Pasirinkite lauką televizoriuje</string>
+    <string name="keyboard_backspace">Trinti</string>
+    <string name="keyboard_clear">Išvalyti</string>
+    <string name="keyboard_enter">Įvesti</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d simbolis jau televizoriuje</item>
+        <item quantity="few">%1$d simboliai jau televizoriuje</item>
+        <item quantity="many">%1$d simbolio jau televizoriuje</item>
+        <item quantity="other">%1$d simbolių jau televizoriuje</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Daugiau</string>
+    <string name="more_menu">Nustatymai</string>
+    <string name="more_quick">Greitasis meniu</string>
+    <string name="more_quick_short">Meniu</string>
+    <string name="more_info">Informacija</string>
+    <string name="more_inputs">Įvestys</string>
+    <string name="more_exit">Išeiti</string>
+    <string name="more_channel_up">Kitas kanalas</string>
+    <string name="more_channel_down">Ankstesnis kanalas</string>
+    <string name="more_red">Raudona</string>
+    <string name="more_green">Žalia</string>
+    <string name="more_yellow">Geltona</string>
+    <string name="more_blue">Mėlyna</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Maitinimas</string>
+    <string name="power_screen_off">Išjungti ekraną</string>
+    <string name="power_off">Išjungti televizorių</string>
+    <string name="power_off_confirm">Bakstelėkite dar kartą, kad išjungtumėte</string>
+    <string name="power_turn_off">Išjungti</string>
+    <string name="power_tap_again">Dar kartą</string>
+    <string name="switch_on">Įjungta</string>
+    <string name="switch_off">Išjungta</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Nustatymai</string>
+    <string name="settings_tv">Televizorius</string>
+    <string name="settings_name">Pavadinimas</string>
+    <string name="settings_host">Adresas</string>
+    <string name="settings_host_invalid">Įveskite IP adresą arba įrenginio pavadinimą</string>
+    <string name="settings_mac">MAC adresas (televizoriui įjungti)</string>
+    <string name="settings_mac_invalid">Šešios šešioliktainių skaitmenų poros, pvz., 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Ieškoti televizorių netoliese</string>
+    <string name="settings_finding">Ieškoma televizorių…</string>
+    <string name="settings_found_none">Neatsakė nė vienas televizorius.</string>
+    <string name="settings_found_no_new">Kitų televizorių nerasta</string>
+    <string name="settings_in_use">Naudojamas</string>
+    <string name="settings_add">Pridėti</string>
+    <string name="settings_forget_tv">Pamiršti %1$s</string>
+    <string name="settings_use_tv">Naudoti šį televizorių</string>
+    <string name="settings_remove_tv">Pašalinti</string>
+    <string name="settings_remove_confirm">Bakstelėkite dar kartą, kad pašalintumėte</string>
+    <string name="settings_move_up">Perkelti aukštyn</string>
+    <string name="settings_move_down">Perkelti žemyn</string>
+    <string name="settings_sensitivity">Jautrumas</string>
+    <string name="settings_touchpad">Jutiklinė planšetė</string>
+    <string name="settings_phone">Telefonas</string>
+    <string name="settings_natural_scroll">Natūralus slinkimas</string>
+    <string name="settings_scroll_strip">Slinkimo juosta</string>
+    <string name="settings_hidden">Paslėpta</string>
+    <string name="settings_show">Rodyti</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_auto">Automatinė</string>
+    <string name="settings_language">Kalba</string>
+    <string name="settings_theme_system">Sistema</string>
+    <string name="settings_theme_light">Šviesi</string>
+    <string name="settings_theme_dark">Tamsi</string>
+    <string name="settings_scroll_strip_right">Dešinėje</string>
+    <string name="settings_scroll_strip_left">Kairėje</string>
+    <string name="settings_scroll_strip_off">Išjungta</string>
+    <string name="settings_search_engine">Žiniatinklio paieška</string>
+    <string name="settings_search">Paieška</string>
+    
+    <string name="settings_volume_keys">Garsumo mygtukai</string>
+    <string name="settings_auto_keyboard">Automatinė klaviatūra</string>
+    <string name="settings_haptics">Vibravimas</string>
+    <string name="settings_keep_screen_on">Neišjungti ekrano</string>
+    <string name="settings_forget">Pamiršti susiejimą</string>
+    <string name="settings_forget_body">Kitą kartą televizorius vėl paklaus</string>
+    <string name="settings_forget_confirm">Bakstelėkite dar kartą, kad pamirštumėte</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Neprisijungta prie televizoriaus</string>
+    <string name="notice_command_failed">Televizorius nereagavo į komandą</string>
+    <string name="notice_launch_failed">Nepavyko atidaryti tos programos</string>
+    <string name="notice_open_failed">Televizoriui nepavyko atidaryti nuorodos</string>
+    <string name="notice_no_renderer">Televizoriaus medijos leistuvas neatsako. Ar jis įjungtas?</string>
+    <string name="notice_cast_failed">Televizoriui nepavyko paleisti nuorodos</string>
+    <string name="notice_wake_sent">Įjungimo signalas išsiųstas</string>
+    <string name="notice_tv_moved">Televizorius rastas nauju adresu</string>
+    <string name="notice_wake_failed">Nepavyko išsiųsti įjungimo signalo. Patikrinkite MAC adresą.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Ryšys stringa</string>
+    <string name="link_help_stalling">Televizoriaus Wi-Fi ryšys vis trumpam nutrūksta.</string>
+    <string name="link_help_slow">Televizoriaus Wi-Fi ryšys silpnas arba perkrautas.</string>
+    <string name="link_fix_24_title">Prijunkite televizorių prie 2,4 GHz Wi-Fi</string>
+    <string name="link_fix_ethernet_title">Naudokite Ethernet kabelį</string>
+    <string name="link_fix_extender_title">Pastatykite Wi-Fi stiprintuvą pusiaukelėje</string>
+    <string name="link_fix_listen_title">Išjunkite Listen Mode programoje Screen Share</string>
+    <string name="link_fix_closer_title">Perkelkite maršrutizatorių arčiau televizoriaus</string>
+    <string name="link_fix_band_title">Išbandykite kitą Wi-Fi dažnių juostą</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">TV pultas</string>
+    <string name="notify_channel_body">Televizoriaus leidimas, pauzė ir garsumas, kol jis įjungtas</string>
+    <string name="notify_on_tv">Televizoriuje</string>
+    <string name="notify_close">Uždaryti</string>
+    <string name="settings_notification_controls">Medijos valdikliai</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Įveskite televizoriuje rodomą kodą</string>
+    <string name="pair_code_title">Įveskite kodą iš televizoriaus</string>
+    <string name="pair_code_wrong">Kodas netiko. Įveskite naują kodą iš televizoriaus.</string>
+    <string name="pair_code_label">Kodas</string>
+    <string name="pair_code_submit">Susieti</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Demo TV</string>
+    <string name="settings_demo_tv_body">Išbandykite pultą be televizoriaus</string>
+    <string name="settings_demo_tv_listed">Prideda bandomąjį televizorių į sąrašą</string>
+    <string name="settings_help">Pagalba</string>
+    <string name="settings_report">Pranešti apie problemą</string>
+    <string name="settings_privacy">Privatumo politika</string>
+    <string name="settings_reset">Atkurti nustatymus</string>
+    <string name="settings_reset_body">Televizoriai liks susieti</string>
+    <string name="settings_reset_confirm">Bakstelėkite dar kartą, kad atkurtumėte</string>
+    <string name="offline_no_wifi_title">Nėra Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku priima tik kai kurias telefono komandas. Skiltyje Advanced system settings nustatykite Control by mobile apps reikšmę Enabled.</string>
+    <string name="notice_adb_off">Įjunkite ADB derinimą Fire TV įrenginyje: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Išjungta</string>
+    <string name="ambilight_video">Vaizdas</string>
+    <string name="ambilight_audio">Garsas</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Susiekite, kad galėtumėte valdyti Ambilight</string>
+    <string name="ambilight_pin_hint">PIN kodas televizoriuje</string>
+    <string name="ambilight_pin_wrong">Neteisingas PIN kodas. Bandykite naują</string>
+    <string name="search_opens_app">Atidaro %1$s</string>
+    <string name="voice_search">Paieška balsu</string>
+    <string name="voice_stop">Nustoti klausytis</string>
+    <string name="voice_listening">Klausomasi…</string>
+    <string name="voice_mic_off">Mikrofono prieiga išjungta</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC netikėtai užsidarė</string>
+    <string name="crash_send">Siųsti</string>
+    <string name="crash_report_subject">TennaRC strigties ataskaita %1$s</string>
+    <string name="crash_sent">Pranešimas išsiųstas. Ačiū</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Televizoriaus leidimas, pauzė ir garsumas</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Leisti iš šio telefono</string>
+    <string name="phone_mirror">Bendrinti ekraną</string>
+    <string name="phone_mirror_label">Bendrinti šio telefono ekraną</string>
+    <string name="phone_gallery">Galerija</string>
+    <string name="phone_gallery_label">Rodyti nuotrauką ar vaizdo įrašą iš šio telefono</string>
+    <string name="share_cant_play_file">Šis televizorius negali paleisti failų iš telefono</string>
+    <string name="notice_cast_unsupported">Televizorius negali parodyti tokio vaizdo</string>
+    <string name="notice_not_on_tv_network">Prijunkite telefoną prie televizoriaus Wi-Fi, kad galėtumėte leisti jo failus</string>
+    <string name="notice_file_unreadable">Nepavyko perskaityti to failo</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Ieškoma televizorių</string>
+    <string name="setup_choose">Pasirinkite televizorių</string>
+    <string name="setup_none">Televizorių nerasta</string>
+    <string name="setup_search_again">Ieškoti dar kartą</string>
+    <string name="setup_enter_ip">Įveskite IP adresą</string>
+    <string name="setup_ip_label">IP adresas</string>
+    <string name="setup_ip_none">Šiuo adresu neatsakė joks televizorius</string>
+    <string name="setup_connect">Prisijungti</string>
+    <string name="setup_demo">Išbandyti demonstraciją</string>
+    <string name="setup_code_wrong">Patikrinkite kodą televizoriuje</string>
+    <string name="setup_fire_tv_allow">Pažymėkite Always allow, tada OK</string>
+    <string name="setup_adb_title">Įjunkite ADB derinimą</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Įjunkite Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Atlikta</string>
+
+    <string name="dev_link_allow">Leiskite televizoriuje</string>
+    <string name="dev_link_allow_body">Pažymėkite Visada leisti iš šio kompiuterio, tada Gerai</string>
+    <string name="dev_link_away">Televizorius neatsako. Kol pultas atidarytas, bandoma prisijungti automatiškai.</string>
+    <string name="dev_link_away_short">Neatsako</string>
+    <string name="dev_link_body">Rodo visas televizoriaus įvestis ir programas, perjungia įvestis televizoriuose, kurie nepaiso HDMI mygtukų, o kai kuriuose nustato šviesumą. Veikia per televizoriaus derinimo ryšį (ADB). Mygtukai ir rašymas veikia ir be jo.</string>
+    <string name="dev_link_connect">Prisijungti</string>
+    <string name="dev_link_debugging_off">Televizorius atmetė ryšį. Patikrinkite, ar įjungtas USB derinimas. Nuo Android TV 14 kai kurie televizoriai priima tik belaidžio ryšio derinimą, kurio TennaRC dar negali naudoti.</string>
+    <string name="dev_link_debugging_off_short">Televizoriuje išjungtas derinimas</string>
+    <string name="dev_link_forgotten">Televizorius pamiršo šį telefoną – Android TV taip daro su įrenginiais, kurių nematė savaitę. Bandykite dar kartą ir leiskite ryšį televizoriuje.</string>
+    <string name="dev_link_forgotten_short">Televizorius pamiršo šį telefoną</string>
+    <string name="dev_link_not_allowed">Televizoriuje ryšys neleistas. Bandykite dar kartą ir televizoriuje pasirinkite Gerai.</string>
+    <string name="dev_link_not_allowed_short">Televizoriuje neleista</string>
+    <string name="dev_link_off">Išjungta. Prideda įvestis ir visas programas</string>
+    <string name="dev_link_step_allow">Bakstelėkite Prisijungti, tada televizoriuje pažymėkite Visada leisti ir pasirinkite Gerai.</string>
+    <string name="dev_link_step_debugging">Atidarykite Kūrėjo parinktis (šalia Apie) ir įjunkite USB derinimą. Shield įrenginyje tai Tinklo derinimas.</string>
+    <string name="dev_link_step_developer">Televizoriuje atidarykite Nustatymai › Sistema › Apie ir septynis kartus pasirinkite Android TV OS versijos numeris. Senesniuose televizoriuose: Įrenginio nuostatos › Apie › Versijos numeris.</string>
+    <string name="dev_link_title">Kūrėjo ryšys</string>
+    <string name="dev_link_turn_off">Išjungti</string>
+    <string name="dev_link_wireless">Įjungtas tik belaidžio ryšio derinimas, kurio TennaRC dar negali naudoti. Įjunkite ir USB derinimą arba vieną kartą susiekite iš kompiuterio ir paleiskite adb tcpip 5555 – tai veiks, kol televizorius bus paleistas iš naujo.</string>
+    <string name="dev_link_wireless_short">Įjungtas tik belaidžio ryšio derinimas</string>
+    <string name="settings_edit_tv">Redaguoti</string>
+    <string name="settings_find_titles">Ieškoti filmų ir vaizdo įrašų</string>
+    <string name="find_titles_ask">Kad juos rastų, TennaRC siunčia tai, ką įvedate, į YouTube, JustWatch ir Wikidata. Tai galite pakeisti nustatymuose.</string>
+    <string name="find_titles_not_now">Ne dabar</string>
+</resources>

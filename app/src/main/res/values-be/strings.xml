@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Адправіць на тэлевізар</string>
+    <string name="tile_label">Пульт</string>
+    <string name="shortcut_link">Пошук</string>
+    <string name="shortcut_keyboard">Набіраць на тэлевізары</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Падключана</string>
+    <string name="status_connecting">Падключэнне…</string>
+    <string name="status_awaiting">Пацвердзіце на тэлевізары</string>
+    <string name="status_offline">Тэлевізар, здаецца, выключаны</string>
+    <string name="status_not_paired">Яшчэ не спалучана</string>
+    <string name="status_standby">У рэжыме чакання</string>
+    <string name="status_screen_off">Экран выключаны, звук уключаны</string>
+    <string name="standby_title">Тэлевізар выключаны</string>
+    <string name="action_turn_on">Уключыць</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Спалучэнне з тэлевізарам</string>
+    <string name="pair_body">Пацвердзіце на тэлевізары, калі ён папросіць.</string>
+    <string name="pair_declined_body">Тэлевізар адмовіў. Гэтым разам выберыце Прыняць.</string>
+    <string name="pair_action">Спалучыць</string>
+    <string name="pair_timeout_body">Тэлевізар не адказвае.</string>
+    <string name="pair_forgotten_body">Тэлевізар забыў гэты тэлефон.</string>
+    <string name="approval_title">Пацвердзіце на тэлевізары</string>
+    <string name="connecting_title">Падключэнне…</string>
+    <string name="offline_title">Тэлевізар, здаецца, выключаны</string>
+    <string name="action_retry">Паўтарыць</string>
+    <string name="action_cancel">Скасаваць</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Пошук</string>
+    <string name="touchpad_label">Сэнсарная панэль. Перацягвайце, каб перамяшчаць указальнік, націсніце, каб пстрыкнуць, і перацягвайце двума пальцамі, каб пракручваць.</string>
+    <string name="dpad_label">Кнопкі напрамку</string>
+    <string name="key_up">Уверх</string>
+    <string name="key_down">Уніз</string>
+    <string name="key_left">Улева</string>
+    <string name="key_right">Управа</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Назад</string>
+    <string name="key_home">Галоўная</string>
+    <string name="key_keyboard">Клавіатура</string>
+    <string name="key_touchpad">Сэнсарная панэль</string>
+    <string name="key_dpad">Стрэлкі</string>
+    <string name="key_more">Яшчэ</string>
+    <string name="key_rewind">Пераматаць назад</string>
+    <string name="key_play">Прайграць</string>
+    <string name="key_pause">Паўза</string>
+    <string name="key_fast_forward">Пераматаць наперад</string>
+    <string name="key_stop">Спыніць</string>
+    <string name="key_volume_up">Гучней</string>
+    <string name="key_volume_down">Цішэй</string>
+    <string name="key_mute">Выключыць гук</string>
+    <string name="key_unmute">Уключыць гук</string>
+    <string name="volume_value">Гучнасць %1$d</string>
+    <string name="volume_unknown">Гучнасць невядомая</string>
+    <string name="volume_muted">Гук выключаны</string>
+    <string name="power">Сілкаванне</string>
+    <string name="settings">Налады</string>
+    <string name="all_apps">Усе праграмы</string>
+    <string name="inputs">Уваходы</string>
+    <string name="picture_title">Выява</string>
+    <string name="picture_standard">Стандартная</string>
+    <string name="picture_vivid">Жывая</string>
+    <string name="picture_cinema">Кіно</string>
+    <string name="picture_game">Гра</string>
+    <string name="picture_sports">Спорт</string>
+    <string name="picture_eco">Эка</string>
+    <string name="picture_expert">Эксперт</string>
+    <string name="picture_backlight">Яркасць</string>
+    <string name="sound_title">Гук</string>
+    <string name="sound_tv">Дынамікі тэлевізара</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Оптычны</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Навушнікі</string>
+    <string name="sound_tv_short">Дынамікі</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Лінейны выхід</string>
+    <string name="more_subtitles">Субтытры</string>
+    <string name="more_audio_track">Аўдыя</string>
+    <string name="sleep_title">Таймер выключэння</string>
+    <string name="sleep_minutes">%1$d хв</string>
+    <string name="sleep_at">Выключыцца а %1$s</string>
+    <string name="sleep_cancel">Скасаваць таймер</string>
+    <string name="app_on_screen">%1$s, зараз на экране</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Запускаецца на тэлевізары…</string>
+    <string name="cast_playing">Прайграецца на тэлевізары</string>
+    <string name="cast_paused">Прыпынена</string>
+    <string name="cast_stalled">Відэа не рухаецца. Сервер відэа яшчэ працуе?</string>
+    <string name="cast_play">Працягнуць</string>
+    <string name="cast_pause">Паўза</string>
+    <string name="cast_stop">Спыніць прайграванне на тэлевізары</string>
+    <string name="cast_position">Пазіцыя прайгравання</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Закрыць пошук</string>
+    <string name="tv_picker">Тэлевізары, зараз %1$s</string>
+    <string name="tv_picker_add_short">Дадаць</string>
+    <string name="hold_hide">Сховаць</string>
+    <string name="hold_rename">Перайменаваць</string>
+    <string name="rename_input">Перайменаваць уваход</string>
+    <string name="rename_save">Захаваць</string>
+    <string name="rename_reset">Выкарыстоўваць назву тэлевізара</string>
+    <string name="more_channel_list">Спіс</string>
+    <string name="more_guide">Праграма</string>
+    <string name="input_label">%1$s, уваход</string>
+    <string name="channel_label">%2$s, канал %1$s</string>
+    <string name="on_screen_now">Зараз на экране</string>
+    <string name="deck_expanded">Развернута</string>
+    <string name="deck_collapsed">Згорнута</string>
+    <string name="channel_hidden">%1$s схавана</string>
+    <string name="action_undo">Адмяніць</string>
+    <string name="offline_switch">Выкарыстоўваць %1$s</string>
+    <string name="search_picks">Папулярнае зараз</string>
+    <string name="search_clear">Ачысціць</string>
+    <string name="search_fill">Уставіць у поле пошуку</string>
+    <string name="search_type_on_tv">Набіраць на тэлевізары</string>
+    <string name="search_in_app">Пошук у %1$s</string>
+    <string name="search_web">Пошук праз %1$s</string>
+    <string name="link_paste">Уставіць</string>
+    <string name="link_recent">Апошнія</string>
+    <string name="link_clear_recent">Ачысціць</string>
+    <string name="link_kind_youtube">Відэа YouTube</string>
+    <string name="link_kind_video">Відэафайл</string>
+    <string name="link_kind_audio">Аўдыяфайл</string>
+    <string name="link_kind_image">Выява</string>
+    <string name="link_kind_web">Вэб-старонка</string>
+    <string name="link_action_app">Адкрыць у %1$s</string>
+    <string name="link_action_media">Прайграць на тэлевізары</string>
+    <string name="link_action_browser">Адкрыць у браўзеры тэлевізара</string>
+    <string name="link_sending">Адпраўляецца…</string>
+    <string name="link_sent">Адкрыта на тэлевізары</string>
+    <string name="link_failed">Тэлевізар не адкрыў гэта. Паспрабуйце яшчэ раз.</string>
+
+    <!-- Share -->
+    <string name="share_title">Адправіць на тэлевізар</string>
+    <string name="share_no_link">У тым, чым вы падзяліліся, няма спасылкі.</string>
+    <string name="share_not_paired">Гэты тэлефон яшчэ не спалучаны з тэлевізарам.</string>
+    <string name="share_open_app">Адкрыць пульт</string>
+    <string name="share_waiting">Падключэнне…</string>
+    <string name="share_cant_open">Гэты тэлевізар не можа адкрываць спасылкі %1$s</string>
+    <string name="action_close">Закрыць</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Клавіатура</string>
+    <string name="keyboard_placeholder_waiting">Выберыце поле на тэлевізары</string>
+    <string name="keyboard_backspace">Сцерці</string>
+    <string name="keyboard_clear">Ачысціць</string>
+    <string name="keyboard_enter">Увод</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d сімвал ужо на тэлевізары</item>
+        <item quantity="few">%1$d сімвалы ўжо на тэлевізары</item>
+        <item quantity="many">%1$d сімвалаў ужо на тэлевізары</item>
+        <item quantity="other">%1$d сімвала ўжо на тэлевізары</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Яшчэ</string>
+    <string name="more_menu">Налады</string>
+    <string name="more_quick">Хуткае меню</string>
+    <string name="more_quick_short">Меню</string>
+    <string name="more_info">Звесткі</string>
+    <string name="more_inputs">Уваходы</string>
+    <string name="more_exit">Выйсці</string>
+    <string name="more_channel_up">Наступны канал</string>
+    <string name="more_channel_down">Папярэдні канал</string>
+    <string name="more_red">Чырвоны</string>
+    <string name="more_green">Зелены</string>
+    <string name="more_yellow">Жоўты</string>
+    <string name="more_blue">Сіны</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Сілкаванне</string>
+    <string name="power_screen_off">Толькі гук</string>
+    <string name="power_off">Выключыць тэлевізар</string>
+    <string name="power_off_confirm">Націсніце яшчэ раз, каб выключыць</string>
+    <string name="power_turn_off">Выключыць</string>
+    <string name="power_tap_again">Націсніце яшчэ раз</string>
+    <string name="switch_on">Уключана</string>
+    <string name="switch_off">Выключана</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Налады</string>
+    <string name="settings_tv">Тэлевізар</string>
+    <string name="settings_name">Назва</string>
+    <string name="settings_host">Адрас</string>
+    <string name="settings_host_invalid">Увядзіце IP-адрас або імя хоста</string>
+    <string name="settings_mac">MAC-адрас (каб уключыць)</string>
+    <string name="settings_mac_invalid">Шэсць пар шаснаццатковых лічбаў, напрыклад 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Знайсці тэлевізары паблізу</string>
+    <string name="settings_finding">Пошук тэлевізараў…</string>
+    <string name="settings_found_none">Ні адзін тэлевізар не адказаў.</string>
+    <string name="settings_found_no_new">Іншых тэлевізараў не знойдзена</string>
+    <string name="settings_in_use">Выкарыстоўваецца</string>
+    <string name="settings_add">Дадаць</string>
+    <string name="settings_forget_tv">Забыць %1$s</string>
+    <string name="settings_use_tv">Выкарыстоўваць гэты тэлевізар</string>
+    <string name="settings_remove_tv">Выдаліць</string>
+    <string name="settings_remove_confirm">Націсніце яшчэ раз, каб выдаліць</string>
+    <string name="settings_move_up">Перамясціць уверх</string>
+    <string name="settings_move_down">Перамясціць уніз</string>
+    <string name="settings_sensitivity">Адчувальнасць</string>
+    <string name="settings_touchpad">Сэнсарная панэль</string>
+    <string name="settings_phone">Тэлефон</string>
+    <string name="settings_natural_scroll">Натуральная пракрутка</string>
+    <string name="settings_scroll_strip">Паласа пракруткі</string>
+    <string name="settings_hidden">Схаваныя</string>
+    <string name="settings_show">Паказаць</string>
+    <string name="settings_theme">Тэма</string>
+    <string name="settings_theme_auto">Аўтаматычна</string>
+    <string name="settings_language">Мова</string>
+    <string name="settings_theme_system">Сістэма</string>
+    <string name="settings_theme_light">Светлая</string>
+    <string name="settings_theme_dark">Цёмная</string>
+    <string name="settings_scroll_strip_right">Справа</string>
+    <string name="settings_scroll_strip_left">Злева</string>
+    <string name="settings_scroll_strip_off">Выключана</string>
+    <string name="settings_search_engine">Вэб-пошук</string>
+    <string name="settings_search">Пошук</string>
+    <string name="settings_find_titles">Пошук фільмаў і відэа</string>
+    <string name="find_titles_ask">Каб знайсці іх, TennaRC адпраўляе тое, што вы ўводзіце, у YouTube, JustWatch і Wikidata. Гэта можна змяніць у наладах.</string>
+    <string name="find_titles_not_now">Не зараз</string>
+    <string name="settings_volume_keys">Кнопкі гучнасці</string>
+    <string name="settings_auto_keyboard">Аўтаклавіатура</string>
+    <string name="settings_haptics">Вібрацыя</string>
+    <string name="settings_keep_screen_on">Не выключаць экран</string>
+    <string name="settings_forget">Забыць спалучэнне</string>
+    <string name="settings_forget_body">Наступным разам тэлевізар спытае зноў</string>
+    <string name="settings_forget_confirm">Націсніце яшчэ раз, каб забыць</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Няма падключэння да тэлевізара</string>
+    <string name="notice_command_failed">Тэлевізар не адрэагаваў на гэта</string>
+    <string name="notice_launch_failed">Не ўдалося адкрыць гэтую праграму</string>
+    <string name="notice_open_failed">Тэлевізару не ўдалося адкрыць спасылку</string>
+    <string name="notice_no_renderer">Медыяпрайгравальнік тэлевізара не адказвае. Ён уключаны?</string>
+    <string name="notice_cast_failed">Тэлевізару не ўдалося прайграць гэтую спасылку</string>
+    <string name="notice_wake_sent">Сігнал уключэння адпраўлены</string>
+    <string name="notice_tv_moved">Тэлевізар знойдзены па новым адрасе</string>
+    <string name="notice_wake_failed">Не ўдалося адправіць сігнал уключэння. Праверце MAC-адрас.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Павольнае злучэнне</string>
+    <string name="link_help_stalling">Wi-Fi тэлевізара раз-пораз ненадоўга знікае.</string>
+    <string name="link_help_slow">Wi-Fi тэлевізара слабы або перагружаны.</string>
+    <string name="link_fix_24_title">Падключыце тэлевізар да Wi-Fi 2,4 ГГц</string>
+    <string name="link_fix_ethernet_title">Выкарыстоўвайце кабель Ethernet</string>
+    <string name="link_fix_extender_title">Пастаўце Wi-Fi-рэтранслятар на паўдарозе</string>
+    <string name="link_fix_listen_title">Выключыце Listen Mode у Screen Share</string>
+    <string name="link_fix_closer_title">Перастаўце маршрутызатар бліжэй да тэлевізара</string>
+    <string name="link_fix_band_title">Паспрабуйце іншы дыяпазон Wi-Fi</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Пульт тэлевізара</string>
+    <string name="notify_channel_body">Прайграванне, паўза і гучнасць тэлевізара, пакуль ён уключаны</string>
+    <string name="notify_on_tv">На тэлевізары</string>
+    <string name="notify_close">Закрыць</string>
+    <string name="settings_notification_controls">Кіраванне медыя</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Увядзіце код, паказаны на тэлевізары</string>
+    <string name="pair_code_title">Увядзіце код з тэлевізара</string>
+    <string name="pair_code_wrong">Код не супаў. Паспрабуйце новы код на тэлевізары.</string>
+    <string name="pair_code_label">Код</string>
+    <string name="pair_code_submit">Спалучыць</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Дэма</string>
+    <string name="settings_demo_tv_body">Паспрабуйце пульт без тэлевізара</string>
+    <string name="settings_demo_tv_listed">Дадае ўяўны тэлевізар да вашых тэлевізараў</string>
+    <string name="settings_help">Даведка</string>
+    <string name="settings_report">Паведаміць пра праблему</string>
+    <string name="settings_privacy">Палітыка прыватнасці</string>
+    <string name="settings_reset">Скінуць налады</string>
+    <string name="settings_reset_body">Тэлевізары застануцца спалучанымі</string>
+    <string name="settings_reset_confirm">Націсніце яшчэ раз, каб скінуць</string>
+    <string name="offline_no_wifi_title">Няма Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku прымае з тэлефонаў толькі некаторыя каманды. У Advanced system settings задайце для Control by mobile apps значэнне Enabled.</string>
+    <string name="notice_adb_off">Уключыце адладку ADB на Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Выключана</string>
+    <string name="ambilight_video">Відэа</string>
+    <string name="ambilight_audio">Гук</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Спалучыце, каб кіраваць Ambilight</string>
+    <string name="ambilight_pin_hint">PIN на тэлевізары</string>
+    <string name="ambilight_pin_wrong">Няправільны PIN. Паспрабуйце новы</string>
+    <string name="search_opens_app">Адкрывае %1$s</string>
+    <string name="voice_search">Галасавы пошук</string>
+    <string name="voice_stop">Спыніць праслухоўванне</string>
+    <string name="voice_listening">Слухаю…</string>
+    <string name="voice_mic_off">Доступ да мікрофона выключаны</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC закрыўся нечаканна</string>
+    <string name="crash_send">Адправіць</string>
+    <string name="crash_report_subject">Справаздача пра збой TennaRC %1$s</string>
+    <string name="crash_sent">Справаздача адпраўлена. Дзякуй</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Прайграванне, паўза і гучнасць тэлевізара</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Прайграць з гэтага тэлефона</string>
+    <string name="phone_mirror">Дубляваць</string>
+    <string name="phone_mirror_label">Дубляваць экран гэтага тэлефона</string>
+    <string name="phone_gallery">Галерэя</string>
+    <string name="phone_gallery_label">Паказаць фота або відэа з гэтага тэлефона</string>
+    <string name="share_cant_play_file">Гэты тэлевізар не можа прайграваць файлы з тэлефона</string>
+    <string name="notice_cast_unsupported">Тэлевізар не можа паказаць такую выяву</string>
+    <string name="notice_not_on_tv_network">Падключыце тэлефон да Wi-Fi тэлевізара, каб прайграваць яго файлы</string>
+    <string name="notice_file_unreadable">Не ўдалося прачытаць гэты файл</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Пошук тэлевізараў</string>
+    <string name="setup_choose">Выберыце тэлевізар</string>
+    <string name="setup_none">Тэлевізары не знойдзены</string>
+    <string name="setup_search_again">Шукаць зноў</string>
+    <string name="setup_enter_ip">Увядзіце IP-адрас</string>
+    <string name="setup_ip_label">IP-адрас</string>
+    <string name="setup_ip_none">Па гэтым адрасе ні адзін тэлевізар не адказаў</string>
+    <string name="setup_connect">Падключыцца</string>
+    <string name="setup_demo">Паспрабаваць дэма</string>
+    <string name="setup_code_wrong">Праверце код на тэлевізары</string>
+    <string name="setup_fire_tv_allow">Адзначце Always allow, потым OK</string>
+    <string name="setup_adb_title">Уключыце адладку ADB</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Уключыце Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Гатова</string>
+    <string name="settings_edit_tv">Рэдагаваць</string>
+    <string name="dev_link_title">Падключэнне распрацоўшчыка</string>
+    <string name="dev_link_body">Паказвае ўласныя ўваходы тэлевізара і ўсе яго праграмы, пераключае ўваходы на тэлевізарах, якія ігнаруюць кнопкі HDMI, і на некаторых наладжвае яркасць. Працуе праз падключэнне для адладкі тэлевізара (ADB). Кнопкі і набор тэксту працуюць і без яго.</string>
+    <string name="dev_link_step_developer">На тэлевізары адкрыйце Налады › Сістэма › Пра прыладу і сем разоў выберыце Зборка АС Android TV. На старых тэлевізарах гэта Device Preferences › About › Build.</string>
+    <string name="dev_link_step_debugging">Адкрыйце Параметры распрацоўшчыка побач з Пра прыладу і ўключыце адладку па USB. На Shield гэта Network debugging.</string>
+    <string name="dev_link_step_allow">Націсніце Падключыць, потым на тэлевізары адзначце Заўсёды дазваляць і выберыце ОК.</string>
+    <string name="dev_link_connect">Падключыць</string>
+    <string name="dev_link_allow">Дазвольце на тэлевізары</string>
+    <string name="dev_link_allow_body">Адзначце Заўсёды дазваляць з гэтага камп’ютара, потым ОК</string>
+    <string name="dev_link_turn_off">Выключыць</string>
+    <string name="dev_link_off">Выключана. Дадае ўваходы і ўсе праграмы</string>
+    <string name="dev_link_away">Тэлевізар не адказвае. Пакуль пульт адкрыты, спробы працягваюцца аўтаматычна.</string>
+    <string name="dev_link_away_short">Няма адказу</string>
+    <string name="dev_link_debugging_off">Тэлевізар адхіліў падключэнне. Праверце, ці ўключана адладка па USB. З Android TV 14 некаторыя тэлевізары прымаюць толькі бесправадную адладку, якую TennaRC пакуль не можа выкарыстоўваць.</string>
+    <string name="dev_link_debugging_off_short">Адладка на тэлевізары выключана</string>
+    <string name="dev_link_wireless">Уключана толькі бесправадная адладка, якую TennaRC пакуль не можа выкарыстоўваць. Уключыце таксама адладку па USB або адзін раз спалучыце з камп’ютара і выканайце adb tcpip 5555 — гэта дзейнічае да перазапуску тэлевізара.</string>
+    <string name="dev_link_wireless_short">Уключана толькі бесправадная адладка</string>
+    <string name="dev_link_not_allowed">На тэлевізары ніхто не дазволіў. Паспрабуйце яшчэ раз і выберыце там ОК.</string>
+    <string name="dev_link_not_allowed_short">Не дазволена на тэлевізары</string>
+    <string name="dev_link_forgotten">Тэлевізар забыў гэты тэлефон: так Android TV робіць з прыладамі, якіх не бачыў тыдзень. Паспрабуйце яшчэ раз і дазвольце на тэлевізары.</string>
+    <string name="dev_link_forgotten_short">Тэлевізар забыў гэты тэлефон</string>
+</resources>

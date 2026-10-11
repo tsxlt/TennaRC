@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Hantar ke TV</string>
+    <string name="tile_label">Kawalan jauh TV</string>
+    <string name="shortcut_link">Cari</string>
+    <string name="shortcut_keyboard">Taip di TV</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Bersambung</string>
+    <string name="status_connecting">Menyambung…</string>
+    <string name="status_awaiting">Terima di TV</string>
+    <string name="status_offline">TV mungkin dimatikan</string>
+    <string name="status_not_paired">Belum dipasangkan</string>
+    <string name="status_standby">Dalam mod tunggu</string>
+    <string name="status_screen_off">Skrin mati, bunyi hidup</string>
+    <string name="standby_title">TV dimatikan</string>
+    <string name="action_turn_on">Hidupkan</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Pasangkan dengan TV</string>
+    <string name="pair_body">Terima di TV apabila diminta.</string>
+    <string name="pair_declined_body">TV menolak. Kali ini pilih Terima.</string>
+    <string name="pair_action">Pasangkan</string>
+    <string name="pair_timeout_body">Tiada respons daripada TV.</string>
+    <string name="pair_forgotten_body">TV telah melupakan telefon ini.</string>
+    <string name="approval_title">Terima di TV</string>
+    <string name="connecting_title">Menyambung…</string>
+    <string name="offline_title">TV mungkin dimatikan</string>
+    <string name="action_retry">Cuba lagi</string>
+    <string name="action_cancel">Batal</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Cari</string>
+    <string name="touchpad_label">Pad sentuh. Seret untuk menggerakkan penuding, ketik untuk klik, seret dengan dua jari untuk menatal.</string>
+    <string name="dpad_label">Butang arah</string>
+    <string name="key_up">Atas</string>
+    <string name="key_down">Bawah</string>
+    <string name="key_left">Kiri</string>
+    <string name="key_right">Kanan</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Kembali</string>
+    <string name="key_home">Skrin utama</string>
+    <string name="key_keyboard">Papan kunci</string>
+    <string name="key_touchpad">Pad sentuh</string>
+    <string name="key_dpad">Anak panah</string>
+    <string name="key_more">Lagi</string>
+    <string name="key_rewind">Undur</string>
+    <string name="key_play">Main</string>
+    <string name="key_pause">Jeda</string>
+    <string name="key_fast_forward">Mara laju</string>
+    <string name="key_stop">Berhenti</string>
+    <string name="key_volume_up">Naikkan kelantangan</string>
+    <string name="key_volume_down">Turunkan kelantangan</string>
+    <string name="key_mute">Senyapkan</string>
+    <string name="key_unmute">Nyahsenyap</string>
+    <string name="volume_value">Kelantangan %1$d</string>
+    <string name="volume_unknown">Kelantangan, tahap tidak diketahui</string>
+    <string name="volume_muted">Disenyapkan</string>
+    <string name="power">Kuasa</string>
+    <string name="settings">Tetapan</string>
+    <string name="all_apps">Semua apl</string>
+    <string name="inputs">Input</string>
+    <string name="picture_title">Gambar</string>
+    <string name="picture_standard">Piawai</string>
+    <string name="picture_vivid">Cerah</string>
+    <string name="picture_cinema">Sinema</string>
+    <string name="picture_game">Permainan</string>
+    <string name="picture_sports">Sukan</string>
+    <string name="picture_eco">Eko</string>
+    <string name="picture_expert">Pakar</string>
+    <string name="picture_backlight">Kecerahan</string>
+    <string name="sound_title">Bunyi</string>
+    <string name="sound_tv">Pembesar suara TV</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optik</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Fon kepala</string>
+    <string name="sound_tv_short">Pembesar suara</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Keluaran talian</string>
+    <string name="more_subtitles">Sarikata</string>
+    <string name="more_audio_track">Audio</string>
+    <string name="sleep_title">Pemasa tidur</string>
+    <string name="sleep_minutes">%1$d minit</string>
+    <string name="sleep_at">Matikan pada %1$s</string>
+    <string name="sleep_cancel">Batal pemasa</string>
+    <string name="app_on_screen">%1$s, sedang ditayangkan</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Bermula di TV…</string>
+    <string name="cast_playing">Dimainkan di TV</string>
+    <string name="cast_paused">Dijeda</string>
+    <string name="cast_stalled">Tidak bergerak. Adakah pelayan video masih aktif?</string>
+    <string name="cast_play">Teruskan</string>
+    <string name="cast_pause">Jeda</string>
+    <string name="cast_stop">Berhenti memainkan di TV</string>
+    <string name="cast_position">Kedudukan main balik</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Tutup carian</string>
+    <string name="tv_picker">TV, sekarang %1$s</string>
+    <string name="tv_picker_add_short">Tambah</string>
+    <string name="hold_hide">Sembunyikan</string>
+    <string name="hold_rename">Namakan semula</string>
+    <string name="rename_input">Namakan semula input</string>
+    <string name="rename_save">Simpan</string>
+    <string name="rename_reset">Gunakan nama daripada TV</string>
+    <string name="more_channel_list">Senarai</string>
+    <string name="more_guide">Panduan</string>
+    <string name="input_label">%1$s, input</string>
+    <string name="channel_label">%2$s, saluran %1$s</string>
+    <string name="on_screen_now">Sedang ditayangkan</string>
+    <string name="deck_expanded">Dikembangkan</string>
+    <string name="deck_collapsed">Dikuncupkan</string>
+    <string name="channel_hidden">%1$s disembunyikan</string>
+    <string name="action_undo">Buat asal</string>
+    <string name="offline_switch">Gunakan %1$s</string>
+    <string name="search_picks">Sohor kini</string>
+    <string name="search_clear">Kosongkan</string>
+    <string name="search_fill">Letak dalam kotak carian</string>
+    <string name="search_type_on_tv">Taip di TV</string>
+    <string name="search_in_app">Cari dalam %1$s</string>
+    <string name="search_web">Cari dengan %1$s</string>
+    <string name="link_paste">Tampal</string>
+    <string name="link_recent">Terkini</string>
+    <string name="link_clear_recent">Kosongkan</string>
+    <string name="link_kind_youtube">Video YouTube</string>
+    <string name="link_kind_video">Fail video</string>
+    <string name="link_kind_audio">Fail audio</string>
+    <string name="link_kind_image">Gambar</string>
+    <string name="link_kind_web">Halaman web</string>
+    <string name="link_action_app">Buka dalam %1$s</string>
+    <string name="link_action_media">Main di TV</string>
+    <string name="link_action_browser">Buka dalam pelayar TV</string>
+    <string name="link_sending">Menghantar…</string>
+    <string name="link_sent">Dibuka di TV</string>
+    <string name="link_failed">TV tidak membukanya. Cuba lagi.</string>
+
+    <!-- Share -->
+    <string name="share_title">Hantar ke TV</string>
+    <string name="share_no_link">Tiada pautan dalam apa yang anda kongsi.</string>
+    <string name="share_not_paired">Telefon ini belum dipasangkan dengan TV.</string>
+    <string name="share_open_app">Buka kawalan jauh</string>
+    <string name="share_waiting">Menyambung…</string>
+    <string name="share_cant_open">TV ini tidak boleh membuka pautan %1$s</string>
+    <string name="action_close">Tutup</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Papan kunci</string>
+    <string name="keyboard_placeholder_waiting">Pilih kotak teks di TV</string>
+    <string name="keyboard_backspace">Undur ruang</string>
+    <string name="keyboard_clear">Kosongkan</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="other">%1$d aksara sudah ada di TV</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Lagi</string>
+    <string name="more_menu">Tetapan</string>
+    <string name="more_quick">Menu pantas</string>
+    <string name="more_quick_short">Menu</string>
+    <string name="more_info">Info</string>
+    <string name="more_inputs">Input</string>
+    <string name="more_exit">Keluar</string>
+    <string name="more_channel_up">Saluran seterusnya</string>
+    <string name="more_channel_down">Saluran sebelumnya</string>
+    <string name="more_red">Merah</string>
+    <string name="more_green">Hijau</string>
+    <string name="more_yellow">Kuning</string>
+    <string name="more_blue">Biru</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Kuasa</string>
+    <string name="power_screen_off">Matikan skrin</string>
+    <string name="power_off">Matikan TV</string>
+    <string name="power_off_confirm">Ketik lagi untuk mematikan</string>
+    <string name="power_turn_off">Matikan</string>
+    <string name="power_tap_again">Ketik lagi</string>
+    <string name="switch_on">Hidup</string>
+    <string name="switch_off">Mati</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Tetapan</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Nama</string>
+    <string name="settings_host">Alamat</string>
+    <string name="settings_host_invalid">Masukkan alamat IP atau nama hos</string>
+    <string name="settings_mac">Alamat MAC (untuk menghidupkannya)</string>
+    <string name="settings_mac_invalid">Enam pasang digit heksadesimal, seperti 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Cari TV berdekatan</string>
+    <string name="settings_finding">Mencari TV…</string>
+    <string name="settings_found_none">Tiada TV yang menjawab.</string>
+    <string name="settings_found_no_new">Tiada TV lain ditemui</string>
+    <string name="settings_in_use">Sedang digunakan</string>
+    <string name="settings_add">Tambah</string>
+    <string name="settings_forget_tv">Lupakan %1$s</string>
+    <string name="settings_use_tv">Gunakan TV ini</string>
+    <string name="settings_remove_tv">Alih keluar</string>
+    <string name="settings_remove_confirm">Ketik lagi untuk mengalih keluar</string>
+    <string name="settings_move_up">Alih ke atas</string>
+    <string name="settings_move_down">Alih ke bawah</string>
+    <string name="settings_sensitivity">Kepekaan</string>
+    <string name="settings_touchpad">Pad sentuh</string>
+    <string name="settings_phone">Telefon</string>
+    <string name="settings_natural_scroll">Tatal semula jadi</string>
+    <string name="settings_scroll_strip">Jalur tatal</string>
+    <string name="settings_hidden">Tersembunyi</string>
+    <string name="settings_show">Tunjukkan</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_auto">Automatik</string>
+    <string name="settings_language">Bahasa</string>
+    <string name="settings_theme_system">Sistem</string>
+    <string name="settings_theme_light">Cerah</string>
+    <string name="settings_theme_dark">Gelap</string>
+    <string name="settings_scroll_strip_right">Kanan</string>
+    <string name="settings_scroll_strip_left">Kiri</string>
+    <string name="settings_scroll_strip_off">Mati</string>
+    <string name="settings_search_engine">Carian web</string>
+    <string name="settings_search">Carian</string>
+    
+    <string name="settings_volume_keys">Butang kelantangan</string>
+    <string name="settings_auto_keyboard">Papan kunci automatik</string>
+    <string name="settings_haptics">Getaran</string>
+    <string name="settings_keep_screen_on">Pastikan skrin hidup</string>
+    <string name="settings_forget">Lupakan pasangan</string>
+    <string name="settings_forget_body">TV akan bertanya lagi lain kali</string>
+    <string name="settings_forget_confirm">Ketik lagi untuk melupakan</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Tidak bersambung ke TV</string>
+    <string name="notice_command_failed">TV tidak bertindak balas kepada arahan itu</string>
+    <string name="notice_launch_failed">Tidak dapat membuka apl itu</string>
+    <string name="notice_open_failed">TV tidak dapat membuka pautan</string>
+    <string name="notice_no_renderer">Pemain media TV tidak menjawab. Adakah TV dihidupkan?</string>
+    <string name="notice_cast_failed">TV tidak dapat memainkan pautan itu</string>
+    <string name="notice_wake_sent">Isyarat hidupkan dihantar</string>
+    <string name="notice_tv_moved">TV ditemui di alamat baharu</string>
+    <string name="notice_wake_failed">Tidak dapat menghantar isyarat hidupkan. Semak alamat MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Sambungan tersekat-sekat</string>
+    <string name="link_help_stalling">Wi-Fi TV kerap terputus seketika.</string>
+    <string name="link_help_slow">Wi-Fi TV lemah atau sibuk.</string>
+    <string name="link_fix_24_title">Sambungkan TV ke Wi-Fi 2.4 GHz</string>
+    <string name="link_fix_ethernet_title">Gunakan kabel Ethernet</string>
+    <string name="link_fix_extender_title">Pasang penguat Wi-Fi di pertengahan</string>
+    <string name="link_fix_listen_title">Matikan Listen Mode dalam Screen Share</string>
+    <string name="link_fix_closer_title">Alihkan penghala lebih dekat ke TV</string>
+    <string name="link_fix_band_title">Cuba jalur Wi-Fi yang lain</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Kawalan jauh TV</string>
+    <string name="notify_channel_body">Main, jeda dan kelantangan TV semasa dihidupkan</string>
+    <string name="notify_on_tv">Di TV</string>
+    <string name="notify_close">Tutup</string>
+    <string name="settings_notification_controls">Kawalan media</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Taip kod yang ditunjukkan di TV</string>
+    <string name="pair_code_title">Masukkan kod daripada TV</string>
+    <string name="pair_code_wrong">Kod tidak sepadan. Masukkan kod baharu pada TV.</string>
+    <string name="pair_code_label">Kod</string>
+    <string name="pair_code_submit">Pasangkan</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Demo TV</string>
+    <string name="settings_demo_tv_body">Cuba kawalan jauh tanpa TV</string>
+    <string name="settings_demo_tv_listed">Menambah TV olok-olok pada senarai TV anda</string>
+    <string name="settings_help">Bantuan</string>
+    <string name="settings_report">Laporkan masalah</string>
+    <string name="settings_privacy">Dasar privasi</string>
+    <string name="settings_reset">Tetapkan semula tetapan</string>
+    <string name="settings_reset_body">TV anda kekal berpasangan</string>
+    <string name="settings_reset_confirm">Ketik lagi untuk menetapkan semula</string>
+    <string name="offline_no_wifi_title">Tiada Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku hanya menerima sebahagian arahan daripada telefon. Dalam Advanced system settings, tetapkan Control by mobile apps kepada Enabled.</string>
+    <string name="notice_adb_off">Hidupkan penyahpepijatan ADB pada Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Mati</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Audio</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Pasangkan untuk mengawal Ambilight</string>
+    <string name="ambilight_pin_hint">PIN di TV</string>
+    <string name="ambilight_pin_wrong">PIN salah. Cuba yang baru</string>
+    <string name="search_opens_app">Membuka %1$s</string>
+    <string name="voice_search">Carian suara</string>
+    <string name="voice_stop">Berhenti mendengar</string>
+    <string name="voice_listening">Mendengar…</string>
+    <string name="voice_mic_off">Akses mikrofon dimatikan</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC ditutup secara mendadak</string>
+    <string name="crash_send">Hantar</string>
+    <string name="crash_report_subject">Laporan ranap TennaRC %1$s</string>
+    <string name="crash_sent">Laporan dihantar. Terima kasih</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Main, jeda dan kelantangan TV</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Main daripada telefon ini</string>
+    <string name="phone_mirror">Cerminkan</string>
+    <string name="phone_mirror_label">Cerminkan skrin telefon ini</string>
+    <string name="phone_gallery">Galeri</string>
+    <string name="phone_gallery_label">Tunjukkan foto atau video daripada telefon ini</string>
+    <string name="share_cant_play_file">TV ini tidak dapat memainkan fail daripada telefon</string>
+    <string name="notice_cast_unsupported">TV tidak dapat menunjukkan jenis gambar ini</string>
+    <string name="notice_not_on_tv_network">Sambungkan telefon ke Wi-Fi TV untuk memainkan fail telefon</string>
+    <string name="notice_file_unreadable">Tidak dapat membaca fail itu</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Mencari TV</string>
+    <string name="setup_choose">Pilih TV anda</string>
+    <string name="setup_none">Tiada TV ditemui</string>
+    <string name="setup_search_again">Cari lagi</string>
+    <string name="setup_enter_ip">Masukkan alamat IP</string>
+    <string name="setup_ip_label">Alamat IP</string>
+    <string name="setup_ip_none">Tiada TV yang menjawab di alamat itu</string>
+    <string name="setup_connect">Sambung</string>
+    <string name="setup_demo">Cuba demo</string>
+    <string name="setup_code_wrong">Periksa kod di TV</string>
+    <string name="setup_fire_tv_allow">Tandakan Always allow, kemudian OK</string>
+    <string name="setup_adb_title">Hidupkan penyahpepijatan ADB</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Hidupkan Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Selesai</string>
+
+    <string name="dev_link_allow">Benarkan di TV</string>
+    <string name="dev_link_allow_body">Tandakan Sentiasa benarkan dari komputer ini, kemudian OK</string>
+    <string name="dev_link_away">TV tidak membalas. Sambungan akan mencuba lagi sendiri selagi kawalan jauh dibuka.</string>
+    <string name="dev_link_away_short">Tidak membalas</string>
+    <string name="dev_link_body">Menyenaraikan input TV sendiri dan semua aplikasinya, menukar input pada TV yang tidak menghiraukan butang HDMI dan menetapkan kecerahan pada sesetengah TV. Ia berfungsi melalui sambungan penyahpepijatan TV (ADB). Butang dan menaip tetap berfungsi sama tanpanya.</string>
+    <string name="dev_link_connect">Sambung</string>
+    <string name="dev_link_debugging_off">TV menolak sambungan. Pastikan Penyahpepijatan USB dihidupkan. Sejak Android TV 14, sesetengah TV hanya menerima Penyahpepijatan wayarles, yang belum boleh digunakan oleh TennaRC.</string>
+    <string name="dev_link_debugging_off_short">Penyahpepijatan dimatikan di TV</string>
+    <string name="dev_link_forgotten">TV telah melupakan telefon ini, seperti yang dilakukan Android TV kepada telefon yang tidak dilihatnya selama seminggu. Cuba lagi dan benarkan di TV.</string>
+    <string name="dev_link_forgotten_short">TV telah melupakan telefon ini</string>
+    <string name="dev_link_not_allowed">Tiada sesiapa membenarkannya di TV. Cuba lagi dan pilih OK di sana.</string>
+    <string name="dev_link_not_allowed_short">Tidak dibenarkan di TV</string>
+    <string name="dev_link_off">Mati. Menambah input dan semua aplikasi</string>
+    <string name="dev_link_step_allow">Ketik Sambung, kemudian di TV tandakan Sentiasa benarkan dan pilih OK.</string>
+    <string name="dev_link_step_debugging">Buka Pilihan pembangun di sebelah Perihal dan hidupkan Penyahpepijatan USB. Pada Shield, ia dipanggil Penyahpepijatan rangkaian.</string>
+    <string name="dev_link_step_developer">Di TV, buka Tetapan › Sistem › Perihal dan pilih Binaan OS Android TV tujuh kali. Pada TV yang lebih lama, ia di Pilihan Peranti › Perihal › Binaan.</string>
+    <string name="dev_link_title">Sambungan pembangun</string>
+    <string name="dev_link_turn_off">Matikan</string>
+    <string name="dev_link_wireless">Hanya Penyahpepijatan wayarles yang dihidupkan, dan TennaRC belum boleh menggunakannya. Hidupkan juga Penyahpepijatan USB, atau pasangkan sekali dari komputer dan jalankan adb tcpip 5555, yang kekal sehingga TV dimulakan semula.</string>
+    <string name="dev_link_wireless_short">Hanya Penyahpepijatan wayarles dihidupkan</string>
+    <string name="settings_edit_tv">Edit</string>
+    <string name="settings_find_titles">Cari filem dan video</string>
+    <string name="find_titles_ask">Untuk mencarinya, TennaRC menghantar apa yang anda taip kepada YouTube, JustWatch dan Wikidata. Anda boleh mengubahnya dalam Tetapan.</string>
+    <string name="find_titles_not_now">Bukan sekarang</string>
+</resources>

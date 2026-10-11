@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">ارسال به تلویزیون</string>
+    <string name="tile_label">کنترل تلویزیون</string>
+    <string name="shortcut_link">جستجو</string>
+    <string name="shortcut_keyboard">تایپ در تلویزیون</string>
+
+    <!-- Status line -->
+    <string name="status_connected">متصل</string>
+    <string name="status_connecting">درحال اتصال…</string>
+    <string name="status_awaiting">روی تلویزیون تأیید کنید</string>
+    <string name="status_offline">تلویزیون خاموش به نظر می‌رسد</string>
+    <string name="status_not_paired">هنوز مرتبط نشده</string>
+    <string name="status_standby">در حالت آماده‌به‌کار</string>
+    <string name="status_screen_off">صفحه خاموش، صدا روشن</string>
+    <string name="standby_title">تلویزیون خاموش است</string>
+    <string name="action_turn_on">روشن کردن</string>
+
+    <!-- State panels -->
+    <string name="pair_title">مرتبط کردن با تلویزیون</string>
+    <string name="pair_body">وقتی تلویزیون درخواست کرد، روی آن تأیید کنید.</string>
+    <string name="pair_declined_body">تلویزیون رد کرد. این بار «پذیرفتن» را انتخاب کنید.</string>
+    <string name="pair_action">مرتبط کردن</string>
+    <string name="pair_timeout_body">تلویزیون پاسخی نداد.</string>
+    <string name="pair_forgotten_body">تلویزیون این تلفن را فراموش کرد.</string>
+    <string name="approval_title">روی تلویزیون تأیید کنید</string>
+    <string name="connecting_title">درحال اتصال…</string>
+    <string name="offline_title">تلویزیون خاموش به نظر می‌رسد</string>
+    <string name="action_retry">امتحان مجدد</string>
+    <string name="action_cancel">لغو</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">جستجو</string>
+    <string name="touchpad_label">صفحه لمسی. برای جابه‌جا کردن نشانگر بکشید، برای کلیک ضربه بزنید و برای پیمایش با دو انگشت بکشید.</string>
+    <string name="dpad_label">دکمه‌های جهت</string>
+    <string name="key_up">بالا</string>
+    <string name="key_down">پایین</string>
+    <string name="key_left">چپ</string>
+    <string name="key_right">راست</string>
+    <string name="key_ok">تأیید</string>
+    <string name="key_back">بازگشت</string>
+    <string name="key_home">صفحه اصلی</string>
+    <string name="key_keyboard">صفحه‌کلید</string>
+    <string name="key_touchpad">صفحه لمسی</string>
+    <string name="key_dpad">فلش‌ها</string>
+    <string name="key_more">بیشتر</string>
+    <string name="key_rewind">عقب بردن سریع</string>
+    <string name="key_play">پخش</string>
+    <string name="key_pause">مکث</string>
+    <string name="key_fast_forward">جلو بردن سریع</string>
+    <string name="key_stop">توقف</string>
+    <string name="key_volume_up">افزایش صدا</string>
+    <string name="key_volume_down">کاهش صدا</string>
+    <string name="key_mute">بی‌صدا</string>
+    <string name="key_unmute">صدادار کردن</string>
+    <string name="volume_value">سطح صدا %1$d</string>
+    <string name="volume_unknown">صدا، سطح نامشخص</string>
+    <string name="volume_muted">بی‌صدا</string>
+    <string name="power">روشن/خاموش</string>
+    <string name="settings">تنظیمات</string>
+    <string name="all_apps">تمام برنامه‌ها</string>
+    <string name="inputs">ورودی‌ها</string>
+    <string name="picture_title">تصویر</string>
+    <string name="picture_standard">استاندارد</string>
+    <string name="picture_vivid">زنده</string>
+    <string name="picture_cinema">سینما</string>
+    <string name="picture_game">بازی</string>
+    <string name="picture_sports">ورزش</string>
+    <string name="picture_eco">اقتصادی</string>
+    <string name="picture_expert">حرفه‌ای</string>
+    <string name="picture_backlight">روشنایی</string>
+    <string name="sound_title">صدا</string>
+    <string name="sound_tv">بلندگوهای تلویزیون</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">نوری</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">هدفون</string>
+    <string name="sound_tv_short">بلندگوها</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">خروجی خط</string>
+    <string name="more_subtitles">زیرنویس</string>
+    <string name="more_audio_track">صوت</string>
+    <string name="sleep_title">تایمر خواب</string>
+    <string name="sleep_minutes">%1$d دقیقه</string>
+    <string name="sleep_at">خاموش شدن در %1$s</string>
+    <string name="sleep_cancel">لغو تایمر</string>
+    <string name="app_on_screen">%1$s، اکنون روی صفحه</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">درحال شروع در تلویزیون…</string>
+    <string name="cast_playing">درحال پخش در تلویزیون</string>
+    <string name="cast_paused">مکث‌شده</string>
+    <string name="cast_stalled">پخش متوقف مانده است. سرور ویدیو هنوز کار می‌کند؟</string>
+    <string name="cast_play">ادامه</string>
+    <string name="cast_pause">مکث</string>
+    <string name="cast_stop">توقف پخش در تلویزیون</string>
+    <string name="cast_position">موقعیت پخش</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">بستن جستجو</string>
+    <string name="tv_picker">تلویزیون‌ها، اکنون %1$s</string>
+    <string name="tv_picker_add_short">افزودن</string>
+    <string name="hold_hide">پنهان کردن</string>
+    <string name="hold_rename">تغییر نام</string>
+    <string name="rename_input">تغییر نام ورودی</string>
+    <string name="rename_save">ذخیره</string>
+    <string name="rename_reset">استفاده از نام تلویزیون</string>
+    <string name="more_channel_list">فهرست</string>
+    <string name="more_guide">راهنما</string>
+    <string name="input_label">%1$s، ورودی</string>
+    <string name="channel_label">%2$s، کانال %1$s</string>
+    <string name="on_screen_now">اکنون روی صفحه</string>
+    <string name="deck_expanded">بسط‌یافته</string>
+    <string name="deck_collapsed">جمع‌شده</string>
+    <string name="channel_hidden">%1$s پنهان شد</string>
+    <string name="action_undo">واگرد</string>
+    <string name="offline_switch">استفاده از %1$s</string>
+    <string name="search_picks">پرطرفدار</string>
+    <string name="search_clear">پاک‌کردن</string>
+    <string name="search_fill">قرار دادن در کادر جستجو</string>
+    <string name="search_type_on_tv">تایپ در تلویزیون</string>
+    <string name="search_in_app">جستجو در %1$s</string>
+    <string name="search_web">جستجو با %1$s</string>
+    <string name="link_paste">چسباندن</string>
+    <string name="link_recent">اخیر</string>
+    <string name="link_clear_recent">پاک‌کردن</string>
+    <string name="link_kind_youtube">ویدیوی YouTube</string>
+    <string name="link_kind_video">فایل ویدیو</string>
+    <string name="link_kind_audio">فایل صوتی</string>
+    <string name="link_kind_image">تصویر</string>
+    <string name="link_kind_web">صفحه وب</string>
+    <string name="link_action_app">باز کردن در %1$s</string>
+    <string name="link_action_media">پخش روی تلویزیون</string>
+    <string name="link_action_browser">باز کردن در مرورگر تلویزیون</string>
+    <string name="link_sending">درحال ارسال…</string>
+    <string name="link_sent">روی تلویزیون باز شد</string>
+    <string name="link_failed">تلویزیون آن را باز نکرد. دوباره سعی کنید.</string>
+
+    <!-- Share -->
+    <string name="share_title">ارسال به تلویزیون</string>
+    <string name="share_no_link">در آنچه هم‌رسانی کردید پیوندی نیست.</string>
+    <string name="share_not_paired">این تلفن هنوز با تلویزیون مرتبط نشده است.</string>
+    <string name="share_open_app">باز کردن کنترل</string>
+    <string name="share_waiting">درحال اتصال…</string>
+    <string name="share_cant_open">این تلویزیون نمی‌تواند پیوند %1$s را باز کند</string>
+    <string name="action_close">بستن</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">صفحه‌کلید</string>
+    <string name="keyboard_placeholder_waiting">یک کادر متن روی تلویزیون انتخاب کنید</string>
+    <string name="keyboard_backspace">حذف</string>
+    <string name="keyboard_clear">پاک‌کردن</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d نویسه از قبل روی تلویزیون است</item>
+        <item quantity="other">%1$d نویسه از قبل روی تلویزیون است</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">بیشتر</string>
+    <string name="more_menu">تنظیمات</string>
+    <string name="more_quick">منوی سریع</string>
+    <string name="more_quick_short">منو</string>
+    <string name="more_info">اطلاعات</string>
+    <string name="more_inputs">ورودی‌ها</string>
+    <string name="more_exit">خروج</string>
+    <string name="more_channel_up">کانال بعدی</string>
+    <string name="more_channel_down">کانال قبلی</string>
+    <string name="more_red">قرمز</string>
+    <string name="more_green">سبز</string>
+    <string name="more_yellow">زرد</string>
+    <string name="more_blue">آبی</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">روشن/خاموش</string>
+    <string name="power_screen_off">خاموش کردن صفحه</string>
+    <string name="power_off">خاموش کردن تلویزیون</string>
+    <string name="power_off_confirm">دوباره ضربه بزنید تا خاموش شود</string>
+    <string name="power_turn_off">خاموش کردن</string>
+    <string name="power_tap_again">دوباره ضربه بزنید</string>
+    <string name="switch_on">روشن</string>
+    <string name="switch_off">خاموش</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">تنظیمات</string>
+    <string name="settings_tv">تلویزیون</string>
+    <string name="settings_name">نام</string>
+    <string name="settings_host">نشانی</string>
+    <string name="settings_host_invalid">یک نشانی IP یا نام میزبان وارد کنید</string>
+    <string name="settings_mac">نشانی MAC (برای روشن کردن)</string>
+    <string name="settings_mac_invalid">شش جفت رقم هگزادسیمال، مانند 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">یافتن تلویزیون‌های نزدیک</string>
+    <string name="settings_finding">درحال جستجوی تلویزیون…</string>
+    <string name="settings_found_none">هیچ تلویزیونی پاسخ نداد.</string>
+    <string name="settings_found_no_new">تلویزیون دیگری یافت نشد</string>
+    <string name="settings_in_use">درحال استفاده</string>
+    <string name="settings_add">افزودن</string>
+    <string name="settings_forget_tv">فراموش کردن %1$s</string>
+    <string name="settings_use_tv">استفاده از این تلویزیون</string>
+    <string name="settings_remove_tv">حذف</string>
+    <string name="settings_remove_confirm">دوباره ضربه بزنید تا حذف شود</string>
+    <string name="settings_move_up">بالا بردن</string>
+    <string name="settings_move_down">پایین بردن</string>
+    <string name="settings_sensitivity">حساسیت</string>
+    <string name="settings_touchpad">صفحه لمسی</string>
+    <string name="settings_phone">تلفن</string>
+    <string name="settings_natural_scroll">اسکرول طبیعی</string>
+    <string name="settings_scroll_strip">نوار اسکرول</string>
+    <string name="settings_hidden">پنهان</string>
+    <string name="settings_show">نمایش</string>
+    <string name="settings_theme">تم</string>
+    <string name="settings_theme_auto">خودکار</string>
+    <string name="settings_language">زبان</string>
+    <string name="settings_theme_system">سیستم</string>
+    <string name="settings_theme_light">روشن</string>
+    <string name="settings_theme_dark">تیره</string>
+    <string name="settings_scroll_strip_right">راست</string>
+    <string name="settings_scroll_strip_left">چپ</string>
+    <string name="settings_scroll_strip_off">خاموش</string>
+    <string name="settings_search_engine">جستجوی وب</string>
+    <string name="settings_search">جستجو</string>
+    <string name="settings_find_titles">جستجوی فیلم و فیلم</string>
+    <string name="find_titles_ask">برای پیدا کردن آن‌ها، TennaRC آنچه را تایپ می‌کنید به YouTube، JustWatch و Wikidata می‌فرستد. می‌توانید این را در تنظیمات تغییر دهید.</string>
+    <string name="find_titles_not_now">الان نه</string>
+    <string name="settings_volume_keys">دکمه‌های صدا</string>
+    <string name="settings_auto_keyboard">صفحه‌کلید خودکار</string>
+    <string name="settings_haptics">لرزش</string>
+    <string name="settings_keep_screen_on">روشن ماندن صفحه</string>
+    <string name="settings_forget">لغو ارتباط</string>
+    <string name="settings_forget_body">تلویزیون دفعه بعد دوباره می‌پرسد</string>
+    <string name="settings_forget_confirm">دوباره ضربه بزنید تا فراموش شود</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">به تلویزیون وصل نیست</string>
+    <string name="notice_command_failed">تلویزیون به فرمان پاسخ نداد</string>
+    <string name="notice_launch_failed">این برنامه باز نشد</string>
+    <string name="notice_open_failed">تلویزیون نتوانست پیوند را باز کند</string>
+    <string name="notice_no_renderer">پخش‌کننده رسانه تلویزیون پاسخ نمی‌دهد. آیا روشن است؟</string>
+    <string name="notice_cast_failed">تلویزیون نتوانست این پیوند را پخش کند</string>
+    <string name="notice_wake_sent">سیگنال روشن شدن ارسال شد</string>
+    <string name="notice_tv_moved">تلویزیون در یک نشانی جدید یافت شد</string>
+    <string name="notice_wake_failed">سیگنال روشن شدن ارسال نشد. نشانی MAC را بررسی کنید.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">اتصال کند</string>
+    <string name="link_help_stalling">Wi-Fi تلویزیون مدام برای لحظه‌ای قطع می‌شود.</string>
+    <string name="link_help_slow">Wi-Fi تلویزیون ضعیف یا مشغول است.</string>
+    <string name="link_fix_24_title">تلویزیون را به Wi-Fi با باند 2.4 GHz وصل کنید</string>
+    <string name="link_fix_ethernet_title">از کابل Ethernet استفاده کنید</string>
+    <string name="link_fix_extender_title">در وسط یک تقویت‌کننده Wi-Fi اضافه کنید</string>
+    <string name="link_fix_listen_title">Listen Mode را در Screen Share خاموش کنید</string>
+    <string name="link_fix_closer_title">روتر را به تلویزیون نزدیک‌تر کنید</string>
+    <string name="link_fix_band_title">باند Wi-Fi دیگر را امتحان کنید</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">کنترل تلویزیون</string>
+    <string name="notify_channel_body">پخش، مکث و صدا تا وقتی تلویزیون روشن است</string>
+    <string name="notify_on_tv">روی تلویزیون</string>
+    <string name="notify_close">بستن</string>
+    <string name="settings_notification_controls">کنترل‌های رسانه</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">کد نمایش‌داده‌شده روی تلویزیون را تایپ کنید</string>
+    <string name="pair_code_title">کد تلویزیون را وارد کنید</string>
+    <string name="pair_code_wrong">کد مطابقت نداشت. کد جدید روی تلویزیون را وارد کنید.</string>
+    <string name="pair_code_label">کد</string>
+    <string name="pair_code_submit">مرتبط کردن</string>
+    <string name="settings_labs">قابلیت‌های آزمایشی</string>
+    <string name="settings_demo_tv">تلویزیون نمایشی</string>
+    <string name="settings_demo_tv_body">کنترل را بدون تلویزیون امتحان کنید</string>
+    <string name="settings_demo_tv_listed">یک تلویزیون آزمایشی به فهرست شما اضافه می‌کند</string>
+    <string name="settings_help">راهنما</string>
+    <string name="settings_report">گزارش مشکل</string>
+    <string name="settings_privacy">خط‌مشی حریم خصوصی</string>
+    <string name="settings_reset">بازنشانی تنظیمات</string>
+    <string name="settings_reset_body">تلویزیون‌ها مرتبط باقی می‌مانند</string>
+    <string name="settings_reset_confirm">برای بازنشانی دوباره ضربه بزنید</string>
+    <string name="offline_no_wifi_title">بدون Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku فقط برخی از فرمان‌های تلفن را می‌پذیرد. در Advanced system settings، گزینه Control by mobile apps را روی Enabled بگذارید.</string>
+    <string name="notice_adb_off">اشکال‌زدایی ADB را در Fire TV روشن کنید: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">خاموش</string>
+    <string name="ambilight_video">ویدیو</string>
+    <string name="ambilight_audio">صدا</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">برای کنترل Ambilight، مرتبط کنید</string>
+    <string name="ambilight_pin_hint">PIN روی تلویزیون</string>
+    <string name="ambilight_pin_wrong">PIN نادرست است. PIN جدید را امتحان کنید</string>
+    <string name="search_opens_app">%1$s را باز می‌کند</string>
+    <string name="voice_search">جستجوی صوتی</string>
+    <string name="voice_stop">توقف گوش دادن</string>
+    <string name="voice_listening">درحال گوش دادن…</string>
+    <string name="voice_mic_off">دسترسی میکروفون خاموش است</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC به طور غیرمنتظره‌ای بسته شد</string>
+    <string name="crash_send">ارسال</string>
+    <string name="crash_report_subject">گزارش خرابی TennaRC %1$s</string>
+    <string name="crash_sent">گزارش ارسال شد. سپاسگزاریم</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">پخش، مکث و صدای تلویزیون</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">پخش از این تلفن</string>
+    <string name="phone_mirror">بازتاب</string>
+    <string name="phone_mirror_label">بازتاب صفحه این تلفن</string>
+    <string name="phone_gallery">گالری</string>
+    <string name="phone_gallery_label">نمایش عکس یا ویدیو از این تلفن</string>
+    <string name="share_cant_play_file">این تلویزیون نمی‌تواند فایل‌های تلفن را پخش کند</string>
+    <string name="notice_cast_unsupported">تلویزیون نمی‌تواند این نوع تصویر را نمایش دهد</string>
+    <string name="notice_not_on_tv_network">تلفن را به Wi-Fi تلویزیون وصل کنید تا فایل‌هایش پخش شود</string>
+    <string name="notice_file_unreadable">این فایل خوانده نشد</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">درحال جستجوی تلویزیون</string>
+    <string name="setup_choose">انتخاب تلویزیون</string>
+    <string name="setup_none">تلویزیونی یافت نشد</string>
+    <string name="setup_search_again">جستجوی دوباره</string>
+    <string name="setup_enter_ip">نشانی IP را وارد کنید</string>
+    <string name="setup_ip_label">نشانی IP</string>
+    <string name="setup_ip_none">هیچ تلویزیونی در آن نشانی پاسخ نداد</string>
+    <string name="setup_connect">اتصال</string>
+    <string name="setup_demo">امتحان نسخه نمایشی</string>
+    <string name="setup_code_wrong">کد روی تلویزیون را بررسی کنید</string>
+    <string name="setup_fire_tv_allow">Always allow را علامت بزنید و سپس OK</string>
+    <string name="setup_adb_title">اشکال‌زدایی ADB را روشن کنید</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Control by mobile apps را روشن کنید</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">انجام شد</string>
+    <string name="settings_edit_tv">ویرایش</string>
+    <string name="dev_link_title">اتصال برنامه‌نویسان</string>
+    <string name="dev_link_body">ورودی‌های خود تلویزیون و همهٔ برنامه‌هایش را نشان می‌دهد، در تلویزیون‌هایی که به دکمه‌های HDMI واکنش نشان نمی‌دهند ورودی را عوض می‌کند و در برخی روشنایی را هم تنظیم می‌کند. از طریق اتصال اشکال‌زدایی تلویزیون (ADB) کار می‌کند. دکمه‌ها و تایپ بدون آن هم همین‌طور کار می‌کنند.</string>
+    <string name="dev_link_step_developer">در تلویزیون، تنظیمات › سیستم › درباره را باز کنید و هفت بار ساخت سیستم‌عامل Android TV را انتخاب کنید. در تلویزیون‌های قدیمی‌تر: اولویت‌های دستگاه › درباره › ساخت.</string>
+    <string name="dev_link_step_debugging">گزینه‌های برنامه‌نویسان را، کنار درباره، باز کنید و اشکال‌زدایی USB را روشن کنید. در Shield نامش اشکال‌زدایی شبکه است.</string>
+    <string name="dev_link_step_allow">روی اتصال ضربه بزنید، سپس در تلویزیون «همیشه مجاز شود» را علامت بزنید و OK را انتخاب کنید.</string>
+    <string name="dev_link_connect">اتصال</string>
+    <string name="dev_link_allow">در تلویزیون اجازه دهید</string>
+    <string name="dev_link_allow_body">«همیشه از این رایانه مجاز شود» را علامت بزنید، سپس OK</string>
+    <string name="dev_link_turn_off">خاموش کردن</string>
+    <string name="dev_link_off">خاموش. ورودی‌ها و همهٔ برنامه‌ها را اضافه می‌کند</string>
+    <string name="dev_link_away">تلویزیون پاسخ نمی‌دهد. تا وقتی کنترل باز است، خودش دوباره تلاش می‌کند.</string>
+    <string name="dev_link_away_short">پاسخ نمی‌دهد</string>
+    <string name="dev_link_debugging_off">تلویزیون اتصال را رد کرد. بررسی کنید اشکال‌زدایی USB روشن باشد. از Android TV 14 به بعد، بعضی تلویزیون‌ها فقط اشکال‌زدایی بی‌سیم را می‌پذیرند که TennaRC هنوز از آن پشتیبانی نمی‌کند.</string>
+    <string name="dev_link_debugging_off_short">اشکال‌زدایی در تلویزیون خاموش است</string>
+    <string name="dev_link_wireless">فقط اشکال‌زدایی بی‌سیم روشن است که TennaRC هنوز از آن پشتیبانی نمی‌کند. اشکال‌زدایی USB را هم روشن کنید، یا یک بار از رایانه مرتبط کنید و adb tcpip 5555 را اجرا کنید؛ این تا راه‌اندازی مجدد تلویزیون می‌ماند.</string>
+    <string name="dev_link_wireless_short">فقط اشکال‌زدایی بی‌سیم روشن است</string>
+    <string name="dev_link_not_allowed">کسی در تلویزیون اجازه نداد. دوباره امتحان کنید و آنجا OK را انتخاب کنید.</string>
+    <string name="dev_link_not_allowed_short">در تلویزیون اجازه داده نشد</string>
+    <string name="dev_link_forgotten">تلویزیون این تلفن را فراموش کرده است، همان‌طور که Android TV تلفنی را که یک هفته ندیده فراموش می‌کند. دوباره امتحان کنید و در تلویزیون اجازه دهید.</string>
+    <string name="dev_link_forgotten_short">تلویزیون این تلفن را فراموش کرد</string>
+</resources>

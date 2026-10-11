@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">ტელევიზორზე გაგზავნა</string>
+    <string name="tile_label">პულტი</string>
+    <string name="shortcut_link">ძებნა</string>
+    <string name="shortcut_keyboard">ტელევიზორზე აკრეფა</string>
+
+    <!-- Status line -->
+    <string name="status_connected">დაკავშირებულია</string>
+    <string name="status_connecting">უკავშირდება…</string>
+    <string name="status_awaiting">დაადასტურეთ ტელევიზორზე</string>
+    <string name="status_offline">ტელევიზორი გამორთული ჩანს</string>
+    <string name="status_not_paired">ჯერ არ არის დაწყვილებული</string>
+    <string name="status_standby">მოლოდინის რეჟიმში</string>
+    <string name="status_screen_off">ეკრანი გამორთულია, ხმა ჩართულია</string>
+    <string name="standby_title">ტელევიზორი გამორთულია</string>
+    <string name="action_turn_on">ჩართვა</string>
+
+    <!-- State panels -->
+    <string name="pair_title">ტელევიზორთან დაწყვილება</string>
+    <string name="pair_body">დაადასტურეთ ტელევიზორზე, როცა მოგთხოვთ.</string>
+    <string name="pair_declined_body">ტელევიზორმა უარი თქვა. ამჯერად აირჩიეთ დადასტურება.</string>
+    <string name="pair_action">დაწყვილება</string>
+    <string name="pair_timeout_body">ტელევიზორმა არ უპასუხა.</string>
+    <string name="pair_forgotten_body">ტელევიზორმა დაივიწყა ეს ტელეფონი.</string>
+    <string name="approval_title">დაადასტურეთ ტელევიზორზე</string>
+    <string name="connecting_title">უკავშირდება…</string>
+    <string name="offline_title">ტელევიზორი, როგორც ჩანს, გამორთულია</string>
+    <string name="action_retry">ხელახლა ცდა</string>
+    <string name="action_cancel">გაუქმება</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">ძებნა</string>
+    <string name="touchpad_label">სენსორული პანელი. გადაათრიეთ მაჩვენებლის გადასაადგილებლად, შეეხეთ დასაწკაპუნებლად და გადაათრიეთ ორი თითით გადასახვევად.</string>
+    <string name="dpad_label">მიმართულების ღილაკები</string>
+    <string name="key_up">ზემოთ</string>
+    <string name="key_down">ქვემოთ</string>
+    <string name="key_left">მარცხნივ</string>
+    <string name="key_right">მარჯვნივ</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">უკან</string>
+    <string name="key_home">მთავარი</string>
+    <string name="key_keyboard">კლავიატურა</string>
+    <string name="key_touchpad">სენსორული პანელი</string>
+    <string name="key_dpad">ისრები</string>
+    <string name="key_more">მეტი</string>
+    <string name="key_rewind">უკან გადახვევა</string>
+    <string name="key_play">დაკვრა</string>
+    <string name="key_pause">პაუზა</string>
+    <string name="key_fast_forward">წინ გადახვევა</string>
+    <string name="key_stop">გაჩერება</string>
+    <string name="key_volume_up">ხმის აწევა</string>
+    <string name="key_volume_down">ხმის დაკლება</string>
+    <string name="key_mute">დადუმება</string>
+    <string name="key_unmute">დადუმების მოხსნა</string>
+    <string name="volume_value">ხმა %1$d</string>
+    <string name="volume_unknown">ხმა, დონე უცნობია</string>
+    <string name="volume_muted">დადუმებულია</string>
+    <string name="power">კვება</string>
+    <string name="settings">პარამეტრები</string>
+    <string name="all_apps">ყველა აპი</string>
+    <string name="inputs">შესასვლელები</string>
+    <string name="picture_title">სურათი</string>
+    <string name="picture_standard">სტანდარტული</string>
+    <string name="picture_vivid">ცოცხალი</string>
+    <string name="picture_cinema">კინო</string>
+    <string name="picture_game">თამაში</string>
+    <string name="picture_sports">სპორტი</string>
+    <string name="picture_eco">ეკო</string>
+    <string name="picture_expert">ექსპერტი</string>
+    <string name="picture_backlight">სიკაშკაშე</string>
+    <string name="sound_title">ხმა</string>
+    <string name="sound_tv">ტელევიზორის დინამიკები</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">ოპტიკური</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">ყურსასმენები</string>
+    <string name="sound_tv_short">დინამიკები</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">ხაზის გამოსავალი</string>
+    <string name="more_subtitles">სუბტიტრი</string>
+    <string name="more_audio_track">ხმა</string>
+    <string name="sleep_title">ძილის ტაიმერი</string>
+    <string name="sleep_minutes">%1$d წთ</string>
+    <string name="sleep_at">გამოირთვება %1$s-ზე</string>
+    <string name="sleep_cancel">ტაიმერის გაუქმება</string>
+    <string name="app_on_screen">%1$s, ეკრანზე ახლა</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">ტელევიზორზე ეშვება…</string>
+    <string name="cast_playing">უკრავს ტელევიზორზე</string>
+    <string name="cast_paused">დაპაუზებულია</string>
+    <string name="cast_stalled">არ მოძრაობს. ვიდეოს სერვერი ისევ მუშაობს?</string>
+    <string name="cast_play">გაგრძელება</string>
+    <string name="cast_pause">პაუზა</string>
+    <string name="cast_stop">ტელევიზორზე დაკვრის შეწყვეტა</string>
+    <string name="cast_position">დაკვრის პოზიცია</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">ძებნის დახურვა</string>
+    <string name="tv_picker">ტელევიზორები, ახლა %1$s</string>
+    <string name="tv_picker_add_short">ახალი</string>
+    <string name="hold_hide">დამალვა</string>
+    <string name="hold_rename">გადარქმევა</string>
+    <string name="rename_input">შესასვლელის გადარქმევა</string>
+    <string name="rename_save">შენახვა</string>
+    <string name="rename_reset">ტელევიზორის სახელის გამოყენება</string>
+    <string name="more_channel_list">სია</string>
+    <string name="more_guide">გიდი</string>
+    <string name="input_label">%1$s, შესასვლელი</string>
+    <string name="channel_label">%2$s, არხი %1$s</string>
+    <string name="on_screen_now">ეკრანზე ახლა</string>
+    <string name="deck_expanded">გაფართოებული</string>
+    <string name="deck_collapsed">ჩაკეცილი</string>
+    <string name="channel_hidden">%1$s დამალულია</string>
+    <string name="action_undo">დაბრუნება</string>
+    <string name="offline_switch">%1$s-ის გამოყენება</string>
+    <string name="search_picks">ახლა პოპულარული</string>
+    <string name="search_clear">გაწმენდა</string>
+    <string name="search_fill">ძიების ველში ჩასმა</string>
+    <string name="search_type_on_tv">ტელევიზორზე აკრეფა</string>
+    <string name="search_in_app">ძიება %1$s-ში</string>
+    <string name="search_web">ძიება %1$s-ით</string>
+    <string name="link_paste">ჩასმა</string>
+    <string name="link_recent">ბოლოდროინდელი</string>
+    <string name="link_clear_recent">გაწმენდა</string>
+    <string name="link_kind_youtube">YouTube ვიდეო</string>
+    <string name="link_kind_video">ვიდეო ფაილი</string>
+    <string name="link_kind_audio">აუდიო ფაილი</string>
+    <string name="link_kind_image">სურათი</string>
+    <string name="link_kind_web">ვებ გვერდი</string>
+    <string name="link_action_app">%1$s-ში გახსნა</string>
+    <string name="link_action_media">ტელევიზორზე დაკვრა</string>
+    <string name="link_action_browser">ტელევიზორის ბრაუზერში გახსნა</string>
+    <string name="link_sending">იგზავნება…</string>
+    <string name="link_sent">გაიხსნა ტელევიზორზე</string>
+    <string name="link_failed">ტელევიზორმა ვერ გახსნა. ცადეთ ხელახლა.</string>
+
+    <!-- Share -->
+    <string name="share_title">ტელევიზორზე გაგზავნა</string>
+    <string name="share_no_link">გაზიარებულში ბმული არ არის.</string>
+    <string name="share_not_paired">ეს ტელეფონი ჯერ არ არის დაწყვილებული ტელევიზორთან.</string>
+    <string name="share_open_app">პულტის გახსნა</string>
+    <string name="share_waiting">უკავშირდება…</string>
+    <string name="share_cant_open">ეს ტელევიზორი ვერ ხსნის %1$s-ის ბმულებს</string>
+    <string name="action_close">დახურვა</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">კლავიატურა</string>
+    <string name="keyboard_placeholder_waiting">აირჩიეთ ველი ტელევიზორზე</string>
+    <string name="keyboard_backspace">წაშლა</string>
+    <string name="keyboard_clear">გაწმენდა</string>
+    <string name="keyboard_enter">შეყვანა</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d სიმბოლო უკვე ტელევიზორზეა</item>
+        <item quantity="other">%1$d სიმბოლო უკვე ტელევიზორზეა</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">მეტი</string>
+    <string name="more_menu">პარამეტრი</string>
+    <string name="more_quick">სწრაფი მენიუ</string>
+    <string name="more_quick_short">მენიუ</string>
+    <string name="more_info">ინფო</string>
+    <string name="more_inputs">წყარო</string>
+    <string name="more_exit">გამოსვლა</string>
+    <string name="more_channel_up">შემდეგი არხი</string>
+    <string name="more_channel_down">წინა არხი</string>
+    <string name="more_red">წითელი</string>
+    <string name="more_green">მწვანე</string>
+    <string name="more_yellow">ყვითელი</string>
+    <string name="more_blue">ლურჯი</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">კვება</string>
+    <string name="power_screen_off">მხოლოდ ხმა</string>
+    <string name="power_off">ტელევიზორის გამორთვა</string>
+    <string name="power_off_confirm">შეეხეთ ხელახლა გამოსართავად</string>
+    <string name="power_turn_off">გამორთვა</string>
+    <string name="power_tap_again">შეეხეთ ხელახლა</string>
+    <string name="switch_on">ჩართულია</string>
+    <string name="switch_off">გამორთული</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">პარამეტრები</string>
+    <string name="settings_tv">ტელევიზორი</string>
+    <string name="settings_name">სახელი</string>
+    <string name="settings_host">მისამართი</string>
+    <string name="settings_host_invalid">შეიყვანეთ IP მისამართი ან ჰოსტის სახელი</string>
+    <string name="settings_mac">MAC მისამართი (ჩართვისთვის)</string>
+    <string name="settings_mac_invalid">ექვსი წყვილი თექვსმეტობითი ციფრი, მაგ.: 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">ახლომდებარე ტელევიზორების ძიება</string>
+    <string name="settings_finding">ტელევიზორების ძიება…</string>
+    <string name="settings_found_none">არცერთმა ტელევიზორმა არ უპასუხა.</string>
+    <string name="settings_found_no_new">სხვა ტელევიზორი ვერ მოიძებნა</string>
+    <string name="settings_in_use">გამოიყენება</string>
+    <string name="settings_add">დამატება</string>
+    <string name="settings_forget_tv">%1$s-ის დავიწყება</string>
+    <string name="settings_use_tv">ამ ტელევიზორის გამოყენება</string>
+    <string name="settings_remove_tv">წაშლა</string>
+    <string name="settings_remove_confirm">შეეხეთ ისევ წასაშლელად</string>
+    <string name="settings_move_up">ზემოთ გადატანა</string>
+    <string name="settings_move_down">გადატანა ქვემოთ</string>
+    <string name="settings_sensitivity">მგრძნობელობა</string>
+    <string name="settings_touchpad">სენსორული პანელი</string>
+    <string name="settings_phone">ტელეფონი</string>
+    <string name="settings_natural_scroll">ბუნებრივი გადახვევა</string>
+    <string name="settings_scroll_strip">გადახვევა</string>
+    <string name="settings_hidden">დამალული</string>
+    <string name="settings_show">ჩვენება</string>
+    <string name="settings_theme">თემა</string>
+    <string name="settings_theme_auto">ავტომატური</string>
+    <string name="settings_language">ენა</string>
+    <string name="settings_theme_system">სისტემა</string>
+    <string name="settings_theme_light">ღია</string>
+    <string name="settings_theme_dark">მუქი</string>
+    <string name="settings_scroll_strip_right">მარჯვნივ</string>
+    <string name="settings_scroll_strip_left">მარცხნივ</string>
+    <string name="settings_scroll_strip_off">გამორთული</string>
+    <string name="settings_search_engine">ვებ-ძიება</string>
+    <string name="settings_search">ძებნა</string>
+    <string name="settings_find_titles">ფილმებისა და ვიდეოების ძიება</string>
+    <string name="find_titles_ask">მათ მოსაძებნად TennaRC აკრეფილ ტექსტს უგზავნის YouTube-ს, JustWatch-ს და Wikidata-ს. ამის შეცვლა პარამეტრებშია შესაძლებელი.</string>
+    <string name="find_titles_not_now">ახლა არა</string>
+    <string name="settings_volume_keys">ხმის ღილაკები</string>
+    <string name="settings_auto_keyboard">ავტომატური კლავიატურა</string>
+    <string name="settings_haptics">ვიბრაცია</string>
+    <string name="settings_keep_screen_on">ეკრანი არ ჩაქრეს</string>
+    <string name="settings_forget">დაწყვილების დავიწყება</string>
+    <string name="settings_forget_body">შემდეგ ჯერზე ტელევიზორი ისევ გკითხავთ</string>
+    <string name="settings_forget_confirm">შეეხეთ ხელახლა დასავიწყებლად</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">ტელევიზორთან კავშირი არ არის</string>
+    <string name="notice_command_failed">ტელევიზორმა ამაზე არ უპასუხა</string>
+    <string name="notice_launch_failed">ამ აპის გახსნა ვერ მოხერხდა</string>
+    <string name="notice_open_failed">ტელევიზორმა ბმული ვერ გახსნა</string>
+    <string name="notice_no_renderer">ტელევიზორის მედიაფლეერი არ პასუხობს. ჩართულია?</string>
+    <string name="notice_cast_failed">ტელევიზორმა ეს ბმული ვერ დაუკრა</string>
+    <string name="notice_wake_sent">გაღვიძების სიგნალი გაიგზავნა</string>
+    <string name="notice_tv_moved">ტელევიზორი ახალ მისამართზე მოიძებნა</string>
+    <string name="notice_wake_failed">გაღვიძების სიგნალი ვერ გაიგზავნა. შეამოწმეთ MAC მისამართი.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">ნელი კავშირი</string>
+    <string name="link_help_stalling">ტელევიზორის Wi-Fi კავშირი ხშირად წყდება ცოტა ხნით.</string>
+    <string name="link_help_slow">ტელევიზორის Wi-Fi სუსტია ან გადატვირთულია.</string>
+    <string name="link_fix_24_title">დააკავშირეთ ტელევიზორი 2.4 GHz Wi-Fi-ს</string>
+    <string name="link_fix_ethernet_title">გამოიყენეთ Ethernet კაბელი</string>
+    <string name="link_fix_extender_title">დაამატეთ Wi-Fi გამაძლიერებელი შუა გზაზე</string>
+    <string name="link_fix_listen_title">გამორთეთ Listen Mode აპში Screen Share</string>
+    <string name="link_fix_closer_title">როუტერი ტელევიზორთან ახლოს მიიტანეთ</string>
+    <string name="link_fix_band_title">სცადეთ Wi-Fi-ის სხვა დიაპაზონი</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">ტელევიზორის პულტი</string>
+    <string name="notify_channel_body">ტელევიზორის დაკვრა, პაუზა და ხმა, სანამ ჩართულია</string>
+    <string name="notify_on_tv">ტელევიზორზე</string>
+    <string name="notify_close">დახურვა</string>
+    <string name="settings_notification_controls">მედიის მართვა</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">აკრიფეთ ტელევიზორზე ნაჩვენები კოდი</string>
+    <string name="pair_code_title">შეიყვანეთ კოდი ტელევიზორიდან</string>
+    <string name="pair_code_wrong">კოდი არ ემთხვევა. სცადეთ ტელევიზორზე ნაჩვენები ახალი კოდი.</string>
+    <string name="pair_code_label">კოდი</string>
+    <string name="pair_code_submit">დაწყვილება</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">სადემო ტვ</string>
+    <string name="settings_demo_tv_body">სცადეთ პულტი ტელევიზორის გარეშე</string>
+    <string name="settings_demo_tv_listed">სიას სადემო ტელევიზორს ამატებს</string>
+    <string name="settings_help">დახმარება</string>
+    <string name="settings_report">პრობლემის შეტყობინება</string>
+    <string name="settings_privacy">კონფიდენციალურობის პოლიტიკა</string>
+    <string name="settings_reset">პარამეტრების აღდგენა</string>
+    <string name="settings_reset_body">ტელევიზორები დაწყვილებული დარჩება</string>
+    <string name="settings_reset_confirm">შეეხეთ ხელახლა აღსადგენად</string>
+    <string name="offline_no_wifi_title">Wi-Fi არ არის</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku ტელეფონებიდან მხოლოდ ზოგიერთ ბრძანებას იღებს. Advanced system settings-ში Control by mobile apps დააყენეთ Enabled-ზე.</string>
+    <string name="notice_adb_off">ჩართეთ ADB გამართვა Fire TV-ზე: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">გამორთ.</string>
+    <string name="ambilight_video">ვიდეო</string>
+    <string name="ambilight_audio">ხმა</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">დააწყვილეთ Ambilight-ისთვის</string>
+    <string name="ambilight_pin_hint">PIN ტელევიზორზე</string>
+    <string name="ambilight_pin_wrong">არასწორი PIN. სცადეთ ახალი</string>
+    <string name="search_opens_app">ხსნის %1$s-ს</string>
+    <string name="voice_search">ხმოვანი ძიება</string>
+    <string name="voice_stop">მოსმენის გაჩერება</string>
+    <string name="voice_listening">გისმენთ…</string>
+    <string name="voice_mic_off">მიკროფონზე წვდომა გამორთულია</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC მოულოდნელად დაიხურა</string>
+    <string name="crash_send">გაგზავნა</string>
+    <string name="crash_report_subject">TennaRC-ის ავარიის ანგარიში %1$s</string>
+    <string name="crash_sent">ანგარიში გაიგზავნა. გმადლობთ</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">ტელევიზორის დაკვრა, პაუზა და ხმა</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">დაკვრა ამ ტელეფონიდან</string>
+    <string name="phone_mirror">ასახვა</string>
+    <string name="phone_mirror_label">ამ ტელეფონის ეკრანის ასახვა</string>
+    <string name="phone_gallery">გალერეა</string>
+    <string name="phone_gallery_label">ამ ტელეფონიდან ფოტოს ან ვიდეოს ჩვენება</string>
+    <string name="share_cant_play_file">ეს ტელევიზორი ვერ უკრავს ფაილებს ტელეფონიდან</string>
+    <string name="notice_cast_unsupported">ტელევიზორი ვერ აჩვენებს ამ ტიპის სურათს</string>
+    <string name="notice_not_on_tv_network">ტელეფონის ფაილების დასაკრავად დააკავშირეთ ის ტელევიზორის Wi-Fi-ს</string>
+    <string name="notice_file_unreadable">ამ ფაილის წაკითხვა ვერ მოხერხდა</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">ტელევიზორების ძიება</string>
+    <string name="setup_choose">აირჩიეთ ტელევიზორი</string>
+    <string name="setup_none">ტელევიზორი ვერ მოიძებნა</string>
+    <string name="setup_search_again">ხელახლა ძებნა</string>
+    <string name="setup_enter_ip">შეიყვანეთ IP მისამართი</string>
+    <string name="setup_ip_label">IP მისამართი</string>
+    <string name="setup_ip_none">ამ მისამართზე არცერთმა ტელევიზორმა არ უპასუხა</string>
+    <string name="setup_connect">დაკავშირება</string>
+    <string name="setup_demo">დემოს ცდა</string>
+    <string name="setup_code_wrong">შეამოწმეთ კოდი ტელევიზორზე</string>
+    <string name="setup_fire_tv_allow">მონიშნეთ Always allow, შემდეგ OK</string>
+    <string name="setup_adb_title">ჩართეთ ADB გამართვა</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">ჩართეთ Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">მზადაა</string>
+    <string name="settings_edit_tv">რედაქტირება</string>
+    <string name="dev_link_title">დეველოპერის კავშირი</string>
+    <string name="dev_link_body">აჩვენებს ტელევიზორის საკუთარ შესასვლელებს და ყველა აპს, ცვლის შესასვლელს იმ ტელევიზორებზე, რომლებიც HDMI ღილაკებს არ ემორჩილება, ზოგიერთზე კი სიკაშკაშეს არეგულირებს. მუშაობს ტელევიზორის გამართვის კავშირით (ADB). ღილაკები და აკრეფა მის გარეშეც ისევე მუშაობს.</string>
+    <string name="dev_link_step_developer">ტელევიზორზე გახსენით პარამეტრები › სისტემა › შესახებ და შვიდჯერ აირჩიეთ Android TV OS build. ძველ ტელევიზორებზე ეს არის Device Preferences › About › Build.</string>
+    <string name="dev_link_step_debugging">გახსენით დეველოპერის პარამეტრები (შესახებ-ის გვერდით) და ჩართეთ USB გამართვა. Shield-ზე ეს არის Network debugging.</string>
+    <string name="dev_link_step_allow">შეეხეთ დაკავშირებას, შემდეგ ტელევიზორზე მონიშნეთ ყოველთვის დაშვება და აირჩიეთ OK.</string>
+    <string name="dev_link_connect">დაკავშირება</string>
+    <string name="dev_link_allow">დაშვება ტელევიზორზე</string>
+    <string name="dev_link_allow_body">მონიშნეთ ყოველთვის დაშვება ამ კომპიუტერიდან, შემდეგ OK</string>
+    <string name="dev_link_turn_off">გამორთვა</string>
+    <string name="dev_link_off">გამორთულია. ამატებს შესასვლელებს და ყველა აპს</string>
+    <string name="dev_link_away">ტელევიზორი არ პასუხობს. სანამ პულტი გახსნილია, ავტომატურად ხელახლა ცდის.</string>
+    <string name="dev_link_away_short">არ პასუხობს</string>
+    <string name="dev_link_debugging_off">ტელევიზორმა კავშირი უარყო. შეამოწმეთ, ჩართულია თუ არა USB გამართვა. Android TV 14-იდან ზოგი ტელევიზორი მხოლოდ უსადენო გამართვას იღებს, რომლის გამოყენებაც TennaRC-ს ჯერ არ შეუძლია.</string>
+    <string name="dev_link_debugging_off_short">ტელევიზორზე გამართვა გამორთულია</string>
+    <string name="dev_link_wireless">ჩართულია მხოლოდ უსადენო გამართვა, რომლის გამოყენებაც TennaRC-ს ჯერ არ შეუძლია. ჩართეთ USB გამართვაც, ან ერთხელ დააწყვილეთ კომპიუტერიდან და გაუშვით adb tcpip 5555 — ეს ტელევიზორის გადატვირთვამდე იმოქმედებს.</string>
+    <string name="dev_link_wireless_short">ჩართულია მხოლოდ უსადენო გამართვა</string>
+    <string name="dev_link_not_allowed">ტელევიზორზე არავინ დაუშვა. სცადეთ ხელახლა და იქ აირჩიეთ OK.</string>
+    <string name="dev_link_not_allowed_short">ტელევიზორზე არ არის დაშვებული</string>
+    <string name="dev_link_forgotten">ტელევიზორმა დაივიწყა ეს ტელეფონი, როგორც Android TV აკეთებს მოწყობილობებთან, რომლებიც ერთი კვირა არ უნახავს. სცადეთ ხელახლა და დაუშვით ტელევიზორზე.</string>
+    <string name="dev_link_forgotten_short">ტელევიზორმა დაივიწყა ეს ტელეფონი</string>
+</resources>

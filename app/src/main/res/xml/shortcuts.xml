@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_link"
+        android:shortcutId="link"
+        android:shortcutShortLabel="@string/shortcut_link">
+        <intent
+            android:action="lt.tsx.tennarc.OPEN_LINK"
+            android:targetClass="lt.tsx.tennarc.MainActivity"
+            android:targetPackage="lt.tsx.tennarc" />
+    </shortcut>
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_keyboard"
+        android:shortcutId="keyboard"
+        android:shortcutShortLabel="@string/shortcut_keyboard">
+        <intent
+            android:action="lt.tsx.tennarc.KEYBOARD"
+            android:targetClass="lt.tsx.tennarc.MainActivity"
+            android:targetPackage="lt.tsx.tennarc" />
+    </shortcut>
+</shortcuts>

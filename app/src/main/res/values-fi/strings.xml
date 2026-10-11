@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Lähetä TV:lle</string>
+    <string name="tile_label">TV-kauko-ohjain</string>
+    <string name="shortcut_link">Hae</string>
+    <string name="shortcut_keyboard">Kirjoita TV:hen</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Yhdistetty</string>
+    <string name="status_connecting">Yhdistetään…</string>
+    <string name="status_awaiting">Hyväksy TV:ssä</string>
+    <string name="status_offline">TV vaikuttaa sammutetulta</string>
+    <string name="status_not_paired">Ei vielä paritettu</string>
+    <string name="status_standby">Valmiustilassa</string>
+    <string name="status_screen_off">Kuva pois, ääni päällä</string>
+    <string name="standby_title">TV on pois päältä</string>
+    <string name="action_turn_on">Käynnistä</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Parita TV:n kanssa</string>
+    <string name="pair_body">Hyväksy TV:ssä, kun se kysyy.</string>
+    <string name="pair_declined_body">TV hylkäsi pyynnön. Hyväksy se tällä kertaa.</string>
+    <string name="pair_action">Parita</string>
+    <string name="pair_timeout_body">TV ei vastannut.</string>
+    <string name="pair_forgotten_body">TV on unohtanut tämän puhelimen.</string>
+    <string name="approval_title">Hyväksy TV:ssä</string>
+    <string name="connecting_title">Yhdistetään…</string>
+    <string name="offline_title">TV vaikuttaa sammutetulta</string>
+    <string name="action_retry">Yritä uudelleen</string>
+    <string name="action_cancel">Peruuta</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Hae</string>
+    <string name="touchpad_label">Kosketuslevy. Siirrä osoitinta vetämällä, napsauta napauttamalla ja vieritä vetämällä kahdella sormella.</string>
+    <string name="dpad_label">Suuntanäppäimet</string>
+    <string name="key_up">Ylös</string>
+    <string name="key_down">Alas</string>
+    <string name="key_left">Vasemmalle</string>
+    <string name="key_right">Oikealle</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Takaisin</string>
+    <string name="key_home">Koti</string>
+    <string name="key_keyboard">Näppäimistö</string>
+    <string name="key_touchpad">Kosketuslevy</string>
+    <string name="key_dpad">Nuolet</string>
+    <string name="key_more">Lisää</string>
+    <string name="key_rewind">Kelaa taaksepäin</string>
+    <string name="key_play">Toista</string>
+    <string name="key_pause">Keskeytä</string>
+    <string name="key_fast_forward">Kelaa eteenpäin</string>
+    <string name="key_stop">Pysäytä</string>
+    <string name="key_volume_up">Lisää äänenvoimakkuutta</string>
+    <string name="key_volume_down">Vähennä äänenvoimakkuutta</string>
+    <string name="key_mute">Mykistä</string>
+    <string name="key_unmute">Poista mykistys</string>
+    <string name="volume_value">Äänenvoimakkuus %1$d</string>
+    <string name="volume_unknown">Äänenvoimakkuus, tuntematon taso</string>
+    <string name="volume_muted">Mykistetty</string>
+    <string name="power">Virta</string>
+    <string name="settings">Asetukset</string>
+    <string name="all_apps">Kaikki sovellukset</string>
+    <string name="inputs">Lähteet</string>
+    <string name="picture_title">Kuva</string>
+    <string name="picture_standard">Vakio</string>
+    <string name="picture_vivid">Elävä</string>
+    <string name="picture_cinema">Elokuva</string>
+    <string name="picture_game">Peli</string>
+    <string name="picture_sports">Urheilu</string>
+    <string name="picture_eco">Eko</string>
+    <string name="picture_expert">Asiantuntija</string>
+    <string name="picture_backlight">Kirkkaus</string>
+    <string name="sound_title">Ääni</string>
+    <string name="sound_tv">TV-kaiuttimet</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optinen</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Kuulokkeet</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Kaiuttimet</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Linjalähtö</string>
+    <string name="more_subtitles">Tekstitykset</string>
+    <string name="more_audio_track">Ääniraita</string>
+    <string name="sleep_title">Uniajastin</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Sammuu klo %1$s</string>
+    <string name="sleep_cancel">Peruuta ajastin</string>
+    <string name="app_on_screen">%1$s, näytöllä nyt</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Aloitetaan TV:ssä…</string>
+    <string name="cast_playing">Toistetaan TV:ssä</string>
+    <string name="cast_paused">Keskeytetty</string>
+    <string name="cast_stalled">Toisto on jumissa. Onko videon palvelin yhä toiminnassa?</string>
+    <string name="cast_play">Jatka</string>
+    <string name="cast_pause">Keskeytä</string>
+    <string name="cast_stop">Lopeta toisto TV:ssä</string>
+    <string name="cast_position">Toistokohta</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Sulje haku</string>
+    <string name="tv_picker">TV:t, nyt %1$s</string>
+    <string name="tv_picker_add_short">Lisää</string>
+    <string name="hold_hide">Piilota</string>
+    <string name="hold_rename">Nimeä uudelleen</string>
+    <string name="rename_input">Nimeä lähde uudelleen</string>
+    <string name="rename_save">Tallenna</string>
+    <string name="rename_reset">Käytä TV:n nimeä</string>
+    <string name="more_channel_list">Kanavat</string>
+    <string name="more_guide">Opas</string>
+    <string name="input_label">%1$s, lähde</string>
+    <string name="channel_label">%2$s, kanava %1$s</string>
+    <string name="on_screen_now">Näytöllä nyt</string>
+    <string name="deck_expanded">Laajennettu</string>
+    <string name="deck_collapsed">Tiivistetty</string>
+    <string name="channel_hidden">%1$s piilotettu</string>
+    <string name="action_undo">Kumoa</string>
+    <string name="offline_switch">Käytä laitetta %1$s</string>
+    <string name="search_picks">Suosittu nyt</string>
+    <string name="search_clear">Tyhjennä</string>
+    <string name="search_fill">Lisää hakukenttään</string>
+    <string name="search_type_on_tv">Kirjoita TV:hen</string>
+    <string name="search_in_app">Hae sovelluksesta %1$s</string>
+    <string name="search_web">%1$s-haku</string>
+    <string name="link_paste">Liitä</string>
+    <string name="link_recent">Viimeaikaiset</string>
+    <string name="link_clear_recent">Tyhjennä</string>
+    <string name="link_kind_youtube">YouTube-video</string>
+    <string name="link_kind_video">Videotiedosto</string>
+    <string name="link_kind_audio">Äänitiedosto</string>
+    <string name="link_kind_image">Kuva</string>
+    <string name="link_kind_web">Verkkosivu</string>
+    <string name="link_action_app">Avaa sovelluksessa %1$s</string>
+    <string name="link_action_media">Toista TV:ssä</string>
+    <string name="link_action_browser">Avaa TV:n selaimessa</string>
+    <string name="link_sending">Lähetetään…</string>
+    <string name="link_sent">Avattu TV:ssä</string>
+    <string name="link_failed">TV ei avannut sitä. Yritä uudelleen.</string>
+
+    <!-- Share -->
+    <string name="share_title">Lähetä TV:lle</string>
+    <string name="share_no_link">Jakamassasi sisällössä ei ole linkkiä.</string>
+    <string name="share_not_paired">Tätä puhelinta ei ole vielä paritettu TV:n kanssa.</string>
+    <string name="share_open_app">Avaa kauko-ohjain</string>
+    <string name="share_waiting">Yhdistetään…</string>
+    <string name="share_cant_open">Tämä TV ei voi avata %1$s-linkkejä</string>
+    <string name="action_close">Sulje</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Näppäimistö</string>
+    <string name="keyboard_placeholder_waiting">Valitse tekstikenttä TV:ssä</string>
+    <string name="keyboard_backspace">Askelpalautin</string>
+    <string name="keyboard_clear">Tyhjennä</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d merkki on jo TV:ssä</item>
+        <item quantity="other">%1$d merkkiä on jo TV:ssä</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Lisää</string>
+    <string name="more_menu">Asetukset</string>
+    <string name="more_quick">Pikavalikko</string>
+    <string name="more_quick_short">Valikko</string>
+    <string name="more_info">Tiedot</string>
+    <string name="more_inputs">Lähteet</string>
+    <string name="more_exit">Poistu</string>
+    <string name="more_channel_up">Kanava ylös</string>
+    <string name="more_channel_down">Kanava alas</string>
+    <string name="more_red">Punainen</string>
+    <string name="more_green">Vihreä</string>
+    <string name="more_yellow">Keltainen</string>
+    <string name="more_blue">Sininen</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Virta</string>
+    <string name="power_screen_off">Kuva pois</string>
+    <string name="power_off">Sammuta TV</string>
+    <string name="power_off_confirm">Sammuta napauttamalla uudelleen</string>
+    <string name="power_turn_off">Sammuta</string>
+    <string name="power_tap_again">Napauta uudelleen</string>
+    <string name="switch_on">Päällä</string>
+    <string name="switch_off">Pois päältä</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Asetukset</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Nimi</string>
+    <string name="settings_host">Osoite</string>
+    <string name="settings_host_invalid">Anna IP-osoite tai isäntänimi</string>
+    <string name="settings_mac">MAC-osoite (TV:n käynnistämiseen)</string>
+    <string name="settings_mac_invalid">Kuusi heksadesimaalilukuparia, esim. 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Etsi lähellä olevia TV:itä</string>
+    <string name="settings_finding">Etsitään TV:itä…</string>
+    <string name="settings_found_none">Mikään TV ei vastannut.</string>
+    <string name="settings_found_no_new">Muita TV:itä ei löytynyt</string>
+    <string name="settings_in_use">Käytössä</string>
+    <string name="settings_add">Lisää</string>
+    <string name="settings_forget_tv">Unohda %1$s</string>
+    <string name="settings_use_tv">Käytä tätä TV:tä</string>
+    <string name="settings_remove_tv">Poista</string>
+    <string name="settings_remove_confirm">Poista napauttamalla uudelleen</string>
+    <string name="settings_move_up">Siirrä ylös</string>
+    <string name="settings_move_down">Siirrä alas</string>
+    <string name="settings_sensitivity">Herkkyys</string>
+    <string name="settings_touchpad">Kosketuslevy</string>
+    <string name="settings_phone">Puhelin</string>
+    <string name="settings_natural_scroll">Luonnollinen vieritys</string>
+    <string name="settings_scroll_strip">Vieritysnauha</string>
+    <string name="settings_hidden">Piilotetut</string>
+    <string name="settings_show">Näytä</string>
+    <string name="settings_theme">Teema</string>
+    <string name="settings_theme_auto">Automaattinen</string>
+    <string name="settings_language">Kieli</string>
+    <string name="settings_theme_system">Järjestelmä</string>
+    <string name="settings_theme_light">Vaalea</string>
+    <string name="settings_theme_dark">Tumma</string>
+    <string name="settings_scroll_strip_right">Oikealle</string>
+    <string name="settings_scroll_strip_left">Vasemmalle</string>
+    <string name="settings_scroll_strip_off">Pois päältä</string>
+    <string name="settings_search_engine">Verkkohaku</string>
+    <string name="settings_search">Haku</string>
+    <string name="settings_find_titles">Etsi elokuvia ja videoita</string>
+    <string name="find_titles_ask">Löytääkseen ne TennaRC lähettää kirjoittamasi YouTubelle, JustWatchille ja Wikidatalle. Voit muuttaa tätä asetuksista.</string>
+    <string name="find_titles_not_now">Ei nyt</string>
+    <string name="settings_volume_keys">Äänenvoimakkuuden painikkeet</string>
+    <string name="settings_auto_keyboard">Automaattinen näppäimistö</string>
+    <string name="settings_haptics">Värinä</string>
+    <string name="settings_keep_screen_on">Pidä näyttö päällä</string>
+    <string name="settings_forget">Unohda paritys</string>
+    <string name="settings_forget_body">TV kysyy uudelleen seuraavalla kerralla</string>
+    <string name="settings_forget_confirm">Unohda napauttamalla uudelleen</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Ei yhteyttä TV:hen</string>
+    <string name="notice_command_failed">TV ei vastannut komentoon</string>
+    <string name="notice_launch_failed">Sovelluksen avaaminen epäonnistui</string>
+    <string name="notice_open_failed">TV ei voinut avata linkkiä</string>
+    <string name="notice_no_renderer">TV:n mediasoitin ei vastaa. Onko se päällä?</string>
+    <string name="notice_cast_failed">TV ei voinut toistaa linkkiä</string>
+    <string name="notice_wake_sent">Herätyssignaali lähetetty</string>
+    <string name="notice_tv_moved">TV löytyi uudesta osoitteesta</string>
+    <string name="notice_wake_failed">Herätyssignaalin lähettäminen epäonnistui. Tarkista MAC-osoite.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Pätkivä yhteys</string>
+    <string name="link_help_stalling">TV:n Wi-Fi-yhteys katkeilee hetkittäin.</string>
+    <string name="link_help_slow">TV:n Wi-Fi-yhteys on heikko tai ruuhkainen.</string>
+    <string name="link_fix_24_title">Yhdistä TV 2,4 GHz:n Wi-Fi-verkkoon</string>
+    <string name="link_fix_ethernet_title">Käytä Ethernet-kaapelia</string>
+    <string name="link_fix_extender_title">Lisää Wi-Fi-toistin puoliväliin</string>
+    <string name="link_fix_listen_title">Poista Listen Mode käytöstä Screen Sharessa</string>
+    <string name="link_fix_closer_title">Siirrä reititin lähemmäs TV:tä</string>
+    <string name="link_fix_band_title">Kokeile toista Wi-Fi-kaistaa</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">TV-kauko-ohjain</string>
+    <string name="notify_channel_body">TV:n toisto, tauko ja äänenvoimakkuus, kun TV on päällä</string>
+    <string name="notify_on_tv">TV:ssä</string>
+    <string name="notify_close">Sulje</string>
+    <string name="settings_notification_controls">Mediasäätimet</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Kirjoita TV:ssä näkyvä koodi</string>
+    <string name="pair_code_title">Anna TV:n näyttämä koodi</string>
+    <string name="pair_code_wrong">Koodi ei täsmännyt. Kokeile TV:n uutta koodia.</string>
+    <string name="pair_code_label">Koodi</string>
+    <string name="pair_code_submit">Parita</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Demo-TV</string>
+    <string name="settings_demo_tv_body">Kokeile kauko-ohjainta ilman TV:tä</string>
+    <string name="settings_demo_tv_listed">Lisää demo-TV:n TV-luetteloosi</string>
+    <string name="settings_help">Ohje</string>
+    <string name="settings_report">Ilmoita ongelmasta</string>
+    <string name="settings_privacy">Tietosuojakäytäntö</string>
+    <string name="settings_reset">Nollaa asetukset</string>
+    <string name="settings_reset_body">Televisiot pysyvät pariliitettyinä</string>
+    <string name="settings_reset_confirm">Nollaa napauttamalla uudelleen</string>
+    <string name="offline_no_wifi_title">Ei Wi-Fi-yhteyttä</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku ottaa puhelimelta vastaan vain osan komennoista. Aseta sen Advanced system settings -valikossa Control by mobile apps -asetukseksi Enabled.</string>
+    <string name="notice_adb_off">Ota ADB-virheenkorjaus käyttöön Fire TV:ssä: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Pois päältä</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Ääni</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Parita, niin voit ohjata Ambilightia</string>
+    <string name="ambilight_pin_hint">TV:ssä näkyvä PIN</string>
+    <string name="ambilight_pin_wrong">Väärä PIN. Kokeile uutta</string>
+    <string name="search_opens_app">Avaa %1$s</string>
+    <string name="voice_search">Hae äänellä</string>
+    <string name="voice_stop">Lopeta kuuntelu</string>
+    <string name="voice_listening">Kuunnellaan…</string>
+    <string name="voice_mic_off">Mikrofonin käyttö on estetty</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC sulkeutui odottamattomasti</string>
+    <string name="crash_send">Lähetä</string>
+    <string name="crash_report_subject">TennaRC-kaatumisraportti %1$s</string>
+    <string name="crash_sent">Raportti lähetetty. Kiitos</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">TV:n toisto, tauko ja äänenvoimakkuus</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Toista tästä puhelimesta</string>
+    <string name="phone_mirror">Peilaus</string>
+    <string name="phone_mirror_label">Peilaa tämän puhelimen näyttöä</string>
+    <string name="phone_gallery">Galleria</string>
+    <string name="phone_gallery_label">Näytä kuva tai video tästä puhelimesta</string>
+    <string name="share_cant_play_file">Tämä TV ei voi toistaa tiedostoja puhelimesta</string>
+    <string name="notice_cast_unsupported">TV ei pysty näyttämään tällaista kuvaa</string>
+    <string name="notice_not_on_tv_network">Yhdistä puhelin TV:n Wi-Fi-verkkoon, niin voit toistaa sen tiedostoja</string>
+    <string name="notice_file_unreadable">Tiedoston lukeminen epäonnistui</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Etsitään TV:itä</string>
+    <string name="setup_choose">Valitse TV</string>
+    <string name="setup_none">TV:itä ei löytynyt</string>
+    <string name="setup_search_again">Etsi uudelleen</string>
+    <string name="setup_enter_ip">Syötä IP-osoite</string>
+    <string name="setup_ip_label">IP-osoite</string>
+    <string name="setup_ip_none">Osoitteesta ei vastannut mikään TV</string>
+    <string name="setup_connect">Yhdistä</string>
+    <string name="setup_demo">Kokeile demoa</string>
+    <string name="setup_code_wrong">Tarkista koodi TV:stä</string>
+    <string name="setup_fire_tv_allow">Valitse Always allow ja sitten OK</string>
+    <string name="setup_adb_title">Ota ADB-virheenkorjaus käyttöön</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Ota Control by mobile apps käyttöön</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Valmis</string>
+    <string name="settings_edit_tv">Muokkaa</string>
+    <string name="dev_link_title">Kehittäjäyhteys</string>
+    <string name="dev_link_body">Näyttää TV:n omat tulot ja kaikki sen sovellukset, vaihtaa tuloa TV:issä, jotka eivät reagoi HDMI-näppäimiin, ja säätää joissakin kirkkautta. Toimii TV:n vianetsintäyhteyden (ADB) kautta. Näppäimet ja kirjoittaminen toimivat samoin ilmankin.</string>
+    <string name="dev_link_step_developer">Avaa TV:ssä Asetukset › Järjestelmä › Tietoja ja valitse seitsemän kertaa Android TV -käyttöjärjestelmän koontiversio. Vanhemmissa TV:issä se on Laitteen asetukset › Tietoja › Koontiversio.</string>
+    <string name="dev_link_step_debugging">Avaa Tietoja-kohdan vieressä olevat Kehittäjäasetukset ja laita USB-vianetsintä päälle. Shieldissä se on Verkkovianetsintä.</string>
+    <string name="dev_link_step_allow">Napauta Yhdistä, merkitse sitten TV:ssä Salli aina ja valitse OK.</string>
+    <string name="dev_link_connect">Yhdistä</string>
+    <string name="dev_link_allow">Salli TV:ssä</string>
+    <string name="dev_link_allow_body">Merkitse Salli aina tästä tietokoneesta ja valitse OK</string>
+    <string name="dev_link_turn_off">Poista käytöstä</string>
+    <string name="dev_link_off">Pois päältä. Lisää tulot ja kaikki sovellukset</string>
+    <string name="dev_link_away">TV ei vastaa. Yhteys yrittää itse uudelleen, kun kaukosäädin on auki.</string>
+    <string name="dev_link_away_short">Ei vastaa</string>
+    <string name="dev_link_debugging_off">TV torjui yhteyden. Tarkista, että USB-vianetsintä on päällä. Android TV 14:stä alkaen jotkin TV:t hyväksyvät vain langattoman virheenkorjauksen, jota TennaRC ei vielä osaa käyttää.</string>
+    <string name="dev_link_debugging_off_short">Vianetsintä on pois päältä TV:ssä</string>
+    <string name="dev_link_wireless">Vain langaton virheenkorjaus on päällä, eikä TennaRC osaa vielä käyttää sitä. Laita myös USB-vianetsintä päälle tai parita kerran tietokoneelta ja suorita adb tcpip 5555, joka on voimassa TV:n uudelleenkäynnistykseen asti.</string>
+    <string name="dev_link_wireless_short">Vain langaton virheenkorjaus on päällä</string>
+    <string name="dev_link_not_allowed">Kukaan ei sallinut sitä TV:ssä. Yritä uudelleen ja valitse siellä OK.</string>
+    <string name="dev_link_not_allowed_short">Ei sallittu TV:ssä</string>
+    <string name="dev_link_forgotten">TV on unohtanut tämän puhelimen, kuten Android TV tekee puhelimelle, jota se ei ole nähnyt viikkoon. Yritä uudelleen ja salli yhteys TV:ssä.</string>
+    <string name="dev_link_forgotten_short">TV unohti tämän puhelimen</string>
+</resources>

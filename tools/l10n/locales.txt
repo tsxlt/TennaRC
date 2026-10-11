@@ -1,0 +1,106 @@
+# values-<qualifier> folder, then the language. One per line; see BRIEF.md.
+# English is the default (values/), written to read the same in the US and the UK.
+af Afrikaans
+am Amharic
+ar Arabic
+as Assamese
+az Azerbaijani
+be Belarusian
+bg Bulgarian
+bn Bengali
+bs Bosnian
+ca Catalan
+cs Czech
+cy Welsh
+da Danish
+de German
+el Greek
+es Spanish (Spain)
+b+es+419 Spanish (Latin America)
+et Estonian
+eu Basque
+fa Persian
+fi Finnish
+tl Filipino
+fr French (France)
+fr-rCA French (Canada)
+ga Irish
+gl Galician
+gu Gujarati
+ha Hausa
+hi Hindi
+hr Croatian
+hu Hungarian
+hy Armenian
+in Indonesian
+ig Igbo
+is Icelandic
+it Italian
+iw Hebrew
+ja Japanese
+jv Javanese
+ka Georgian
+kk Kazakh
+km Khmer
+kn Kannada
+ko Korean
+ky Kyrgyz
+lb Luxembourgish
+lo Lao
+lt Lithuanian
+lv Latvian
+mk Macedonian
+ml Malayalam
+mn Mongolian
+mr Marathi
+ms Malay
+mt Maltese
+my Burmese
+nb Norwegian Bokmål
+ne Nepali
+nl Dutch
+or Odia
+pa Punjabi (Gurmukhi)
+pl Polish
+ps Pashto
+pt-rBR Portuguese (Brazil)
+pt-rPT Portuguese (Portugal)
+ro Romanian
+ru Russian
+rw Kinyarwanda
+sd Sindhi
+si Sinhala
+sk Slovak
+sl Slovenian
+so Somali
+sq Albanian
+sr Serbian (Cyrillic)
+b+sr+Latn Serbian (Latin)
+sv Swedish
+sw Swahili
+ta Tamil
+te Telugu
+tg Tajik
+th Thai
+tk Turkmen
+tr Turkish
+uk Ukrainian
+ur Urdu
+uz Uzbek (Latin)
+vi Vietnamese
+xh Xhosa
+yo Yoruba
+zh-rCN Chinese (Simplified)
+zh-rHK Chinese (Traditional, Hong Kong)
+zh-rTW Chinese (Traditional, Taiwan)
+zu Zulu
+b+ckb Central Kurdish
+eo Esperanto
+fy Western Frisian
+gd Scottish Gaelic
+mg Malagasy
+ny Chichewa
+sn Shona
+st Southern Sotho
+su Sundanese
+b+haw Hawaiian

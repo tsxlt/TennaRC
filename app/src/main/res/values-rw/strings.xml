@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Ohereza kuri TV</string>
+    <string name="tile_label">Rimoti ya TV</string>
+    <string name="shortcut_link">Shakisha</string>
+    <string name="shortcut_keyboard">Andika kuri TV</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Byahujwe</string>
+    <string name="status_connecting">Birimo guhuza…</string>
+    <string name="status_awaiting">Emeza kuri TV</string>
+    <string name="status_offline">TV isa n\'izimye</string>
+    <string name="status_not_paired">Ntirahuzwa</string>
+    <string name="status_standby">Iri mu kiruhuko</string>
+    <string name="status_screen_off">Ekara irazimye, ijwi rirumvikana</string>
+    <string name="standby_title">TV irazimye</string>
+    <string name="action_turn_on">Cana</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Huza na TV</string>
+    <string name="pair_body">Emeza kuri TV igihe ibikubajije.</string>
+    <string name="pair_declined_body">TV yanze. Ubu hitamo Emeza.</string>
+    <string name="pair_action">Huza</string>
+    <string name="pair_timeout_body">TV ntiyasubije.</string>
+    <string name="pair_forgotten_body">TV yibagiwe iyi telefoni.</string>
+    <string name="approval_title">Emeza kuri TV</string>
+    <string name="connecting_title">Birimo guhuza…</string>
+    <string name="offline_title">TV isa n\'izimye</string>
+    <string name="action_retry">Ongera ugerageze</string>
+    <string name="action_cancel">Hagarika</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Shakisha</string>
+    <string name="touchpad_label">Touchpad. Kurura kugira ngo wimure akamenyetso, kanda kugira ngo ukande, kurura n\'intoki ebyiri kugira ngo uzamure cyangwa umanure.</string>
+    <string name="dpad_label">Utubuto tw\'icyerekezo</string>
+    <string name="key_up">Hejuru</string>
+    <string name="key_down">Hasi</string>
+    <string name="key_left">Ibumoso</string>
+    <string name="key_right">Iburyo</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Subira inyuma</string>
+    <string name="key_home">Ahabanza</string>
+    <string name="key_keyboard">Mwandikisho</string>
+    <string name="key_touchpad">Touchpad</string>
+    <string name="key_dpad">Imyambi</string>
+    <string name="key_more">Ibindi</string>
+    <string name="key_rewind">Subiza inyuma</string>
+    <string name="key_play">Kina</string>
+    <string name="key_pause">Hagarika gato</string>
+    <string name="key_fast_forward">Ihutisha imbere</string>
+    <string name="key_stop">Hagarika</string>
+    <string name="key_volume_up">Ongera ijwi</string>
+    <string name="key_volume_down">Gabanya ijwi</string>
+    <string name="key_mute">Zimya ijwi</string>
+    <string name="key_unmute">Fungura ijwi</string>
+    <string name="volume_value">Ijwi %1$d</string>
+    <string name="volume_unknown">Ijwi, urugero ntiruzwi</string>
+    <string name="volume_muted">Ijwi rirazimye</string>
+    <string name="power">Umuriro</string>
+    <string name="settings">Igenamiterere</string>
+    <string name="all_apps">Porogaramu zose</string>
+    <string name="inputs">Inyinjiriro</string>
+    <string name="picture_title">Ishusho</string>
+    <string name="picture_standard">Bisanzwe</string>
+    <string name="picture_vivid">Bikeye</string>
+    <string name="picture_cinema">Sinema</string>
+    <string name="picture_game">Umukino</string>
+    <string name="picture_sports">Siporo</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Inzobere</string>
+    <string name="picture_backlight">Urumuri</string>
+    <string name="sound_title">Ijwi</string>
+    <string name="sound_tv">Indangururamajwi za TV</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optical</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Utwumvirizo</string>
+    <string name="sound_tv_short">Indangururamajwi</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Line out</string>
+    <string name="more_subtitles">Insobanuro</string>
+    <string name="more_audio_track">Ijwi</string>
+    <string name="sleep_title">Isaha yo kuzimya</string>
+    <string name="sleep_minutes">Iminota %1$d</string>
+    <string name="sleep_at">Izazima saa %1$s</string>
+    <string name="sleep_cancel">Hagarika isaha</string>
+    <string name="app_on_screen">%1$s, ubu kuri ekara</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Biratangira kuri TV…</string>
+    <string name="cast_playing">Birakina kuri TV</string>
+    <string name="cast_paused">Byahagaze gato</string>
+    <string name="cast_stalled">Ntibikomeza. Ese seriveri ya videwo iracyakora?</string>
+    <string name="cast_play">Komeza</string>
+    <string name="cast_pause">Hagarika gato</string>
+    <string name="cast_stop">Hagarika gukina kuri TV</string>
+    <string name="cast_position">Aho bigeze</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Funga ishakisha</string>
+    <string name="tv_picker">TV, ubu %1$s</string>
+    <string name="tv_picker_add_short">Ongeraho</string>
+    <string name="hold_hide">Hisha</string>
+    <string name="hold_rename">Hindura izina</string>
+    <string name="rename_input">Hindura izina ry\'inyinjiriro</string>
+    <string name="rename_save">Bika</string>
+    <string name="rename_reset">Koresha izina rya TV</string>
+    <string name="more_channel_list">Urutonde</string>
+    <string name="more_guide">Gahunda</string>
+    <string name="input_label">%1$s, inyinjiriro</string>
+    <string name="channel_label">%2$s, shene %1$s</string>
+    <string name="on_screen_now">Ubu kuri ekara</string>
+    <string name="deck_expanded">Byaguwe</string>
+    <string name="deck_collapsed">Byagabanyijwe</string>
+    <string name="channel_hidden">%1$s yahishwe</string>
+    <string name="action_undo">Subiza uko byari</string>
+    <string name="offline_switch">Koresha %1$s</string>
+    <string name="search_picks">Ibigezweho ubu</string>
+    <string name="search_clear">Siba</string>
+    <string name="search_fill">Shyira mu gasanduku k\'ishakisha</string>
+    <string name="search_type_on_tv">Andika kuri TV</string>
+    <string name="search_in_app">Shakisha %1$s</string>
+    <string name="search_web">Shakisha %1$s</string>
+    <string name="link_paste">Omeka</string>
+    <string name="link_recent">Ibya vuba</string>
+    <string name="link_clear_recent">Siba</string>
+    <string name="link_kind_youtube">Videwo ya YouTube</string>
+    <string name="link_kind_video">Dosiye ya videwo</string>
+    <string name="link_kind_audio">Dosiye y\'amajwi</string>
+    <string name="link_kind_image">Ifoto</string>
+    <string name="link_kind_web">Urupapuro rwa interineti</string>
+    <string name="link_action_app">Fungura muri %1$s</string>
+    <string name="link_action_media">Kina kuri TV</string>
+    <string name="link_action_browser">Fungura muri mushakisha ya TV</string>
+    <string name="link_sending">Birimo koherezwa…</string>
+    <string name="link_sent">Byafunguwe kuri TV</string>
+    <string name="link_failed">TV ntiyabifunguye. Ongera ugerageze.</string>
+
+    <!-- Share -->
+    <string name="share_title">Ohereza kuri TV</string>
+    <string name="share_no_link">Nta murongo uri mu byo wasangije.</string>
+    <string name="share_not_paired">Iyi telefoni ntirahuzwa na TV.</string>
+    <string name="share_open_app">Fungura rimoti</string>
+    <string name="share_waiting">Birimo guhuza…</string>
+    <string name="share_cant_open">Iyi TV ntishobora gufungura imirongo ya %1$s</string>
+    <string name="action_close">Funga</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Mwandikisho</string>
+    <string name="keyboard_placeholder_waiting">Hitamo agasanduku kuri TV</string>
+    <string name="keyboard_backspace">Siba inyuma</string>
+    <string name="keyboard_clear">Siba</string>
+    <string name="keyboard_enter">Injiza</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">Inyuguti %1$d isanzwe kuri TV</item>
+        <item quantity="other">Inyuguti %1$d zisanzwe kuri TV</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Ibindi</string>
+    <string name="more_menu">Igenamiterere</string>
+    <string name="more_quick">Menu yihuse</string>
+    <string name="more_quick_short">Menu</string>
+    <string name="more_info">Amakuru</string>
+    <string name="more_inputs">Inyinjiriro</string>
+    <string name="more_exit">Sohoka</string>
+    <string name="more_channel_up">Shene ikurikira</string>
+    <string name="more_channel_down">Shene ibanza</string>
+    <string name="more_red">Umutuku</string>
+    <string name="more_green">Icyatsi</string>
+    <string name="more_yellow">Umuhondo</string>
+    <string name="more_blue">Ubururu</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Umuriro</string>
+    <string name="power_screen_off">Zimya ekara</string>
+    <string name="power_off">Zimya TV</string>
+    <string name="power_off_confirm">Ongera ukande kugira ngo uzimye</string>
+    <string name="power_turn_off">Zimya</string>
+    <string name="power_tap_again">Ongera ukande</string>
+    <string name="switch_on">Byaka</string>
+    <string name="switch_off">Bizimye</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Igenamiterere</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Izina</string>
+    <string name="settings_host">Aderesi</string>
+    <string name="settings_host_invalid">Andika aderesi ya IP cyangwa izina rya host</string>
+    <string name="settings_mac">Aderesi ya MAC (yo kuyicana)</string>
+    <string name="settings_mac_invalid">Imibare ya hex ibiri-ibiri itandatu, nka 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Shakisha TV ziri hafi</string>
+    <string name="settings_finding">Birimo gushakisha TV…</string>
+    <string name="settings_found_none">Nta TV yasubije.</string>
+    <string name="settings_found_no_new">Nta yindi TV yabonetse</string>
+    <string name="settings_in_use">Irakoreshwa</string>
+    <string name="settings_add">Ongeraho</string>
+    <string name="settings_forget_tv">Ibagirwa %1$s</string>
+    
+    <string name="settings_use_tv">Koresha iyi TV</string>
+    <string name="settings_remove_tv">Kuraho</string>
+    <string name="settings_remove_confirm">Ongera ukande kugira ngo ukureho</string>
+    <string name="settings_move_up">Zamura</string>
+    <string name="settings_move_down">Manura</string>
+    <string name="settings_sensitivity">Ubushobozi bwo kumva</string>
+    <string name="settings_touchpad">Touchpad</string>
+    <string name="settings_phone">Telefoni</string>
+    <string name="settings_natural_scroll">Kuzamura bisanzwe</string>
+    <string name="settings_scroll_strip">Umurongo wo kuzamura</string>
+    <string name="settings_hidden">Byahishwe</string>
+    <string name="settings_show">Erekana</string>
+    <string name="settings_theme">Imiterere</string>
+    <string name="settings_theme_auto">Byikora</string>
+    <string name="settings_language">Ururimi</string>
+    <string name="settings_theme_system">Sisitemu</string>
+    <string name="settings_theme_light">Urumuri</string>
+    <string name="settings_theme_dark">Umwijima</string>
+    <string name="settings_scroll_strip_right">Iburyo</string>
+    <string name="settings_scroll_strip_left">Ibumoso</string>
+    <string name="settings_scroll_strip_off">Bizimye</string>
+    <string name="settings_search_engine">Gushakisha ku rubuga</string>
+    <string name="settings_search">Gushakisha</string>
+    
+    <string name="settings_volume_keys">Utubuto tw\'ijwi</string>
+    <string name="settings_auto_keyboard">Mwandikisho yikora</string>
+    <string name="settings_haptics">Kunyeganyega</string>
+    <string name="settings_keep_screen_on">Ekara ihore yaka</string>
+    <string name="settings_forget">Ibagirwa uguhuza</string>
+    <string name="settings_forget_body">TV izongera ibaze ubutaha</string>
+    <string name="settings_forget_confirm">Ongera ukande kugira ngo wibagirwe</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Ntiyahujwe na TV</string>
+    <string name="notice_command_failed">TV ntiyabyakiriye</string>
+    <string name="notice_launch_failed">Iyo porogaramu ntiyafungutse</string>
+    <string name="notice_open_failed">TV ntiyashoboye gufungura umurongo</string>
+    <string name="notice_no_renderer">Porogaramu ya TV ikina amashusho ntisubiza. Ese irakora?</string>
+    <string name="notice_cast_failed">TV ntiyashoboye gukina uwo murongo</string>
+    <string name="notice_wake_sent">Ikimenyetso cyo kuyikangura cyoherejwe</string>
+    <string name="notice_tv_moved">TV yabonetse kuri aderesi nshya</string>
+    <string name="notice_wake_failed">Ikimenyetso cyo kuyikangura nticyoherejwe. Reba aderesi ya MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Guhuza gutinda</string>
+    <string name="link_help_stalling">Wi-Fi ya TV ikunda gucikagurika akanya gato.</string>
+    <string name="link_help_slow">Wi-Fi ya TV ifite intege nke cyangwa ihuze.</string>
+    <string name="link_fix_24_title">Huza TV na Wi-Fi ya 2.4 GHz</string>
+    <string name="link_fix_ethernet_title">Koresha umugozi wa Ethernet</string>
+    <string name="link_fix_extender_title">Shyira Wi-Fi extender hagati</string>
+    <string name="link_fix_listen_title">Zimya Listen Mode muri Screen Share</string>
+    <string name="link_fix_closer_title">Egereza router hafi ya TV</string>
+    <string name="link_fix_band_title">Gerageza indi band ya Wi-Fi</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Rimoti ya TV</string>
+    <string name="notify_channel_body">Kina, hagarika gato n\'ijwi bya TV iyo yaka</string>
+    <string name="notify_on_tv">Kuri TV</string>
+    <string name="notify_close">Funga</string>
+    <string name="settings_notification_controls">Igenzura ry\'amashusho n\'amajwi</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Andika kode igaragara kuri TV</string>
+    <string name="pair_code_title">Andika kode iri kuri TV</string>
+    <string name="pair_code_wrong">Iyo kode ntihuye. Gerageza inshya iri kuri TV.</string>
+    <string name="pair_code_label">Kode</string>
+    <string name="pair_code_submit">Huza</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">TV y\'igerageza</string>
+    <string name="settings_demo_tv_body">Gerageza rimoti nta TV</string>
+    <string name="settings_demo_tv_listed">Yongera TV y\'igerageza mu rutonde rwa TV zawe</string>
+    <string name="settings_help">Ubufasha</string>
+    <string name="settings_report">Tanga raporo y\'ikibazo</string>
+    <string name="settings_privacy">Politiki y\'ibanga</string>
+    <string name="settings_reset">Subiza igenamiterere uko ryari</string>
+    <string name="settings_reset_body">TV zawe zikomeza guhuzwa</string>
+    <string name="settings_reset_confirm">Ongera ukande kugira ngo usubize</string>
+    <string name="offline_no_wifi_title">Nta Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku yakira amabwiriza amwe gusa aturutse kuri telefoni. Muri Advanced system settings zayo, shyira Control by mobile apps kuri Enabled.</string>
+    <string name="notice_adb_off">Fungura ADB debugging kuri Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Bizimye</string>
+    <string name="ambilight_video">Ividiyo</string>
+    <string name="ambilight_audio">Ijwi</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Huza kugira ngo ugenzure Ambilight</string>
+    <string name="ambilight_pin_hint">PIN iri kuri TV</string>
+    <string name="ambilight_pin_wrong">PIN si yo. Gerageza inshya</string>
+    <string name="search_opens_app">Ifungura %1$s</string>
+    <string name="voice_search">Shakisha ukoresheje ijwi</string>
+    <string name="voice_stop">Hagarika kumva</string>
+    <string name="voice_listening">Irumva…</string>
+    <string name="voice_mic_off">Uburenganzira bwa mikoro burafunze</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC yafunze bitunguranye</string>
+    <string name="crash_send">Ohereza</string>
+    <string name="crash_report_subject">Raporo y\'ikibazo cya TennaRC %1$s</string>
+    <string name="crash_sent">Raporo yoherejwe. Murakoze</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Kina, hagarika gato n\'ijwi bya TV</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Kina ukoresheje iyi telefoni</string>
+    <string name="phone_mirror">Kwerekana ekara</string>
+    <string name="phone_mirror_label">Erekana ekara y\'iyi telefoni</string>
+    <string name="phone_gallery">Ububiko bw\'amafoto</string>
+    <string name="phone_gallery_label">Kina ifoto cyangwa videwo bivuye kuri iyi telefoni</string>
+    <string name="share_cant_play_file">Iyi TV ntishobora gukina dosiye ziri kuri telefoni</string>
+    <string name="notice_cast_unsupported">TV ntishobora kwerekana ubu bwoko bw\'ishusho</string>
+    <string name="notice_not_on_tv_network">Huza telefoni na Wi-Fi ya TV kugira ngo ukine dosiye zayo</string>
+    <string name="notice_file_unreadable">Iyo dosiye ntiyasomwe</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Birimo gushakisha TV</string>
+    <string name="setup_choose">Hitamo TV yawe</string>
+    <string name="setup_none">Nta TV yabonetse</string>
+    <string name="setup_search_again">Ongera ushakishe</string>
+    <string name="setup_enter_ip">Andika aderesi ya IP</string>
+    <string name="setup_ip_label">Aderesi ya IP</string>
+    <string name="setup_ip_none">Nta TV yasubije aho</string>
+    <string name="setup_connect">Huza</string>
+    <string name="setup_demo">Gerageza demo</string>
+    <string name="setup_code_wrong">Reba kode iri kuri TV</string>
+    <string name="setup_fire_tv_allow">Hitamo Always allow, hanyuma OK</string>
+    <string name="setup_adb_title">Fungura ADB debugging</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Fungura Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Byarangiye</string>
+
+    <string name="dev_link_allow">Emera kuri TV</string>
+    <string name="dev_link_allow_body">Hitamo Always allow from this computer, hanyuma OK</string>
+    <string name="dev_link_away">TV ntisubiza. Irongera igerageza ubwayo igihe cyose rimoti ifunguye.</string>
+    <string name="dev_link_away_short">Ntisubiza</string>
+    <string name="dev_link_body">Yerekana inyinjiriro za TV na porogaramu zayo zose, ihindura inyinjiriro kuri TV zititaye ku tubuto twa HDMI, kandi kuri zimwe igena urumuri. Ikoresha uburyo bwa debugging bwa TV (ADB). Utubuto no kwandika bikora kimwe na nta bwo.</string>
+    <string name="dev_link_connect">Huza</string>
+    <string name="dev_link_debugging_off">TV yanze guhuza. Reba niba USB debugging ifunguye. Kuva kuri Android TV 14, TV zimwe zemera Wireless debugging gusa, TennaRC itarabasha gukoresha.</string>
+    <string name="dev_link_debugging_off_short">Debugging irafunze kuri TV</string>
+    <string name="dev_link_forgotten">TV yibagiwe iyi telefoni, nk\'uko Android TV ibigenza ku gikoresho itabonye mu cyumweru. Ongera ugerageze, maze ubyemere kuri TV.</string>
+    <string name="dev_link_forgotten_short">TV yibagiwe iyi telefoni</string>
+    <string name="dev_link_not_allowed">Nta wabyemeye kuri TV. Ongera ugerageze, maze uhitemo OK aho.</string>
+    <string name="dev_link_not_allowed_short">Ntibyemewe kuri TV</string>
+    <string name="dev_link_off">Bizimye. Byongeraho inyinjiriro na porogaramu zose</string>
+    <string name="dev_link_step_allow">Kanda Huza, hanyuma kuri TV hitamo Always allow maze ukande OK.</string>
+    <string name="dev_link_step_debugging">Fungura Developer options, iri iruhande rwa About, maze ufungure USB debugging. Kuri Shield ni Network debugging.</string>
+    <string name="dev_link_step_developer">Kuri TV, fungura Settings › System › About maze uhitemo Android TV OS build inshuro zirindwi. Kuri TV za kera ni Device Preferences › About › Build.</string>
+    <string name="dev_link_title">Guhuza kw\'abakora porogaramu</string>
+    <string name="dev_link_turn_off">Zimya</string>
+    <string name="dev_link_wireless">Wireless debugging ni yo yonyine ifunguye, kandi TennaRC ntirabasha kuyikoresha. Fungura na USB debugging, cyangwa uhuze rimwe ukoresheje mudasobwa maze ukoreshe adb tcpip 5555; bimara kugeza TV yongeye gutangira.</string>
+    <string name="dev_link_wireless_short">Wireless debugging gusa ni yo ifunguye</string>
+    <string name="settings_edit_tv">Hindura</string>
+    <string name="settings_find_titles">Shakisha filime n\'ibizamuka</string>
+    <string name="find_titles_ask">Kugira ngo ibibone, TennaRC yohereza ibyo wanditse kuri YouTube, JustWatch na Wikidata. Ushobora kubihindura mu Igenamiterere.</string>
+    <string name="find_titles_not_now">Si ubu</string>
+</resources>

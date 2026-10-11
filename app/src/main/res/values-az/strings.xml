@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Televizora göndər</string>
+    <string name="tile_label">TV pultu</string>
+    <string name="shortcut_link">Axtar</string>
+    <string name="shortcut_keyboard">Televizorda yaz</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Qoşulub</string>
+    <string name="status_connecting">Qoşulur…</string>
+    <string name="status_awaiting">Televizorda qəbul edin</string>
+    <string name="status_offline">Televizor sönük görünür</string>
+    <string name="status_not_paired">Hələ cütləşdirilməyib</string>
+    <string name="status_standby">Gözləmə rejimində</string>
+    <string name="status_screen_off">Ekran sönük, səs açıq</string>
+    <string name="standby_title">Televizor sönükdür</string>
+    <string name="action_turn_on">Aç</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Televizorla cütləşdir</string>
+    <string name="pair_body">Televizor soruşanda orada qəbul edin.</string>
+    <string name="pair_declined_body">Televizor rədd etdi. Bu dəfə Qəbul et seçimini seçin.</string>
+    <string name="pair_action">Cütləşdir</string>
+    <string name="pair_timeout_body">Televizordan cavab gəlmədi.</string>
+    <string name="pair_forgotten_body">Televizor bu telefonu unutdu.</string>
+    <string name="approval_title">Televizorda qəbul edin</string>
+    <string name="connecting_title">Qoşulur…</string>
+    <string name="offline_title">Televizor sönük görünür</string>
+    <string name="action_retry">Yenidən cəhd et</string>
+    <string name="action_cancel">Ləğv et</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Axtar</string>
+    <string name="touchpad_label">Toxunma paneli. Göstəricini tərpətmək üçün çəkin, klikləmək üçün toxunun, səhifəni sürüşdürmək üçün iki barmaqla çəkin.</string>
+    <string name="dpad_label">İstiqamət düymələri</string>
+    <string name="key_up">Yuxarı</string>
+    <string name="key_down">Aşağı</string>
+    <string name="key_left">Sol</string>
+    <string name="key_right">Sağ</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Geri</string>
+    <string name="key_home">Əsas ekran</string>
+    <string name="key_keyboard">Klaviatura</string>
+    <string name="key_touchpad">Toxunma paneli</string>
+    <string name="key_dpad">Oxlar</string>
+    <string name="key_more">Daha çox</string>
+    <string name="key_rewind">Geri sar</string>
+    <string name="key_play">Oxut</string>
+    <string name="key_pause">Pauza</string>
+    <string name="key_fast_forward">İrəli sar</string>
+    <string name="key_stop">Dayandır</string>
+    <string name="key_volume_up">Səsi artır</string>
+    <string name="key_volume_down">Səsi azalt</string>
+    <string name="key_mute">Səssiz</string>
+    <string name="key_unmute">Səsi aç</string>
+    <string name="volume_value">Səs səviyyəsi %1$d</string>
+    <string name="volume_unknown">Səs səviyyəsi bilinmir</string>
+    <string name="volume_muted">Səssiz</string>
+    <string name="power">Enerji</string>
+    <string name="settings">Ayarlar</string>
+    <string name="all_apps">Bütün tətbiqlər</string>
+    <string name="inputs">Girişlər</string>
+    <string name="picture_title">Şəkil</string>
+    <string name="picture_standard">Standart</string>
+    <string name="picture_vivid">Canlı</string>
+    <string name="picture_cinema">Sinema</string>
+    <string name="picture_game">Oyun</string>
+    <string name="picture_sports">İdman</string>
+    <string name="picture_eco">Eko</string>
+    <string name="picture_expert">Ekspert</string>
+    <string name="picture_backlight">Parlaqlıq</string>
+    <string name="sound_title">Səs</string>
+    <string name="sound_tv">Televizor dinamikləri</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optik</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Qulaqlıq</string>
+    <string name="sound_tv_short">Dinamiklər</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Xətti çıxış</string>
+    <string name="more_subtitles">Subtitrlər</string>
+    <string name="more_audio_track">Səs</string>
+    <string name="sleep_title">Yuxu taymeri</string>
+    <string name="sleep_minutes">%1$d dəq</string>
+    <string name="sleep_at">Sönmə vaxtı: %1$s</string>
+    <string name="sleep_cancel">Taymeri ləğv et</string>
+    <string name="app_on_screen">%1$s, indi ekranda</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Televizorda başladılır…</string>
+    <string name="cast_playing">Televizorda oxudulur</string>
+    <string name="cast_paused">Pauzada</string>
+    <string name="cast_stalled">Hərəkət etmir. Video serveri hələ işləyirmi?</string>
+    <string name="cast_play">Davam et</string>
+    <string name="cast_pause">Pauza</string>
+    <string name="cast_stop">Televizorda oxutmanı dayandır</string>
+    <string name="cast_position">Oxutma mövqeyi</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Axtarışı bağla</string>
+    <string name="tv_picker">Televizorlar, indi %1$s</string>
+    <string name="tv_picker_add_short">Əlavə et</string>
+    <string name="hold_hide">Gizlət</string>
+    <string name="hold_rename">Adını dəyiş</string>
+    <string name="rename_input">Girişin adını dəyiş</string>
+    <string name="rename_save">Yadda saxla</string>
+    <string name="rename_reset">Televizorun adını istifadə et</string>
+    <string name="more_channel_list">Siyahı</string>
+    <string name="more_guide">Bələdçi</string>
+    <string name="input_label">%1$s, giriş</string>
+    <string name="channel_label">%2$s, kanal %1$s</string>
+    <string name="on_screen_now">İndi ekranda</string>
+    <string name="deck_expanded">Genişləndirilib</string>
+    <string name="deck_collapsed">Yığılıb</string>
+    <string name="channel_hidden">%1$s gizlədildi</string>
+    <string name="action_undo">Geri qaytar</string>
+    <string name="offline_switch">%1$s istifadə et</string>
+    <string name="search_picks">İndi populyar</string>
+    <string name="search_clear">Təmizlə</string>
+    <string name="search_fill">Axtarış xanasına qoy</string>
+    <string name="search_type_on_tv">Televizorda yaz</string>
+    <string name="search_in_app">%1$s daxilində axtar</string>
+    <string name="search_web">%1$s ilə axtar</string>
+    <string name="link_paste">Yapışdır</string>
+    <string name="link_recent">Son</string>
+    <string name="link_clear_recent">Təmizlə</string>
+    <string name="link_kind_youtube">YouTube videosu</string>
+    <string name="link_kind_video">Video faylı</string>
+    <string name="link_kind_audio">Audio faylı</string>
+    <string name="link_kind_image">Şəkil</string>
+    <string name="link_kind_web">Veb səhifə</string>
+    <string name="link_action_app">%1$s daxilində aç</string>
+    <string name="link_action_media">Televizorda oxut</string>
+    <string name="link_action_browser">Televizorun brauzerində aç</string>
+    <string name="link_sending">Göndərilir…</string>
+    <string name="link_sent">Televizorda açıldı</string>
+    <string name="link_failed">Televizor onu açmadı. Yenidən cəhd edin.</string>
+
+    <!-- Share -->
+    <string name="share_title">Televizora göndər</string>
+    <string name="share_no_link">Paylaşdığınız məzmunda keçid yoxdur.</string>
+    <string name="share_not_paired">Bu telefon hələ televizorla cütləşdirilməyib.</string>
+    <string name="share_open_app">Pultu aç</string>
+    <string name="share_waiting">Qoşulur…</string>
+    <string name="share_cant_open">Bu televizor %1$s keçidlərini aça bilmir</string>
+    <string name="action_close">Bağla</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Klaviatura</string>
+    <string name="keyboard_placeholder_waiting">Televizorda mətn xanasını seçin</string>
+    <string name="keyboard_backspace">Sil</string>
+    <string name="keyboard_clear">Təmizlə</string>
+    <string name="keyboard_enter">Daxil et</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d simvol artıq televizordadır</item>
+        <item quantity="other">%1$d simvol artıq televizordadır</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Daha çox</string>
+    <string name="more_menu">Ayarlar</string>
+    <string name="more_quick">Sürətli menyu</string>
+    <string name="more_quick_short">Menyu</string>
+    <string name="more_info">Məlumat</string>
+    <string name="more_inputs">Girişlər</string>
+    <string name="more_exit">Çıx</string>
+    <string name="more_channel_up">Növbəti kanal</string>
+    <string name="more_channel_down">Əvvəlki kanal</string>
+    <string name="more_red">Qırmızı</string>
+    <string name="more_green">Yaşıl</string>
+    <string name="more_yellow">Sarı</string>
+    <string name="more_blue">Mavi</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Enerji</string>
+    <string name="power_screen_off">Ekranı söndür</string>
+    <string name="power_off">Televizoru söndür</string>
+    <string name="power_off_confirm">Söndürmək üçün yenidən toxunun</string>
+    <string name="power_turn_off">Söndür</string>
+    <string name="power_tap_again">Yenidən toxunun</string>
+    <string name="switch_on">Açıq</string>
+    <string name="switch_off">Sönük</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Ayarlar</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Ad</string>
+    <string name="settings_host">Ünvan</string>
+    <string name="settings_host_invalid">IP ünvanı və ya host adı daxil edin</string>
+    <string name="settings_mac">MAC ünvanı (açmaq üçün)</string>
+    <string name="settings_mac_invalid">Altı cüt onaltılıq rəqəm, məsələn, 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Yaxındakı televizorları tap</string>
+    <string name="settings_finding">Televizorlar axtarılır…</string>
+    <string name="settings_found_none">Heç bir televizor cavab vermədi.</string>
+    <string name="settings_found_no_new">Başqa televizor tapılmadı</string>
+    <string name="settings_in_use">İstifadədə</string>
+    <string name="settings_add">Əlavə et</string>
+    <string name="settings_forget_tv">Unut: %1$s</string>
+    <string name="settings_use_tv">Bu televizoru istifadə et</string>
+    <string name="settings_remove_tv">Sil</string>
+    <string name="settings_remove_confirm">Silmək üçün yenidən toxunun</string>
+    <string name="settings_move_up">Yuxarı köçür</string>
+    <string name="settings_move_down">Aşağı köçür</string>
+    <string name="settings_sensitivity">Həssaslıq</string>
+    <string name="settings_touchpad">Toxunma paneli</string>
+    <string name="settings_phone">Telefon</string>
+    <string name="settings_natural_scroll">Təbii sürüşdürmə</string>
+    <string name="settings_scroll_strip">Sürüşdürmə zolağı</string>
+    <string name="settings_hidden">Gizli</string>
+    <string name="settings_show">Göstər</string>
+    <string name="settings_theme">Mövzu</string>
+    <string name="settings_theme_auto">Avtomatik</string>
+    <string name="settings_language">Dil</string>
+    <string name="settings_theme_system">Sistem</string>
+    <string name="settings_theme_light">Açıq</string>
+    <string name="settings_theme_dark">Tünd</string>
+    <string name="settings_scroll_strip_right">Sağda</string>
+    <string name="settings_scroll_strip_left">Solda</string>
+    <string name="settings_scroll_strip_off">Sönük</string>
+    <string name="settings_search_engine">Veb axtarış</string>
+    <string name="settings_search">Axtar</string>
+    <string name="settings_find_titles">Filmlər və videolarda axtar</string>
+    <string name="find_titles_ask">Onları tapmaq üçün TennaRC yazdıqlarınızı YouTube, JustWatch və Wikidata-ya göndərir. Bunu Ayarlarda dəyişə bilərsiniz.</string>
+    <string name="find_titles_not_now">İndi yox</string>
+    <string name="settings_volume_keys">Səs düymələri</string>
+    <string name="settings_auto_keyboard">Avtomatik klaviatura</string>
+    <string name="settings_haptics">Vibrasiya</string>
+    <string name="settings_keep_screen_on">Ekranı açıq saxla</string>
+    <string name="settings_forget">Cütləşməni unut</string>
+    <string name="settings_forget_body">Növbəti dəfə televizor yenidən soruşacaq</string>
+    <string name="settings_forget_confirm">Unutmaq üçün yenidən toxunun</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Televizora qoşulmayıb</string>
+    <string name="notice_command_failed">Televizor bu əmrə cavab vermədi</string>
+    <string name="notice_launch_failed">Bu tətbiqi açmaq mümkün olmadı</string>
+    <string name="notice_open_failed">Televizor keçidi aça bilmədi</string>
+    <string name="notice_no_renderer">Televizorun media pleyeri cavab vermir. O açıqdırmı?</string>
+    <string name="notice_cast_failed">Televizor bu keçidi oxuda bilmədi</string>
+    <string name="notice_wake_sent">Oyatma siqnalı göndərildi</string>
+    <string name="notice_tv_moved">Televizor yeni ünvanda tapıldı</string>
+    <string name="notice_wake_failed">Oyatma siqnalını göndərmək mümkün olmadı. MAC ünvanını yoxlayın.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Yavaş bağlantı</string>
+    <string name="link_help_stalling">Televizorun Wi-Fi bağlantısı tez-tez bir anlıq kəsilir.</string>
+    <string name="link_help_slow">Televizorun Wi-Fi siqnalı zəifdir və ya şəbəkə yüklüdür.</string>
+    <string name="link_fix_24_title">Televizoru 2,4 GHz Wi-Fi şəbəkəsinə qoşun</string>
+    <string name="link_fix_ethernet_title">Ethernet kabelindən istifadə edin</string>
+    <string name="link_fix_extender_title">Yolun ortasına Wi-Fi gücləndiricisi qoyun</string>
+    <string name="link_fix_listen_title">Screen Share-də Listen Mode-u söndürün</string>
+    <string name="link_fix_closer_title">Routeri televizora yaxınlaşdırın</string>
+    <string name="link_fix_band_title">Digər Wi-Fi diapazonunu sınayın</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">TV pultu</string>
+    <string name="notify_channel_body">Televizor açıq olanda oxutma, pauza və səs</string>
+    <string name="notify_on_tv">Televizorda</string>
+    <string name="notify_close">Bağla</string>
+    <string name="settings_notification_controls">Media idarəetməsi</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Televizorda göstərilən kodu yazın</string>
+    <string name="pair_code_title">Televizordakı kodu daxil edin</string>
+    <string name="pair_code_wrong">Kod uyğun gəlmədi. Televizordakı yeni kodu daxil edin.</string>
+    <string name="pair_code_label">Kod</string>
+    <string name="pair_code_submit">Cütləşdir</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Demo televizor</string>
+    <string name="settings_demo_tv_body">Pultu televizorsuz sınayın</string>
+    <string name="settings_demo_tv_listed">Televizorlarınıza saxta televizor əlavə edir</string>
+    <string name="settings_help">Kömək</string>
+    <string name="settings_report">Problem barədə bildirin</string>
+    <string name="settings_privacy">Məxfilik siyasəti</string>
+    <string name="settings_reset">Ayarları sıfırlayın</string>
+    <string name="settings_reset_body">TV-lər qoşulmuş qalır</string>
+    <string name="settings_reset_confirm">Sıfırlamaq üçün yenidən toxunun</string>
+    <string name="offline_no_wifi_title">Wi-Fi yoxdur</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku telefonlardan yalnız bəzi əmrləri qəbul edir. Advanced system settings bölməsində Control by mobile apps seçimini Enabled edin.</string>
+    <string name="notice_adb_off">Fire TV-də ADB sazlamasını aktiv edin: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Sönük</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Səs</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Ambilight-ı idarə etmək üçün cütləşdirin</string>
+    <string name="ambilight_pin_hint">Televizordakı PIN</string>
+    <string name="ambilight_pin_wrong">Yanlış PIN. Yenisini daxil edin</string>
+    <string name="search_opens_app">%1$s açılır</string>
+    <string name="voice_search">Səslə axtar</string>
+    <string name="voice_stop">Dinləməni dayandır</string>
+    <string name="voice_listening">Dinləyir…</string>
+    <string name="voice_mic_off">Mikrofon icazəsi deaktivdir</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC gözlənilmədən bağlandı</string>
+    <string name="crash_send">Göndər</string>
+    <string name="crash_report_subject">TennaRC xəta hesabatı %1$s</string>
+    <string name="crash_sent">Hesabat göndərildi. Təşəkkürlər</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Televizorda oxutma, pauza və səs</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Bu telefondan oxut</string>
+    <string name="phone_mirror">Güzgülə</string>
+    <string name="phone_mirror_label">Bu telefonun ekranını güzgülə</string>
+    <string name="phone_gallery">Qaleriya</string>
+    <string name="phone_gallery_label">Bu telefondan foto və ya video göstər</string>
+    <string name="share_cant_play_file">Bu televizor telefondakı faylları oxuda bilmir</string>
+    <string name="notice_cast_unsupported">Televizor bu növ şəkli göstərə bilmir</string>
+    <string name="notice_not_on_tv_network">Telefonun fayllarını oxutmaq üçün onu televizorun Wi-Fi şəbəkəsinə qoşun</string>
+    <string name="notice_file_unreadable">Bu faylı oxumaq mümkün olmadı</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Televizorlar axtarılır</string>
+    <string name="setup_choose">Televizoru seçin</string>
+    <string name="setup_none">Televizor tapılmadı</string>
+    <string name="setup_search_again">Yenidən axtar</string>
+    <string name="setup_enter_ip">IP ünvanını daxil edin</string>
+    <string name="setup_ip_label">IP ünvanı</string>
+    <string name="setup_ip_none">Bu ünvanda heç bir televizor cavab vermədi</string>
+    <string name="setup_connect">Qoşul</string>
+    <string name="setup_demo">Demonu sına</string>
+    <string name="setup_code_wrong">Televizordakı kodu yoxlayın</string>
+    <string name="setup_fire_tv_allow">Always allow seçimini işarələyin, sonra OK</string>
+    <string name="setup_adb_title">ADB sazlamasını aktiv edin</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Control by mobile apps seçimini aktiv edin</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Hazırdır</string>
+    <string name="settings_edit_tv">Redaktə et</string>
+    <string name="dev_link_title">Tərtibatçı bağlantısı</string>
+    <string name="dev_link_body">Televizorun öz girişlərini və bütün tətbiqlərini göstərir, HDMI düymələrinə cavab verməyən televizorlarda girişi dəyişir, bəzilərində isə parlaqlığı tənzimləyir. Televizorun sazlama bağlantısı (ADB) üzərindən işləyir. Düymələr və yazı onsuz da eyni cür işləyir.</string>
+    <string name="dev_link_step_developer">Televizorda Ayarlar › Sistem › Haqqında bölməsini açın və Android TV OS build-i yeddi dəfə seçin. Köhnə televizorlarda bu Device Preferences › About › Build olur.</string>
+    <string name="dev_link_step_debugging">Haqqında bölməsinin yanındakı Tərtibatçı seçimlərini açın və USB sazlamasını aktiv edin. Shield-də bu Network debugging adlanır.</string>
+    <string name="dev_link_step_allow">Qoşul düyməsinə toxunun, sonra televizorda Həmişə icazə ver seçimini işarələyin və OK seçin.</string>
+    <string name="dev_link_connect">Qoşul</string>
+    <string name="dev_link_allow">Televizorda icazə verin</string>
+    <string name="dev_link_allow_body">Bu kompüterdən həmişə icazə ver seçimini işarələyin, sonra OK</string>
+    <string name="dev_link_turn_off">Söndür</string>
+    <string name="dev_link_off">Sönük. Girişləri və bütün tətbiqləri əlavə edir</string>
+    <string name="dev_link_away">Televizor cavab vermir. Pult açıq olduqca avtomatik olaraq yenidən cəhd edilir.</string>
+    <string name="dev_link_away_short">Cavab vermir</string>
+    <string name="dev_link_debugging_off">Televizor bağlantını rədd etdi. USB sazlamasının aktiv olduğunu yoxlayın. Android TV 14-dən bəri bəzi televizorlar yalnız simsiz sazlamanı qəbul edir, TennaRC isə onu hələ istifadə edə bilmir.</string>
+    <string name="dev_link_debugging_off_short">Televizorda sazlama deaktivdir</string>
+    <string name="dev_link_wireless">Yalnız simsiz sazlama aktivdir, TennaRC isə onu hələ istifadə edə bilmir. USB sazlamasını da aktiv edin və ya kompüterdən bir dəfə cütləşdirib adb tcpip 5555 əmrini icra edin; bu, televizor yenidən başladılana qədər qüvvədə qalır.</string>
+    <string name="dev_link_wireless_short">Yalnız simsiz sazlama aktivdir</string>
+    <string name="dev_link_not_allowed">Televizorda heç kim icazə vermədi. Yenidən cəhd edin və orada OK seçin.</string>
+    <string name="dev_link_not_allowed_short">Televizorda icazə verilmədi</string>
+    <string name="dev_link_forgotten">Televizor bu telefonu unutdu: Android TV bir həftə görmədiyi cihazları belə unudur. Yenidən cəhd edin və televizorda icazə verin.</string>
+    <string name="dev_link_forgotten_short">Televizor bu telefonu unutdu</string>
+</resources>

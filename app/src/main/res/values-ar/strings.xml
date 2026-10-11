@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">إرسال إلى التلفاز</string>
+    <string name="tile_label">التحكم بالتلفاز</string>
+    <string name="shortcut_link">بحث</string>
+    <string name="shortcut_keyboard">اكتب على التلفاز</string>
+
+    <!-- Status line -->
+    <string name="status_connected">متصل</string>
+    <string name="status_connecting">جارٍ الاتصال…</string>
+    <string name="status_awaiting">اقبل على التلفاز</string>
+    <string name="status_offline">يبدو أن التلفاز مطفأ</string>
+    <string name="status_not_paired">لم يتم الربط بعد</string>
+    <string name="status_standby">في وضع الانتظار</string>
+    <string name="status_screen_off">الشاشة مطفأة والصوت يعمل</string>
+    <string name="standby_title">التلفاز مطفأ</string>
+    <string name="action_turn_on">تشغيل</string>
+
+    <!-- State panels -->
+    <string name="pair_title">ربط مع التلفاز</string>
+    <string name="pair_body">اقبل على التلفاز عندما يطلب ذلك.</string>
+    <string name="pair_declined_body">رفض التلفاز الطلب. اختر قبول هذه المرة.</string>
+    <string name="pair_action">ربط</string>
+    <string name="pair_timeout_body">لم يردّ التلفاز.</string>
+    <string name="pair_forgotten_body">نسي التلفاز هذا الهاتف.</string>
+    <string name="approval_title">اقبل على التلفاز</string>
+    <string name="connecting_title">جارٍ الاتصال…</string>
+    <string name="offline_title">يبدو أن التلفاز مطفأ</string>
+    <string name="action_retry">حاول مرة أخرى</string>
+    <string name="action_cancel">إلغاء</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">بحث</string>
+    <string name="touchpad_label">لوحة اللمس. اسحب لتحريك المؤشر، واضغط للنقر، واسحب بإصبعين للتمرير.</string>
+    <string name="dpad_label">أزرار الاتجاهات</string>
+    <string name="key_up">أعلى</string>
+    <string name="key_down">أسفل</string>
+    <string name="key_left">يسار</string>
+    <string name="key_right">يمين</string>
+    <string name="key_ok">موافق</string>
+    <string name="key_back">رجوع</string>
+    <string name="key_home">الرئيسية</string>
+    <string name="key_keyboard">لوحة المفاتيح</string>
+    <string name="key_touchpad">لوحة اللمس</string>
+    <string name="key_dpad">الأسهم</string>
+    <string name="key_more">المزيد</string>
+    <string name="key_rewind">إرجاع سريع</string>
+    <string name="key_play">تشغيل</string>
+    <string name="key_pause">إيقاف مؤقت</string>
+    <string name="key_fast_forward">تقديم سريع</string>
+    <string name="key_stop">إيقاف</string>
+    <string name="key_volume_up">رفع الصوت</string>
+    <string name="key_volume_down">خفض الصوت</string>
+    <string name="key_mute">كتم الصوت</string>
+    <string name="key_unmute">إلغاء كتم الصوت</string>
+    <string name="volume_value">مستوى الصوت %1$d</string>
+    <string name="volume_unknown">الصوت، المستوى غير معروف</string>
+    <string name="volume_muted">الصوت مكتوم</string>
+    <string name="power">الطاقة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="all_apps">جميع التطبيقات</string>
+    <string name="inputs">المدخلات</string>
+    <string name="picture_title">الصورة</string>
+    <string name="picture_standard">قياسي</string>
+    <string name="picture_vivid">حيوي</string>
+    <string name="picture_cinema">سينما</string>
+    <string name="picture_game">ألعاب</string>
+    <string name="picture_sports">رياضة</string>
+    <string name="picture_eco">اقتصادي</string>
+    <string name="picture_expert">خبير</string>
+    <string name="picture_backlight">السطوع</string>
+    <string name="sound_title">الصوت</string>
+    <string name="sound_tv">سماعات التلفاز</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">بصري</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">سماعات الرأس</string>
+    <string name="sound_tv_short">السماعات</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">مخرج الخط</string>
+    <string name="more_subtitles">الترجمات</string>
+    <string name="more_audio_track">مسار الصوت</string>
+    <string name="sleep_title">مؤقت النوم</string>
+    <string name="sleep_minutes">%1$d دقيقة</string>
+    <string name="sleep_at">يُطفأ في %1$s</string>
+    <string name="sleep_cancel">إلغاء المؤقت</string>
+    <string name="app_on_screen">%1$s، على الشاشة الآن</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">جارٍ البدء على التلفاز…</string>
+    <string name="cast_playing">قيد التشغيل على التلفاز</string>
+    <string name="cast_paused">متوقف مؤقتًا</string>
+    <string name="cast_stalled">الفيديو متوقف. هل خادم الفيديو لا يزال يعمل؟</string>
+    <string name="cast_play">استئناف</string>
+    <string name="cast_pause">إيقاف مؤقت</string>
+    <string name="cast_stop">إيقاف التشغيل على التلفاز</string>
+    <string name="cast_position">موضع التشغيل</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">إغلاق البحث</string>
+    <string name="tv_picker">أجهزة التلفاز، الحالي %1$s</string>
+    <string name="tv_picker_add_short">إضافة</string>
+    <string name="hold_hide">إخفاء</string>
+    <string name="hold_rename">إعادة تسمية</string>
+    <string name="rename_input">إعادة تسمية المدخل</string>
+    <string name="rename_save">حفظ</string>
+    <string name="rename_reset">استخدام اسم التلفاز</string>
+    <string name="more_channel_list">قائمة القنوات</string>
+    <string name="more_guide">دليل البرامج</string>
+    <string name="input_label">%1$s، مدخل</string>
+    <string name="channel_label">%2$s، القناة %1$s</string>
+    <string name="on_screen_now">على الشاشة الآن</string>
+    <string name="deck_expanded">موسع</string>
+    <string name="deck_collapsed">مطوي</string>
+    <string name="channel_hidden">تم إخفاء %1$s</string>
+    <string name="action_undo">تراجع</string>
+    <string name="offline_switch">استخدام %1$s</string>
+    <string name="search_picks">رائج الآن</string>
+    <string name="search_clear">مسح</string>
+    <string name="search_fill">ضعه في مربع البحث</string>
+    <string name="search_type_on_tv">اكتب على التلفاز</string>
+    <string name="search_in_app">البحث في %1$s</string>
+    <string name="search_web">البحث باستخدام %1$s</string>
+    <string name="link_paste">لصق</string>
+    <string name="link_recent">الأخيرة</string>
+    <string name="link_clear_recent">مسح</string>
+    <string name="link_kind_youtube">فيديو YouTube</string>
+    <string name="link_kind_video">ملف فيديو</string>
+    <string name="link_kind_audio">ملف صوتي</string>
+    <string name="link_kind_image">صورة</string>
+    <string name="link_kind_web">صفحة ويب</string>
+    <string name="link_action_app">فتح في %1$s</string>
+    <string name="link_action_media">تشغيل على التلفاز</string>
+    <string name="link_action_browser">فتح في متصفح التلفاز</string>
+    <string name="link_sending">جارٍ الإرسال…</string>
+    <string name="link_sent">تم الفتح على التلفاز</string>
+    <string name="link_failed">لم يفتحه التلفاز. حاول مرة أخرى.</string>
+
+    <!-- Share -->
+    <string name="share_title">إرسال إلى التلفاز</string>
+    <string name="share_no_link">لا يوجد رابط فيما شاركته.</string>
+    <string name="share_not_paired">لم يتم ربط هذا الهاتف بالتلفاز بعد.</string>
+    <string name="share_open_app">فتح جهاز التحكم</string>
+    <string name="share_waiting">جارٍ الاتصال…</string>
+    <string name="share_cant_open">هذا التلفاز لا يمكنه فتح روابط %1$s</string>
+    <string name="action_close">إغلاق</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">لوحة المفاتيح</string>
+    <string name="keyboard_placeholder_waiting">اختر مربع نص على التلفاز</string>
+    <string name="keyboard_backspace">حذف</string>
+    <string name="keyboard_clear">مسح</string>
+    <string name="keyboard_enter">إدخال</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="zero">لا أحرف على التلفاز بعد</item>
+        <item quantity="one">حرف واحد على التلفاز بالفعل</item>
+        <item quantity="two">حرفان على التلفاز بالفعل</item>
+        <item quantity="few">%1$d أحرف على التلفاز بالفعل</item>
+        <item quantity="many">%1$d حرفًا على التلفاز بالفعل</item>
+        <item quantity="other">%1$d حرف على التلفاز بالفعل</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">المزيد</string>
+    <string name="more_menu">الإعدادات</string>
+    <string name="more_quick">القائمة السريعة</string>
+    <string name="more_quick_short">القائمة</string>
+    <string name="more_info">معلومات</string>
+    <string name="more_inputs">المدخلات</string>
+    <string name="more_exit">خروج</string>
+    <string name="more_channel_up">القناة التالية</string>
+    <string name="more_channel_down">القناة السابقة</string>
+    <string name="more_red">أحمر</string>
+    <string name="more_green">أخضر</string>
+    <string name="more_yellow">أصفر</string>
+    <string name="more_blue">أزرق</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">الطاقة</string>
+    <string name="power_screen_off">إطفاء الشاشة</string>
+    <string name="power_off">إطفاء التلفاز</string>
+    <string name="power_off_confirm">انقر مرة أخرى لإطفاء التلفاز</string>
+    <string name="power_turn_off">إطفاء</string>
+    <string name="power_tap_again">انقر مرة أخرى</string>
+    <string name="switch_on">تشغيل</string>
+    <string name="switch_off">إطفاء</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_tv">التلفاز</string>
+    <string name="settings_name">الاسم</string>
+    <string name="settings_host">العنوان</string>
+    <string name="settings_host_invalid">أدخل عنوان IP أو اسم المضيف</string>
+    <string name="settings_mac">عنوان MAC (لتشغيله)</string>
+    <string name="settings_mac_invalid">ستة أزواج من الأرقام السادسة عشرية، مثل 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">البحث عن أجهزة تلفاز قريبة</string>
+    <string name="settings_finding">جارٍ البحث عن أجهزة التلفاز…</string>
+    <string name="settings_found_none">لم يردّ أي تلفاز.</string>
+    <string name="settings_found_no_new">لم يتم العثور على أجهزة تلفاز أخرى</string>
+    <string name="settings_in_use">قيد الاستخدام</string>
+    <string name="settings_add">إضافة</string>
+    <string name="settings_forget_tv">نسيان %1$s</string>
+    <string name="settings_use_tv">استخدام هذا التلفاز</string>
+    <string name="settings_remove_tv">إزالة</string>
+    <string name="settings_remove_confirm">انقر مرة أخرى للإزالة</string>
+    <string name="settings_move_up">نقل لأعلى</string>
+    <string name="settings_move_down">نقل لأسفل</string>
+    <string name="settings_sensitivity">الحساسية</string>
+    <string name="settings_touchpad">لوحة اللمس</string>
+    <string name="settings_phone">الهاتف</string>
+    <string name="settings_natural_scroll">التمرير الطبيعي</string>
+    <string name="settings_scroll_strip">شريط التمرير</string>
+    <string name="settings_hidden">العناصر المخفية</string>
+    <string name="settings_show">عرض</string>
+    <string name="settings_theme">المظهر</string>
+    <string name="settings_theme_auto">تلقائي</string>
+    <string name="settings_language">اللغة</string>
+    <string name="settings_theme_system">النظام</string>
+    <string name="settings_theme_light">فاتح</string>
+    <string name="settings_theme_dark">داكن</string>
+    <string name="settings_scroll_strip_right">يمين</string>
+    <string name="settings_scroll_strip_left">يسار</string>
+    <string name="settings_scroll_strip_off">إيقاف</string>
+    <string name="settings_search_engine">بحث الويب</string>
+    <string name="settings_search">بحث</string>
+    <string name="settings_find_titles">البحث عن الأفلام والفيديوهات</string>
+    <string name="find_titles_ask">للعثور عليها، يرسل TennaRC ما تكتبه إلى YouTube و JustWatch و Wikidata. يمكنك تغيير ذلك من الإعدادات.</string>
+    <string name="find_titles_not_now">ليس الآن</string>
+    <string name="settings_volume_keys">أزرار مستوى الصوت</string>
+    <string name="settings_auto_keyboard">لوحة المفاتيح التلقائية</string>
+    <string name="settings_haptics">الاهتزاز</string>
+    <string name="settings_keep_screen_on">إبقاء الشاشة قيد التشغيل</string>
+    <string name="settings_forget">نسيان الربط</string>
+    <string name="settings_forget_body">سيطلب التلفاز مرة أخرى في المرة التالية</string>
+    <string name="settings_forget_confirm">انقر مرة أخرى للنسيان</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">غير متصل بالتلفاز</string>
+    <string name="notice_command_failed">لم يستجب التلفاز للأمر</string>
+    <string name="notice_launch_failed">تعذر فتح هذا التطبيق</string>
+    <string name="notice_open_failed">تعذّر على التلفاز فتح الرابط</string>
+    <string name="notice_no_renderer">مشغّل الوسائط في التلفاز لا يستجيب. هل هو قيد التشغيل؟</string>
+    <string name="notice_cast_failed">لم يتمكن التلفاز من تشغيل هذا الرابط</string>
+    <string name="notice_wake_sent">تم إرسال إشارة التشغيل</string>
+    <string name="notice_tv_moved">تم العثور على التلفاز على عنوان جديد</string>
+    <string name="notice_wake_failed">تعذّر إرسال إشارة التشغيل. تحقّق من عنوان MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">اتصال متقطع</string>
+    <string name="link_help_stalling">ينقطع اتصال Wi-Fi في التلفاز للحظات بشكل متكرر.</string>
+    <string name="link_help_slow">اتصال Wi-Fi في التلفاز ضعيف أو مزدحم.</string>
+    <string name="link_fix_24_title">وصّل التلفاز بشبكة Wi-Fi بتردد 2.4 GHz</string>
+    <string name="link_fix_ethernet_title">استخدم كابل Ethernet</string>
+    <string name="link_fix_extender_title">أضف مكرر Wi-Fi في المنتصف</string>
+    <string name="link_fix_listen_title">أوقف Listen Mode في Screen Share</string>
+    <string name="link_fix_closer_title">انقل جهاز التوجيه بالقرب من التلفاز</string>
+    <string name="link_fix_band_title">جرّب نطاق Wi-Fi الآخر</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">التحكم بالتلفاز</string>
+    <string name="notify_channel_body">التشغيل والإيقاف المؤقت ومستوى الصوت أثناء تشغيل التلفاز</string>
+    <string name="notify_on_tv">على التلفاز</string>
+    <string name="notify_close">إغلاق</string>
+    <string name="settings_notification_controls">عناصر التحكم بالوسائط</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">اكتب الرمز الظاهر على التلفاز</string>
+    <string name="pair_code_title">أدخل الرمز من التلفاز</string>
+    <string name="pair_code_wrong">الرمز غير مطابق. جرّب الرمز الجديد على التلفاز.</string>
+    <string name="pair_code_label">الرمز</string>
+    <string name="pair_code_submit">ربط</string>
+    <string name="settings_labs">ميزات تجريبية</string>
+    <string name="settings_demo_tv">تلفاز توضيحي</string>
+    <string name="settings_demo_tv_body">جرب جهاز التحكم بدون تلفاز</string>
+    <string name="settings_demo_tv_listed">يضيف تلفازًا وهميًا إلى قائمتك</string>
+    <string name="settings_help">مساعدة</string>
+    <string name="settings_report">الإبلاغ عن مشكلة</string>
+    <string name="settings_privacy">سياسة الخصوصية</string>
+    <string name="settings_reset">إعادة ضبط الإعدادات</string>
+    <string name="settings_reset_body">تبقى أجهزة التلفزيون مقترنة</string>
+    <string name="settings_reset_confirm">انقر مرة أخرى لإعادة الضبط</string>
+    <string name="offline_no_wifi_title">لا Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">لا يقبل Roku من الهاتف إلا بعض الأوامر. في Advanced system settings، اضبط Control by mobile apps على Enabled.</string>
+    <string name="notice_adb_off">فعّل تصحيح أخطاء ADB على Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">إيقاف</string>
+    <string name="ambilight_video">فيديو</string>
+    <string name="ambilight_audio">صوت</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">اربط الهاتف للتحكم في Ambilight</string>
+    <string name="ambilight_pin_hint">رمز PIN على التلفاز</string>
+    <string name="ambilight_pin_wrong">رمز PIN خاطئ. جرّب الرمز الجديد</string>
+    <string name="search_opens_app">يفتح %1$s</string>
+    <string name="voice_search">بحث صوتي</string>
+    <string name="voice_stop">إيقاف الاستماع</string>
+    <string name="voice_listening">جارٍ الاستماع…</string>
+    <string name="voice_mic_off">الوصول إلى الميكروفون متوقف</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">توقف TennaRC بشكل غير متوقع</string>
+    <string name="crash_send">إرسال</string>
+    <string name="crash_report_subject">تقرير تعطل TennaRC %1$s</string>
+    <string name="crash_sent">تم إرسال البلاغ. شكرًا لك</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">التشغيل والإيقاف المؤقت ومستوى الصوت للتلفاز</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">تشغيل من هذا الهاتف</string>
+    <string name="phone_mirror">عكس الشاشة</string>
+    <string name="phone_mirror_label">عكس شاشة هذا الهاتف</string>
+    <string name="phone_gallery">المعرض</string>
+    <string name="phone_gallery_label">عرض صورة أو فيديو من هذا الهاتف</string>
+    <string name="share_cant_play_file">هذا التلفاز لا يمكنه تشغيل الملفات من الهاتف</string>
+    <string name="notice_cast_unsupported">لا يمكن للتلفاز عرض هذا النوع من الصور</string>
+    <string name="notice_not_on_tv_network">وصّل الهاتف بشبكة Wi-Fi التي يتصل بها التلفاز لتشغيل ملفاته</string>
+    <string name="notice_file_unreadable">تعذر قراءة هذا الملف</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">جارٍ البحث عن أجهزة التلفاز</string>
+    <string name="setup_choose">اختر التلفاز</string>
+    <string name="setup_none">لم يتم العثور على أجهزة تلفاز</string>
+    <string name="setup_search_again">بحث مرة أخرى</string>
+    <string name="setup_enter_ip">أدخل عنوان IP</string>
+    <string name="setup_ip_label">عنوان IP</string>
+    <string name="setup_ip_none">لم يردّ أي تلفاز على هذا العنوان</string>
+    <string name="setup_connect">اتصال</string>
+    <string name="setup_demo">تجربة العرض التوضيحي</string>
+    <string name="setup_code_wrong">تحقق من الرمز على التلفاز</string>
+    <string name="setup_fire_tv_allow">حدّد Always allow ثم OK</string>
+    <string name="setup_adb_title">فعّل تصحيح أخطاء ADB</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">فعّل Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">تم</string>
+    <string name="settings_edit_tv">تعديل</string>
+    <string name="dev_link_title">اتصال المطور</string>
+    <string name="dev_link_body">يعرض مدخلات التلفاز وجميع تطبيقاته، ويبدّل المدخلات على أجهزة التلفاز التي لا تستجيب لأزرار HDMI، ويضبط السطوع على بعضها. يعمل عبر اتصال تصحيح الأخطاء (ADB) في التلفاز. تعمل الأزرار والكتابة كما هي من دونه.</string>
+    <string name="dev_link_step_developer">على التلفاز، افتح الإعدادات › النظام › لمحة واختر «إصدار نظام التشغيل Android TV» سبع مرات. في أجهزة التلفاز الأقدم: الإعدادات المفضّلة للجهاز › لمحة › الإصدار.</string>
+    <string name="dev_link_step_debugging">افتح «خيارات المطوّرين» بجانب «لمحة»، وفعّل «تصحيح أخطاء USB». على Shield يكون اسمه «تصحيح الأخطاء عبر الشبكة».</string>
+    <string name="dev_link_step_allow">انقر على «اتصال»، ثم على التلفاز حدّد «السماح دائمًا» واختر «حسنًا».</string>
+    <string name="dev_link_connect">اتصال</string>
+    <string name="dev_link_allow">اسمح على التلفاز</string>
+    <string name="dev_link_allow_body">حدّد «السماح دائمًا من هذا الكمبيوتر» ثم «حسنًا»</string>
+    <string name="dev_link_turn_off">إيقاف</string>
+    <string name="dev_link_off">متوقف. يضيف المدخلات وجميع التطبيقات</string>
+    <string name="dev_link_away">التلفاز لا يستجيب. يعيد التطبيق المحاولة تلقائيًا ما دام جهاز التحكم مفتوحًا.</string>
+    <string name="dev_link_away_short">لا يستجيب</string>
+    <string name="dev_link_debugging_off">رفض التلفاز الاتصال. تحقّق من تفعيل «تصحيح أخطاء USB». منذ Android TV 14 لا تقبل بعض أجهزة التلفاز إلا «تصحيح الأخطاء اللاسلكي»، ولا يمكن لـ TennaRC استخدامه بعد.</string>
+    <string name="dev_link_debugging_off_short">تصحيح الأخطاء متوقف على التلفاز</string>
+    <string name="dev_link_wireless">«تصحيح الأخطاء اللاسلكي» وحده مفعّل، ولا يمكن لـ TennaRC استخدامه بعد. فعّل «تصحيح أخطاء USB» أيضًا، أو اربط التلفاز مرة واحدة من كمبيوتر وشغّل adb tcpip 5555، ويبقى ذلك ساريًا حتى إعادة تشغيل التلفاز.</string>
+    <string name="dev_link_wireless_short">تصحيح الأخطاء اللاسلكي وحده مفعّل</string>
+    <string name="dev_link_not_allowed">لم يُسمح بالاتصال على التلفاز. حاول مرة أخرى واختر «حسنًا» على التلفاز.</string>
+    <string name="dev_link_not_allowed_short">غير مسموح على التلفاز</string>
+    <string name="dev_link_forgotten">نسي التلفاز هذا الهاتف، فنظام Android TV ينسى الأجهزة التي لم يرها منذ أسبوع. حاول مرة أخرى واسمح بالاتصال على التلفاز.</string>
+    <string name="dev_link_forgotten_short">نسي التلفاز هذا الهاتف</string>
+</resources>

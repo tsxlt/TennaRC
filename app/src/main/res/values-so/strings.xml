@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">U dir TV-ga</string>
+    <string name="tile_label">Rimootka TV-ga</string>
+    <string name="shortcut_link">Raadi</string>
+    <string name="shortcut_keyboard">Ku qor TV-ga</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Ku xidhan</string>
+    <string name="status_connecting">Ku xidhmaya…</string>
+    <string name="status_awaiting">Ku aqbal TV-ga</string>
+    <string name="status_offline">TV-gu wuxuu u muuqdaa mid dansan</string>
+    <string name="status_not_paired">Weli lama isku xidhin</string>
+    <string name="status_standby">Sugitaan</string>
+    <string name="status_screen_off">Shaashaddu way dansan tahay, codku wuu shidan yahay</string>
+    <string name="standby_title">TV-gu waa dansan yahay</string>
+    <string name="action_turn_on">Shid</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Isku xidh TV-ga</string>
+    <string name="pair_body">Ku aqbal TV-ga marka uu ku weydiiyo.</string>
+    <string name="pair_declined_body">TV-gu wuu diiday. Markan dooro Aqbal.</string>
+    <string name="pair_action">Isku xidh</string>
+    <string name="pair_timeout_body">Jawaab kama iman TV-ga.</string>
+    <string name="pair_forgotten_body">TV-gu wuu ilaaway taleefankan.</string>
+    <string name="approval_title">Ku aqbal TV-ga</string>
+    <string name="connecting_title">Ku xidhmaya…</string>
+    <string name="offline_title">TV-gu wuxuu u muuqdaa mid dansan</string>
+    <string name="action_retry">Isku day mar kale</string>
+    <string name="action_cancel">Jooji</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Raadi</string>
+    <string name="touchpad_label">Taabsiiye. Jiid si aad u dhaqaajiso tilmaamaha, taabo si aad u gujiso, ku jiid laba farood si aad u rogrogto.</string>
+    <string name="dpad_label">Badhamada jihada</string>
+    <string name="key_up">Kor</string>
+    <string name="key_down">Hoos</string>
+    <string name="key_left">Bidix</string>
+    <string name="key_right">Midig</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Dib</string>
+    <string name="key_home">Hoyga</string>
+    <string name="key_keyboard">Kiiboodh</string>
+    <string name="key_touchpad">Taabsiiye</string>
+    <string name="key_dpad">Fallaadho</string>
+    <string name="key_more">Dheeraad</string>
+    <string name="key_rewind">Dib u celi</string>
+    <string name="key_play">Daar</string>
+    <string name="key_pause">Hakad</string>
+    <string name="key_fast_forward">Hore u dhaqaaji</string>
+    <string name="key_stop">Jooji</string>
+    <string name="key_volume_up">Kor u qaad codka</string>
+    <string name="key_volume_down">Hoos u dhig codka</string>
+    <string name="key_mute">Aamusii</string>
+    <string name="key_unmute">Soo celi codka</string>
+    <string name="volume_value">Codka %1$d</string>
+    <string name="volume_unknown">Codka, heerka lama yaqaan</string>
+    <string name="volume_muted">Waa la aamusiiyay</string>
+    <string name="power">Shid/Dami</string>
+    <string name="settings">Dejinta</string>
+    <string name="all_apps">Dhammaan abka</string>
+    <string name="inputs">Gelinta</string>
+    <string name="picture_title">Sawirka</string>
+    <string name="picture_standard">Caadi</string>
+    <string name="picture_vivid">Dhalaal</string>
+    <string name="picture_cinema">Shineemo</string>
+    <string name="picture_game">Ciyaar</string>
+    <string name="picture_sports">Isboorti</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Khabiir</string>
+    <string name="picture_backlight">Iftiinka</string>
+    <string name="sound_title">Codka</string>
+    <string name="sound_tv">Sameecadaha TV-ga</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optical</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Sameecadaha dhegaha</string>
+    <string name="sound_tv_short">Sameecado</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Line out</string>
+    <string name="more_subtitles">Qoraal hoose</string>
+    <string name="more_audio_track">Codka</string>
+    <string name="sleep_title">Saacadda seexashada</string>
+    <string name="sleep_minutes">%1$d daqiiqo</string>
+    <string name="sleep_at">Wuu demi doonaa %1$s</string>
+    <string name="sleep_cancel">Jooji saacadda</string>
+    <string name="app_on_screen">%1$s, hadda shaashadda</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Wuxuu ka bilaabanayaa TV-ga…</string>
+    <string name="cast_playing">Wuxuu ka socdaa TV-ga</string>
+    <string name="cast_paused">Hakad ku jira</string>
+    <string name="cast_stalled">Ma socdo. Server-ka fiidiyowga weli ma shaqaynayaa?</string>
+    <string name="cast_play">Sii wad</string>
+    <string name="cast_pause">Hakad</string>
+    <string name="cast_stop">Ka jooji TV-ga</string>
+    <string name="cast_position">Meesha uu marayo</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Xidh raadinta</string>
+    <string name="tv_picker">TV-yada, hadda %1$s</string>
+    <string name="tv_picker_add_short">Ku dar</string>
+    <string name="hold_hide">Qari</string>
+    <string name="hold_rename">Magac beddel</string>
+    <string name="rename_input">Magaca gelinta beddel</string>
+    <string name="rename_save">Kaydi</string>
+    <string name="rename_reset">Isticmaal magaca TV-ga</string>
+    <string name="more_channel_list">Liiska</string>
+    <string name="more_guide">Jadwalka</string>
+    <string name="input_label">%1$s, gelin</string>
+    <string name="channel_label">%2$s, kanaal %1$s</string>
+    <string name="on_screen_now">Hadda shaashadda</string>
+    <string name="deck_expanded">La ballaariyay</string>
+    <string name="deck_collapsed">La duubay</string>
+    <string name="channel_hidden">%1$s waa la qariyay</string>
+    <string name="action_undo">Dib u celi</string>
+    <string name="offline_switch">Isticmaal %1$s</string>
+    <string name="search_picks">Hadda caan ah</string>
+    <string name="search_clear">Tirtir</string>
+    <string name="search_fill">Geli sanduuqa raadinta</string>
+    <string name="search_type_on_tv">Ku qor TV-ga</string>
+    <string name="search_in_app">Raadi %1$s</string>
+    <string name="search_web">Raadi %1$s</string>
+    <string name="link_paste">Ku dheji</string>
+    <string name="link_recent">Dhawaan</string>
+    <string name="link_clear_recent">Tirtir</string>
+    <string name="link_kind_youtube">Fiidiyow YouTube</string>
+    <string name="link_kind_video">Faylka fiidiyowga</string>
+    <string name="link_kind_audio">Faylka codka</string>
+    <string name="link_kind_image">Sawir</string>
+    <string name="link_kind_web">Bog shabakad</string>
+    <string name="link_action_app">Ku fur %1$s</string>
+    <string name="link_action_media">Ka daar TV-ga</string>
+    <string name="link_action_browser">Ku fur browser-ka TV-ga</string>
+    <string name="link_sending">Waa la dirayaa…</string>
+    <string name="link_sent">Waa laga furay TV-ga</string>
+    <string name="link_failed">TV-gu ma furin. Isku day mar kale.</string>
+
+    <!-- Share -->
+    <string name="share_title">U dir TV-ga</string>
+    <string name="share_no_link">Ma jiro link ku jira waxa aad wadaagtay.</string>
+    <string name="share_not_paired">Taleefankan weli lama isku xidhin TV-ga.</string>
+    <string name="share_open_app">Fur rimootka</string>
+    <string name="share_waiting">Ku xidhmaya…</string>
+    <string name="share_cant_open">TV-gan ma furi karo linkiyada %1$s</string>
+    <string name="action_close">Xir</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Kiiboodh</string>
+    <string name="keyboard_placeholder_waiting">Ka dooro sanduuq qoraal TV-ga</string>
+    <string name="keyboard_backspace">Tirtir</string>
+    <string name="keyboard_clear">Tirtir</string>
+    <string name="keyboard_enter">Gal</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d xaraf ayaa horeba TV-ga ku jira</item>
+        <item quantity="other">%1$d xaraf ayaa horeba TV-ga ku jira</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Dheeraad</string>
+    <string name="more_menu">Dejinta</string>
+    <string name="more_quick">Menu degdeg ah</string>
+    <string name="more_quick_short">Menu</string>
+    <string name="more_info">Macluumaad</string>
+    <string name="more_inputs">Gelinta</string>
+    <string name="more_exit">Ka bax</string>
+    <string name="more_channel_up">Kanaalka xiga</string>
+    <string name="more_channel_down">Kanaalkii hore</string>
+    <string name="more_red">Casaan</string>
+    <string name="more_green">Cagaar</string>
+    <string name="more_yellow">Huruud</string>
+    <string name="more_blue">Buluug</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Shid/Dami</string>
+    <string name="power_screen_off">Codka kaliya</string>
+    <string name="power_off">Dami TV-ga</string>
+    <string name="power_off_confirm">Mar kale taabo si aad u damiso</string>
+    <string name="power_turn_off">Dami</string>
+    <string name="power_tap_again">Mar kale taabo</string>
+    <string name="switch_on">Shidan</string>
+    <string name="switch_off">Dansan</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Dejinta</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Magac</string>
+    <string name="settings_host">Cinwaanka</string>
+    <string name="settings_host_invalid">Geli cinwaanka IP ama magaca host-ka</string>
+    <string name="settings_mac">Cinwaanka MAC (si loo shido)</string>
+    <string name="settings_mac_invalid">Lix lammaane oo tirooyin hex ah, sida 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Raadi TV-yada u dhow</string>
+    <string name="settings_finding">Waxaa la raadinayaa TV-yada…</string>
+    <string name="settings_found_none">TV-na ma jawaabin.</string>
+    <string name="settings_found_no_new">TV kale lama helin</string>
+    <string name="settings_in_use">Waa la isticmaalayaa</string>
+    <string name="settings_add">Ku dar</string>
+    <string name="settings_forget_tv">Illow %1$s</string>
+    
+    <string name="settings_use_tv">Isticmaal TV-gan</string>
+    <string name="settings_remove_tv">Ka saar</string>
+    <string name="settings_remove_confirm">Mar kale taabo si aad uga saarto</string>
+    <string name="settings_move_up">Kor u qaad</string>
+    <string name="settings_move_down">Hoos u dhig</string>
+    <string name="settings_sensitivity">Dareenka</string>
+    <string name="settings_touchpad">Taabsiiye</string>
+    <string name="settings_phone">Taleefan</string>
+    <string name="settings_natural_scroll">Rogrog dabiici ah</string>
+    <string name="settings_scroll_strip">Xariiqda rogrogga</string>
+    <string name="settings_hidden">La qariyay</string>
+    <string name="settings_show">Muuji</string>
+    <string name="settings_theme">Muuqaalka</string>
+    <string name="settings_theme_auto">Toos</string>
+    <string name="settings_language">Luuqad</string>
+    <string name="settings_theme_system">Nidaamka</string>
+    <string name="settings_theme_light">Iftiin</string>
+    <string name="settings_theme_dark">Mugdi</string>
+    <string name="settings_scroll_strip_right">Midig</string>
+    <string name="settings_scroll_strip_left">Bidix</string>
+    <string name="settings_scroll_strip_off">Dansan</string>
+    <string name="settings_search_engine">Raadinta webka</string>
+    <string name="settings_search">Raadin</string>
+    
+    <string name="settings_volume_keys">Badhamada codka</string>
+    <string name="settings_auto_keyboard">Kiiboodh toos ah</string>
+    <string name="settings_haptics">Gariir</string>
+    <string name="settings_keep_screen_on">Shaashadda ha shidnaato</string>
+    <string name="settings_forget">Illow isku xidhka</string>
+    <string name="settings_forget_body">TV-gu mar kale ayuu ku weydiin doonaa</string>
+    <string name="settings_forget_confirm">Mar kale taabo si aad u illowdo</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Kuma xidhna TV-ga</string>
+    <string name="notice_command_failed">TV-gu kama jawaabin</string>
+    <string name="notice_launch_failed">Abkaas lama furi karin</string>
+    <string name="notice_open_failed">TV-gu ma furi karin link-ga</string>
+    <string name="notice_no_renderer">Ciyaariyaha warbaahinta TV-ga ma jawaabayo. Ma shidan yahay?</string>
+    <string name="notice_cast_failed">TV-gu ma daari karin link-gaas</string>
+    <string name="notice_wake_sent">Calaamadda toosinta waa la diray</string>
+    <string name="notice_tv_moved">TV-ga waxaa laga helay cinwaan cusub</string>
+    <string name="notice_wake_failed">Calaamadda toosinta lama diri karin. Hubi cinwaanka MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Xidhiidh gaabis ah</string>
+    <string name="link_help_stalling">Wi-Fi-ga TV-gu wuu go\'aa wakhti kooban mar walba.</string>
+    <string name="link_help_slow">Wi-Fi-ga TV-gu waa daciif ama mashquul.</string>
+    <string name="link_fix_24_title">Ku xidh TV-ga Wi-Fi 2.4 GHz</string>
+    <string name="link_fix_ethernet_title">Isticmaal fiilo Ethernet</string>
+    <string name="link_fix_extender_title">Ku dar Wi-Fi extender bartamaha</string>
+    <string name="link_fix_listen_title">Dami Listen Mode ee Screen Share</string>
+    <string name="link_fix_closer_title">U dhawee router-ka TV-ga</string>
+    <string name="link_fix_band_title">Isku day band-ka kale ee Wi-Fi</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Rimootka TV-ga</string>
+    <string name="notify_channel_body">Daar, hakad iyo codka TV-ga marka uu shidan yahay</string>
+    <string name="notify_on_tv">TV-ga</string>
+    <string name="notify_close">Xir</string>
+    <string name="settings_notification_controls">Kontaroolka warbaahinta</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Qor koodhka ka muuqda TV-ga</string>
+    <string name="pair_code_title">Geli koodhka TV-ga</string>
+    <string name="pair_code_wrong">Koodhkaas ma habboona. Isku day kan cusub ee TV-ga.</string>
+    <string name="pair_code_label">Koodh</string>
+    <string name="pair_code_submit">Isku xidh</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">TV tijaabo</string>
+    <string name="settings_demo_tv_body">Tijaabi rimootka adigoon TV haysan</string>
+    <string name="settings_demo_tv_listed">Waxa uu ku daraa TV been ah TV-yadaada</string>
+    <string name="settings_help">Caawimo</string>
+    <string name="settings_report">Soo sheeg dhibaato</string>
+    <string name="settings_privacy">Siyaasadda arrimaha gaarka ah</string>
+    <string name="settings_reset">Dib u deji dejinta</string>
+    <string name="settings_reset_body">TV-yadaadu way sii xidhnaanayaan</string>
+    <string name="settings_reset_confirm">Mar kale taabo si aad dib ugu dejiso</string>
+    <string name="offline_no_wifi_title">Wi-Fi ma jiro</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku-gu wuxuu ka aqbalaa taleefannada amarro yar oo keliya. Gudaha Advanced system settings, u dhig Control by mobile apps Enabled.</string>
+    <string name="notice_adb_off">Shid ADB debugging ee Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Dansan</string>
+    <string name="ambilight_video">Fiidiyow</string>
+    <string name="ambilight_audio">Cod</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Isku xidh si aad u maamusho Ambilight</string>
+    <string name="ambilight_pin_hint">PIN-ka TV-ga</string>
+    <string name="ambilight_pin_wrong">PIN khaldan. Isku day kan cusub</string>
+    <string name="search_opens_app">Wuxuu furaa %1$s</string>
+    <string name="voice_search">Ku raadi cod</string>
+    <string name="voice_stop">Jooji dhegaysiga</string>
+    <string name="voice_listening">Waa la dhegaysanayaa…</string>
+    <string name="voice_mic_off">Gelitaanka makarafoonka waa dansan yahay</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC si lama filaan ah ayuu u xidhmay</string>
+    <string name="crash_send">Dir</string>
+    <string name="crash_report_subject">Warbixinta burburka TennaRC %1$s</string>
+    <string name="crash_sent">Warbixinta waa la diray. Mahadsanid</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Daar, hakad iyo codka TV-ga</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Ka daar taleefankan</string>
+    <string name="phone_mirror">Muraayad</string>
+    <string name="phone_mirror_label">Ku muuji shaashadda taleefankan</string>
+    <string name="phone_gallery">Gaalari</string>
+    <string name="phone_gallery_label">Ka daar sawir ama fiidiyow taleefankan</string>
+    <string name="share_cant_play_file">TV-gan ma daari karo faylasha taleefanka</string>
+    <string name="notice_cast_unsupported">TV-gu ma muujin karo sawirka noocan ah</string>
+    <string name="notice_not_on_tv_network">Taleefanka ku xidh Wi-Fi-ga TV-ga si aad u daarto faylashiisa</string>
+    <string name="notice_file_unreadable">Faylkaas lama akhrin karin</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Waxaa la raadinayaa TV-yada</string>
+    <string name="setup_choose">Dooro TV-gaaga</string>
+    <string name="setup_none">Lama helin TV</string>
+    <string name="setup_search_again">Raadi mar kale</string>
+    <string name="setup_enter_ip">Geli cinwaanka IP</string>
+    <string name="setup_ip_label">Cinwaanka IP</string>
+    <string name="setup_ip_none">Halkaas TV-na kama jawaabin</string>
+    <string name="setup_connect">Ku xidh</string>
+    <string name="setup_demo">Tijaabi demo</string>
+    <string name="setup_code_wrong">Hubi koodhka TV-ga</string>
+    <string name="setup_fire_tv_allow">Calaamadee Always allow, kadibna OK</string>
+    <string name="setup_adb_title">Shid ADB debugging</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Shid Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Dhammaad</string>
+
+    <string name="dev_link_allow">Ku oggolow TV-ga</string>
+    <string name="dev_link_allow_body">Calaamadee Always allow from this computer, kadibna OK</string>
+    <string name="dev_link_away">TV-gu ma jawaabayo. Mar kale ayuu iskiis isugu dayaa inta rimootku furan yahay.</string>
+    <string name="dev_link_away_short">Ma jawaabayo</string>
+    <string name="dev_link_body">Wuxuu muujiyaa gelinta TV-ga iyo dhammaan abkiisa, wuxuu beddelaa gelinta TV-yada aan aqbalin badhamada HDMI, qaarkoodna wuxuu u dejiyaa iftiinka. Wuxuu ku shaqeeyaa xidhiidhka debugging ee TV-ga (ADB). Badhamada iyo qoraalku sidoodii bay u shaqeeyaan la\'aantiis.</string>
+    <string name="dev_link_connect">Ku xidh</string>
+    <string name="dev_link_debugging_off">TV-gu wuu diiday xidhiidhka. Hubi in USB debugging shidan yahay. Laga soo bilaabo Android TV 14, TV-yada qaar waxay aqbalaan Wireless debugging oo keliya, taas oo TennaRC aanu weli isticmaali karin.</string>
+    <string name="dev_link_debugging_off_short">Debugging-ku waa ka dansan yahay TV-ga</string>
+    <string name="dev_link_forgotten">TV-gu wuu ilaaway taleefankan, sida Android TV ku sameeyo qalab uusan arag toddobaad. Isku day mar kale, oo ku oggolow TV-ga.</string>
+    <string name="dev_link_forgotten_short">TV-gu wuu ilaaway taleefankan</string>
+    <string name="dev_link_not_allowed">Cidna kuma oggolaan TV-ga. Isku day mar kale, oo halkaas ka dooro OK.</string>
+    <string name="dev_link_not_allowed_short">Laguma oggolaan TV-ga</string>
+    <string name="dev_link_off">Dansan. Wuxuu ku daraa gelinta iyo dhammaan abka</string>
+    <string name="dev_link_step_allow">Taabo Ku xidh, kadib TV-ga ku calaamadee Always allow oo dooro OK.</string>
+    <string name="dev_link_step_debugging">Fur Developer options, oo ku xiga About, kadibna shid USB debugging. Shield-ka waa Network debugging.</string>
+    <string name="dev_link_step_developer">TV-ga ka fur Settings › System › About oo dooro Android TV OS build toddoba jeer. TV-yada duugga ah waa Device Preferences › About › Build.</string>
+    <string name="dev_link_title">Xidhiidhka horumariyaha</string>
+    <string name="dev_link_turn_off">Dami</string>
+    <string name="dev_link_wireless">Wireless debugging oo keliya ayaa shidan, taas oo TennaRC aanu weli isticmaali karin. Sidoo kale shid USB debugging, ama hal mar ka isku xidh kombiyuutar oo socodsii adb tcpip 5555; taasi way sii jirtaa ilaa TV-gu dib u bilaabmo.</string>
+    <string name="dev_link_wireless_short">Wireless debugging oo keliya ayaa shidan</string>
+    <string name="settings_edit_tv">Wax ka beddel</string>
+    <string name="settings_find_titles">Raadi ciyaaraha iyo videos</string>
+    <string name="find_titles_ask">Si ay u hesho, TennaRC waxay u dirtaa waxa aad qorto YouTube, JustWatch iyo Wikidata. Waxaad ka beddeli kartaa Dejinta.</string>
+    <string name="find_titles_not_now">Hadda maaha</string>
+</resources>

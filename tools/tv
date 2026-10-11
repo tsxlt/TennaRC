@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+TV_IP=${TV_IP:?set TV_IP to the TV's address}
+KEYS=${TV_KEYS:-$HOME/.config/lgtv/client-keys.sqlite}
+root=$(cd "$(dirname "$(readlink -f "$0")")/.." && pwd)
+venv=$root/.venv/bin
+
+mkdir -p "$(dirname "$KEYS")"
+lg() { "$venv/bscpylgtvcommand" --log ERROR -p "$KEYS" "$TV_IP" "$@"; }
+
+case "${1:-}" in
+  open)
+    url=${2:?usage: tv open URL}
+    [[ $url == *://* ]] || url=https://$url
+    params=$("$venv/python" -c 'import json, sys; print(json.dumps({"target": sys.argv[1]}))' "$url")
+    lg launch_app_with_params com.webos.app.browser "$params"
+    ;;
+  off) lg power_off ;;
+  volume) lg set_volume "${2:?usage: tv volume N}" ;;
+  "" | -h | --help) sed -n '2,7s/^# \{0,1\}//p' "$0" ;;
+  *) lg "$@" ;;
+esac

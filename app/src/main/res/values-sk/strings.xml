@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Poslať do televízora</string>
+    <string name="tile_label">Ovládač TV</string>
+    <string name="shortcut_link">Hľadať</string>
+    <string name="shortcut_keyboard">Písať na televízore</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Pripojené</string>
+    <string name="status_connecting">Pripája sa…</string>
+    <string name="status_awaiting">Potvrďte na televízore</string>
+    <string name="status_offline">Televízor je asi vypnutý</string>
+    <string name="status_not_paired">Zatiaľ nespárovaný</string>
+    <string name="status_standby">V pohotovostnom režime</string>
+    <string name="status_screen_off">Obraz vypnutý, zvuk zapnutý</string>
+    <string name="standby_title">Televízor je vypnutý</string>
+    <string name="action_turn_on">Zapnúť</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Spárovať s televízorom</string>
+    <string name="pair_body">Keď sa televízor opýta, potvrďte to.</string>
+    <string name="pair_declined_body">Televízor žiadosť odmietol. Tentoraz ju potvrďte.</string>
+    <string name="pair_action">Spárovať</string>
+    <string name="pair_timeout_body">Televízor neodpovedal.</string>
+    <string name="pair_forgotten_body">Televízor zabudol tento telefón.</string>
+    <string name="approval_title">Potvrďte na televízore</string>
+    <string name="connecting_title">Pripája sa…</string>
+    <string name="offline_title">Televízor je asi vypnutý</string>
+    <string name="action_retry">Skúsiť znova</string>
+    <string name="action_cancel">Zrušiť</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Hľadať</string>
+    <string name="touchpad_label">Touchpad. Ťahaním posúvajte kurzor, ťuknutím kliknite a ťahaním dvoma prstami posúvajte obsah.</string>
+    <string name="dpad_label">Smerové tlačidlá</string>
+    <string name="key_up">Hore</string>
+    <string name="key_down">Dole</string>
+    <string name="key_left">Vľavo</string>
+    <string name="key_right">Vpravo</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Späť</string>
+    <string name="key_home">Domov</string>
+    <string name="key_keyboard">Klávesnica</string>
+    <string name="key_touchpad">Touchpad</string>
+    <string name="key_dpad">Šípky</string>
+    <string name="key_more">Viac</string>
+    <string name="key_rewind">Pretočiť späť</string>
+    <string name="key_play">Prehrať</string>
+    <string name="key_pause">Pozastaviť</string>
+    <string name="key_fast_forward">Pretočiť dopredu</string>
+    <string name="key_stop">Zastaviť</string>
+    <string name="key_volume_up">Zvýšiť hlasitosť</string>
+    <string name="key_volume_down">Znížiť hlasitosť</string>
+    <string name="key_mute">Stlmiť</string>
+    <string name="key_unmute">Zrušiť stlmenie</string>
+    <string name="volume_value">Hlasitosť %1$d</string>
+    <string name="volume_unknown">Hlasitosť, úroveň neznáma</string>
+    <string name="volume_muted">Stlmené</string>
+    <string name="power">Napájanie</string>
+    <string name="settings">Nastavenia</string>
+    <string name="all_apps">Všetky aplikácie</string>
+    <string name="inputs">Vstupy</string>
+    <string name="picture_title">Obraz</string>
+    <string name="picture_standard">Štandardný</string>
+    <string name="picture_vivid">Živý</string>
+    <string name="picture_cinema">Kino</string>
+    <string name="picture_game">Hra</string>
+    <string name="picture_sports">Šport</string>
+    <string name="picture_eco">Eko</string>
+    <string name="picture_expert">Expert</string>
+    <string name="picture_backlight">Jas</string>
+    <string name="sound_title">Zvuk</string>
+    <string name="sound_tv">Reproduktory TV</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optický</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Slúchadlá</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Reproduktory</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Linkový výstup</string>
+    <string name="more_subtitles">Titulky</string>
+    <string name="more_audio_track">Zvuk</string>
+    <string name="sleep_title">Časovač vypnutia</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Vypne sa o %1$s</string>
+    <string name="sleep_cancel">Zrušiť časovač</string>
+    <string name="app_on_screen">%1$s, teraz na obrazovke</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Spúšťa sa na televízore…</string>
+    <string name="cast_playing">Prehráva sa na televízore</string>
+    <string name="cast_paused">Pozastavené</string>
+    <string name="cast_stalled">Prehrávanie sa zaseklo. Beží ešte server videa?</string>
+    <string name="cast_play">Pokračovať</string>
+    <string name="cast_pause">Pozastaviť</string>
+    <string name="cast_stop">Zastaviť prehrávanie na televízore</string>
+    <string name="cast_position">Pozícia prehrávania</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Zatvoriť hľadanie</string>
+    <string name="tv_picker">Televízory, teraz %1$s</string>
+    <string name="tv_picker_add_short">Pridať</string>
+    <string name="hold_hide">Skryť</string>
+    <string name="hold_rename">Premenovať</string>
+    <string name="rename_input">Premenovať vstup</string>
+    <string name="rename_save">Uložiť</string>
+    <string name="rename_reset">Použiť názov z televízora</string>
+    <string name="more_channel_list">Zoznam</string>
+    <string name="more_guide">Program</string>
+    <string name="input_label">%1$s, vstup</string>
+    <string name="channel_label">%2$s, kanál %1$s</string>
+    <string name="on_screen_now">Teraz na obrazovke</string>
+    <string name="deck_expanded">Rozšírené</string>
+    <string name="deck_collapsed">Zbalené</string>
+    <string name="channel_hidden">Skryté: %1$s</string>
+    <string name="action_undo">Vrátiť späť</string>
+    <string name="offline_switch">Použiť %1$s</string>
+    <string name="search_picks">Populárne</string>
+    <string name="search_clear">Vymazať</string>
+    <string name="search_fill">Vložiť do vyhľadávacieho poľa</string>
+    <string name="search_type_on_tv">Písať na televízore</string>
+    <string name="search_in_app">Hľadať v %1$s</string>
+    <string name="search_web">Hľadať cez %1$s</string>
+    <string name="link_paste">Vložiť</string>
+    <string name="link_recent">Nedávne</string>
+    <string name="link_clear_recent">Vymazať</string>
+    <string name="link_kind_youtube">Video na YouTube</string>
+    <string name="link_kind_video">Videosúbor</string>
+    <string name="link_kind_audio">Zvukový súbor</string>
+    <string name="link_kind_image">Obrázok</string>
+    <string name="link_kind_web">Webová stránka</string>
+    <string name="link_action_app">Otvoriť v %1$s</string>
+    <string name="link_action_media">Prehrať na televízore</string>
+    <string name="link_action_browser">Otvoriť v prehliadači televízora</string>
+    <string name="link_sending">Odosiela sa…</string>
+    <string name="link_sent">Otvorené na televízore</string>
+    <string name="link_failed">Televízor to neotvoril. Skúste to znova.</string>
+
+    <!-- Share -->
+    <string name="share_title">Poslať do televízora</string>
+    <string name="share_no_link">V tom, čo ste zdieľali, nie je žiadny odkaz.</string>
+    <string name="share_not_paired">Tento telefón ešte nie je spárovaný s televízorom.</string>
+    <string name="share_open_app">Otvoriť ovládač</string>
+    <string name="share_waiting">Pripája sa…</string>
+    <string name="share_cant_open">Tento televízor nevie otvoriť odkazy %1$s</string>
+    <string name="action_close">Zatvoriť</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Klávesnica</string>
+    <string name="keyboard_placeholder_waiting">Vyberte textové pole na televízore</string>
+    <string name="keyboard_backspace">Zmazať</string>
+    <string name="keyboard_clear">Vymazať</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d znak už je na televízore</item>
+        <item quantity="few">%1$d znaky už sú na televízore</item>
+        <item quantity="many">%1$d znaku už je na televízore</item>
+        <item quantity="other">%1$d znakov už je na televízore</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Viac</string>
+    <string name="more_menu">Nastavenia</string>
+    <string name="more_quick">Rýchle menu</string>
+    <string name="more_quick_short">Menu</string>
+    <string name="more_info">Info</string>
+    <string name="more_inputs">Vstupy</string>
+    <string name="more_exit">Ukončiť</string>
+    <string name="more_channel_up">Ďalší kanál</string>
+    <string name="more_channel_down">Predchádzajúci kanál</string>
+    <string name="more_red">Červené</string>
+    <string name="more_green">Zelené</string>
+    <string name="more_yellow">Žlté</string>
+    <string name="more_blue">Modré</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Napájanie</string>
+    <string name="power_screen_off">Vypnúť obraz</string>
+    <string name="power_off">Vypnúť televízor</string>
+    <string name="power_off_confirm">Ťuknutím znova vypnete</string>
+    <string name="power_turn_off">Vypnúť</string>
+    <string name="power_tap_again">Ťuknite znova</string>
+    <string name="switch_on">Zapnuté</string>
+    <string name="switch_off">Vypnuté</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Nastavenia</string>
+    <string name="settings_tv">Televízor</string>
+    <string name="settings_name">Názov</string>
+    <string name="settings_host">Adresa</string>
+    <string name="settings_host_invalid">Zadajte IP adresu alebo názov hostiteľa</string>
+    <string name="settings_mac">MAC adresa (na zapnutie)</string>
+    <string name="settings_mac_invalid">Šesť párov hexadecimálnych číslic, napríklad 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Nájsť televízory v okolí</string>
+    <string name="settings_finding">Hľadajú sa televízory…</string>
+    <string name="settings_found_none">Žiadny televízor neodpovedal.</string>
+    <string name="settings_found_no_new">Ďalšie televízory sa nenašli</string>
+    <string name="settings_in_use">Používa sa</string>
+    <string name="settings_add">Pridať</string>
+    <string name="settings_forget_tv">Zabudnúť %1$s</string>
+    <string name="settings_use_tv">Použiť tento televízor</string>
+    <string name="settings_remove_tv">Odstrániť</string>
+    <string name="settings_remove_confirm">Ťuknutím znova odstránite</string>
+    <string name="settings_move_up">Posunúť hore</string>
+    <string name="settings_move_down">Posunúť dole</string>
+    <string name="settings_sensitivity">Citlivosť</string>
+    <string name="settings_touchpad">Touchpad</string>
+    <string name="settings_phone">Telefón</string>
+    <string name="settings_natural_scroll">Prirodzené rolovanie</string>
+    <string name="settings_scroll_strip">Posuvný pás</string>
+    <string name="settings_hidden">Skryté</string>
+    <string name="settings_show">Zobraziť</string>
+    <string name="settings_theme">Téma</string>
+    <string name="settings_theme_auto">Automaticky</string>
+    <string name="settings_language">Jazyk</string>
+    <string name="settings_theme_system">Systém</string>
+    <string name="settings_theme_light">Svetlá</string>
+    <string name="settings_theme_dark">Tmavá</string>
+    <string name="settings_scroll_strip_right">Vpravo</string>
+    <string name="settings_scroll_strip_left">Vľavo</string>
+    <string name="settings_scroll_strip_off">Vypnuté</string>
+    <string name="settings_search_engine">Hľadanie na webe</string>
+    <string name="settings_search">Vyhľadávanie</string>
+    
+    <string name="settings_volume_keys">Tlačidlá hlasitosti</string>
+    <string name="settings_auto_keyboard">Automatická klávesnica</string>
+    <string name="settings_haptics">Vibrácia</string>
+    <string name="settings_keep_screen_on">Nevypínať obrazovku</string>
+    <string name="settings_forget">Zrušiť spárovanie</string>
+    <string name="settings_forget_body">Televízor sa nabudúce znova opýta</string>
+    <string name="settings_forget_confirm">Ťuknutím znova zabudnete</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Telefón nie je pripojený k televízoru</string>
+    <string name="notice_command_failed">Televízor na príkaz nereagoval</string>
+    <string name="notice_launch_failed">Aplikáciu sa nepodarilo otvoriť</string>
+    <string name="notice_open_failed">Televízor nemohol otvoriť odkaz</string>
+    <string name="notice_no_renderer">Prehrávač médií v televízore neodpovedá. Je zapnutý?</string>
+    <string name="notice_cast_failed">Televízor nemohol prehrať odkaz</string>
+    <string name="notice_wake_sent">Signál na prebudenie bol odoslaný</string>
+    <string name="notice_tv_moved">Televízor sa našiel na novej adrese</string>
+    <string name="notice_wake_failed">Signál na prebudenie sa nepodarilo odoslať. Skontrolujte MAC adresu.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Pripojenie sa zasekáva</string>
+    <string name="link_help_stalling">Wi-Fi televízora opakovane na chvíľu vypadáva.</string>
+    <string name="link_help_slow">Wi-Fi televízora je slabé alebo preťažené.</string>
+    <string name="link_fix_24_title">Pripojte televízor k Wi-Fi 2,4 GHz</string>
+    <string name="link_fix_ethernet_title">Použite ethernetový kábel</string>
+    <string name="link_fix_extender_title">Pridajte opakovač Wi-Fi v polovici cesty</string>
+    <string name="link_fix_listen_title">Vypnite Listen Mode v Screen Share</string>
+    <string name="link_fix_closer_title">Presuňte router bližšie k televízoru</string>
+    <string name="link_fix_band_title">Skúste druhé pásmo Wi-Fi</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Ovládač TV</string>
+    <string name="notify_channel_body">Prehrávanie, pauza a hlasitosť, kým je televízor zapnutý</string>
+    <string name="notify_on_tv">Na televízore</string>
+    <string name="notify_close">Zatvoriť</string>
+    <string name="settings_notification_controls">Ovládanie médií</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Zadajte kód zobrazený na televízore</string>
+    <string name="pair_code_title">Zadajte kód z televízora</string>
+    <string name="pair_code_wrong">Kód nesúhlasí. Zadajte nový kód z televízora.</string>
+    <string name="pair_code_label">Kód</string>
+    <string name="pair_code_submit">Spárovať</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Demo TV</string>
+    <string name="settings_demo_tv_body">Vyskúšajte ovládač bez televízora</string>
+    <string name="settings_demo_tv_listed">Pridá do zoznamu vymyslený televízor</string>
+    <string name="settings_help">Pomocník</string>
+    <string name="settings_report">Nahlásiť problém</string>
+    <string name="settings_privacy">Zásady ochrany súkromia</string>
+    <string name="settings_reset">Obnoviť nastavenia</string>
+    <string name="settings_reset_body">Televízory zostanú spárované</string>
+    <string name="settings_reset_confirm">Ťuknutím znova obnovíte</string>
+    <string name="offline_no_wifi_title">Bez Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku prijíma z telefónu len niektoré príkazy. V Advanced system settings nastavte Control by mobile apps na Enabled.</string>
+    <string name="notice_adb_off">Zapnite ladenie ADB na Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Vypnuté</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Zvuk</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Spárujte na ovládanie Ambilight</string>
+    <string name="ambilight_pin_hint">PIN na televízore</string>
+    <string name="ambilight_pin_wrong">Nesprávny PIN. Skúste nový</string>
+    <string name="search_opens_app">Otvára %1$s</string>
+    <string name="voice_search">Hľadať hlasom</string>
+    <string name="voice_stop">Prestať počúvať</string>
+    <string name="voice_listening">Počúvam…</string>
+    <string name="voice_mic_off">Prístup k mikrofónu je vypnutý</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">Aplikácia TennaRC sa neočakávane zatvorila</string>
+    <string name="crash_send">Odoslať</string>
+    <string name="crash_report_subject">Hlásenie o chybe TennaRC %1$s</string>
+    <string name="crash_sent">Hlásenie odoslané. Ďakujeme</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Prehrávanie, pauza a hlasitosť televízora</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Prehrať z tohto telefónu</string>
+    <string name="phone_mirror">Zrkadliť</string>
+    <string name="phone_mirror_label">Zrkadliť obrazovku tohto telefónu</string>
+    <string name="phone_gallery">Galéria</string>
+    <string name="phone_gallery_label">Zobraziť fotku alebo video z tohto telefónu</string>
+    <string name="share_cant_play_file">Tento televízor nevie prehrať súbory z telefónu</string>
+    <string name="notice_cast_unsupported">Televízor nevie zobraziť tento typ obrázka</string>
+    <string name="notice_not_on_tv_network">Pripojte telefón k Wi-Fi televízora, aby ste mohli prehrávať jeho súbory</string>
+    <string name="notice_file_unreadable">Súbor sa nepodarilo prečítať</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Hľadajú sa televízory</string>
+    <string name="setup_choose">Vyberte televízor</string>
+    <string name="setup_none">Nenašiel sa žiadny televízor</string>
+    <string name="setup_search_again">Hľadať znova</string>
+    <string name="setup_enter_ip">Zadajte IP adresu</string>
+    <string name="setup_ip_label">IP adresa</string>
+    <string name="setup_ip_none">Na tejto adrese neodpovedal žiadny televízor</string>
+    <string name="setup_connect">Pripojiť</string>
+    <string name="setup_demo">Vyskúšať demo</string>
+    <string name="setup_code_wrong">Skontrolujte kód na televízore</string>
+    <string name="setup_fire_tv_allow">Začiarknite Always allow a potom OK</string>
+    <string name="setup_adb_title">Zapnite ladenie ADB</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Zapnite Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Hotovo</string>
+
+    <string name="dev_link_allow">Povoľte na televízore</string>
+    <string name="dev_link_allow_body">Začiarknite Vždy povoliť z tohto počítača a potom OK</string>
+    <string name="dev_link_away">Televízor nereaguje. Kým je ovládač otvorený, pripojenie sa samo skúša obnoviť.</string>
+    <string name="dev_link_away_short">Nereaguje</string>
+    <string name="dev_link_body">Zobrazí vlastné vstupy televízora a všetky jeho aplikácie, prepína vstupy na televízoroch, ktoré nereagujú na tlačidlá HDMI, a na niektorých nastaví jas. Funguje cez ladiace pripojenie televízora (ADB). Tlačidlá a písanie fungujú rovnako aj bez neho.</string>
+    <string name="dev_link_connect">Pripojiť</string>
+    <string name="dev_link_debugging_off">Televízor pripojenie odmietol. Skontrolujte, či je zapnuté Ladenie cez USB. Od Androidu TV 14 niektoré televízory podporujú iba Bezdrôtové ladenie, ktoré TennaRC zatiaľ nevie používať.</string>
+    <string name="dev_link_debugging_off_short">Ladenie je na televízore vypnuté</string>
+    <string name="dev_link_forgotten">Televízor zabudol tento telefón, ako to Android TV robí s telefónmi, ktoré týždeň nevidel. Skúste to znova a na televízore pripojenie povoľte.</string>
+    <string name="dev_link_forgotten_short">Televízor zabudol tento telefón</string>
+    <string name="dev_link_not_allowed">Na televízore to nikto nepovolil. Skúste to znova a tam vyberte OK.</string>
+    <string name="dev_link_not_allowed_short">Na televízore nepovolené</string>
+    <string name="dev_link_off">Vypnuté. Pridáva vstupy a všetky aplikácie</string>
+    <string name="dev_link_step_allow">Klepnite na Pripojiť, potom na televízore začiarknite Vždy povoliť a vyberte OK.</string>
+    <string name="dev_link_step_debugging">Otvorte Pre vývojárov hneď vedľa Informácií a zapnite Ladenie cez USB. Na Shielde je to Sieťové ladenie.</string>
+    <string name="dev_link_step_developer">Na televízore otvorte Nastavenia › Systém › Informácie a sedemkrát vyberte Zostava OS Android TV. Na starších televízoroch je to Predvoľby zariadenia › Informácie › Zostava.</string>
+    <string name="dev_link_title">Pripojenie pre vývojárov</string>
+    <string name="dev_link_turn_off">Vypnúť</string>
+    <string name="dev_link_wireless">Zapnuté je iba Bezdrôtové ladenie, ktoré TennaRC zatiaľ nevie používať. Zapnite aj Ladenie cez USB alebo raz spárujte z počítača a spustite adb tcpip 5555; vydrží to do reštartu televízora.</string>
+    <string name="dev_link_wireless_short">Zapnuté je iba Bezdrôtové ladenie</string>
+    <string name="settings_edit_tv">Upraviť</string>
+    <string name="settings_find_titles">Hľadať filmy a videá</string>
+    <string name="find_titles_ask">Aby ich TennaRC našiel, posiela, čo napíšete, do YouTube, JustWatch a Wikidata. Môžete to zmeniť v Nastaveniach.</string>
+    <string name="find_titles_not_now">Teraz nie</string>
+</resources>

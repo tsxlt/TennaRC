@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Envia a la TV</string>
+    <string name="tile_label">Comandament</string>
+    <string name="shortcut_link">Cerca</string>
+    <string name="shortcut_keyboard">Escriu a la TV</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Connectat</string>
+    <string name="status_connecting">S\'està connectant…</string>
+    <string name="status_awaiting">Accepta-ho a la TV</string>
+    <string name="status_offline">La TV sembla apagada</string>
+    <string name="status_not_paired">Encara no s\'ha vinculat</string>
+    <string name="status_standby">En espera</string>
+    <string name="status_screen_off">Pantalla apagada, so activat</string>
+    <string name="standby_title">La TV està apagada</string>
+    <string name="action_turn_on">Encén</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Vincula amb la TV</string>
+    <string name="pair_body">Accepta-ho a la TV quan t\'ho demani.</string>
+    <string name="pair_declined_body">La TV ha dit que no. Aquesta vegada tria Accepta.</string>
+    <string name="pair_action">Vincula</string>
+    <string name="pair_timeout_body">La TV no respon.</string>
+    <string name="pair_forgotten_body">La TV ha oblidat aquest telèfon.</string>
+    <string name="approval_title">Accepta-ho a la TV</string>
+    <string name="connecting_title">S\'està connectant…</string>
+    <string name="offline_title">La TV sembla apagada</string>
+    <string name="action_retry">Torna-ho a provar</string>
+    <string name="action_cancel">Cancel·la</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Cerca</string>
+    <string name="touchpad_label">Ratolí tàctil. Arrossega per moure el punter, toca per fer clic i arrossega amb dos dits per desplaçar-te.</string>
+    <string name="dpad_label">Botons de direcció</string>
+    <string name="key_up">Amunt</string>
+    <string name="key_down">Avall</string>
+    <string name="key_left">Esquerra</string>
+    <string name="key_right">Dreta</string>
+    <string name="key_ok">D\'acord</string>
+    <string name="key_back">Enrere</string>
+    <string name="key_home">Inici</string>
+    <string name="key_keyboard">Teclat</string>
+    <string name="key_touchpad">Ratolí tàctil</string>
+    <string name="key_dpad">Fletxes</string>
+    <string name="key_more">Més</string>
+    <string name="key_rewind">Rebobina</string>
+    <string name="key_play">Reprodueix</string>
+    <string name="key_pause">Pausa</string>
+    <string name="key_fast_forward">Avança</string>
+    <string name="key_stop">Atura</string>
+    <string name="key_volume_up">Puja el volum</string>
+    <string name="key_volume_down">Baixa el volum</string>
+    <string name="key_mute">Silencia</string>
+    <string name="key_unmute">Activa el so</string>
+    <string name="volume_value">Volum %1$d</string>
+    <string name="volume_unknown">Volum, nivell desconegut</string>
+    <string name="volume_muted">Silenciat</string>
+    <string name="power">Encesa</string>
+    <string name="settings">Configuració</string>
+    <string name="all_apps">Totes les aplicacions</string>
+    <string name="inputs">Entrades</string>
+    <string name="picture_title">Imatge</string>
+    <string name="picture_standard">Estàndard</string>
+    <string name="picture_vivid">Intens</string>
+    <string name="picture_cinema">Cinema</string>
+    <string name="picture_game">Joc</string>
+    <string name="picture_sports">Esports</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Expert</string>
+    <string name="picture_backlight">Brillantor</string>
+    <string name="sound_title">So</string>
+    <string name="sound_tv">Altaveus de la TV</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Òptica</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Auriculars</string>
+    <string name="sound_tv_short">Altaveus</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Sortida de línia</string>
+    <string name="more_subtitles">Subtítols</string>
+    <string name="more_audio_track">Àudio</string>
+    <string name="sleep_title">Temporitzador d\'apagada</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">S\'apaga a les %1$s</string>
+    <string name="sleep_cancel">Cancel·la el temporitzador</string>
+    <string name="app_on_screen">%1$s, en pantalla ara</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">S\'està iniciant a la TV…</string>
+    <string name="cast_playing">S\'està reproduint a la TV</string>
+    <string name="cast_paused">En pausa</string>
+    <string name="cast_stalled">No es mou. El servidor del vídeo segueix actiu?</string>
+    <string name="cast_play">Reprèn</string>
+    <string name="cast_pause">Pausa</string>
+    <string name="cast_stop">Atura la reproducció a la TV</string>
+    <string name="cast_position">Posició de reproducció</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Tanca la cerca</string>
+    <string name="tv_picker">Televisors, ara %1$s</string>
+    <string name="tv_picker_add_short">Afegeix</string>
+    <string name="hold_hide">Amaga</string>
+    <string name="hold_rename">Canvia el nom</string>
+    <string name="rename_input">Canvia el nom de l\'entrada</string>
+    <string name="rename_save">Desa</string>
+    <string name="rename_reset">Usa el nom de la TV</string>
+    <string name="more_channel_list">Llista</string>
+    <string name="more_guide">Guia</string>
+    <string name="input_label">%1$s, entrada</string>
+    <string name="channel_label">%2$s, canal %1$s</string>
+    <string name="on_screen_now">En pantalla ara</string>
+    <string name="deck_expanded">Desplegat</string>
+    <string name="deck_collapsed">Replegat</string>
+    <string name="channel_hidden">%1$s amagat</string>
+    <string name="action_undo">Desfés</string>
+    <string name="offline_switch">Usa %1$s</string>
+    <string name="search_picks">Tendències ara</string>
+    <string name="search_clear">Esborra</string>
+    <string name="search_fill">Posa-ho al quadre de cerca</string>
+    <string name="search_type_on_tv">Escriu a la TV</string>
+    <string name="search_in_app">Cerca a %1$s</string>
+    <string name="search_web">Cerca amb %1$s</string>
+    <string name="link_paste">Enganxa</string>
+    <string name="link_recent">Recents</string>
+    <string name="link_clear_recent">Esborra</string>
+    <string name="link_kind_youtube">Vídeo de YouTube</string>
+    <string name="link_kind_video">Fitxer de vídeo</string>
+    <string name="link_kind_audio">Fitxer d\'àudio</string>
+    <string name="link_kind_image">Imatge</string>
+    <string name="link_kind_web">Pàgina web</string>
+    <string name="link_action_app">Obre a %1$s</string>
+    <string name="link_action_media">Reprodueix a la TV</string>
+    <string name="link_action_browser">Obre al navegador de la TV</string>
+    <string name="link_sending">Enviant…</string>
+    <string name="link_sent">S\'ha oberto a la TV</string>
+    <string name="link_failed">La TV no l\'ha obert. Torna-ho a provar.</string>
+
+    <!-- Share -->
+    <string name="share_title">Envia a la TV</string>
+    <string name="share_no_link">El que has compartit no conté cap enllaç.</string>
+    <string name="share_not_paired">Aquest telèfon encara no està vinculat amb la TV.</string>
+    <string name="share_open_app">Obre el comandament</string>
+    <string name="share_waiting">S\'està connectant…</string>
+    <string name="share_cant_open">Aquesta TV no pot obrir enllaços de %1$s</string>
+    <string name="action_close">Tanca</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Teclat</string>
+    <string name="keyboard_placeholder_waiting">Tria un quadre de text a la TV</string>
+    <string name="keyboard_backspace">Retrocés</string>
+    <string name="keyboard_clear">Esborra</string>
+    <string name="keyboard_enter">Intro</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d caràcter ja és a la TV</item>
+        <item quantity="other">%1$d caràcters ja són a la TV</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Més</string>
+    <string name="more_menu">Configuració</string>
+    <string name="more_quick">Menú ràpid</string>
+    <string name="more_quick_short">Menú</string>
+    <string name="more_info">Info</string>
+    <string name="more_inputs">Entrades</string>
+    <string name="more_exit">Surt</string>
+    <string name="more_channel_up">Canal següent</string>
+    <string name="more_channel_down">Canal anterior</string>
+    <string name="more_red">Vermell</string>
+    <string name="more_green">Verd</string>
+    <string name="more_yellow">Groc</string>
+    <string name="more_blue">Blau</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Encesa</string>
+    <string name="power_screen_off">Només so</string>
+    <string name="power_off">Apaga la TV</string>
+    <string name="power_off_confirm">Torna a tocar per apagar</string>
+    <string name="power_turn_off">Apaga</string>
+    <string name="power_tap_again">Torna a tocar</string>
+    <string name="switch_on">Activat</string>
+    <string name="switch_off">Desactivat</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Configuració</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Nom</string>
+    <string name="settings_host">Adreça</string>
+    <string name="settings_host_invalid">Introdueix una adreça IP o un nom d\'amfitrió</string>
+    <string name="settings_mac">Adreça MAC (per encendre-la)</string>
+    <string name="settings_mac_invalid">Sis parells de dígits hexadecimals, com 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Cerca televisors a prop</string>
+    <string name="settings_finding">S\'estan cercant televisors…</string>
+    <string name="settings_found_none">Cap TV no ha respost.</string>
+    <string name="settings_found_no_new">No s\'ha trobat cap altre televisor</string>
+    <string name="settings_in_use">En ús</string>
+    <string name="settings_add">Afegeix</string>
+    <string name="settings_forget_tv">Oblida %1$s</string>
+    <string name="settings_use_tv">Utilitza aquesta TV</string>
+    <string name="settings_remove_tv">Elimina</string>
+    <string name="settings_remove_confirm">Torna a tocar per eliminar</string>
+    <string name="settings_move_up">Mou amunt</string>
+    <string name="settings_move_down">Mou avall</string>
+    <string name="settings_sensitivity">Sensibilitat</string>
+    <string name="settings_touchpad">Ratolí tàctil</string>
+    <string name="settings_phone">Telèfon</string>
+    <string name="settings_natural_scroll">Desplaçament natural</string>
+    <string name="settings_scroll_strip">Barra de desplaçament</string>
+    <string name="settings_hidden">Amagats</string>
+    <string name="settings_show">Mostra</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_auto">Automàtic</string>
+    <string name="settings_language">Idioma</string>
+    <string name="settings_theme_system">Sistema</string>
+    <string name="settings_theme_light">Clar</string>
+    <string name="settings_theme_dark">Fosc</string>
+    <string name="settings_scroll_strip_right">Dreta</string>
+    <string name="settings_scroll_strip_left">Esquerra</string>
+    <string name="settings_scroll_strip_off">Desactivada</string>
+    <string name="settings_search_engine">Cerca web</string>
+    <string name="settings_search">Cerca</string>
+    <string name="settings_find_titles">Cerca de pel·lícules i vídeos</string>
+    <string name="find_titles_ask">Per trobar-los, TennaRC envia el que escrius a YouTube, JustWatch i Wikidata. Ho pots canviar a Configuració.</string>
+    <string name="find_titles_not_now">Ara no</string>
+    <string name="settings_volume_keys">Botons de volum</string>
+    <string name="settings_auto_keyboard">Teclat automàtic</string>
+    <string name="settings_haptics">Vibració</string>
+    <string name="settings_keep_screen_on">Mantén la pantalla encesa</string>
+    <string name="settings_forget">Oblida la vinculació</string>
+    <string name="settings_forget_body">La TV ho tornarà a demanar la propera vegada</string>
+    <string name="settings_forget_confirm">Torna a tocar per oblidar</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">No hi ha connexió amb la TV</string>
+    <string name="notice_command_failed">La TV no ha respost a això</string>
+    <string name="notice_launch_failed">No s\'ha pogut obrir aquesta aplicació</string>
+    <string name="notice_open_failed">La TV no ha pogut obrir l\'enllaç</string>
+    <string name="notice_no_renderer">El reproductor multimèdia de la TV no respon. Està encès?</string>
+    <string name="notice_cast_failed">La TV no ha pogut reproduir aquest enllaç</string>
+    <string name="notice_wake_sent">Senyal d\'encesa enviat</string>
+    <string name="notice_tv_moved">S\'ha trobat la TV en una adreça nova</string>
+    <string name="notice_wake_failed">No s\'ha pogut enviar el senyal d\'encesa. Comprova l\'adreça MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Connexió lenta</string>
+    <string name="link_help_stalling">La Wi-Fi de la TV es desconnecta per moments.</string>
+    <string name="link_help_slow">La Wi-Fi de la TV és feble o està saturada.</string>
+    <string name="link_fix_24_title">Connecta la TV a una Wi-Fi de 2,4 GHz</string>
+    <string name="link_fix_ethernet_title">Fes servir un cable Ethernet</string>
+    <string name="link_fix_extender_title">Afegeix un repetidor Wi-Fi a mig camí</string>
+    <string name="link_fix_listen_title">Desactiva Listen Mode a Screen Share</string>
+    <string name="link_fix_closer_title">Acosta el router a la TV</string>
+    <string name="link_fix_band_title">Prova l\'altra banda de la Wi-Fi</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Comandament</string>
+    <string name="notify_channel_body">Reproducció, pausa i volum de la TV mentre està encesa</string>
+    <string name="notify_on_tv">A la TV</string>
+    <string name="notify_close">Tanca</string>
+    <string name="settings_notification_controls">Controls multimèdia</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Escriu el codi que es mostra a la TV</string>
+    <string name="pair_code_title">Introdueix el codi de la TV</string>
+    <string name="pair_code_wrong">Aquest codi no coincideix. Prova el nou que surt a la TV.</string>
+    <string name="pair_code_label">Codi</string>
+    <string name="pair_code_submit">Vincula</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">TV de prova</string>
+    <string name="settings_demo_tv_body">Prova el comandament sense TV</string>
+    <string name="settings_demo_tv_listed">Afegeix una TV simulada a les teves TVs</string>
+    <string name="settings_help">Ajuda</string>
+    <string name="settings_report">Informa d\'un problema</string>
+    <string name="settings_privacy">Política de privadesa</string>
+    <string name="settings_reset">Restableix la configuració</string>
+    <string name="settings_reset_body">Els televisors continuen vinculats</string>
+    <string name="settings_reset_confirm">Torna a tocar per restablir</string>
+    <string name="offline_no_wifi_title">Sense Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">El Roku només accepta algunes ordres dels telèfons. A Advanced system settings, posa Control by mobile apps a Enabled.</string>
+    <string name="notice_adb_off">Activa la depuració ADB a la Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Apagat</string>
+    <string name="ambilight_video">Vídeo</string>
+    <string name="ambilight_audio">Àudio</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Vincula per controlar Ambilight</string>
+    <string name="ambilight_pin_hint">PIN a la TV</string>
+    <string name="ambilight_pin_wrong">PIN incorrecte. Prova el nou</string>
+    <string name="search_opens_app">Obre %1$s</string>
+    <string name="voice_search">Cerca per veu</string>
+    <string name="voice_stop">Deixa d\'escoltar</string>
+    <string name="voice_listening">Escoltant…</string>
+    <string name="voice_mic_off">L\'accés al micròfon està desactivat</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC s\'ha tancat de manera inesperada</string>
+    <string name="crash_send">Envia</string>
+    <string name="crash_report_subject">Informe d\'error de TennaRC %1$s</string>
+    <string name="crash_sent">Informe enviat. Gràcies</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Reproducció, pausa i volum de la TV</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Reprodueix des d\'aquest telèfon</string>
+    <string name="phone_mirror">Duplica</string>
+    <string name="phone_mirror_label">Duplica la pantalla d\'aquest telèfon</string>
+    <string name="phone_gallery">Galeria</string>
+    <string name="phone_gallery_label">Mostra una foto o un vídeo d\'aquest telèfon</string>
+    <string name="share_cant_play_file">Aquesta TV no pot reproduir fitxers del telèfon</string>
+    <string name="notice_cast_unsupported">La TV no pot mostrar aquest tipus d\'imatge</string>
+    <string name="notice_not_on_tv_network">Connecta el telèfon a la Wi-Fi de la TV per reproduir els seus fitxers</string>
+    <string name="notice_file_unreadable">No s\'ha pogut llegir aquest fitxer</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">S\'estan cercant televisors</string>
+    <string name="setup_choose">Tria la TV</string>
+    <string name="setup_none">No s\'ha trobat cap TV</string>
+    <string name="setup_search_again">Torna a cercar</string>
+    <string name="setup_enter_ip">Introdueix l\'adreça IP</string>
+    <string name="setup_ip_label">Adreça IP</string>
+    <string name="setup_ip_none">Cap TV no ha respost en aquesta adreça</string>
+    <string name="setup_connect">Connecta</string>
+    <string name="setup_demo">Prova la demostració</string>
+    <string name="setup_code_wrong">Comprova el codi a la TV</string>
+    <string name="setup_fire_tv_allow">Marca Always allow i després OK</string>
+    <string name="setup_adb_title">Activa la depuració ADB</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Activa Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Fet</string>
+    <string name="settings_edit_tv">Edita</string>
+    <string name="dev_link_title">Connexió de desenvolupador</string>
+    <string name="dev_link_body">Mostra les entrades pròpies de la TV i totes les seves aplicacions, canvia d\'entrada a les TV que ignoren les tecles HDMI i ajusta la brillantor en algunes. Funciona a través de la connexió de depuració de la TV (ADB). Les tecles i l\'escriptura funcionen igual sense ella.</string>
+    <string name="dev_link_step_developer">A la TV, obre Configuració › Sistema › Informació i selecciona set vegades Compilació del SO d\'Android TV. A les TV més antigues és Device Preferences › About › Build.</string>
+    <string name="dev_link_step_debugging">Obre Opcions per a desenvolupadors, al costat d\'Informació, i activa Depuració per USB. En una Shield és Network debugging.</string>
+    <string name="dev_link_step_allow">Toca Connecta i, després, a la TV marca Permet sempre i tria D\'acord.</string>
+    <string name="dev_link_connect">Connecta</string>
+    <string name="dev_link_allow">Permet-ho a la TV</string>
+    <string name="dev_link_allow_body">Marca Permet sempre des d\'aquest ordinador i després D\'acord</string>
+    <string name="dev_link_turn_off">Desactiva</string>
+    <string name="dev_link_off">Desactivada. Afegeix les entrades i totes les aplicacions</string>
+    <string name="dev_link_away">La TV no respon. Es tornarà a provar automàticament mentre el comandament estigui obert.</string>
+    <string name="dev_link_away_short">Sense resposta</string>
+    <string name="dev_link_debugging_off">La TV ha rebutjat la connexió. Comprova que la depuració per USB estigui activada. Des d\'Android TV 14, algunes TV només accepten la depuració sense fil, que TennaRC encara no pot fer servir.</string>
+    <string name="dev_link_debugging_off_short">La depuració està desactivada a la TV</string>
+    <string name="dev_link_wireless">Només hi ha activada la depuració sense fil, que TennaRC encara no pot fer servir. Activa també la depuració per USB o vincula una vegada des d\'un ordinador i executa adb tcpip 5555, que dura fins que la TV es reinicia.</string>
+    <string name="dev_link_wireless_short">Només hi ha activada la depuració sense fil</string>
+    <string name="dev_link_not_allowed">Ningú no ho ha permès a la TV. Torna-ho a provar i tria D\'acord allà.</string>
+    <string name="dev_link_not_allowed_short">No s\'ha permès a la TV</string>
+    <string name="dev_link_forgotten">La TV ha oblidat aquest telèfon, com fa Android TV amb els que fa una setmana que no veu. Torna-ho a provar i permet-ho a la TV.</string>
+    <string name="dev_link_forgotten_short">La TV ha oblidat aquest telèfon</string>
+</resources>

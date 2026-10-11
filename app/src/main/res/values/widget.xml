@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_surface">#FFFFFF</color>
+    <color name="widget_ink">#16181C</color>
+    <color name="widget_ink_dim">#5A616B</color>
+    <color name="widget_key">#E3E6EA</color>
+    <color name="widget_on_key">#16181C</color>
+    <color name="widget_dot">#D65C1E</color>
+    <color name="widget_rim">#12000000</color>
+    <color name="widget_hairline">#1F000000</color>
+    <dimen name="widget_radius">22dp</dimen>
+
+    <style name="WidgetPreviewKey">
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:background">@drawable/widget_key</item>
+        <item name="android:backgroundTint">@color/widget_key</item>
+        <item name="android:importantForAccessibility">no</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:tint">@color/widget_ink</item>
+    </style>
+
+    <style name="WidgetPreviewFavorite">
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:background">@drawable/widget_key</item>
+        <item name="android:backgroundTint">@color/widget_key</item>
+        <item name="android:importantForAccessibility">no</item>
+        <item name="android:gravity">center</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/widget_ink_dim</item>
+    </style>
+
+    <style name="WidgetPreviewGap">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+</resources>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Saada telerisse</string>
+    <string name="tile_label">Teleri pult</string>
+    <string name="shortcut_link">Otsing</string>
+    <string name="shortcut_keyboard">Kirjuta telerisse</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Ühendatud</string>
+    <string name="status_connecting">Ühendub…</string>
+    <string name="status_awaiting">Kinnita teleris</string>
+    <string name="status_offline">Teler näib olevat väljas</string>
+    <string name="status_not_paired">Pole veel seotud</string>
+    <string name="status_standby">Ooterežiimis</string>
+    <string name="status_screen_off">Ekraan väljas, heli sees</string>
+    <string name="standby_title">Teler on väljas</string>
+    <string name="action_turn_on">Lülita sisse</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Seo teleriga</string>
+    <string name="pair_body">Kinnita teleris, kui see küsib.</string>
+    <string name="pair_declined_body">Teler keeldus. Vali seekord Kinnita.</string>
+    <string name="pair_action">Seo</string>
+    <string name="pair_timeout_body">Teler ei vastanud.</string>
+    <string name="pair_forgotten_body">Teler unustas selle telefoni.</string>
+    <string name="approval_title">Kinnita teleris</string>
+    <string name="connecting_title">Ühendub…</string>
+    <string name="offline_title">Teler näib olevat väljas</string>
+    <string name="action_retry">Proovi uuesti</string>
+    <string name="action_cancel">Tühista</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Otsing</string>
+    <string name="touchpad_label">Puuteplaat. Lohista kursori liigutamiseks, puuduta klõpsamiseks ja lohista kahe sõrmega kerimiseks.</string>
+    <string name="dpad_label">Suunanupud</string>
+    <string name="key_up">Üles</string>
+    <string name="key_down">Alla</string>
+    <string name="key_left">Vasakule</string>
+    <string name="key_right">Paremale</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Tagasi</string>
+    <string name="key_home">Avaleht</string>
+    <string name="key_keyboard">Klaviatuur</string>
+    <string name="key_touchpad">Puuteplaat</string>
+    <string name="key_dpad">Nooled</string>
+    <string name="key_more">Veel</string>
+    <string name="key_rewind">Keri tagasi</string>
+    <string name="key_play">Esita</string>
+    <string name="key_pause">Peata</string>
+    <string name="key_fast_forward">Keri edasi</string>
+    <string name="key_stop">Lõpeta</string>
+    <string name="key_volume_up">Valjemaks</string>
+    <string name="key_volume_down">Vaiksemaks</string>
+    <string name="key_mute">Vaigista</string>
+    <string name="key_unmute">Tühista vaigistus</string>
+    <string name="volume_value">Helitugevus %1$d</string>
+    <string name="volume_unknown">Helitugevus, tase teadmata</string>
+    <string name="volume_muted">Vaigistatud</string>
+    <string name="power">Toide</string>
+    <string name="settings">Seaded</string>
+    <string name="all_apps">Kõik rakendused</string>
+    <string name="inputs">Sisendid</string>
+    <string name="picture_title">Pilt</string>
+    <string name="picture_standard">Tavaline</string>
+    <string name="picture_vivid">Elav</string>
+    <string name="picture_cinema">Kino</string>
+    <string name="picture_game">Mäng</string>
+    <string name="picture_sports">Sport</string>
+    <string name="picture_eco">Öko</string>
+    <string name="picture_expert">Ekspert</string>
+    <string name="picture_backlight">Heledus</string>
+    <string name="sound_title">Heli</string>
+    <string name="sound_tv">Teleri kõlarid</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optiline</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Kõrvaklapid</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Kõlarid</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Liiniväljund</string>
+    <string name="more_subtitles">Subtiitrid</string>
+    <string name="more_audio_track">Heli</string>
+    <string name="sleep_title">Unetaimer</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Väljas kell %1$s</string>
+    <string name="sleep_cancel">Tühista taimer</string>
+    <string name="app_on_screen">%1$s, praegu ekraanil</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Käivitub teleris…</string>
+    <string name="cast_playing">Mängib teleris</string>
+    <string name="cast_paused">Peatatud</string>
+    <string name="cast_stalled">Esitus seisab. Kas video server töötab veel?</string>
+    <string name="cast_play">Jätka</string>
+    <string name="cast_pause">Peata</string>
+    <string name="cast_stop">Lõpeta esitus teleris</string>
+    <string name="cast_position">Esituskoht</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Sule otsing</string>
+    <string name="tv_picker">Telerid, praegu %1$s</string>
+    <string name="tv_picker_add_short">Lisa</string>
+    <string name="hold_hide">Peida</string>
+    <string name="hold_rename">Nimeta ümber</string>
+    <string name="rename_input">Nimeta sisend ümber</string>
+    <string name="rename_save">Salvesta</string>
+    <string name="rename_reset">Kasuta teleri nime</string>
+    <string name="more_channel_list">Loend</string>
+    <string name="more_guide">Telekava</string>
+    <string name="input_label">%1$s, sisend</string>
+    <string name="channel_label">%2$s, kanal %1$s</string>
+    <string name="on_screen_now">Praegu ekraanil</string>
+    <string name="deck_expanded">Laiendatud</string>
+    <string name="deck_collapsed">Ahendatud</string>
+    <string name="channel_hidden">%1$s peidetud</string>
+    <string name="action_undo">Võta tagasi</string>
+    <string name="offline_switch">Kasuta %1$s</string>
+    <string name="search_picks">Praegu populaarne</string>
+    <string name="search_clear">Tühjenda</string>
+    <string name="search_fill">Pane otsingukasti</string>
+    <string name="search_type_on_tv">Kirjuta telerisse</string>
+    <string name="search_in_app">Otsi rakendusest %1$s</string>
+    <string name="search_web">Otsi teenusega %1$s</string>
+    <string name="link_paste">Kleebi</string>
+    <string name="link_recent">Hiljutised</string>
+    <string name="link_clear_recent">Tühjenda</string>
+    <string name="link_kind_youtube">YouTube’i video</string>
+    <string name="link_kind_video">Videofail</string>
+    <string name="link_kind_audio">Helifail</string>
+    <string name="link_kind_image">Pilt</string>
+    <string name="link_kind_web">Veebileht</string>
+    <string name="link_action_app">Ava rakenduses %1$s</string>
+    <string name="link_action_media">Esita teleris</string>
+    <string name="link_action_browser">Ava teleri brauseris</string>
+    <string name="link_sending">Saadab…</string>
+    <string name="link_sent">Avati teleris</string>
+    <string name="link_failed">Teler ei avanud seda. Proovi uuesti.</string>
+
+    <!-- Share -->
+    <string name="share_title">Saada telerisse</string>
+    <string name="share_no_link">Jagatud sisus pole linki.</string>
+    <string name="share_not_paired">See telefon pole veel teleriga seotud.</string>
+    <string name="share_open_app">Ava pult</string>
+    <string name="share_waiting">Ühendub…</string>
+    <string name="share_cant_open">See teler ei saa avada %1$s linke</string>
+    <string name="action_close">Sule</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Klaviatuur</string>
+    <string name="keyboard_placeholder_waiting">Vali teleris tekstiväli</string>
+    <string name="keyboard_backspace">Kustuta</string>
+    <string name="keyboard_clear">Tühjenda</string>
+    <string name="keyboard_enter">Sisesta</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d märk on juba teleris</item>
+        <item quantity="other">%1$d märki on juba teleris</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Veel</string>
+    <string name="more_menu">Seaded</string>
+    <string name="more_quick">Kiirmenüü</string>
+    <string name="more_quick_short">Menüü</string>
+    <string name="more_info">Info</string>
+    <string name="more_inputs">Sisendid</string>
+    <string name="more_exit">Välju</string>
+    <string name="more_channel_up">Järgmine kanal</string>
+    <string name="more_channel_down">Eelmine kanal</string>
+    <string name="more_red">Punane</string>
+    <string name="more_green">Roheline</string>
+    <string name="more_yellow">Kollane</string>
+    <string name="more_blue">Sinine</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Toide</string>
+    <string name="power_screen_off">Ainult heli</string>
+    <string name="power_off">Lülita teler välja</string>
+    <string name="power_off_confirm">Väljalülitamiseks puuduta uuesti</string>
+    <string name="power_turn_off">Lülita välja</string>
+    <string name="power_tap_again">Puuduta uuesti</string>
+    <string name="switch_on">Sees</string>
+    <string name="switch_off">Väljas</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Seaded</string>
+    <string name="settings_tv">Teler</string>
+    <string name="settings_name">Nimi</string>
+    <string name="settings_host">Aadress</string>
+    <string name="settings_host_invalid">Sisesta IP-aadress või hosti nimi</string>
+    <string name="settings_mac">MAC-aadress (sisselülitamiseks)</string>
+    <string name="settings_mac_invalid">Kuus paari kuueteistkümnendnumbreid, nt 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Otsi läheduses olevaid telereid</string>
+    <string name="settings_finding">Telerite otsimine…</string>
+    <string name="settings_found_none">Ükski teler ei vastanud.</string>
+    <string name="settings_found_no_new">Teisi telereid ei leitud</string>
+    <string name="settings_in_use">Kasutusel</string>
+    <string name="settings_add">Lisa</string>
+    <string name="settings_forget_tv">Unusta %1$s</string>
+    <string name="settings_use_tv">Kasuta seda telerit</string>
+    <string name="settings_remove_tv">Eemalda</string>
+    <string name="settings_remove_confirm">Eemaldamiseks puuduta uuesti</string>
+    <string name="settings_move_up">Liiguta üles</string>
+    <string name="settings_move_down">Liiguta alla</string>
+    <string name="settings_sensitivity">Tundlikkus</string>
+    <string name="settings_touchpad">Puuteplaat</string>
+    <string name="settings_phone">Telefon</string>
+    <string name="settings_natural_scroll">Loomulik kerimine</string>
+    <string name="settings_scroll_strip">Kerimisriba</string>
+    <string name="settings_hidden">Peidetud</string>
+    <string name="settings_show">Näita</string>
+    <string name="settings_theme">Teema</string>
+    <string name="settings_theme_auto">Automaatne</string>
+    <string name="settings_language">Keel</string>
+    <string name="settings_theme_system">Süsteem</string>
+    <string name="settings_theme_light">Hele</string>
+    <string name="settings_theme_dark">Tume</string>
+    <string name="settings_scroll_strip_right">Paremal</string>
+    <string name="settings_scroll_strip_left">Vasakul</string>
+    <string name="settings_scroll_strip_off">Väljas</string>
+    <string name="settings_search_engine">Veebiotsing</string>
+    <string name="settings_search">Otsing</string>
+    <string name="settings_find_titles">Otsi filme ja videoid</string>
+    <string name="find_titles_ask">Nende leidmiseks saadab TennaRC sisestatu YouTube\'ile, JustWatchile ja Wikidatale. Seda saad muuta seadetes.</string>
+    <string name="find_titles_not_now">Mitte praegu</string>
+    <string name="settings_volume_keys">Helitugevuse nupud</string>
+    <string name="settings_auto_keyboard">Automaatne klaviatuur</string>
+    <string name="settings_haptics">Vibratsioon</string>
+    <string name="settings_keep_screen_on">Hoia ekraan sees</string>
+    <string name="settings_forget">Unusta sidumine</string>
+    <string name="settings_forget_body">Järgmisel korral küsib teler uuesti</string>
+    <string name="settings_forget_confirm">Unustamiseks puuduta uuesti</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Teleriga pole ühendust</string>
+    <string name="notice_command_failed">Teler ei reageerinud sellele</string>
+    <string name="notice_launch_failed">Selle rakenduse ei saanud avada</string>
+    <string name="notice_open_failed">Teler ei saanud linki avada</string>
+    <string name="notice_no_renderer">Teleri meediapleier ei vasta. Kas see on sisse lülitatud?</string>
+    <string name="notice_cast_failed">Teler ei saanud seda linki esitada</string>
+    <string name="notice_wake_sent">Äratussignaal saadetud</string>
+    <string name="notice_tv_moved">Teler leiti uuelt aadressilt</string>
+    <string name="notice_wake_failed">Äratussignaali ei saanud saata. Kontrolli MAC-aadressi.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Aeglane ühendus</string>
+    <string name="link_help_stalling">Teleri WiFi-ühendus katkeb ikka ja jälle hetkeks.</string>
+    <string name="link_help_slow">Teleri WiFi on nõrk või ülekoormatud.</string>
+    <string name="link_fix_24_title">Ühenda teler 2,4 GHz WiFi-ga</string>
+    <string name="link_fix_ethernet_title">Kasuta Etherneti kaablit</string>
+    <string name="link_fix_extender_title">Lisa poolele teele WiFi-võimendi</string>
+    <string name="link_fix_listen_title">Lülita rakenduses Screen Share välja Listen Mode</string>
+    <string name="link_fix_closer_title">Vii ruuter telerile lähemale</string>
+    <string name="link_fix_band_title">Proovi teist WiFi sagedusala</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Teleri pult</string>
+    <string name="notify_channel_body">Esitus, paus ja helitugevus, kui teler on sees</string>
+    <string name="notify_on_tv">Teleris</string>
+    <string name="notify_close">Sule</string>
+    <string name="settings_notification_controls">Meedia juhtnupud</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Sisesta teleris kuvatud kood</string>
+    <string name="pair_code_title">Sisesta teleri kood</string>
+    <string name="pair_code_wrong">Kood ei sobinud. Proovi teleris kuvatud uut koodi.</string>
+    <string name="pair_code_label">Kood</string>
+    <string name="pair_code_submit">Seo</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Demo-teler</string>
+    <string name="settings_demo_tv_body">Proovi pulti ilma telerita</string>
+    <string name="settings_demo_tv_listed">Lisab sinu teleritele näidisteleri</string>
+    <string name="settings_help">Abi</string>
+    <string name="settings_report">Teata probleemist</string>
+    <string name="settings_privacy">Privaatsuseeskirjad</string>
+    <string name="settings_reset">Lähtesta seaded</string>
+    <string name="settings_reset_body">Telerid jäävad seotuks</string>
+    <string name="settings_reset_confirm">Lähtestamiseks puuduta uuesti</string>
+    <string name="offline_no_wifi_title">WiFi puudub</string>
+    <string name="action_wifi_settings">WiFi</string>
+    <string name="notice_roku_limited">Roku võtab telefonidelt vastu ainult osa käske. Määra selle jaotises Advanced system settings valiku Control by mobile apps väärtuseks Enabled.</string>
+    <string name="notice_adb_off">Lülita Fire TV-s sisse ADB silumine: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Väljas</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Heli</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Ambilighti juhtimiseks seo teler</string>
+    <string name="ambilight_pin_hint">PIN teleris</string>
+    <string name="ambilight_pin_wrong">Vale PIN. Proovi uut</string>
+    <string name="search_opens_app">Avab %1$s</string>
+    <string name="voice_search">Häälotsing</string>
+    <string name="voice_stop">Lõpeta kuulamine</string>
+    <string name="voice_listening">Kuulan…</string>
+    <string name="voice_mic_off">Mikrofoni juurdepääs on välja lülitatud</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC sulgus ootamatult</string>
+    <string name="crash_send">Saada</string>
+    <string name="crash_report_subject">TennaRC krahhiaruanne %1$s</string>
+    <string name="crash_sent">Teade saadetud. Aitäh</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Teleri esitus, paus ja helitugevus</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Esita sellest telefoonist</string>
+    <string name="phone_mirror">Peegelda</string>
+    <string name="phone_mirror_label">Peegelda selle telefoni ekraani</string>
+    <string name="phone_gallery">Galerii</string>
+    <string name="phone_gallery_label">Näita fotot või videot sellest telefonist</string>
+    <string name="share_cant_play_file">See teler ei saa telefoni faile esitada</string>
+    <string name="notice_cast_unsupported">Teler ei saa sellist pilti näidata</string>
+    <string name="notice_not_on_tv_network">Telefoni failide esitamiseks ühenda telefon teleri WiFi-ga</string>
+    <string name="notice_file_unreadable">Seda faili ei saanud lugeda</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Telerite otsimine</string>
+    <string name="setup_choose">Vali teler</string>
+    <string name="setup_none">Telereid ei leitud</string>
+    <string name="setup_search_again">Otsi uuesti</string>
+    <string name="setup_enter_ip">Sisesta IP-aadress</string>
+    <string name="setup_ip_label">IP-aadress</string>
+    <string name="setup_ip_none">Sellel aadressil ei vastanud ükski teler</string>
+    <string name="setup_connect">Ühenda</string>
+    <string name="setup_demo">Proovi demo</string>
+    <string name="setup_code_wrong">Kontrolli teleris olevat koodi</string>
+    <string name="setup_fire_tv_allow">Märgi Always allow, seejärel OK</string>
+    <string name="setup_adb_title">Lülita ADB silumine sisse</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Lülita sisse Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Valmis</string>
+    <string name="settings_edit_tv">Muuda</string>
+    <string name="dev_link_title">Arendajaühendus</string>
+    <string name="dev_link_body">Näitab teleri enda sisendeid ja kõiki selle rakendusi, vahetab sisendit teleritel, mis HDMI-klahve ei arvesta, ning mõnel seab ka heleduse. Töötab teleri silumisühenduse (ADB) kaudu. Nupud ja tippimine töötavad ka ilma selleta samamoodi.</string>
+    <string name="dev_link_step_developer">Ava teleris Seaded › Süsteem › Teave ja vali seitse korda Android TV OS-i järk. Vanematel teleritel on see Seadme eelistused › Teave › Järk.</string>
+    <string name="dev_link_step_debugging">Ava Teave kõrval Arendaja valikud ja lülita sisse USB-silumine. Shieldil on see Võrgusilumine.</string>
+    <string name="dev_link_step_allow">Puuduta Ühenda, siis märgi teleris Luba alati ja vali OK.</string>
+    <string name="dev_link_connect">Ühenda</string>
+    <string name="dev_link_allow">Luba teleris</string>
+    <string name="dev_link_allow_body">Märgi Luba sellest arvutist alati, siis OK</string>
+    <string name="dev_link_turn_off">Lülita välja</string>
+    <string name="dev_link_off">Väljas. Lisab sisendid ja kõik rakendused</string>
+    <string name="dev_link_away">Teler ei vasta. Kuni pult on avatud, proovib ühendus ise uuesti.</string>
+    <string name="dev_link_away_short">Ei vasta</string>
+    <string name="dev_link_debugging_off">Teler lükkas ühenduse tagasi. Kontrolli, et USB-silumine oleks sees. Alates Android TV 14-st võtavad mõned telerid vastu ainult juhtmeta silumist, mida TennaRC veel ei oska.</string>
+    <string name="dev_link_debugging_off_short">Silumine on teleris väljas</string>
+    <string name="dev_link_wireless">Sees on ainult juhtmeta silumine, mida TennaRC veel ei oska. Lülita sisse ka USB-silumine või seo üks kord arvutist ja käivita adb tcpip 5555, mis kehtib teleri taaskäivituseni.</string>
+    <string name="dev_link_wireless_short">Sees on ainult juhtmeta silumine</string>
+    <string name="dev_link_not_allowed">Keegi ei lubanud seda teleris. Proovi uuesti ja vali seal OK.</string>
+    <string name="dev_link_not_allowed_short">Teleris pole lubatud</string>
+    <string name="dev_link_forgotten">Teler unustas selle telefoni, nagu Android TV teeb telefoniga, mida pole nädal aega näinud. Proovi uuesti ja luba teleris.</string>
+    <string name="dev_link_forgotten_short">Teler unustas selle telefoni</string>
+</resources>

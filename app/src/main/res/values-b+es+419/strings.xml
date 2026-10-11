@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Enviar a la TV</string>
+    <string name="tile_label">Control remoto</string>
+    <string name="shortcut_link">Buscar</string>
+    <string name="shortcut_keyboard">Escribir en la TV</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Conectado</string>
+    <string name="status_connecting">Conectando…</string>
+    <string name="status_awaiting">Acepta en la TV</string>
+    <string name="status_offline">La TV parece apagada</string>
+    <string name="status_not_paired">Aún sin vincular</string>
+    <string name="status_standby">En espera</string>
+    <string name="status_screen_off">Pantalla apagada, sonido activo</string>
+    <string name="standby_title">La TV está apagada</string>
+    <string name="action_turn_on">Encender</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Vincular con la TV</string>
+    <string name="pair_body">Acepta en la TV cuando lo pida.</string>
+    <string name="pair_declined_body">La TV rechazó la solicitud. Esta vez selecciona Aceptar.</string>
+    <string name="pair_action">Vincular</string>
+    <string name="pair_timeout_body">La TV no respondió.</string>
+    <string name="pair_forgotten_body">La TV olvidó este teléfono.</string>
+    <string name="approval_title">Acepta en la TV</string>
+    <string name="connecting_title">Conectando…</string>
+    <string name="offline_title">La TV parece apagada</string>
+    <string name="action_retry">Reintentar</string>
+    <string name="action_cancel">Cancelar</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Buscar</string>
+    <string name="touchpad_label">Touchpad. Arrastra para mover el puntero, toca para hacer clic, arrastra con dos dedos para desplazarte.</string>
+    <string name="dpad_label">Botones de dirección</string>
+    <string name="key_up">Arriba</string>
+    <string name="key_down">Abajo</string>
+    <string name="key_left">Izquierda</string>
+    <string name="key_right">Derecha</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Atrás</string>
+    <string name="key_home">Inicio</string>
+    <string name="key_keyboard">Teclado</string>
+    <string name="key_touchpad">Touchpad</string>
+    <string name="key_dpad">Flechas</string>
+    <string name="key_more">Más</string>
+    <string name="key_rewind">Rebobinar</string>
+    <string name="key_play">Reproducir</string>
+    <string name="key_pause">Pausa</string>
+    <string name="key_fast_forward">Avance rápido</string>
+    <string name="key_stop">Detener</string>
+    <string name="key_volume_up">Subir volumen</string>
+    <string name="key_volume_down">Bajar volumen</string>
+    <string name="key_mute">Silenciar</string>
+    <string name="key_unmute">Activar sonido</string>
+    <string name="volume_value">Volumen %1$d</string>
+    <string name="volume_unknown">Volumen, nivel desconocido</string>
+    <string name="volume_muted">Silenciado</string>
+    <string name="power">Encendido</string>
+    <string name="settings">Configuración</string>
+    <string name="all_apps">Todas las apps</string>
+    <string name="inputs">Entradas</string>
+    <string name="picture_title">Imagen</string>
+    <string name="picture_standard">Estándar</string>
+    <string name="picture_vivid">Vívido</string>
+    <string name="picture_cinema">Cine</string>
+    <string name="picture_game">Juego</string>
+    <string name="picture_sports">Deportes</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Experto</string>
+    <string name="picture_backlight">Brillo</string>
+    <string name="sound_title">Sonido</string>
+    <string name="sound_tv">Parlantes de la TV</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Óptico</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Audífonos</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Parlantes</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Salida de línea</string>
+    <string name="more_subtitles">Subtítulos</string>
+    <string name="more_audio_track">Audio</string>
+    <string name="sleep_title">Temporizador de apagado</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Se apaga a las %1$s</string>
+    <string name="sleep_cancel">Cancelar temporizador</string>
+    <string name="app_on_screen">%1$s, en pantalla</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Iniciando en la TV…</string>
+    <string name="cast_playing">Reproduciendo en la TV</string>
+    <string name="cast_paused">En pausa</string>
+    <string name="cast_stalled">No avanza. ¿Sigue funcionando el servidor del video?</string>
+    <string name="cast_play">Reanudar</string>
+    <string name="cast_pause">Pausa</string>
+    <string name="cast_stop">Dejar de reproducir en la TV</string>
+    <string name="cast_position">Posición de reproducción</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Cerrar búsqueda</string>
+    <string name="tv_picker">TV, ahora %1$s</string>
+    <string name="tv_picker_add_short">Agregar</string>
+    <string name="hold_hide">Ocultar</string>
+    <string name="hold_rename">Cambiar nombre</string>
+    <string name="rename_input">Cambiar nombre de entrada</string>
+    <string name="rename_save">Guardar</string>
+    <string name="rename_reset">Usar el nombre de la TV</string>
+    <string name="more_channel_list">Lista</string>
+    <string name="more_guide">Guía</string>
+    <string name="input_label">%1$s, entrada</string>
+    <string name="channel_label">%2$s, canal %1$s</string>
+    <string name="on_screen_now">En pantalla ahora</string>
+    <string name="deck_expanded">Expandida</string>
+    <string name="deck_collapsed">Contraída</string>
+    <string name="channel_hidden">%1$s oculto</string>
+    <string name="action_undo">Deshacer</string>
+    <string name="offline_switch">Usar %1$s</string>
+    <string name="search_picks">Tendencias</string>
+    <string name="search_clear">Borrar</string>
+    <string name="search_fill">Pasar al cuadro de búsqueda</string>
+    <string name="search_type_on_tv">Escribir en la TV</string>
+    <string name="search_in_app">Buscar en %1$s</string>
+    <string name="search_web">Buscar con %1$s</string>
+    <string name="link_paste">Pegar</string>
+    <string name="link_recent">Recientes</string>
+    <string name="link_clear_recent">Borrar</string>
+    <string name="link_kind_youtube">Video de YouTube</string>
+    <string name="link_kind_video">Archivo de video</string>
+    <string name="link_kind_audio">Archivo de audio</string>
+    <string name="link_kind_image">Imagen</string>
+    <string name="link_kind_web">Página web</string>
+    <string name="link_action_app">Abrir en %1$s</string>
+    <string name="link_action_media">Reproducir en la TV</string>
+    <string name="link_action_browser">Abrir en el navegador de la TV</string>
+    <string name="link_sending">Enviando…</string>
+    <string name="link_sent">Abierto en la TV</string>
+    <string name="link_failed">La TV no lo abrió. Vuelve a intentarlo.</string>
+
+    <!-- Share -->
+    <string name="share_title">Enviar a la TV</string>
+    <string name="share_no_link">No hay un enlace en lo que compartiste.</string>
+    <string name="share_not_paired">Este teléfono aún no está vinculado con la TV.</string>
+    <string name="share_open_app">Abrir control</string>
+    <string name="share_waiting">Conectando…</string>
+    <string name="share_cant_open">Esta TV no puede abrir enlaces de %1$s</string>
+    <string name="action_close">Cerrar</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Teclado</string>
+    <string name="keyboard_placeholder_waiting">Selecciona un campo en la TV</string>
+    <string name="keyboard_backspace">Retroceso</string>
+    <string name="keyboard_clear">Borrar</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">Ya hay %1$d carácter en la TV</item>
+        <item quantity="many">Ya hay %1$d de caracteres en la TV</item>
+        <item quantity="other">Ya hay %1$d caracteres en la TV</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Más</string>
+    <string name="more_menu">Configuración</string>
+    <string name="more_quick">Menú rápido</string>
+    <string name="more_quick_short">Menú</string>
+    <string name="more_info">Info</string>
+    <string name="more_inputs">Entradas</string>
+    <string name="more_exit">Salir</string>
+    <string name="more_channel_up">Subir canal</string>
+    <string name="more_channel_down">Bajar canal</string>
+    <string name="more_red">Rojo</string>
+    <string name="more_green">Verde</string>
+    <string name="more_yellow">Amarillo</string>
+    <string name="more_blue">Azul</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Encendido</string>
+    <string name="power_screen_off">Apagar pantalla</string>
+    <string name="power_off">Apagar la TV</string>
+    <string name="power_off_confirm">Toca de nuevo para apagar</string>
+    <string name="power_turn_off">Apagar</string>
+    <string name="power_tap_again">Toca de nuevo</string>
+    <string name="switch_on">Activado</string>
+    <string name="switch_off">Desactivado</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Configuración</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Nombre</string>
+    <string name="settings_host">Dirección</string>
+    <string name="settings_host_invalid">Ingresa una dirección IP o un nombre de host</string>
+    <string name="settings_mac">Dirección MAC (para encenderla)</string>
+    <string name="settings_mac_invalid">Seis pares de dígitos hexadecimales, como 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Buscar TV cercanas</string>
+    <string name="settings_finding">Buscando TV…</string>
+    <string name="settings_found_none">Ninguna TV respondió.</string>
+    <string name="settings_found_no_new">No se encontraron más TV</string>
+    <string name="settings_in_use">En uso</string>
+    <string name="settings_add">Agregar</string>
+    <string name="settings_forget_tv">Olvidar %1$s</string>
+    <string name="settings_use_tv">Usar esta TV</string>
+    <string name="settings_remove_tv">Eliminar</string>
+    <string name="settings_remove_confirm">Toca de nuevo para eliminar</string>
+    <string name="settings_move_up">Subir</string>
+    <string name="settings_move_down">Bajar</string>
+    <string name="settings_sensitivity">Sensibilidad</string>
+    <string name="settings_touchpad">Touchpad</string>
+    <string name="settings_phone">Teléfono</string>
+    <string name="settings_natural_scroll">Desplazamiento natural</string>
+    <string name="settings_scroll_strip">Barra de desplazamiento</string>
+    <string name="settings_hidden">Ocultos</string>
+    <string name="settings_show">Mostrar</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_auto">Automático</string>
+    <string name="settings_language">Idioma</string>
+    <string name="settings_theme_system">Del sistema</string>
+    <string name="settings_theme_light">Claro</string>
+    <string name="settings_theme_dark">Oscuro</string>
+    <string name="settings_scroll_strip_right">Derecha</string>
+    <string name="settings_scroll_strip_left">Izquierda</string>
+    <string name="settings_scroll_strip_off">Desactivada</string>
+    <string name="settings_search_engine">Búsqueda web</string>
+    <string name="settings_search">Búsqueda</string>
+    <string name="settings_find_titles">Buscar películas y videos</string>
+    <string name="find_titles_ask">Para encontrarlos, TennaRC envía lo que escribes a YouTube, JustWatch y Wikidata. Puedes cambiarlo en Configuración.</string>
+    <string name="find_titles_not_now">Ahora no</string>
+    <string name="settings_volume_keys">Botones de volumen</string>
+    <string name="settings_auto_keyboard">Teclado automático</string>
+    <string name="settings_haptics">Vibración</string>
+    <string name="settings_keep_screen_on">Mantener pantalla encendida</string>
+    <string name="settings_forget">Olvidar vinculación</string>
+    <string name="settings_forget_body">La TV volverá a preguntar la próxima vez</string>
+    <string name="settings_forget_confirm">Toca de nuevo para olvidar</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">No hay conexión con la TV</string>
+    <string name="notice_command_failed">La TV no respondió a ese comando</string>
+    <string name="notice_launch_failed">No se pudo abrir esa aplicación</string>
+    <string name="notice_open_failed">La TV no pudo abrir el enlace</string>
+    <string name="notice_no_renderer">El reproductor multimedia de la TV no responde. ¿Está encendida?</string>
+    <string name="notice_cast_failed">La TV no pudo reproducir ese enlace</string>
+    <string name="notice_wake_sent">Señal de encendido enviada</string>
+    <string name="notice_tv_moved">Se encontró la TV en una dirección nueva</string>
+    <string name="notice_wake_failed">No se pudo enviar la señal de encendido. Verifica la dirección MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Conexión lenta</string>
+    <string name="link_help_stalling">El Wi-Fi de la TV se corta por momentos.</string>
+    <string name="link_help_slow">El Wi-Fi de la TV es débil o está saturado.</string>
+    <string name="link_fix_24_title">Conecta la TV al Wi-Fi de 2.4 GHz</string>
+    <string name="link_fix_ethernet_title">Usa un cable Ethernet</string>
+    <string name="link_fix_extender_title">Pon un repetidor Wi-Fi a mitad de camino</string>
+    <string name="link_fix_listen_title">Desactiva Listen Mode en Screen Share</string>
+    <string name="link_fix_closer_title">Acerca el router a la TV</string>
+    <string name="link_fix_band_title">Prueba la otra banda Wi-Fi</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Control remoto</string>
+    <string name="notify_channel_body">Reproducción, pausa y volumen de la TV mientras está encendida</string>
+    <string name="notify_on_tv">En la TV</string>
+    <string name="notify_close">Cerrar</string>
+    <string name="settings_notification_controls">Controles multimedia</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Escribe el código que se muestra en la TV</string>
+    <string name="pair_code_title">Ingresa el código de la TV</string>
+    <string name="pair_code_wrong">El código no coincide. Prueba el nuevo en la TV.</string>
+    <string name="pair_code_label">Código</string>
+    <string name="pair_code_submit">Vincular</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">TV de prueba</string>
+    <string name="settings_demo_tv_body">Prueba el control sin una TV</string>
+    <string name="settings_demo_tv_listed">Agrega una TV de prueba a tus TV</string>
+    <string name="settings_help">Ayuda</string>
+    <string name="settings_report">Informar un problema</string>
+    <string name="settings_privacy">Política de privacidad</string>
+    <string name="settings_reset">Restablecer configuración</string>
+    <string name="settings_reset_body">Tus televisores siguen vinculados</string>
+    <string name="settings_reset_confirm">Toca de nuevo para restablecer</string>
+    <string name="offline_no_wifi_title">Sin Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">El Roku solo acepta algunos comandos desde el teléfono. En su configuración avanzada del sistema, pon Control por aplicaciones móviles en Habilitado.</string>
+    <string name="notice_adb_off">Activa la depuración ADB en el Fire TV: Configuración › Mi Fire TV › Opciones para desarrolladores</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Desactivada</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Audio</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Vincula para controlar Ambilight</string>
+    <string name="ambilight_pin_hint">PIN en la TV</string>
+    <string name="ambilight_pin_wrong">PIN incorrecto. Prueba el nuevo</string>
+    <string name="search_opens_app">Abre %1$s</string>
+    <string name="voice_search">Buscar por voz</string>
+    <string name="voice_stop">Dejar de escuchar</string>
+    <string name="voice_listening">Escuchando…</string>
+    <string name="voice_mic_off">El acceso al micrófono está desactivado</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC se cerró de forma inesperada</string>
+    <string name="crash_send">Enviar</string>
+    <string name="crash_report_subject">Informe de fallas de TennaRC %1$s</string>
+    <string name="crash_sent">Informe enviado. Gracias</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Reproducción, pausa y volumen de la TV</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Reproducir desde este teléfono</string>
+    <string name="phone_mirror">Duplicar</string>
+    <string name="phone_mirror_label">Duplicar la pantalla de este teléfono</string>
+    <string name="phone_gallery">Galería</string>
+    <string name="phone_gallery_label">Mostrar una foto o un video de este teléfono</string>
+    <string name="share_cant_play_file">Esta TV no puede reproducir archivos del teléfono</string>
+    <string name="notice_cast_unsupported">La TV no puede mostrar este tipo de imagen</string>
+    <string name="notice_not_on_tv_network">Conecta el teléfono al Wi-Fi de la TV para reproducir sus archivos</string>
+    <string name="notice_file_unreadable">No se pudo leer ese archivo</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Buscando TV</string>
+    <string name="setup_choose">Elige tu TV</string>
+    <string name="setup_none">No se encontraron TV</string>
+    <string name="setup_search_again">Buscar de nuevo</string>
+    <string name="setup_enter_ip">Ingresar dirección IP</string>
+    <string name="setup_ip_label">Dirección IP</string>
+    <string name="setup_ip_none">Ninguna TV respondió en esa dirección</string>
+    <string name="setup_connect">Conectar</string>
+    <string name="setup_demo">Probar demo</string>
+    <string name="setup_code_wrong">Verifica el código en la TV</string>
+    <string name="setup_fire_tv_allow">Marca Permitir siempre y después OK</string>
+    <string name="setup_adb_title">Activar depuración ADB</string>
+    <string name="setup_adb_path">Configuración › Mi Fire TV › Opciones para desarrolladores</string>
+    <string name="setup_roku_title">Activar Control por aplicaciones móviles</string>
+    <string name="setup_roku_path">Configuración › Sistema › Configuración avanzada del sistema</string>
+    <string name="setup_done">Listo</string>
+    <string name="settings_edit_tv">Editar</string>
+    <string name="dev_link_title">Conexión de desarrollador</string>
+    <string name="dev_link_body">Muestra las entradas y todas las apps de la TV, cambia de entrada en las TV que ignoran los botones HDMI y ajusta el brillo en algunas. Funciona mediante la conexión de depuración (ADB) de la TV. Los botones y la escritura funcionan igual sin ella.</string>
+    <string name="dev_link_step_developer">En la TV, abre Configuración › Sistema › Acerca de y selecciona siete veces Compilación del SO de Android TV. En las TV más antiguas: Preferencias del dispositivo › Acerca de › Compilación.</string>
+    <string name="dev_link_step_debugging">Abre Opciones para desarrolladores, junto a Acerca de, y activa Depuración por USB. En una Shield, es Depuración de red.</string>
+    <string name="dev_link_step_allow">Toca Conectar y, en la TV, marca Permitir siempre y elige Aceptar.</string>
+    <string name="dev_link_connect">Conectar</string>
+    <string name="dev_link_allow">Permitir en la TV</string>
+    <string name="dev_link_allow_body">Marca “Permitir siempre desde esta computadora” y luego Aceptar</string>
+    <string name="dev_link_turn_off">Desactivar</string>
+    <string name="dev_link_off">Desactivada. Agrega las entradas y todas las apps</string>
+    <string name="dev_link_away">La TV no responde. Se vuelve a intentar automáticamente mientras el control está abierto.</string>
+    <string name="dev_link_away_short">No responde</string>
+    <string name="dev_link_debugging_off">La TV rechazó la conexión. Verifica que la depuración por USB esté activada. Desde Android TV 14, algunas TV solo aceptan la depuración inalámbrica, que TennaRC aún no puede usar.</string>
+    <string name="dev_link_debugging_off_short">La depuración está desactivada en la TV</string>
+    <string name="dev_link_wireless">Solo está activada la depuración inalámbrica, que TennaRC aún no puede usar. Activa también la depuración por USB o vincula la TV una vez desde una computadora y ejecuta adb tcpip 5555, que dura hasta que la TV se reinicie.</string>
+    <string name="dev_link_wireless_short">Solo está activada la depuración inalámbrica</string>
+    <string name="dev_link_not_allowed">No se permitió en la TV. Vuelve a intentarlo y elige Aceptar en la TV.</string>
+    <string name="dev_link_not_allowed_short">No permitido en la TV</string>
+    <string name="dev_link_forgotten">La TV olvidó este teléfono, como hace Android TV con los dispositivos que no ve durante una semana. Vuelve a intentarlo y permítelo en la TV.</string>
+    <string name="dev_link_forgotten_short">La TV olvidó este teléfono</string>
+</resources>

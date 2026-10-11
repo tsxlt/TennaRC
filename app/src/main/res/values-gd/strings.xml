@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Cuir chun an TBh</string>
+    <string name="tile_label">Cian-smachd an TBh</string>
+    <string name="shortcut_link">Lorg</string>
+    <string name="shortcut_keyboard">Sgrìobh air an TBh</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Ceangailte</string>
+    <string name="status_connecting">A’ ceangal…</string>
+    <string name="status_awaiting">Gabh ris air an TBh</string>
+    <string name="status_offline">Tha coltas gu bheil an TBh dheth</string>
+    <string name="status_not_paired">Gun phaidhreachadh fhathast</string>
+    <string name="status_standby">Na fhuireachas</string>
+    <string name="status_screen_off">Sgrìn dheth, fuaim air</string>
+    <string name="standby_title">Tha an TBh dheth</string>
+    <string name="action_turn_on">Cuir air</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Paidhrich leis an TBh</string>
+    <string name="pair_body">Gabh ris air an TBh nuair a dh’fhaighneachdas e.</string>
+    <string name="pair_declined_body">Dhiùlt an TBh e. Tagh “Gabh ris” an turas seo.</string>
+    <string name="pair_action">Paidhrich</string>
+    <string name="pair_timeout_body">Cha do fhreagair an TBh.</string>
+    <string name="pair_forgotten_body">Dhìochuimhnich an TBh am fòn seo.</string>
+    <string name="approval_title">Gabh ris air an TBh</string>
+    <string name="connecting_title">A’ ceangal…</string>
+    <string name="offline_title">Tha coltas gu bheil an TBh dheth</string>
+    <string name="action_retry">Feuch ris a-rithist</string>
+    <string name="action_cancel">Sguir dheth</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Lorg</string>
+    <string name="touchpad_label">Pada-suathaidh. Slaod gus an tomhaire a ghluasad, thoir gnogag gus briogadh, slaod le dà chorrag gus sgroladh.</string>
+    <string name="dpad_label">Putanan stiùiridh</string>
+    <string name="key_up">Suas</string>
+    <string name="key_down">Sìos</string>
+    <string name="key_left">Clì</string>
+    <string name="key_right">Deas</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Air ais</string>
+    <string name="key_home">Dhachaigh</string>
+    <string name="key_keyboard">Meur-chlàr</string>
+    <string name="key_touchpad">Pada-suathaidh</string>
+    <string name="key_dpad">Saighdean</string>
+    <string name="key_more">Barrachd</string>
+    <string name="key_rewind">Toinn air ais</string>
+    <string name="key_play">Cluich</string>
+    <string name="key_pause">Cuir na stad</string>
+    <string name="key_fast_forward">Toinn air adhart</string>
+    <string name="key_stop">Sguir</string>
+    <string name="key_volume_up">Àrdaich an fhuaim</string>
+    <string name="key_volume_down">Ìslich an fhuaim</string>
+    <string name="key_mute">Mùch</string>
+    <string name="key_unmute">Dì-mhùch</string>
+    <string name="volume_value">Àirde na fuaime %1$d</string>
+    <string name="volume_unknown">Àirde na fuaime, chan eil fios</string>
+    <string name="volume_muted">Mùchte</string>
+    <string name="power">Cumhachd</string>
+    <string name="settings">Roghainnean</string>
+    <string name="all_apps">Gach app</string>
+    <string name="inputs">Ion-chuir</string>
+    <string name="picture_title">Dealbh</string>
+    <string name="picture_standard">Àbhaisteach</string>
+    <string name="picture_vivid">Beòthail</string>
+    <string name="picture_cinema">Taigh-dhealbh</string>
+    <string name="picture_game">Geama</string>
+    <string name="picture_sports">Spòrs</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Eòlaiche</string>
+    <string name="picture_backlight">Soilleireachd</string>
+    <string name="sound_title">Fuaim</string>
+    <string name="sound_tv">Glaodhairean an TBh</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optaigeach</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Fònaichean-cluaise</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Glaodhairean</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Line out</string>
+    <string name="more_subtitles">Fo-thiotalan</string>
+    <string name="more_audio_track">Fuaim</string>
+    <string name="sleep_title">Tìmear cadail</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Dheth aig %1$s</string>
+    <string name="sleep_cancel">Sguir dhen tìmear</string>
+    <string name="app_on_screen">%1$s, air an sgrìn an-dràsta</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">A’ tòiseachadh air an TBh…</string>
+    <string name="cast_playing">A’ cluich air an TBh</string>
+    <string name="cast_paused">Na stad</string>
+    <string name="cast_stalled">Chan eil e a’ gluasad. A bheil frithealaiche a’ video fhathast a’ dol?</string>
+    <string name="cast_play">Lean air adhart</string>
+    <string name="cast_pause">Cuir na stad</string>
+    <string name="cast_stop">Sguir dhen chluich air an TBh</string>
+    <string name="cast_position">Ionad a’ chluich</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Dùin an lorg</string>
+    <string name="tv_picker">Telebhiseanan, an-dràsta: %1$s</string>
+    <string name="tv_picker_add_short">Cuir ris</string>
+    <string name="hold_hide">Falaich</string>
+    <string name="hold_rename">Ainm ùr</string>
+    <string name="rename_input">Ainm ùr air an ion-chur</string>
+    <string name="rename_save">Sàbhail</string>
+    <string name="rename_reset">Cleachd ainm an TBh</string>
+    <string name="more_channel_list">Liosta</string>
+    <string name="more_guide">Iùl</string>
+    <string name="input_label">%1$s, ion-chur</string>
+    <string name="channel_label">%2$s, seanail %1$s</string>
+    <string name="on_screen_now">Air an sgrìn an-dràsta</string>
+    <string name="deck_expanded">Air a leudachadh</string>
+    <string name="deck_collapsed">Air a cho-theannachadh</string>
+    <string name="channel_hidden">%1$s falaichte</string>
+    <string name="action_undo">Neo-dhèan</string>
+    <string name="offline_switch">Cleachd %1$s</string>
+    <string name="search_picks">Fèillmhor an-dràsta</string>
+    <string name="search_clear">Falamhaich</string>
+    <string name="search_fill">Cuir sa bhogsa-luirg</string>
+    <string name="search_type_on_tv">Sgrìobh air an TBh</string>
+    <string name="search_in_app">Lorg ann an %1$s</string>
+    <string name="search_web">Lorg le %1$s</string>
+    <string name="link_paste">Cuir ann</string>
+    <string name="link_recent">O chionn goirid</string>
+    <string name="link_clear_recent">Falamhaich</string>
+    <string name="link_kind_youtube">Video YouTube</string>
+    <string name="link_kind_video">Faidhle video</string>
+    <string name="link_kind_audio">Faidhle fuaim</string>
+    <string name="link_kind_image">Ìomhaigh</string>
+    <string name="link_kind_web">Duilleag-lìn</string>
+    <string name="link_action_app">Fosgail ann an %1$s</string>
+    <string name="link_action_media">Cluich air an TBh</string>
+    <string name="link_action_browser">Fosgail ann am brabhsair an TBh</string>
+    <string name="link_sending">Ga chur…</string>
+    <string name="link_sent">Air fhosgladh air an TBh</string>
+    <string name="link_failed">Cha do dh’fhosgail an TBh an ceangal. Feuch ris a-rithist.</string>
+
+    <!-- Share -->
+    <string name="share_title">Cuir chun an TBh</string>
+    <string name="share_no_link">Chan eil ceangal sna rinn thu co-roinneadh.</string>
+    <string name="share_not_paired">Cha deach am fòn seo a phaidhreachadh leis an TBh fhathast.</string>
+    <string name="share_open_app">Fosgail an cian-smachd</string>
+    <string name="share_waiting">A’ ceangal…</string>
+    <string name="share_cant_open">Chan urrainn dhan TBh seo ceanglaichean %1$s fhosgladh</string>
+    <string name="action_close">Dùin</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Meur-chlàr</string>
+    <string name="keyboard_placeholder_waiting">Tagh bogsa-teacsa air an TBh</string>
+    <string name="keyboard_backspace">Backspace</string>
+    <string name="keyboard_clear">Falamhaich</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d charactar air an TBh mu thràth</item>
+        <item quantity="two">%1$d charactar air an TBh mu thràth</item>
+        <item quantity="few">%1$d caractaran air an TBh mu thràth</item>
+        <item quantity="other">%1$d caractar air an TBh mu thràth</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Barrachd</string>
+    <string name="more_menu">Roghainnean</string>
+    <string name="more_quick">Clàr-taice luath</string>
+    <string name="more_quick_short">Clàr</string>
+    <string name="more_info">Fiosrachadh</string>
+    <string name="more_inputs">Ion-chuir</string>
+    <string name="more_exit">Fàg</string>
+    <string name="more_channel_up">An ath-sheanail</string>
+    <string name="more_channel_down">An t-seanail roimhe</string>
+    <string name="more_red">Dearg</string>
+    <string name="more_green">Uaine</string>
+    <string name="more_yellow">Buidhe</string>
+    <string name="more_blue">Gorm</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Cumhachd</string>
+    <string name="power_screen_off">Fuaim a-mhàin</string>
+    <string name="power_off">Cuir an TBh dheth</string>
+    <string name="power_off_confirm">Thoir gnogag a-rithist gus a chur dheth</string>
+    <string name="power_turn_off">Cuir dheth</string>
+    <string name="power_tap_again">Thoir gnogag a-rithist</string>
+    <string name="switch_on">Air</string>
+    <string name="switch_off">Dheth</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Roghainnean</string>
+    <string name="settings_tv">TBh</string>
+    <string name="settings_name">Ainm</string>
+    <string name="settings_host">Seòladh</string>
+    <string name="settings_host_invalid">Cuir a-steach seòladh IP no ainm-òstair</string>
+    <string name="settings_mac">Seòladh MAC (gus a chur air)</string>
+    <string name="settings_mac_invalid">Sia paidhrichean de dh’àireamhan hex, mar 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Lorg telebhiseanan faisg ort</string>
+    <string name="settings_finding">A’ lorg telebhiseanan…</string>
+    <string name="settings_found_none">Cha do fhreagair telebhisean sam bith.</string>
+    <string name="settings_found_no_new">Cha deach telebhisean eile a lorg</string>
+    <string name="settings_in_use">Ga chleachdadh</string>
+    <string name="settings_add">Cuir ris</string>
+    <string name="settings_forget_tv">Dìochuimhnich %1$s</string>
+    <string name="settings_use_tv">Cleachd an TBh seo</string>
+    <string name="settings_edit_tv">Deasaich</string>
+    <string name="settings_remove_tv">Thoir air falbh</string>
+    <string name="settings_remove_confirm">Thoir gnogag a-rithist gus a thoirt air falbh</string>
+    <string name="settings_move_up">Gluais suas</string>
+    <string name="settings_move_down">Gluais sìos</string>
+    <string name="settings_sensitivity">Mothalachd</string>
+    <string name="settings_touchpad">Pada-suathaidh</string>
+    <string name="settings_phone">Fòn</string>
+    <string name="settings_natural_scroll">Sgroladh nàdarra</string>
+    <string name="settings_scroll_strip">Stiall sgrolaidh</string>
+    <string name="settings_hidden">Falaichte</string>
+    <string name="settings_show">Seall</string>
+    <string name="settings_theme">Ùrlar</string>
+    <string name="settings_theme_auto">Fèin-obrachail</string>
+    <string name="settings_language">Cànan</string>
+    <string name="settings_theme_system">Siostam</string>
+    <string name="settings_theme_light">Soilleir</string>
+    <string name="settings_theme_dark">Dorcha</string>
+    <string name="settings_scroll_strip_right">Deas</string>
+    <string name="settings_scroll_strip_left">Clì</string>
+    <string name="settings_scroll_strip_off">Dheth</string>
+    <string name="settings_search_engine">Lorg air an lìon</string>
+    <string name="settings_search">Lorg</string>
+    <string name="settings_find_titles">Sgrùd filmichean is bhidiothan</string>
+    <string name="find_titles_ask">Airson an lorg, cuiridh TennaRC na sgrìobhas tu gu YouTube, JustWatch is Wikidata. \'S urrainn dhut seo atharrachadh sna Roghainnean.</string>
+    <string name="find_titles_not_now">Chan ann an-dràsta</string>
+    <string name="settings_volume_keys">Putanan fuaim</string>
+    <string name="settings_auto_keyboard">Meur-chlàr fèin-obrachail</string>
+    <string name="settings_haptics">Crith</string>
+    <string name="settings_keep_screen_on">Cùm an sgrìn air</string>
+    <string name="settings_forget">Dìochuimhnich am paidhreachadh</string>
+    <string name="settings_forget_body">Faighnichidh an TBh a-rithist an ath-thuras</string>
+    <string name="settings_forget_confirm">Thoir gnogag a-rithist gus a dhìochuimhneachadh</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Gun cheangal ris an TBh</string>
+    <string name="notice_command_failed">Cha do fhreagair an TBh sin</string>
+    <string name="notice_launch_failed">Cha b’ urrainn dhuinn an aplacaid sin fhosgladh</string>
+    <string name="notice_open_failed">Cha b’ urrainn dhan TBh an ceangal fhosgladh</string>
+    <string name="notice_no_renderer">Chan eil cluicheadair mheadhanan an TBh a’ freagairt. A bheil e air?</string>
+    <string name="notice_cast_failed">Cha b’ urrainn dhan TBh an ceangal sin a chluich</string>
+    <string name="notice_wake_sent">Chaidh an siognail dùsgaidh a chur</string>
+    <string name="notice_tv_moved">Chaidh an TBh a lorg aig seòladh ùr</string>
+    <string name="notice_wake_failed">Cha b’ urrainn dhuinn an siognail dùsgaidh a chur. Thoir sùil air an t-seòladh MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Ceangal slaodach</string>
+    <string name="link_help_stalling">Tha Wi-Fi an TBh a’ tuiteam às tric airson tiota.</string>
+    <string name="link_help_slow">Tha Wi-Fi an TBh lag no trang.</string>
+    <string name="link_fix_24_title">Cuir an TBh air Wi-Fi 2.4 GHz</string>
+    <string name="link_fix_ethernet_title">Cleachd càbal Ethernet</string>
+    <string name="link_fix_extender_title">Cuir leudachair Wi-Fi sa mheadhan</string>
+    <string name="link_fix_listen_title">Cuir Listen Mode dheth ann an Screen Share</string>
+    <string name="link_fix_closer_title">Gluais an rùtair nas fhaisge air an TBh</string>
+    <string name="link_fix_band_title">Feuch am bann Wi-Fi eile</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Cian-smachd an TBh</string>
+    <string name="notify_channel_body">Cluich, cuir na stad is àirde na fuaime dhan TBh fhad ’s a tha e air</string>
+    <string name="notify_on_tv">Air an TBh</string>
+    <string name="notify_close">Dùin</string>
+    <string name="settings_notification_controls">Uidheaman-smachd mheadhanan</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Sgrìobh an còd a tha air an TBh</string>
+    <string name="pair_code_title">Cuir a-steach an còd on TBh</string>
+    <string name="pair_code_wrong">Cha robh an còd sin ceart. Feuch an tè ùr air an TBh.</string>
+    <string name="pair_code_label">Còd</string>
+    <string name="pair_code_submit">Paidhrich</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">TBh taisbeanaidh</string>
+    <string name="settings_demo_tv_body">Feuch an cian-smachd gun TBh</string>
+    <string name="settings_demo_tv_listed">Cuiridh seo TBh mas fhìor ris na telebhiseanan agad</string>
+    <string name="settings_help">Cobhair</string>
+    <string name="settings_report">Dèan aithris air duilgheadas</string>
+    <string name="settings_privacy">Poileasaidh prìobhaideachd</string>
+    <string name="settings_reset">Ath-shuidhich na roghainnean</string>
+    <string name="settings_reset_body">Fanaidh na TBhan agad paidhrichte</string>
+    <string name="settings_reset_confirm">Thoir gnogag a-rithist gus ath-shuidheachadh</string>
+    <string name="offline_no_wifi_title">Gun Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Cha ghabh an Roku ach cuid de dh’àitheantan o fhònaichean. Suidhich Control by mobile apps gu Enabled ann an Advanced system settings aige.</string>
+    <string name="notice_adb_off">Cuir ADB debugging air air an Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Dheth</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Fuaim</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Paidhrich gus smachd a chumail air Ambilight</string>
+    <string name="ambilight_pin_hint">PIN air an TBh</string>
+    <string name="ambilight_pin_wrong">PIN cearr. Feuch am fear ùr</string>
+    <string name="search_opens_app">Fosglaidh seo %1$s</string>
+    <string name="voice_search">Lorg le guth</string>
+    <string name="voice_stop">Sguir dhen èisteachd</string>
+    <string name="voice_listening">A’ cluinntinn…</string>
+    <string name="voice_mic_off">Tha cothrom air a’ mhicreofon dheth</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">Dhùin TennaRC gun dùil</string>
+    <string name="crash_send">Cuir</string>
+    <string name="crash_report_subject">Aithisg tuislidh TennaRC %1$s</string>
+    <string name="crash_sent">Chaidh an aithris a chur. Mòran taing</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Cluich, cuir na stad is àirde na fuaime dhan TBh</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Cluich on fhòn seo</string>
+    <string name="phone_mirror">Sgàthanaich</string>
+    <string name="phone_mirror_label">Sgàthanaich sgrìn an fhòn seo</string>
+    <string name="phone_gallery">Gailearaidh</string>
+    <string name="phone_gallery_label">Cluich dealbh no video on fhòn seo</string>
+    <string name="share_cant_play_file">Chan urrainn dhan TBh seo faidhlichean on fhòn a chluich</string>
+    <string name="notice_cast_unsupported">Chan urrainn dhan TBh an seòrsa dealbh seo a shealltainn</string>
+    <string name="notice_not_on_tv_network">Ceangail am fòn ri Wi-Fi an TBh gus na faidhlichean aige a chluich</string>
+    <string name="notice_file_unreadable">Cha b’ urrainn dhuinn am faidhle sin a leughadh</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">A’ lorg telebhiseanan</string>
+    <string name="setup_choose">Tagh an TBh agad</string>
+    <string name="setup_none">Cha deach telebhisean a lorg</string>
+    <string name="setup_search_again">Lorg a-rithist</string>
+    <string name="setup_enter_ip">Cuir a-steach seòladh IP</string>
+    <string name="setup_ip_label">Seòladh IP</string>
+    <string name="setup_ip_none">Cha do fhreagair TBh sam bith an sin</string>
+    <string name="setup_connect">Ceangail</string>
+    <string name="setup_demo">Feuch an taisbeanadh</string>
+    <string name="setup_code_wrong">Thoir sùil air a’ chòd air an TBh</string>
+    <string name="setup_fire_tv_allow">Comharraich Always allow, an uairsin OK</string>
+    <string name="setup_adb_title">Cuir ADB debugging air</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Cuir Control by mobile apps air</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Deiseil</string>
+    <!-- Developer connection for ADB debugging -->
+    <string name="dev_link_title">Ceangal luchd-leasachaidh</string>
+    <string name="dev_link_body">Seallaidh e ion-chuir is aplacaidean an TBh, atharraichidh e an t-ion-chur air telebhiseanan nach toir an aire do na putanan HDMI agus suidhichidh e an t-soilleireachd air cuid dhiubh. Tha e ag obair thar ceangal dì-bhugachaidh an TBh (ADB). Obraichidh na putanan is an sgrìobhadh mar an ceudna às aonais.</string>
+    <string name="dev_link_step_developer">Air an TBh, fosgail Settings › System › About agus tagh Android TV OS build seachd tursan. Air telebhiseanan nas sine, ’s e Device Preferences › About › Build a th’ ann.</string>
+    <string name="dev_link_step_debugging">Fosgail Developer options, ri taobh About, agus cuir USB debugging air. Air Shield, ’s e Network debugging a th’ ann.</string>
+    <string name="dev_link_step_allow">Thoir gnogag air Ceangail, an uairsin cuir cromag ri Always allow air an TBh agus tagh OK.</string>
+    <string name="dev_link_connect">Ceangail</string>
+    <string name="dev_link_allow">Ceadaich air an TBh</string>
+    <string name="dev_link_allow_body">Cuir cromag ri Always allow from this computer, an uairsin OK</string>
+    <string name="dev_link_turn_off">Cuir dheth</string>
+    <string name="dev_link_off">Dheth. Cuiridh e ris ion-chuir is a h-uile aplacaid</string>
+    <string name="dev_link_away">Chan eil an TBh a’ freagairt. Feuchaidh an aplacaid a-rithist leatha fhèin fhad ’s a tha an cian-smachd fosgailte.</string>
+    <string name="dev_link_away_short">Gun fhreagairt</string>
+    <string name="dev_link_debugging_off">Dhiùlt an TBh an ceangal. Dèan cinnteach gu bheil USB debugging air. O Android TV 14, cha ghabh cuid de thelebhiseanan ach Wireless debugging, rud nach urrainn do TennaRC a chleachdadh fhathast.</string>
+    <string name="dev_link_debugging_off_short">Tha dì-bhugachadh dheth air an TBh</string>
+    <string name="dev_link_wireless">Chan eil ach Wireless debugging air, rud nach urrainn do TennaRC a chleachdadh fhathast. Cuir USB debugging air cuideachd, no paidhrich o choimpiutair aon turas agus ruith adb tcpip 5555, a mhaireas gus an tòisich an TBh às ùr.</string>
+    <string name="dev_link_wireless_short">Chan eil ach Wireless debugging air</string>
+    <string name="dev_link_not_allowed">Cha do cheadaich duine e air an TBh. Feuch ris a-rithist agus tagh OK an sin.</string>
+    <string name="dev_link_not_allowed_short">Gun chead air an TBh</string>
+    <string name="dev_link_forgotten">Dhìochuimhnich an TBh am fòn seo, mar a nì Android TV le fòn nach fhaca e fad seachdain. Feuch ris a-rithist agus ceadaich e air an TBh.</string>
+    <string name="dev_link_forgotten_short">Dhìochuimhnich an TBh am fòn seo</string>
+</resources>

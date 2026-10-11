@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">ສົ່ງໄປໂທລະທັດ</string>
+    <string name="tile_label">ຣີໂໝດໂທລະທັດ</string>
+    <string name="shortcut_link">ຊອກຫາ</string>
+    <string name="shortcut_keyboard">ພິມໃສ່ໂທລະທັດ</string>
+
+    <!-- Status line -->
+    <string name="status_connected">ເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="status_connecting">ກຳລັງເຊື່ອມຕໍ່…</string>
+    <string name="status_awaiting">ຍອມຮັບຢູ່ໂທລະທັດ</string>
+    <string name="status_offline">ໂທລະທັດເບິ່ງຄືປິດຢູ່</string>
+    <string name="status_not_paired">ຍັງບໍ່ໄດ້ຈັບຄູ່</string>
+    <string name="status_standby">ຢູ່ໃນໂໝດສະແຕນບາຍ</string>
+    <string name="status_screen_off">ປິດໜ້າຈໍ, ສຽງເປີດຢູ່</string>
+    <string name="standby_title">ໂທລະທັດປິດຢູ່</string>
+    <string name="action_turn_on">ເປີດ</string>
+
+    <!-- State panels -->
+    <string name="pair_title">ຈັບຄູ່ກັບໂທລະທັດ</string>
+    <string name="pair_body">ຍອມຮັບຢູ່ໂທລະທັດເມື່ອມັນຖາມ.</string>
+    <string name="pair_declined_body">ໂທລະທັດປະຕິເສດ. ເທື່ອນີ້ໃຫ້ເລືອກ ຍອມຮັບ.</string>
+    <string name="pair_action">ຈັບຄູ່</string>
+    <string name="pair_timeout_body">ບໍ່ມີຄຳຕອບຈາກໂທລະທັດ.</string>
+    <string name="pair_forgotten_body">ໂທລະທັດລືມໂທລະສັບນີ້ແລ້ວ.</string>
+    <string name="approval_title">ຍອມຮັບຢູ່ໂທລະທັດ</string>
+    <string name="connecting_title">ກຳລັງເຊື່ອມຕໍ່…</string>
+    <string name="offline_title">ໂທລະທັດເບິ່ງຄືປິດຢູ່</string>
+    <string name="action_retry">ລອງອີກຄັ້ງ</string>
+    <string name="action_cancel">ຍົກເລີກ</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">ຊອກຫາ</string>
+    <string name="touchpad_label">ທັດແພດ. ລາກເພື່ອຍ້າຍຕົວຊີ້, ແຕະເພື່ອຄລິກ, ລາກດ້ວຍສອງນິ້ວເພື່ອເລື່ອນ.</string>
+    <string name="dpad_label">ປຸ່ມທິດທາງ</string>
+    <string name="key_up">ຂຶ້ນ</string>
+    <string name="key_down">ລົງ</string>
+    <string name="key_left">ຊ້າຍ</string>
+    <string name="key_right">ຂວາ</string>
+    <string name="key_ok">ຕົກລົງ</string>
+    <string name="key_back">ກັບຄືນ</string>
+    <string name="key_home">ໜ້າຫຼັກ</string>
+    <string name="key_keyboard">ແປ້ນພິມ</string>
+    <string name="key_touchpad">ທັດແພດ</string>
+    <string name="key_dpad">ລູກສອນ</string>
+    <string name="key_more">ເພີ່ມເຕີມ</string>
+    <string name="key_rewind">ຖອຍຫຼັງ</string>
+    <string name="key_play">ຫຼິ້ນ</string>
+    <string name="key_pause">ຢຸດຊົ່ວຄາວ</string>
+    <string name="key_fast_forward">ໄປໜ້າໄວ</string>
+    <string name="key_stop">ຢຸດ</string>
+    <string name="key_volume_up">ເພີ່ມສຽງ</string>
+    <string name="key_volume_down">ຫຼຸດສຽງ</string>
+    <string name="key_mute">ປິດສຽງ</string>
+    <string name="key_unmute">ເປີດສຽງ</string>
+    <string name="volume_value">ລະດັບສຽງ %1$d</string>
+    <string name="volume_unknown">ລະດັບສຽງ, ບໍ່ຮູ້ລະດັບ</string>
+    <string name="volume_muted">ປິດສຽງ</string>
+    <string name="power">ເປີດ/ປິດ</string>
+    <string name="settings">ການຕັ້ງຄ່າ</string>
+    <string name="all_apps">ແອັບທັງໝົດ</string>
+    <string name="inputs">ອິນພຸດ</string>
+    <string name="picture_title">ຮູບພາບ</string>
+    <string name="picture_standard">ມາດຕະຖານ</string>
+    <string name="picture_vivid">ສົດໃສ</string>
+    <string name="picture_cinema">ຮູບເງົາ</string>
+    <string name="picture_game">ເກມ</string>
+    <string name="picture_sports">ກິລາ</string>
+    <string name="picture_eco">ເອໂກ</string>
+    <string name="picture_expert">ຜູ້ຊ່ຽວຊານ</string>
+    <string name="picture_backlight">ຄວາມສະຫວ່າງ</string>
+    <string name="sound_title">ສຽງ</string>
+    <string name="sound_tv">ລຳໂພງໂທລະທັດ</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optical</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">ຫູຟັງ</string>
+    <string name="sound_tv_short">ລຳໂພງ</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Line out</string>
+    <string name="more_subtitles">ຄຳບັນຍາຍ</string>
+    <string name="more_audio_track">ສຽງ</string>
+    <string name="sleep_title">ຕັ້ງເວລາປິດ</string>
+    <string name="sleep_minutes">%1$d ນາທີ</string>
+    <string name="sleep_at">ປິດເວລາ %1$s</string>
+    <string name="sleep_cancel">ຍົກເລີກການຕັ້ງເວລາ</string>
+    <string name="app_on_screen">%1$s, ຢູ່ໜ້າຈໍຕອນນີ້</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">ກຳລັງເລີ່ມຢູ່ໂທລະທັດ…</string>
+    <string name="cast_playing">ກຳລັງຫຼິ້ນຢູ່ໂທລະທັດ</string>
+    <string name="cast_paused">ຢຸດຊົ່ວຄາວແລ້ວ</string>
+    <string name="cast_stalled">ບໍ່ເດີນໜ້າ. ເຊີບເວີຂອງວິດີໂອຍັງເຮັດວຽກຢູ່ບໍ?</string>
+    <string name="cast_play">ສືບຕໍ່</string>
+    <string name="cast_pause">ຢຸດຊົ່ວຄາວ</string>
+    <string name="cast_stop">ຢຸດຫຼິ້ນຢູ່ໂທລະທັດ</string>
+    <string name="cast_position">ຕຳແໜ່ງການຫຼິ້ນ</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">ປິດການຊອກຫາ</string>
+    <string name="tv_picker">ໂທລະທັດ, ຕອນນີ້ %1$s</string>
+    <string name="tv_picker_add_short">ເພີ່ມ</string>
+    <string name="hold_hide">ເຊື່ອງໄວ້</string>
+    <string name="hold_rename">ປ່ຽນຊື່</string>
+    <string name="rename_input">ປ່ຽນຊື່ອິນພຸດ</string>
+    <string name="rename_save">ບັນທຶກ</string>
+    <string name="rename_reset">ໃຊ້ຊື່ຂອງໂທລະທັດ</string>
+    <string name="more_channel_list">ບັນຊີລາຍຊື່</string>
+    <string name="more_guide">ຕາຕະລາງ</string>
+    <string name="input_label">%1$s, ອິນພຸດ</string>
+    <string name="channel_label">%2$s ຊ່ອງ %1$s</string>
+    <string name="on_screen_now">ຢູ່ໜ້າຈໍຕອນນີ້</string>
+    <string name="deck_expanded">ຂະຫຍາຍ</string>
+    <string name="deck_collapsed">ຫຍໍ້ລົງ</string>
+    <string name="channel_hidden">ເຊື່ອງ %1$s ແລ້ວ</string>
+    <string name="action_undo">ເອົາຄືນ</string>
+    <string name="offline_switch">ໃຊ້ %1$s</string>
+    <string name="search_picks">ກຳລັງນິຍົມ</string>
+    <string name="search_clear">ລຶບລ້າງ</string>
+    <string name="search_fill">ໃສ່ກ່ອງຊອກຫາ</string>
+    <string name="search_type_on_tv">ພິມໃສ່ໂທລະທັດ</string>
+    <string name="search_in_app">ຊອກຫາ %1$s</string>
+    <string name="search_web">ຊອກຫາ %1$s</string>
+    <string name="link_paste">ວາງ</string>
+    <string name="link_recent">ຫຼ້າສຸດ</string>
+    <string name="link_clear_recent">ລຶບລ້າງ</string>
+    <string name="link_kind_youtube">ວິດີໂອ YouTube</string>
+    <string name="link_kind_video">ໄຟລ໌ວິດີໂອ</string>
+    <string name="link_kind_audio">ໄຟລ໌ສຽງ</string>
+    <string name="link_kind_image">ຮູບພາບ</string>
+    <string name="link_kind_web">ໜ້າເວັບ</string>
+    <string name="link_action_app">ເປີດໃນ %1$s</string>
+    <string name="link_action_media">ຫຼິ້ນຢູ່ໂທລະທັດ</string>
+    <string name="link_action_browser">ເປີດໃນບຣາວເຊີຂອງໂທລະທັດ</string>
+    <string name="link_sending">ກຳລັງສົ່ງ…</string>
+    <string name="link_sent">ເປີດຢູ່ໂທລະທັດແລ້ວ</string>
+    <string name="link_failed">ໂທລະທັດບໍ່ໄດ້ເປີດມັນ. ລອງອີກຄັ້ງ.</string>
+
+    <!-- Share -->
+    <string name="share_title">ສົ່ງໄປໂທລະທັດ</string>
+    <string name="share_no_link">ບໍ່ມີລິ້ງໃນສິ່ງທີ່ທ່ານແບ່ງປັນ.</string>
+    <string name="share_not_paired">ໂທລະສັບນີ້ຍັງບໍ່ໄດ້ຈັບຄູ່ກັບໂທລະທັດ.</string>
+    <string name="share_open_app">ເປີດຣີໂໝດ</string>
+    <string name="share_waiting">ກຳລັງເຊື່ອມຕໍ່…</string>
+    <string name="share_cant_open">ໂທລະທັດນີ້ເປີດລິ້ງ %1$s ບໍ່ໄດ້</string>
+    <string name="action_close">ປິດ</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">ແປ້ນພິມ</string>
+    <string name="keyboard_placeholder_waiting">ເລືອກຊ່ອງຂໍ້ຄວາມຢູ່ໂທລະທັດ</string>
+    <string name="keyboard_backspace">ລຶບຖອຍຫຼັງ</string>
+    <string name="keyboard_clear">ລຶບລ້າງ</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="other">ມີ %1$d ຕົວອັກສອນຢູ່ໂທລະທັດແລ້ວ</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">ເພີ່ມເຕີມ</string>
+    <string name="more_menu">ການຕັ້ງຄ່າ</string>
+    <string name="more_quick">ເມນູລວດໄວ</string>
+    <string name="more_quick_short">ເມນູ</string>
+    <string name="more_info">ຂໍ້ມູນ</string>
+    <string name="more_inputs">ອິນພຸດ</string>
+    <string name="more_exit">ອອກ</string>
+    <string name="more_channel_up">ຊ່ອງຕໍ່ໄປ</string>
+    <string name="more_channel_down">ຊ່ອງກ່ອນໜ້າ</string>
+    <string name="more_red">ສີແດງ</string>
+    <string name="more_green">ສີຂຽວ</string>
+    <string name="more_yellow">ສີເຫຼືອງ</string>
+    <string name="more_blue">ສີຟ້າ</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">ເປີດ/ປິດ</string>
+    <string name="power_screen_off">ປິດໜ້າຈໍ</string>
+    <string name="power_off">ປິດໂທລະທັດ</string>
+    <string name="power_off_confirm">ແຕະອີກຄັ້ງເພື່ອປິດ</string>
+    <string name="power_turn_off">ປິດ</string>
+    <string name="power_tap_again">ແຕະອີກຄັ້ງ</string>
+    <string name="switch_on">ເປີດ</string>
+    <string name="switch_off">ປິດ</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">ການຕັ້ງຄ່າ</string>
+    <string name="settings_tv">ໂທລະທັດ</string>
+    <string name="settings_name">ຊື່</string>
+    <string name="settings_host">ທີ່ຢູ່</string>
+    <string name="settings_host_invalid">ໃສ່ທີ່ຢູ່ IP ຫຼື ຊື່ໂຮສ</string>
+    <string name="settings_mac">ທີ່ຢູ່ MAC (ເພື່ອເປີດມັນ)</string>
+    <string name="settings_mac_invalid">ເລກຖານສິບຫົກ ຫົກຄູ່, ເຊັ່ນ 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">ຊອກຫາໂທລະທັດໃກ້ຄຽງ</string>
+    <string name="settings_finding">ກຳລັງຊອກຫາໂທລະທັດ…</string>
+    <string name="settings_found_none">ບໍ່ມີໂທລະທັດໃດຕອບ.</string>
+    <string name="settings_found_no_new">ບໍ່ພົບໂທລະທັດອື່ນ</string>
+    <string name="settings_in_use">ກຳລັງໃຊ້</string>
+    <string name="settings_add">ເພີ່ມ</string>
+    <string name="settings_forget_tv">ລືມ %1$s</string>
+    <string name="settings_use_tv">ໃຊ້ໂທລະທັດນີ້</string>
+    <string name="settings_remove_tv">ເອົາອອກ</string>
+    <string name="settings_remove_confirm">ແຕະອີກຄັ້ງເພື່ອເອົາອອກ</string>
+    <string name="settings_move_up">ຍ້າຍຂຶ້ນ</string>
+    <string name="settings_move_down">ຍ້າຍລົງ</string>
+    <string name="settings_sensitivity">ຄວາມອ່ອນໄຫວ</string>
+    <string name="settings_touchpad">ທັດແພດ</string>
+    <string name="settings_phone">ໂທລະສັບ</string>
+    <string name="settings_natural_scroll">ການເລື່ອນແບບທຳມະຊາດ</string>
+    <string name="settings_scroll_strip">ແຖບເລື່ອນ</string>
+    <string name="settings_hidden">ເຊື່ອງ</string>
+    <string name="settings_show">ສະແດງ</string>
+    <string name="settings_theme">ທີມ</string>
+    <string name="settings_theme_auto">ອັດຕະໂນມັດ</string>
+    <string name="settings_language">ພາສາ</string>
+    <string name="settings_theme_system">ລະບົບ</string>
+    <string name="settings_theme_light">ແຈ້ງ</string>
+    <string name="settings_theme_dark">ມືດ</string>
+    <string name="settings_scroll_strip_right">ຂວາ</string>
+    <string name="settings_scroll_strip_left">ຊ້າຍ</string>
+    <string name="settings_scroll_strip_off">ປິດ</string>
+    <string name="settings_search_engine">ຊອກຫາເວັບ</string>
+    <string name="settings_search">ຊອກຫາ</string>
+    <string name="settings_find_titles">ຊອກຫາເລື່ອງໂປລະເມນ ແລະ ວີດີໂອ</string>
+    <string name="find_titles_ask">ເພື່ອຊອກຫາ, TennaRC ສົ່ງສິ່ງທີ່ທ່ານພິມໄປຫາ YouTube, JustWatch ແລະ Wikidata. ທ່ານສາມາດປ່ຽນໄດ້ໃນການຕັ້ງຄ່າ.</string>
+    <string name="find_titles_not_now">ບໍ່ແມ່ນຕອນນີ້</string>
+    <string name="settings_volume_keys">ປຸ່ມລະດັບສຽງ</string>
+    <string name="settings_auto_keyboard">ແປ້ນພິມອັດຕະໂນມັດ</string>
+    <string name="settings_haptics">ການສັ່ນ</string>
+    <string name="settings_keep_screen_on">ເປີດໜ້າຈໍຄ້າງໄວ້</string>
+    <string name="settings_forget">ລືມຈັບຄູ່</string>
+    <string name="settings_forget_body">ໂທລະທັດຈະຖາມອີກຄັ້ງໃນເທື່ອໜ້າ</string>
+    <string name="settings_forget_confirm">ແຕະອີກຄັ້ງເພື່ອລືມ</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">ບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບໂທລະທັດ</string>
+    <string name="notice_command_failed">ໂທລະທັດບໍ່ຕອບສະໜອງຄຳສັ່ງນັ້ນ</string>
+    <string name="notice_launch_failed">ເປີດແອັບນັ້ນບໍ່ໄດ້</string>
+    <string name="notice_open_failed">ໂທລະທັດເປີດລິ້ງບໍ່ໄດ້</string>
+    <string name="notice_no_renderer">ເຄື່ອງຫຼິ້ນມີເດຍຂອງໂທລະທັດບໍ່ຕອບ. ມັນເປີດຢູ່ບໍ?</string>
+    <string name="notice_cast_failed">ໂທລະທັດຫຼິ້ນລິ້ງນັ້ນບໍ່ໄດ້</string>
+    <string name="notice_wake_sent">ສົ່ງສັນຍານປຸກແລ້ວ</string>
+    <string name="notice_tv_moved">ພົບໂທລະທັດຢູ່ທີ່ຢູ່ໃໝ່</string>
+    <string name="notice_wake_failed">ສົ່ງສັນຍານປຸກບໍ່ໄດ້. ກວດສອບທີ່ຢູ່ MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">ເຊື່ອມຕໍ່ຊ້າ</string>
+    <string name="link_help_stalling">Wi-Fi ຂອງໂທລະທັດຂາດໆຫາຍໆເປັນໄລຍະ.</string>
+    <string name="link_help_slow">Wi-Fi ຂອງໂທລະທັດອ່ອນ ຫຼື ຫຍຸ້ງ.</string>
+    <string name="link_fix_24_title">ເຊື່ອມໂທລະທັດກັບ Wi-Fi 2.4 GHz</string>
+    <string name="link_fix_ethernet_title">ໃຊ້ສາຍ Ethernet</string>
+    <string name="link_fix_extender_title">ຕິດຕັ້ງຕົວຂະຫຍາຍ Wi-Fi ໄວ້ກາງທາງ</string>
+    <string name="link_fix_listen_title">ປິດ Listen Mode ໃນ Screen Share</string>
+    <string name="link_fix_closer_title">ຍ້າຍເຣົາເຕີໃຫ້ໃກ້ໂທລະທັດ</string>
+    <string name="link_fix_band_title">ລອງແບນ Wi-Fi ອື່ນ</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">ຣີໂໝດໂທລະທັດ</string>
+    <string name="notify_channel_body">ຫຼິ້ນ, ຢຸດຊົ່ວຄາວ ແລະ ລະດັບສຽງຂອງໂທລະທັດ ເມື່ອເປີດຢູ່</string>
+    <string name="notify_on_tv">ຢູ່ໂທລະທັດ</string>
+    <string name="notify_close">ປິດ</string>
+    <string name="settings_notification_controls">ການຄວບຄຸມມີເດຍ</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">ພິມລະຫັດທີ່ສະແດງຢູ່ໂທລະທັດ</string>
+    <string name="pair_code_title">ໃສ່ລະຫັດຈາກໂທລະທັດ</string>
+    <string name="pair_code_wrong">ລະຫັດບໍ່ກົງກັນ. ລອງລະຫັດໃໝ່ຢູ່ໂທລະທັດ.</string>
+    <string name="pair_code_label">ລະຫັດ</string>
+    <string name="pair_code_submit">ຈັບຄູ່</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">ໂທລະທັດທົດລອງ</string>
+    <string name="settings_demo_tv_body">ລອງໃຊ້ຣີໂໝດໂດຍບໍ່ມີໂທລະທັດ</string>
+    <string name="settings_demo_tv_listed">ເພີ່ມໂທລະທັດສົມມຸດເຂົ້າໃນລາຍການໂທລະທັດຂອງທ່ານ</string>
+    <string name="settings_help">ຊ່ວຍເຫຼືອ</string>
+    <string name="settings_report">ລາຍງານບັນຫາ</string>
+    <string name="settings_privacy">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</string>
+    <string name="settings_reset">ຣີເຊັດການຕັ້ງຄ່າ</string>
+    <string name="settings_reset_body">ໂທລະທັດຂອງທ່ານຍັງຈັບຄູ່ຢູ່</string>
+    <string name="settings_reset_confirm">ແຕະອີກຄັ້ງເພື່ອຣີເຊັດ</string>
+    <string name="offline_no_wifi_title">ບໍ່ມີ Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku ຮັບພຽງບາງຄຳສັ່ງຈາກໂທລະສັບ. ໃນ Advanced system settings ຂອງມັນ, ຕັ້ງ Control by mobile apps ເປັນ Enabled.</string>
+    <string name="notice_adb_off">ເປີດ ADB debugging ຢູ່ Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">ປິດ</string>
+    <string name="ambilight_video">ວິດີໂອ</string>
+    <string name="ambilight_audio">ສຽງ</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">ຈັບຄູ່ເພື່ອຄວບຄຸມ Ambilight</string>
+    <string name="ambilight_pin_hint">PIN ຢູ່ໂທລະທັດ</string>
+    <string name="ambilight_pin_wrong">PIN ຜິດ. ລອງ PIN ໃໝ່</string>
+    <string name="search_opens_app">ເປີດ %1$s</string>
+    <string name="voice_search">ຊອກຫາໂດຍສຽງ</string>
+    <string name="voice_stop">ຢຸດຟັງ</string>
+    <string name="voice_listening">ກຳລັງຟັງ…</string>
+    <string name="voice_mic_off">ການເຂົ້າເຖິງໄມໂຄຣໂຟນປິດຢູ່</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC ປິດໂດຍບໍ່ຄາດຄິດ</string>
+    <string name="crash_send">ສົ່ງ</string>
+    <string name="crash_report_subject">ລາຍງານການຂັດຂ້ອງ TennaRC %1$s</string>
+    <string name="crash_sent">ສົ່ງລາຍງານແລ້ວ. ຂອບໃຈ</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">ຫຼິ້ນ, ຢຸດຊົ່ວຄາວ ແລະ ລະດັບສຽງຂອງໂທລະທັດ</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">ຫຼິ້ນຈາກໂທລະສັບນີ້</string>
+    <string name="phone_mirror">ສະທ້ອນໜ້າຈໍ</string>
+    <string name="phone_mirror_label">ສະທ້ອນໜ້າຈໍໂທລະສັບນີ້</string>
+    <string name="phone_gallery">ຄັງຮູບ</string>
+    <string name="phone_gallery_label">ຫຼິ້ນຮູບ ຫຼື ວິດີໂອຈາກໂທລະສັບນີ້</string>
+    <string name="share_cant_play_file">ໂທລະທັດນີ້ຫຼິ້ນໄຟລ໌ຈາກໂທລະສັບບໍ່ໄດ້</string>
+    <string name="notice_cast_unsupported">ໂທລະທັດສະແດງຮູບປະເພດນີ້ບໍ່ໄດ້</string>
+    <string name="notice_not_on_tv_network">ເຊື່ອມໂທລະສັບກັບ Wi-Fi ຂອງໂທລະທັດເພື່ອຫຼິ້ນໄຟລ໌ຂອງມັນ</string>
+    <string name="notice_file_unreadable">ອ່ານໄຟລ໌ນັ້ນບໍ່ໄດ້</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">ກຳລັງຊອກຫາໂທລະທັດ</string>
+    <string name="setup_choose">ເລືອກໂທລະທັດຂອງທ່ານ</string>
+    <string name="setup_none">ບໍ່ພົບໂທລະທັດ</string>
+    <string name="setup_search_again">ຊອກຫາອີກຄັ້ງ</string>
+    <string name="setup_enter_ip">ໃສ່ທີ່ຢູ່ IP</string>
+    <string name="setup_ip_label">ທີ່ຢູ່ IP</string>
+    <string name="setup_ip_none">ບໍ່ມີໂທລະທັດຕອບຢູ່ບ່ອນນັ້ນ</string>
+    <string name="setup_connect">ເຊື່ອມຕໍ່</string>
+    <string name="setup_demo">ລອງເດໂມ</string>
+    <string name="setup_code_wrong">ກວດສອບລະຫັດຢູ່ໂທລະທັດ</string>
+    <string name="setup_fire_tv_allow">ໝາຍຕິກ Always allow, ແລ້ວ OK</string>
+    <string name="setup_adb_title">ເປີດ ADB debugging</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">ເປີດ Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">ສຳເລັດ</string>
+    <string name="settings_edit_tv">ແກ້ໄຂ</string>
+    <string name="dev_link_title">ການເຊື່ອມຕໍ່ນັກພັດທະນາ</string>
+    <string name="dev_link_body">ສະແດງອິນພຸດ ແລະ ແອັບທັງໝົດຂອງໂທລະທັດ, ປ່ຽນອິນພຸດໃນໂທລະທັດທີ່ບໍ່ຮັບປຸ່ມ HDMI, ແລະ ຕັ້ງຄວາມສະຫວ່າງໃນບາງເຄື່ອງ. ມັນເຮັດວຽກຜ່ານການເຊື່ອມຕໍ່ debugging ຂອງໂທລະທັດ (ADB). ປຸ່ມ ແລະ ການພິມເຮັດວຽກຄືເກົ່າ ເຖິງບໍ່ມີມັນ.</string>
+    <string name="dev_link_step_developer">ຢູ່ໂທລະທັດ, ເປີດ Settings › System › About ແລ້ວເລືອກ Android TV OS build ເຈັດເທື່ອ. ໃນໂທລະທັດລຸ້ນເກົ່າ ແມ່ນ Device Preferences › About › Build.</string>
+    <string name="dev_link_step_debugging">ເປີດ Developer options ທີ່ຢູ່ຖັດຈາກ About, ແລ້ວເປີດ USB debugging. ໃນ Shield ແມ່ນ Network debugging.</string>
+    <string name="dev_link_step_allow">ແຕະ ເຊື່ອມຕໍ່, ແລ້ວຢູ່ໂທລະທັດ ໝາຍຕິກ Always allow ແລະ ເລືອກ OK.</string>
+    <string name="dev_link_connect">ເຊື່ອມຕໍ່</string>
+    <string name="dev_link_allow">ອະນຸຍາດຢູ່ໂທລະທັດ</string>
+    <string name="dev_link_allow_body">ໝາຍຕິກ Always allow from this computer, ແລ້ວ OK</string>
+    <string name="dev_link_turn_off">ປິດ</string>
+    <string name="dev_link_off">ປິດ. ເພີ່ມອິນພຸດ ແລະ ແອັບທັງໝົດ</string>
+    <string name="dev_link_away">ໂທລະທັດບໍ່ຕອບ. ມັນຈະລອງໃໝ່ເອງ ຕາບໃດທີ່ຣີໂໝດຍັງເປີດຢູ່.</string>
+    <string name="dev_link_away_short">ບໍ່ຕອບ</string>
+    <string name="dev_link_debugging_off">ໂທລະທັດປະຕິເສດການເຊື່ອມຕໍ່. ກວດເບິ່ງວ່າ USB debugging ເປີດຢູ່. ຕັ້ງແຕ່ Android TV 14 ບາງໂທລະທັດຮັບແຕ່ Wireless debugging ເຊິ່ງ TennaRC ຍັງໃຊ້ບໍ່ໄດ້.</string>
+    <string name="dev_link_debugging_off_short">Debugging ປິດຢູ່ໂທລະທັດ</string>
+    <string name="dev_link_wireless">ເປີດແຕ່ Wireless debugging ເຊິ່ງ TennaRC ຍັງໃຊ້ບໍ່ໄດ້. ເປີດ USB debugging ນຳ, ຫຼື ຈັບຄູ່ຈາກຄອມພິວເຕີເທື່ອດຽວ ແລ້ວແລ່ນ adb tcpip 5555 ເຊິ່ງໃຊ້ໄດ້ຈົນກວ່າໂທລະທັດຈະເປີດໃໝ່.</string>
+    <string name="dev_link_wireless_short">ເປີດແຕ່ Wireless debugging</string>
+    <string name="dev_link_not_allowed">ບໍ່ມີໃຜອະນຸຍາດຢູ່ໂທລະທັດ. ລອງອີກຄັ້ງ ແລະ ເລືອກ OK ຢູ່ນັ້ນ.</string>
+    <string name="dev_link_not_allowed_short">ບໍ່ໄດ້ອະນຸຍາດຢູ່ໂທລະທັດ</string>
+    <string name="dev_link_forgotten">ໂທລະທັດລືມໂທລະສັບນີ້ແລ້ວ, ຄືທີ່ Android TV ເຮັດກັບອຸປະກອນທີ່ບໍ່ເຫັນມາໜຶ່ງອາທິດ. ລອງອີກຄັ້ງ ແລະ ອະນຸຍາດຢູ່ໂທລະທັດ.</string>
+    <string name="dev_link_forgotten_short">ໂທລະທັດລືມໂທລະສັບນີ້ແລ້ວ</string>
+</resources>

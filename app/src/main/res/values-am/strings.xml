@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">ወደ ቴሌቪዥኑ ላክ</string>
+    <string name="tile_label">የርቀት መቆጣጠሪያ</string>
+    <string name="shortcut_link">ፈልግ</string>
+    <string name="shortcut_keyboard">በቴሌቪዥኑ ላይ ተይብ</string>
+
+    <!-- Status line -->
+    <string name="status_connected">ተገናኝቷል</string>
+    <string name="status_connecting">በመገናኘት ላይ…</string>
+    <string name="status_awaiting">በቴሌቪዥኑ ላይ ይቀበሉ</string>
+    <string name="status_offline">ቴሌቪዥኑ የጠፋ ይመስላል</string>
+    <string name="status_not_paired">ገና አልተጣመረም</string>
+    <string name="status_standby">በተጠባባቂ ሁኔታ</string>
+    <string name="status_screen_off">ማያ ገጹ ጠፍቷል፣ ድምጹ በርቷል</string>
+    <string name="standby_title">ቴሌቪዥኑ ጠፍቷል</string>
+    <string name="action_turn_on">አብራ</string>
+
+    <!-- State panels -->
+    <string name="pair_title">ከቴሌቪዥኑ ጋር አጣምር</string>
+    <string name="pair_body">ቴሌቪዥኑ ሲጠይቅ በቴሌቪዥኑ ላይ ይቀበሉ።</string>
+    <string name="pair_declined_body">ቴሌቪዥኑ እምቢ አለ። በዚህ ጊዜ ተቀበል የሚለውን ይምረጡ።</string>
+    <string name="pair_action">አጣምር</string>
+    <string name="pair_timeout_body">ከቴሌቪዥኑ ምንም ምላሽ የለም።</string>
+    <string name="pair_forgotten_body">ቴሌቪዥኑ ይህን ስልክ ረስቶታል።</string>
+    <string name="approval_title">በቴሌቪዥኑ ላይ ይቀበሉ</string>
+    <string name="connecting_title">በመገናኘት ላይ…</string>
+    <string name="offline_title">ቴሌቪዥኑ የጠፋ ይመስላል</string>
+    <string name="action_retry">እንደገና ሞክር</string>
+    <string name="action_cancel">ይቅር</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">ፈልግ</string>
+    <string name="touchpad_label">የመዳሰሻ ሰሌዳ። ጠቋሚውን ለማንቀሳቀስ ይጎትቱ፣ ጠቅ ለማድረግ መታ ያድርጉ፣ ለማሸብለል በሁለት ጣቶች ይጎትቱ።</string>
+    <string name="dpad_label">የአቅጣጫ ቁልፎች</string>
+    <string name="key_up">ወደ ላይ</string>
+    <string name="key_down">ወደ ታች</string>
+    <string name="key_left">ግራ</string>
+    <string name="key_right">ቀኝ</string>
+    <string name="key_ok">እሺ</string>
+    <string name="key_back">ተመለስ</string>
+    <string name="key_home">መነሻ</string>
+    <string name="key_keyboard">የቁልፍ ሰሌዳ</string>
+    <string name="key_touchpad">የመዳሰሻ ሰሌዳ</string>
+    <string name="key_dpad">ቀስቶች</string>
+    <string name="key_more">ተጨማሪ</string>
+    <string name="key_rewind">ወደኋላ መልስ</string>
+    <string name="key_play">አጫውት</string>
+    <string name="key_pause">ለአፍታ አቁም</string>
+    <string name="key_fast_forward">ወደፊት አሳልፍ</string>
+    <string name="key_stop">አቁም</string>
+    <string name="key_volume_up">ድምጽ ጨምር</string>
+    <string name="key_volume_down">ድምጽ ቀንስ</string>
+    <string name="key_mute">ድምጸ-ከል</string>
+    <string name="key_unmute">ድምጸ-ከል አንሳ</string>
+    <string name="volume_value">የድምጽ መጠን %1$d</string>
+    <string name="volume_unknown">የድምጽ መጠን፣ ደረጃው አይታወቅም</string>
+    <string name="volume_muted">ድምጸ-ከል ተደርጓል</string>
+    <string name="power">ኃይል</string>
+    <string name="settings">ቅንብሮች</string>
+    <string name="all_apps">ሁሉም መተግበሪያዎች</string>
+    <string name="inputs">ግብዓቶች</string>
+    <string name="picture_title">ምስል</string>
+    <string name="picture_standard">መደበኛ</string>
+    <string name="picture_vivid">ደማቅ</string>
+    <string name="picture_cinema">ሲኒማ</string>
+    <string name="picture_game">ጨዋታ</string>
+    <string name="picture_sports">ስፖርት</string>
+    <string name="picture_eco">ኢኮ</string>
+    <string name="picture_expert">ባለሙያ</string>
+    <string name="picture_backlight">ብሩህነት</string>
+    <string name="sound_title">ድምጽ</string>
+    <string name="sound_tv">የቴሌቪዥኑ ድምጽ ማጉያዎች</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">ኦፕቲካል</string>
+    <string name="sound_bluetooth">ብሉቱዝ</string>
+    <string name="sound_headphones">የጆሮ ማዳመጫዎች</string>
+    <string name="sound_tv_short">ድምጽ ማጉያዎች</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">የመስመር ውጽዓት</string>
+    <string name="more_subtitles">የግርጌ ጽሑፎች</string>
+    <string name="more_audio_track">ኦዲዮ</string>
+    <string name="sleep_title">የእንቅልፍ ሰዓት ቆጣሪ</string>
+    <string name="sleep_minutes">%1$d ደቂቃ</string>
+    <string name="sleep_at">በ%1$s ይጠፋል</string>
+    <string name="sleep_cancel">ሰዓት ቆጣሪውን ሰርዝ</string>
+    <string name="app_on_screen">%1$s፣ አሁን በማያ ገጹ ላይ</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">በቴሌቪዥኑ ላይ በመጀመር ላይ…</string>
+    <string name="cast_playing">በቴሌቪዥኑ ላይ በመጫወት ላይ</string>
+    <string name="cast_paused">ለአፍታ ቆሟል</string>
+    <string name="cast_stalled">እየሄደ አይደለም። የቪዲዮው አገልጋይ አሁንም እየሰራ ነው?</string>
+    <string name="cast_play">ቀጥል</string>
+    <string name="cast_pause">ለአፍታ አቁም</string>
+    <string name="cast_stop">በቴሌቪዥኑ ላይ ማጫወት አቁም</string>
+    <string name="cast_position">የማጫወቻ ቦታ</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">ፍለጋን ዝጋ</string>
+    <string name="tv_picker">ቴሌቪዥኖች፣ አሁን %1$s</string>
+    <string name="tv_picker_add_short">አክል</string>
+    <string name="hold_hide">ደብቅ</string>
+    <string name="hold_rename">እንደገና ሰይም</string>
+    <string name="rename_input">ግብዓቱን እንደገና ሰይም</string>
+    <string name="rename_save">አስቀምጥ</string>
+    <string name="rename_reset">የቴሌቪዥኑን ስም ተጠቀም</string>
+    <string name="more_channel_list">ዝርዝር</string>
+    <string name="more_guide">መመሪያ</string>
+    <string name="input_label">%1$s፣ ግብዓት</string>
+    <string name="channel_label">%2$s፣ ሰርጥ %1$s</string>
+    <string name="on_screen_now">አሁን በማያ ገጹ ላይ</string>
+    <string name="deck_expanded">ተዘርግቷል</string>
+    <string name="deck_collapsed">ተሰብስቧል</string>
+    <string name="channel_hidden">%1$s ተደብቋል</string>
+    <string name="action_undo">ቀልብስ</string>
+    <string name="offline_switch">%1$s ተጠቀም</string>
+    <string name="search_picks">አሁን ተወዳጅ</string>
+    <string name="search_clear">አጽዳ</string>
+    <string name="search_fill">ወደ ፍለጋ ሳጥኑ አስገባ</string>
+    <string name="search_type_on_tv">በቴሌቪዥኑ ላይ ተይብ</string>
+    <string name="search_in_app">በ%1$s ውስጥ ፈልግ</string>
+    <string name="search_web">በ%1$s ፈልግ</string>
+    <string name="link_paste">ለጥፍ</string>
+    <string name="link_recent">የቅርብ ጊዜ</string>
+    <string name="link_clear_recent">አጽዳ</string>
+    <string name="link_kind_youtube">YouTube ቪዲዮ</string>
+    <string name="link_kind_video">የቪዲዮ ፋይል</string>
+    <string name="link_kind_audio">የድምጽ ፋይል</string>
+    <string name="link_kind_image">ምስል</string>
+    <string name="link_kind_web">ድረ-ገጽ</string>
+    <string name="link_action_app">በ%1$s ውስጥ ክፈት</string>
+    <string name="link_action_media">በቴሌቪዥኑ ላይ አጫውት</string>
+    <string name="link_action_browser">በቴሌቪዥኑ አሳሽ ውስጥ ክፈት</string>
+    <string name="link_sending">በመላክ ላይ…</string>
+    <string name="link_sent">በቴሌቪዥኑ ላይ ተከፍቷል</string>
+    <string name="link_failed">ቴሌቪዥኑ አልከፈተውም። እንደገና ይሞክሩ።</string>
+
+    <!-- Share -->
+    <string name="share_title">ወደ ቴሌቪዥኑ ላክ</string>
+    <string name="share_no_link">ባጋሩት ውስጥ ምንም አገናኝ የለም።</string>
+    <string name="share_not_paired">ይህ ስልክ ገና ከቴሌቪዥኑ ጋር አልተጣመረም።</string>
+    <string name="share_open_app">የርቀት መቆጣጠሪያውን ክፈት</string>
+    <string name="share_waiting">በመገናኘት ላይ…</string>
+    <string name="share_cant_open">ይህ ቴሌቪዥን የ%1$s አገናኞችን መክፈት አይችልም</string>
+    <string name="action_close">ዝጋ</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">የቁልፍ ሰሌዳ</string>
+    <string name="keyboard_placeholder_waiting">በቴሌቪዥኑ ላይ የጽሑፍ ሳጥን ይምረጡ</string>
+    <string name="keyboard_backspace">ሰርዝ</string>
+    <string name="keyboard_clear">አጽዳ</string>
+    <string name="keyboard_enter">አስገባ</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d ቁምፊ አስቀድሞ በቴሌቪዥኑ ላይ አለ</item>
+        <item quantity="other">%1$d ቁምፊዎች አስቀድመው በቴሌቪዥኑ ላይ አሉ</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">ተጨማሪ</string>
+    <string name="more_menu">ቅንብሮች</string>
+    <string name="more_quick">ፈጣን ምናሌ</string>
+    <string name="more_quick_short">ምናሌ</string>
+    <string name="more_info">መረጃ</string>
+    <string name="more_inputs">ግብዓቶች</string>
+    <string name="more_exit">ውጣ</string>
+    <string name="more_channel_up">ቀጣይ ሰርጥ</string>
+    <string name="more_channel_down">ቀዳሚ ሰርጥ</string>
+    <string name="more_red">ቀይ</string>
+    <string name="more_green">አረንጓዴ</string>
+    <string name="more_yellow">ቢጫ</string>
+    <string name="more_blue">ሰማያዊ</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">ኃይል</string>
+    <string name="power_screen_off">ማያ ገጹን አጥፋ</string>
+    <string name="power_off">ቴሌቪዥኑን አጥፋ</string>
+    <string name="power_off_confirm">ለማጥፋት እንደገና መታ ያድርጉ</string>
+    <string name="power_turn_off">አጥፋ</string>
+    <string name="power_tap_again">እንደገና መታ ያድርጉ</string>
+    <string name="switch_on">በርቷል</string>
+    <string name="switch_off">ጠፍቷል</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">ቅንብሮች</string>
+    <string name="settings_tv">ቴሌቪዥን</string>
+    <string name="settings_name">ስም</string>
+    <string name="settings_host">አድራሻ</string>
+    <string name="settings_host_invalid">IP አድራሻ ወይም የአስተናጋጅ ስም ያስገቡ</string>
+    <string name="settings_mac">MAC አድራሻ (ለማብራት)</string>
+    <string name="settings_mac_invalid">ስድስት ጥንድ የአስራስድስትዮሽ አሃዞች፣ ለምሳሌ 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">በአቅራቢያ ያሉ ቴሌቪዥኖችን ፈልግ</string>
+    <string name="settings_finding">ቴሌቪዥኖችን በመፈለግ ላይ…</string>
+    <string name="settings_found_none">ምንም ቴሌቪዥን ምላሽ አልሰጠም።</string>
+    <string name="settings_found_no_new">ሌላ ቴሌቪዥን አልተገኘም</string>
+    <string name="settings_in_use">በጥቅም ላይ</string>
+    <string name="settings_add">አክል</string>
+    <string name="settings_forget_tv">%1$sን እርሳ</string>
+    <string name="settings_use_tv">ይህን ቴሌቪዥን ተጠቀም</string>
+    <string name="settings_remove_tv">አስወግድ</string>
+    <string name="settings_remove_confirm">ለማስወገድ እንደገና መታ ያድርጉ</string>
+    <string name="settings_move_up">ወደ ላይ አንቀሳቅስ</string>
+    <string name="settings_move_down">ወደ ታች አንቀሳቅስ</string>
+    <string name="settings_sensitivity">ትብነት</string>
+    <string name="settings_touchpad">የመዳሰሻ ሰሌዳ</string>
+    <string name="settings_phone">ስልክ</string>
+    <string name="settings_natural_scroll">ተፈጥሯዊ ማሸብለል</string>
+    <string name="settings_scroll_strip">የማሸብለያ ሰቅ</string>
+    <string name="settings_hidden">የተደበቁ</string>
+    <string name="settings_show">አሳይ</string>
+    <string name="settings_theme">ገጽታ</string>
+    <string name="settings_theme_auto">ራስ-ሰር</string>
+    <string name="settings_language">ቋንቋ</string>
+    <string name="settings_theme_system">የሥርዓት</string>
+    <string name="settings_theme_light">ፈካ ያለ</string>
+    <string name="settings_theme_dark">ጠቆር ያለ</string>
+    <string name="settings_scroll_strip_right">ቀኝ</string>
+    <string name="settings_scroll_strip_left">ግራ</string>
+    <string name="settings_scroll_strip_off">ጠፍቷል</string>
+    <string name="settings_search_engine">የድር ፍለጋ</string>
+    <string name="settings_search">ፍለጋ</string>
+    <string name="settings_find_titles">ፊልሞችን እና ቪዲዮዎችን ይፈልግ</string>
+    <string name="find_titles_ask">ለማግኘት TennaRC የሚተይቡትን ወደ YouTube፣ JustWatch እና Wikidata ይልካል። ይህን በቅንብሮች ውስጥ መቀየር ይችላሉ።</string>
+    <string name="find_titles_not_now">አሁን አይደለም</string>
+    <string name="settings_volume_keys">የድምጽ ቁልፎች</string>
+    <string name="settings_auto_keyboard">ራስ-ሰር የቁልፍ ሰሌዳ</string>
+    <string name="settings_haptics">ንዝረት</string>
+    <string name="settings_keep_screen_on">ማያ ገጹ እንደበራ ይቆይ</string>
+    <string name="settings_forget">ማጣመሩን እርሳ</string>
+    <string name="settings_forget_body">ቴሌቪዥኑ በሚቀጥለው ጊዜ እንደገና ይጠይቃል</string>
+    <string name="settings_forget_confirm">ለመርሳት እንደገና መታ ያድርጉ</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">ከቴሌቪዥኑ ጋር አልተገናኘም</string>
+    <string name="notice_command_failed">ቴሌቪዥኑ ለዚያ ምላሽ አልሰጠም</string>
+    <string name="notice_launch_failed">ያንን መተግበሪያ መክፈት አልተቻለም</string>
+    <string name="notice_open_failed">ቴሌቪዥኑ አገናኙን መክፈት አልቻለም</string>
+    <string name="notice_no_renderer">የቴሌቪዥኑ ሚዲያ አጫዋች ምላሽ እየሰጠ አይደለም። በርቷል?</string>
+    <string name="notice_cast_failed">ቴሌቪዥኑ ያንን አገናኝ ማጫወት አልቻለም</string>
+    <string name="notice_wake_sent">የማንቂያ ምልክት ተልኳል</string>
+    <string name="notice_tv_moved">ቴሌቪዥኑ በአዲስ አድራሻ ተገኝቷል</string>
+    <string name="notice_wake_failed">የማንቂያ ምልክቱን መላክ አልተቻለም። MAC አድራሻውን ያረጋግጡ።</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">የዘገየ ግንኙነት</string>
+    <string name="link_help_stalling">የቴሌቪዥኑ Wi-Fi በየጊዜው ለአፍታ ይቋረጣል።</string>
+    <string name="link_help_slow">የቴሌቪዥኑ Wi-Fi ደካማ ወይም የተጨናነቀ ነው።</string>
+    <string name="link_fix_24_title">ቴሌቪዥኑን ከ2.4 GHz Wi-Fi ጋር ያገናኙ</string>
+    <string name="link_fix_ethernet_title">Ethernet ገመድ ይጠቀሙ</string>
+    <string name="link_fix_extender_title">በመሃል Wi-Fi ማራዘሚያ ያክሉ</string>
+    <string name="link_fix_listen_title">Screen Share ውስጥ Listen Mode ያጥፉ</string>
+    <string name="link_fix_closer_title">ራውተሩን ወደ ቴሌቪዥኑ ያቅርቡ</string>
+    <string name="link_fix_band_title">ሌላውን Wi-Fi ባንድ ይሞክሩ</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">የቴሌቪዥን የርቀት መቆጣጠሪያ</string>
+    <string name="notify_channel_body">ቴሌቪዥኑ በርቶ ሳለ ማጫወት፣ ለአፍታ ማቆም እና የድምጽ መጠን</string>
+    <string name="notify_on_tv">በቴሌቪዥኑ ላይ</string>
+    <string name="notify_close">ዝጋ</string>
+    <string name="settings_notification_controls">የሚዲያ መቆጣጠሪያዎች</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">በቴሌቪዥኑ ላይ የሚታየውን ኮድ ይተይቡ</string>
+    <string name="pair_code_title">ከቴሌቪዥኑ ያለውን ኮድ ያስገቡ</string>
+    <string name="pair_code_wrong">ያ ኮድ አልተዛመደም። በቴሌቪዥኑ ላይ ያለውን አዲሱን ይሞክሩ።</string>
+    <string name="pair_code_label">ኮድ</string>
+    <string name="pair_code_submit">አጣምር</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">የማሳያ ቴሌቪዥን</string>
+    <string name="settings_demo_tv_body">የርቀት መቆጣጠሪያውን ያለ ቴሌቪዥን ይሞክሩ</string>
+    <string name="settings_demo_tv_listed">ምናባዊ ቴሌቪዥን ወደ ቴሌቪዥኖችዎ ያክላል</string>
+    <string name="settings_help">እገዛ</string>
+    <string name="settings_report">ችግርን ሪፖርት ያድርጉ</string>
+    <string name="settings_privacy">የግላዊነት መመሪያ</string>
+    <string name="settings_reset">ቅንብሮችን ዳግም አስጀምር</string>
+    <string name="settings_reset_body">ቲቪዎችዎ እንደተጣመሩ ይቆያሉ</string>
+    <string name="settings_reset_confirm">ዳግም ለማስጀመር እንደገና መታ ያድርጉ</string>
+    <string name="offline_no_wifi_title">Wi-Fi የለም</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku ከስልኮች የሚቀበለው አንዳንድ ትዕዛዞችን ብቻ ነው። Advanced system settings ውስጥ Control by mobile apps ወደ Enabled ያቀናብሩ።</string>
+    <string name="notice_adb_off">Fire TV ላይ ADB ማረምን ያብሩ፦ Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">ጠፍቷል</string>
+    <string name="ambilight_video">ቪዲዮ</string>
+    <string name="ambilight_audio">ኦዲዮ</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Ambilight ለመቆጣጠር ያጣምሩ</string>
+    <string name="ambilight_pin_hint">በቴሌቪዥኑ ላይ ያለው PIN</string>
+    <string name="ambilight_pin_wrong">የተሳሳተ PIN። አዲሱን ይሞክሩ</string>
+    <string name="search_opens_app">%1$sን ይከፍታል</string>
+    <string name="voice_search">በድምጽ ፈልግ</string>
+    <string name="voice_stop">ማዳመጥ አቁም</string>
+    <string name="voice_listening">በማዳመጥ ላይ…</string>
+    <string name="voice_mic_off">የማይክሮፎን መዳረሻ ጠፍቷል</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC ባልተጠበቀ ሁኔታ ተዘግቷል</string>
+    <string name="crash_send">ላክ</string>
+    <string name="crash_report_subject">TennaRC ብልሽት ሪፖርት %1$s</string>
+    <string name="crash_sent">ሪፖርቱ ተልኳል። እናመሰግናለን</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">የቴሌቪዥን ማጫወት፣ ለአፍታ ማቆም እና የድምጽ መጠን</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">ከዚህ ስልክ አጫውት</string>
+    <string name="phone_mirror">አንጸባርቅ</string>
+    <string name="phone_mirror_label">የዚህን ስልክ ማያ ገጽ አንጸባርቅ</string>
+    <string name="phone_gallery">ማዕከለ-ስዕላት</string>
+    <string name="phone_gallery_label">ከዚህ ስልክ ፎቶ ወይም ቪዲዮ አሳይ</string>
+    <string name="share_cant_play_file">ይህ ቴሌቪዥን ከስልኩ ፋይሎችን ማጫወት አይችልም</string>
+    <string name="notice_cast_unsupported">ቴሌቪዥኑ ይህን ዓይነት ምስል ማሳየት አይችልም</string>
+    <string name="notice_not_on_tv_network">ፋይሎቹን ለማጫወት ስልኩን ከቴሌቪዥኑ Wi-Fi ጋር ያገናኙ</string>
+    <string name="notice_file_unreadable">ያንን ፋይል ማንበብ አልተቻለም</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">ቴሌቪዥኖችን በመፈለግ ላይ</string>
+    <string name="setup_choose">ቴሌቪዥንዎን ይምረጡ</string>
+    <string name="setup_none">ምንም ቴሌቪዥን አልተገኘም</string>
+    <string name="setup_search_again">እንደገና ፈልግ</string>
+    <string name="setup_enter_ip">IP አድራሻ ያስገቡ</string>
+    <string name="setup_ip_label">IP አድራሻ</string>
+    <string name="setup_ip_none">በዚያ አድራሻ ምንም ቴሌቪዥን ምላሽ አልሰጠም</string>
+    <string name="setup_connect">አገናኝ</string>
+    <string name="setup_demo">ማሳያውን ሞክር</string>
+    <string name="setup_code_wrong">በቴሌቪዥኑ ላይ ያለውን ኮድ ያረጋግጡ</string>
+    <string name="setup_fire_tv_allow">Always allow ላይ ምልክት ያድርጉ፣ ከዚያ OK</string>
+    <string name="setup_adb_title">ADB ማረምን ያብሩ</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Control by mobile apps ያብሩ</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">ተጠናቋል</string>
+    <string name="settings_edit_tv">አርትዕ</string>
+    <string name="dev_link_title">የገንቢ ግንኙነት</string>
+    <string name="dev_link_body">የቴሌቪዥኑን የራሱን ግብዓቶች እና ሁሉንም መተግበሪያዎቹን ይዘረዝራል፣ HDMI ቁልፎችን በማይቀበሉ ቴሌቪዥኖች ላይ ግብዓት ይቀያይራል፣ በአንዳንዶቹ ላይ ደግሞ ብሩህነትን ያስተካክላል። በቴሌቪዥኑ የማረሚያ ግንኙነት (ADB) በኩል ይሰራል። ቁልፎች እና መተየብ ያለ እሱም በተመሳሳይ ይሰራሉ።</string>
+    <string name="dev_link_step_developer">በቴሌቪዥኑ ላይ Settings › System › About ይክፈቱ እና Android TV OS build የሚለውን ሰባት ጊዜ ይምረጡ። በቆዩ ቴሌቪዥኖች ላይ Device Preferences › About › Build ነው።</string>
+    <string name="dev_link_step_debugging">About አጠገብ ያለውን Developer options ይክፈቱ እና USB debugging ያብሩ። Shield ላይ Network debugging ነው።</string>
+    <string name="dev_link_step_allow">አገናኝን መታ ያድርጉ፣ ከዚያ በቴሌቪዥኑ ላይ Always allow ላይ ምልክት ያድርጉ እና OK ይምረጡ።</string>
+    <string name="dev_link_connect">አገናኝ</string>
+    <string name="dev_link_allow">በቴሌቪዥኑ ላይ ይፍቀዱ</string>
+    <string name="dev_link_allow_body">Always allow from this computer ላይ ምልክት ያድርጉ፣ ከዚያ OK</string>
+    <string name="dev_link_turn_off">አጥፋ</string>
+    <string name="dev_link_off">ጠፍቷል። ግብዓቶችን እና ሁሉንም መተግበሪያዎች ያክላል</string>
+    <string name="dev_link_away">ቴሌቪዥኑ ምላሽ እየሰጠ አይደለም። የርቀት መቆጣጠሪያው ክፍት እስከሆነ ድረስ በራሱ እንደገና ይሞክራል።</string>
+    <string name="dev_link_away_short">ምላሽ እየሰጠ አይደለም</string>
+    <string name="dev_link_debugging_off">ቴሌቪዥኑ ግንኙነቱን አልተቀበለም። USB debugging መብራቱን ያረጋግጡ። Android TV 14 ጀምሮ አንዳንድ ቴሌቪዥኖች Wireless debugging ብቻ ይቀበላሉ፣ TennaRC ደግሞ ገና ሊጠቀምበት አይችልም።</string>
+    <string name="dev_link_debugging_off_short">በቴሌቪዥኑ ላይ ማረም ጠፍቷል</string>
+    <string name="dev_link_wireless">Wireless debugging ብቻ በርቷል፣ TennaRC ደግሞ ገና ሊጠቀምበት አይችልም። USB debugging እንዲሁ ያብሩ፣ ወይም ከኮምፒውተር አንድ ጊዜ አጣምረው adb tcpip 5555 ያሂዱ፤ ይህ ቴሌቪዥኑ ዳግም እስኪጀምር ድረስ ይቆያል።</string>
+    <string name="dev_link_wireless_short">Wireless debugging ብቻ በርቷል</string>
+    <string name="dev_link_not_allowed">በቴሌቪዥኑ ላይ ማንም አልፈቀደም። እንደገና ይሞክሩ እና እዚያ OK ይምረጡ።</string>
+    <string name="dev_link_not_allowed_short">በቴሌቪዥኑ ላይ አልተፈቀደም</string>
+    <string name="dev_link_forgotten">ቴሌቪዥኑ ይህን ስልክ ረስቶታል፤ Android TV ለአንድ ሳምንት ያላያቸውን መሣሪያዎች እንዲህ ይረሳል። እንደገና ይሞክሩ እና በቴሌቪዥኑ ላይ ይፍቀዱ።</string>
+    <string name="dev_link_forgotten_short">ቴሌቪዥኑ ይህን ስልክ ረስቶታል</string>
+</resources>

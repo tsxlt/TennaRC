@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Αποστολή στην τηλεόραση</string>
+    <string name="tile_label">Τηλεχειριστήριο</string>
+    <string name="shortcut_link">Αναζήτηση</string>
+    <string name="shortcut_keyboard">Πληκτρολόγηση στην τηλεόραση</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Συνδεδεμένο</string>
+    <string name="status_connecting">Σύνδεση…</string>
+    <string name="status_awaiting">Αποδεχτείτε στην τηλεόραση</string>
+    <string name="status_offline">Η τηλεόραση μάλλον είναι κλειστή</string>
+    <string name="status_not_paired">Δεν έχει γίνει σύζευξη ακόμα</string>
+    <string name="status_standby">Σε αναμονή</string>
+    <string name="status_screen_off">Οθόνη κλειστή, ήχος ανοιχτός</string>
+    <string name="standby_title">Η τηλεόραση είναι κλειστή</string>
+    <string name="action_turn_on">Άνοιγμα</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Σύζευξη με την τηλεόραση</string>
+    <string name="pair_body">Αποδεχτείτε στην τηλεόραση όταν σας ρωτήσει.</string>
+    <string name="pair_declined_body">Η τηλεόραση απέρριψε το αίτημα. Αυτή τη φορά, επιλέξτε Αποδοχή.</string>
+    <string name="pair_action">Σύζευξη</string>
+    <string name="pair_timeout_body">Η τηλεόραση δεν απάντησε.</string>
+    <string name="pair_forgotten_body">Η τηλεόραση ξέχασε αυτό το τηλέφωνο.</string>
+    <string name="approval_title">Αποδεχτείτε στην τηλεόραση</string>
+    <string name="connecting_title">Σύνδεση…</string>
+    <string name="offline_title">Η τηλεόραση μάλλον είναι κλειστή</string>
+    <string name="action_retry">Δοκιμάστε ξανά</string>
+    <string name="action_cancel">Ακύρωση</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Αναζήτηση</string>
+    <string name="touchpad_label">Επιφάνεια αφής. Σύρετε για να μετακινήσετε τον δείκτη, πατήστε για κλικ και σύρετε με δύο δάχτυλα για κύλιση.</string>
+    <string name="dpad_label">Πλήκτρα κατεύθυνσης</string>
+    <string name="key_up">Πάνω</string>
+    <string name="key_down">Κάτω</string>
+    <string name="key_left">Αριστερά</string>
+    <string name="key_right">Δεξιά</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Πίσω</string>
+    <string name="key_home">Αρχική</string>
+    <string name="key_keyboard">Πληκτρολόγιο</string>
+    <string name="key_touchpad">Επιφάνεια αφής</string>
+    <string name="key_dpad">Βέλη</string>
+    <string name="key_more">Περισσότερα</string>
+    <string name="key_rewind">Γρήγορη επιστροφή</string>
+    <string name="key_play">Αναπαραγωγή</string>
+    <string name="key_pause">Παύση</string>
+    <string name="key_fast_forward">Γρήγορη προώθηση</string>
+    <string name="key_stop">Διακοπή</string>
+    <string name="key_volume_up">Αύξηση έντασης</string>
+    <string name="key_volume_down">Μείωση έντασης</string>
+    <string name="key_mute">Σίγαση</string>
+    <string name="key_unmute">Κατάργηση σίγασης</string>
+    <string name="volume_value">Ένταση %1$d</string>
+    <string name="volume_unknown">Ένταση, άγνωστο επίπεδο</string>
+    <string name="volume_muted">Σε σίγαση</string>
+    <string name="power">Τροφοδοσία</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="all_apps">Όλες οι εφαρμογές</string>
+    <string name="inputs">Είσοδοι</string>
+    <string name="picture_title">Εικόνα</string>
+    <string name="picture_standard">Τυπική</string>
+    <string name="picture_vivid">Ζωηρή</string>
+    <string name="picture_cinema">Σινεμά</string>
+    <string name="picture_game">Παιχνίδι</string>
+    <string name="picture_sports">Σπορ</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Ειδικός</string>
+    <string name="picture_backlight">Φωτεινότητα</string>
+    <string name="sound_title">Ήχος</string>
+    <string name="sound_tv">Ηχεία TV</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Οπτικό</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Ακουστικά</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Ηχεία</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Έξοδος γραμμής</string>
+    <string name="more_subtitles">Υπότιτλοι</string>
+    <string name="more_audio_track">Ήχος</string>
+    <string name="sleep_title">Χρονοδιακόπτης ύπνου</string>
+    <string name="sleep_minutes">%1$d λεπ.</string>
+    <string name="sleep_at">Σβήνει στις %1$s</string>
+    <string name="sleep_cancel">Ακύρωση χρονοδιακόπτη</string>
+    <string name="app_on_screen">%1$s, στην οθόνη τώρα</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Εκκίνηση στην τηλεόραση…</string>
+    <string name="cast_playing">Αναπαραγωγή στην τηλεόραση</string>
+    <string name="cast_paused">Σε παύση</string>
+    <string name="cast_stalled">Η αναπαραγωγή κόλλησε. Λειτουργεί ακόμα ο διακομιστής του βίντεο;</string>
+    <string name="cast_play">Συνέχεια</string>
+    <string name="cast_pause">Παύση</string>
+    <string name="cast_stop">Διακοπή αναπαραγωγής στην τηλεόραση</string>
+    <string name="cast_position">Θέση αναπαραγωγής</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Κλείσιμο αναζήτησης</string>
+    <string name="tv_picker">Τηλεοράσεις, τώρα %1$s</string>
+    <string name="tv_picker_add_short">Νέα</string>
+    <string name="hold_hide">Απόκρυψη</string>
+    <string name="hold_rename">Μετονομασία</string>
+    <string name="rename_input">Μετονομασία εισόδου</string>
+    <string name="rename_save">Αποθήκευση</string>
+    <string name="rename_reset">Χρήση του ονόματος της τηλεόρασης</string>
+    <string name="more_channel_list">Λίστα</string>
+    <string name="more_guide">Οδηγός</string>
+    <string name="input_label">%1$s, είσοδος</string>
+    <string name="channel_label">%2$s, κανάλι %1$s</string>
+    <string name="on_screen_now">Στην οθόνη τώρα</string>
+    <string name="deck_expanded">Διευρυμένο</string>
+    <string name="deck_collapsed">Συμπτυγμένο</string>
+    <string name="channel_hidden">Κρύφτηκε: %1$s</string>
+    <string name="action_undo">Αναίρεση</string>
+    <string name="offline_switch">Χρήση %1$s</string>
+    <string name="search_picks">Δημοφιλή τώρα</string>
+    <string name="search_clear">Απαλοιφή</string>
+    <string name="search_fill">Προσθήκη στο πλαίσιο αναζήτησης</string>
+    <string name="search_type_on_tv">Πληκτρολόγηση στην τηλεόραση</string>
+    <string name="search_in_app">Αναζήτηση στο %1$s</string>
+    <string name="search_web">Αναζήτηση με %1$s</string>
+    <string name="link_paste">Επικόλληση</string>
+    <string name="link_recent">Πρόσφατα</string>
+    <string name="link_clear_recent">Απαλοιφή</string>
+    <string name="link_kind_youtube">Βίντεο YouTube</string>
+    <string name="link_kind_video">Αρχείο βίντεο</string>
+    <string name="link_kind_audio">Αρχείο ήχου</string>
+    <string name="link_kind_image">Εικόνα</string>
+    <string name="link_kind_web">Ιστοσελίδα</string>
+    <string name="link_action_app">Άνοιγμα στο %1$s</string>
+    <string name="link_action_media">Αναπαραγωγή στην τηλεόραση</string>
+    <string name="link_action_browser">Άνοιγμα στον περιηγητή της τηλεόρασης</string>
+    <string name="link_sending">Αποστολή…</string>
+    <string name="link_sent">Άνοιξε στην τηλεόραση</string>
+    <string name="link_failed">Η τηλεόραση δεν το άνοιξε. Δοκιμάστε ξανά.</string>
+
+    <!-- Share -->
+    <string name="share_title">Αποστολή στην τηλεόραση</string>
+    <string name="share_no_link">Δεν υπάρχει σύνδεσμος σε αυτό που μοιραστήκατε.</string>
+    <string name="share_not_paired">Αυτό το τηλέφωνο δεν έχει συζευχθεί ακόμα με την τηλεόραση.</string>
+    <string name="share_open_app">Άνοιγμα τηλεχειριστηρίου</string>
+    <string name="share_waiting">Σύνδεση…</string>
+    <string name="share_cant_open">Αυτή η τηλεόραση δεν ανοίγει συνδέσμους %1$s</string>
+    <string name="action_close">Κλείσιμο</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Πληκτρολόγιο</string>
+    <string name="keyboard_placeholder_waiting">Επιλέξτε πεδίο στην τηλεόραση</string>
+    <string name="keyboard_backspace">Διαγραφή</string>
+    <string name="keyboard_clear">Απαλοιφή</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d χαρακτήρας είναι ήδη στην τηλεόραση</item>
+        <item quantity="other">%1$d χαρακτήρες είναι ήδη στην τηλεόραση</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Περισσότερα</string>
+    <string name="more_menu">Ρυθμίσεις</string>
+    <string name="more_quick">Γρήγορο μενού</string>
+    <string name="more_quick_short">Μενού</string>
+    <string name="more_info">Πληροφορίες</string>
+    <string name="more_inputs">Είσοδοι</string>
+    <string name="more_exit">Έξοδος</string>
+    <string name="more_channel_up">Επόμενο κανάλι</string>
+    <string name="more_channel_down">Προηγούμενο κανάλι</string>
+    <string name="more_red">Κόκκινο</string>
+    <string name="more_green">Πράσινο</string>
+    <string name="more_yellow">Κίτρινο</string>
+    <string name="more_blue">Μπλε</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Τροφοδοσία</string>
+    <string name="power_screen_off">Μόνο ήχος</string>
+    <string name="power_off">Κλείσιμο τηλεόρασης</string>
+    <string name="power_off_confirm">Πατήστε ξανά για κλείσιμο</string>
+    <string name="power_turn_off">Κλείσιμο</string>
+    <string name="power_tap_again">Πατήστε ξανά</string>
+    <string name="switch_on">Ενεργό</string>
+    <string name="switch_off">Ανενεργό</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Ρυθμίσεις</string>
+    <string name="settings_tv">Τηλεόραση</string>
+    <string name="settings_name">Όνομα</string>
+    <string name="settings_host">Διεύθυνση</string>
+    <string name="settings_host_invalid">Εισαγάγετε διεύθυνση IP ή όνομα κεντρικού υπολογιστή</string>
+    <string name="settings_mac">Διεύθυνση MAC (για άνοιγμα)</string>
+    <string name="settings_mac_invalid">Έξι ζεύγη δεκαεξαδικών ψηφίων, όπως 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Εύρεση τηλεοράσεων εδώ κοντά</string>
+    <string name="settings_finding">Αναζήτηση τηλεοράσεων…</string>
+    <string name="settings_found_none">Καμία τηλεόραση δεν απάντησε.</string>
+    <string name="settings_found_no_new">Δεν βρέθηκαν άλλες τηλεοράσεις</string>
+    <string name="settings_in_use">Σε χρήση</string>
+    <string name="settings_add">Προσθήκη</string>
+    <string name="settings_forget_tv">Κατάργηση %1$s</string>
+    <string name="settings_use_tv">Χρήση</string>
+    <string name="settings_remove_tv">Αφαίρεση</string>
+    <string name="settings_remove_confirm">Πατήστε ξανά για αφαίρεση</string>
+    <string name="settings_move_up">Μετακίνηση πάνω</string>
+    <string name="settings_move_down">Μετακίνηση κάτω</string>
+    <string name="settings_sensitivity">Ευαισθησία</string>
+    <string name="settings_touchpad">Επιφάνεια αφής</string>
+    <string name="settings_phone">Τηλέφωνο</string>
+    <string name="settings_natural_scroll">Φυσική κύλιση</string>
+    <string name="settings_scroll_strip">Λωρίδα κύλισης</string>
+    <string name="settings_hidden">Κρυφά</string>
+    <string name="settings_show">Εμφάνιση</string>
+    <string name="settings_theme">Θέμα</string>
+    <string name="settings_theme_auto">Αυτόματο</string>
+    <string name="settings_language">Γλώσσα</string>
+    <string name="settings_theme_system">Σύστημα</string>
+    <string name="settings_theme_light">Ανοιχτόχρωμο</string>
+    <string name="settings_theme_dark">Σκούρο</string>
+    <string name="settings_scroll_strip_right">Δεξιά</string>
+    <string name="settings_scroll_strip_left">Αριστερά</string>
+    <string name="settings_scroll_strip_off">Ανενεργό</string>
+    <string name="settings_search_engine">Αναζήτηση ιστού</string>
+    <string name="settings_search">Αναζήτηση</string>
+    <string name="settings_find_titles">Αναζήτηση ταινιών και βίντεο</string>
+    <string name="find_titles_ask">Για να τα βρει, το TennaRC στέλνει ό,τι πληκτρολογείτε στα YouTube, JustWatch και Wikidata. Μπορείτε να το αλλάξετε στις Ρυθμίσεις.</string>
+    <string name="find_titles_not_now">Όχι τώρα</string>
+    <string name="settings_volume_keys">Κουμπιά έντασης ήχου</string>
+    <string name="settings_auto_keyboard">Αυτόματο πληκτρολόγιο</string>
+    <string name="settings_haptics">Δόνηση</string>
+    <string name="settings_keep_screen_on">Διατήρηση οθόνης ανοιχτής</string>
+    <string name="settings_forget">Κατάργηση σύζευξης</string>
+    <string name="settings_forget_body">Η τηλεόραση θα ρωτήσει ξανά την επόμενη φορά</string>
+    <string name="settings_forget_confirm">Πατήστε ξανά για κατάργηση</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Δεν υπάρχει σύνδεση με την τηλεόραση</string>
+    <string name="notice_command_failed">Η τηλεόραση δεν ανταποκρίθηκε στην εντολή</string>
+    <string name="notice_launch_failed">Δεν ήταν δυνατό το άνοιγμα της εφαρμογής</string>
+    <string name="notice_open_failed">Η τηλεόραση δεν μπόρεσε να ανοίξει τον σύνδεσμο</string>
+    <string name="notice_no_renderer">Η συσκευή αναπαραγωγής πολυμέσων της τηλεόρασης δεν απαντά. Είναι ανοιχτή;</string>
+    <string name="notice_cast_failed">Η τηλεόραση δεν μπόρεσε να αναπαραγάγει τον σύνδεσμο</string>
+    <string name="notice_wake_sent">Το σήμα αφύπνισης στάλθηκε</string>
+    <string name="notice_tv_moved">Η τηλεόραση βρέθηκε σε νέα διεύθυνση</string>
+    <string name="notice_wake_failed">Δεν ήταν δυνατή η αποστολή του σήματος αφύπνισης. Ελέγξτε τη διεύθυνση MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Αργή σύνδεση</string>
+    <string name="link_help_stalling">Το Wi-Fi της τηλεόρασης κόβεται συνεχώς για λίγο.</string>
+    <string name="link_help_slow">Το Wi-Fi της τηλεόρασης είναι αδύναμο ή υπερφορτωμένο.</string>
+    <string name="link_fix_24_title">Συνδέστε την τηλεόραση σε Wi-Fi 2,4 GHz</string>
+    <string name="link_fix_ethernet_title">Χρησιμοποιήστε ένα καλώδιο Ethernet</string>
+    <string name="link_fix_extender_title">Βάλτε έναν αναμεταδότη Wi-Fi στη μέση</string>
+    <string name="link_fix_listen_title">Απενεργοποιήστε το Listen Mode στο Screen Share</string>
+    <string name="link_fix_closer_title">Μετακινήστε τον δρομολογητή πιο κοντά στην τηλεόραση</string>
+    <string name="link_fix_band_title">Δοκιμάστε την άλλη ζώνη Wi-Fi</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Τηλεχειριστήριο</string>
+    <string name="notify_channel_body">Αναπαραγωγή, παύση και ένταση ενώ η τηλεόραση είναι ανοιχτή</string>
+    <string name="notify_on_tv">Στην τηλεόραση</string>
+    <string name="notify_close">Κλείσιμο</string>
+    <string name="settings_notification_controls">Στοιχεία ελέγχου μέσων</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Πληκτρολογήστε τον κωδικό που εμφανίζεται στην τηλεόραση</string>
+    <string name="pair_code_title">Εισαγάγετε τον κωδικό της τηλεόρασης</string>
+    <string name="pair_code_wrong">Ο κωδικός δεν ταιριάζει. Δοκιμάστε τον νέο κωδικό της τηλεόρασης.</string>
+    <string name="pair_code_label">Κωδικός</string>
+    <string name="pair_code_submit">Σύζευξη</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Επίδειξη</string>
+    <string name="settings_demo_tv_body">Δοκιμάστε το τηλεχειριστήριο χωρίς τηλεόραση</string>
+    <string name="settings_demo_tv_listed">Προσθέτει μια εικονική τηλεόραση στη λίστα σας</string>
+    <string name="settings_help">Βοήθεια</string>
+    <string name="settings_report">Αναφορά προβλήματος</string>
+    <string name="settings_privacy">Πολιτική απορρήτου</string>
+    <string name="settings_reset">Επαναφορά ρυθμίσεων</string>
+    <string name="settings_reset_body">Οι τηλεοράσεις σας μένουν συζευγμένες</string>
+    <string name="settings_reset_confirm">Πατήστε ξανά για επαναφορά</string>
+    <string name="offline_no_wifi_title">Χωρίς Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Το Roku δέχεται μόνο ορισμένες εντολές από τηλέφωνα. Στο Advanced system settings ορίστε το Control by mobile apps σε Enabled.</string>
+    <string name="notice_adb_off">Ενεργοποιήστε τον εντοπισμό σφαλμάτων ADB στο Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Ανενεργό</string>
+    <string name="ambilight_video">Βίντεο</string>
+    <string name="ambilight_audio">Ήχος</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Κάντε σύζευξη για έλεγχο του Ambilight</string>
+    <string name="ambilight_pin_hint">PIN στην τηλεόραση</string>
+    <string name="ambilight_pin_wrong">Λάθος PIN. Δοκιμάστε το νέο</string>
+    <string name="search_opens_app">Ανοίγει %1$s</string>
+    <string name="voice_search">Φωνητική αναζήτηση</string>
+    <string name="voice_stop">Διακοπή ακρόασης</string>
+    <string name="voice_listening">Ακούω…</string>
+    <string name="voice_mic_off">Η πρόσβαση στο μικρόφωνο είναι απενεργοποιημένη</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">Το TennaRC έκλεισε απροσδόκητα</string>
+    <string name="crash_send">Αποστολή</string>
+    <string name="crash_report_subject">Αναφορά κατάρρευσης TennaRC %1$s</string>
+    <string name="crash_sent">Η αναφορά στάλθηκε. Ευχαριστούμε</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Αναπαραγωγή, παύση και ένταση της τηλεόρασης</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Αναπαραγωγή από αυτό το τηλέφωνο</string>
+    <string name="phone_mirror">Κατοπτρισμός</string>
+    <string name="phone_mirror_label">Κατοπτρισμός της οθόνης του τηλεφώνου</string>
+    <string name="phone_gallery">Γκαλερί</string>
+    <string name="phone_gallery_label">Προβολή φωτογραφίας ή βίντεο από αυτό το τηλέφωνο</string>
+    <string name="share_cant_play_file">Αυτή η τηλεόραση δεν μπορεί να αναπαραγάγει αρχεία από το τηλέφωνο</string>
+    <string name="notice_cast_unsupported">Η τηλεόραση δεν μπορεί να εμφανίσει αυτό το είδος εικόνας</string>
+    <string name="notice_not_on_tv_network">Συνδέστε το τηλέφωνο στο Wi-Fi της τηλεόρασης για να αναπαράγετε τα αρχεία του</string>
+    <string name="notice_file_unreadable">Δεν ήταν δυνατή η ανάγνωση του αρχείου</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Αναζήτηση τηλεοράσεων</string>
+    <string name="setup_choose">Επιλέξτε την τηλεόρασή σας</string>
+    <string name="setup_none">Δεν βρέθηκαν τηλεοράσεις</string>
+    <string name="setup_search_again">Αναζήτηση ξανά</string>
+    <string name="setup_enter_ip">Εισαγάγετε διεύθυνση IP</string>
+    <string name="setup_ip_label">Διεύθυνση IP</string>
+    <string name="setup_ip_none">Καμία τηλεόραση δεν απάντησε σε αυτή τη διεύθυνση</string>
+    <string name="setup_connect">Σύνδεση</string>
+    <string name="setup_demo">Δοκιμάστε το demo</string>
+    <string name="setup_code_wrong">Ελέγξτε τον κωδικό στην τηλεόραση</string>
+    <string name="setup_fire_tv_allow">Επιλέξτε Always allow και μετά OK</string>
+    <string name="setup_adb_title">Ενεργοποιήστε τον εντοπισμό σφαλμάτων ADB</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Ενεργοποιήστε το Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Τέλος</string>
+    <string name="settings_edit_tv">Επεξεργασία</string>
+    <string name="dev_link_title">Σύνδεση για προγραμματιστές</string>
+    <string name="dev_link_body">Εμφανίζει τις εισόδους και όλες τις εφαρμογές της τηλεόρασης, αλλάζει είσοδο σε τηλεοράσεις που αγνοούν τα πλήκτρα HDMI και ρυθμίζει τη φωτεινότητα σε ορισμένες. Λειτουργεί μέσω της σύνδεσης εντοπισμού σφαλμάτων της τηλεόρασης (ADB). Τα πλήκτρα και η πληκτρολόγηση λειτουργούν το ίδιο και χωρίς αυτήν.</string>
+    <string name="dev_link_step_developer">Στην τηλεόραση, ανοίξτε Ρυθμίσεις › Σύστημα › Πληροφορίες και επιλέξτε επτά φορές Έκδοση Android TV OS. Σε παλαιότερες τηλεοράσεις είναι Προτιμήσεις συσκευής › Πληροφορίες › Έκδοση.</string>
+    <string name="dev_link_step_debugging">Ανοίξτε τις Επιλογές για προγραμματιστές, δίπλα στις Πληροφορίες, και ενεργοποιήστε τον Εντοπισμό σφαλμάτων USB. Στο Shield λέγεται Εντοπισμός σφαλμάτων δικτύου.</string>
+    <string name="dev_link_step_allow">Πατήστε Σύνδεση και μετά, στην τηλεόραση, τσεκάρετε το Να επιτρέπεται πάντα και επιλέξτε OK.</string>
+    <string name="dev_link_connect">Σύνδεση</string>
+    <string name="dev_link_allow">Επιτρέψτε το στην τηλεόραση</string>
+    <string name="dev_link_allow_body">Τσεκάρετε το Να επιτρέπεται πάντα από αυτόν τον υπολογιστή και μετά OK</string>
+    <string name="dev_link_turn_off">Απενεργοποίηση</string>
+    <string name="dev_link_off">Ανενεργή. Προσθέτει εισόδους και όλες τις εφαρμογές</string>
+    <string name="dev_link_away">Η τηλεόραση δεν αποκρίνεται. Η σύνδεση ξαναδοκιμάζει μόνη της όσο το τηλεχειριστήριο είναι ανοιχτό.</string>
+    <string name="dev_link_away_short">Δεν αποκρίνεται</string>
+    <string name="dev_link_debugging_off">Η τηλεόραση απέρριψε τη σύνδεση. Ελέγξτε ότι ο Εντοπισμός σφαλμάτων USB είναι ενεργός. Από το Android TV 14, ορισμένες τηλεοράσεις δέχονται μόνο Ασύρματο εντοπισμό σφαλμάτων, τον οποίο το TennaRC δεν υποστηρίζει ακόμα.</string>
+    <string name="dev_link_debugging_off_short">Ο εντοπισμός σφαλμάτων είναι ανενεργός</string>
+    <string name="dev_link_wireless">Είναι ενεργός μόνο ο Ασύρματος εντοπισμός σφαλμάτων, τον οποίο το TennaRC δεν υποστηρίζει ακόμα. Ενεργοποιήστε και τον Εντοπισμό σφαλμάτων USB ή κάντε μία φορά σύζευξη από υπολογιστή και εκτελέστε adb tcpip 5555, που ισχύει μέχρι να γίνει επανεκκίνηση της τηλεόρασης.</string>
+    <string name="dev_link_wireless_short">Μόνο ασύρματος εντοπισμός σφαλμάτων</string>
+    <string name="dev_link_not_allowed">Κανείς δεν το επέτρεψε στην τηλεόραση. Δοκιμάστε ξανά και επιλέξτε OK εκεί.</string>
+    <string name="dev_link_not_allowed_short">Δεν επιτράπηκε στην τηλεόραση</string>
+    <string name="dev_link_forgotten">Η τηλεόραση ξέχασε αυτό το τηλέφωνο, όπως κάνει το Android TV με όσα δεν έχει δει για μια εβδομάδα. Δοκιμάστε ξανά και επιτρέψτε το στην τηλεόραση.</string>
+    <string name="dev_link_forgotten_short">Η τηλεόραση ξέχασε αυτό το τηλέφωνο</string>
+</resources>

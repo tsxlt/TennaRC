@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Thumela ku-TV</string>
+    <string name="tile_label">Irimothi ye-TV</string>
+    <string name="shortcut_link">Sesha</string>
+    <string name="shortcut_keyboard">Thayipha ku-TV</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Kuxhunyiwe</string>
+    <string name="status_connecting">Iyaxhuma…</string>
+    <string name="status_awaiting">Yamukela ku-TV</string>
+    <string name="status_offline">I-TV ibonakala ivaliwe</string>
+    <string name="status_not_paired">Akukabhanqwa</string>
+    <string name="status_standby">Ilindile</string>
+    <string name="status_screen_off">Isikrini sivaliwe, umsindo uvuliwe</string>
+    <string name="standby_title">I-TV ivaliwe</string>
+    <string name="action_turn_on">Vula</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Bhanqa ne-TV</string>
+    <string name="pair_body">Yamukela ku-TV uma ibuza.</string>
+    <string name="pair_declined_body">I-TV yenqabile. Kulokhu khetha ukwamukela.</string>
+    <string name="pair_action">Bhanqa</string>
+    <string name="pair_timeout_body">Ayikho impendulo evela ku-TV.</string>
+    <string name="pair_forgotten_body">I-TV ikhohliwe le foni.</string>
+    <string name="approval_title">Yamukela ku-TV</string>
+    <string name="connecting_title">Iyaxhuma…</string>
+    <string name="offline_title">I-TV ibonakala ivaliwe</string>
+    <string name="action_retry">Zama futhi</string>
+    <string name="action_cancel">Khansela</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Sesha</string>
+    <string name="touchpad_label">Iphedi yokuthinta. Hudula ukuze uhambise isikhombi, thepha ukuze uchofoze, hudula ngeminwe emibili ukuze uskrole.</string>
+    <string name="dpad_label">Inkinobho zokuqondisa</string>
+    <string name="key_up">Phezulu</string>
+    <string name="key_down">Phansi</string>
+    <string name="key_left">Kwesokunxele</string>
+    <string name="key_right">Kwesokudla</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Emuva</string>
+    <string name="key_home">Ekhaya</string>
+    <string name="key_keyboard">Ikhibhodi</string>
+    <string name="key_touchpad">Iphedi</string>
+    <string name="key_dpad">Imicibisholo</string>
+    <string name="key_more">Okuningi</string>
+    <string name="key_rewind">Buyisela emuva</string>
+    <string name="key_play">Dlala</string>
+    <string name="key_pause">Misa isikhashana</string>
+    <string name="key_fast_forward">Shesha phambili</string>
+    <string name="key_stop">Misa</string>
+    <string name="key_volume_up">Khulisa ivolumu</string>
+    <string name="key_volume_down">Nciphisa ivolumu</string>
+    <string name="key_mute">Thulisa</string>
+    <string name="key_unmute">Buyisa umsindo</string>
+    <string name="volume_value">Ivolumu %1$d</string>
+    <string name="volume_unknown">Ivolumu, izinga alaziwa</string>
+    <string name="volume_muted">Kuthulisiwe</string>
+    <string name="power">Amandla</string>
+    <string name="settings">Amasethingi</string>
+    <string name="all_apps">Wonke ama-app</string>
+    <string name="inputs">Imithombo</string>
+    <string name="picture_title">Isithombe</string>
+    <string name="picture_standard">Okujwayelekile</string>
+    <string name="picture_vivid">Okugqamile</string>
+    <string name="picture_cinema">Isinema</string>
+    <string name="picture_game">Umdlalo</string>
+    <string name="picture_sports">Ezemidlalo</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Uchwepheshe</string>
+    <string name="picture_backlight">Ukukhanya</string>
+    <string name="sound_title">Umsindo</string>
+    <string name="sound_tv">Izipikha ze-TV</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optical</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Ama-headphone</string>
+    <string name="sound_tv_short">Izipikha</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Line out</string>
+    <string name="more_subtitles">Imibhalo</string>
+    <string name="more_audio_track">Umsindo</string>
+    <string name="sleep_title">Isikhathi sokulala</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Izovala ngo-%1$s</string>
+    <string name="sleep_cancel">Khansela isikhathi</string>
+    <string name="app_on_screen">%1$s, esikrinini manje</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Iqala ku-TV…</string>
+    <string name="cast_playing">Idlala ku-TV</string>
+    <string name="cast_paused">Imisiwe isikhashana</string>
+    <string name="cast_stalled">Ayihambi. Ingabe iseva yevidiyo isasebenza?</string>
+    <string name="cast_play">Qhubeka</string>
+    <string name="cast_pause">Misa isikhashana</string>
+    <string name="cast_stop">Yeka ukudlala ku-TV</string>
+    <string name="cast_position">Indawo yokudlala</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Vala usesho</string>
+    <string name="tv_picker">Ama-TV, manje: %1$s</string>
+    <string name="tv_picker_add_short">Engeza</string>
+    <string name="hold_hide">Fihla</string>
+    <string name="hold_rename">Qamba kabusha</string>
+    <string name="rename_input">Qamba umthombo kabusha</string>
+    <string name="rename_save">Londoloza</string>
+    <string name="rename_reset">Sebenzisa igama le-TV</string>
+    <string name="more_channel_list">Uhlu</string>
+    <string name="more_guide">Uhlelo</string>
+    <string name="input_label">%1$s, umthombo</string>
+    <string name="channel_label">%2$s, isiteshi %1$s</string>
+    <string name="on_screen_now">Esikrinini manje</string>
+    <string name="deck_expanded">Kunwetshiwe</string>
+    <string name="deck_collapsed">Kugoqiwe</string>
+    <string name="channel_hidden">%1$s kufihliwe</string>
+    <string name="action_undo">Hlehlisa</string>
+    <string name="offline_switch">Sebenzisa %1$s</string>
+    <string name="search_picks">Okudumile manje</string>
+    <string name="search_clear">Sula</string>
+    <string name="search_fill">Faka ebhokisini lokusesha</string>
+    <string name="search_type_on_tv">Thayipha ku-TV</string>
+    <string name="search_in_app">Sesha ku-%1$s</string>
+    <string name="search_web">Sesha nge-%1$s</string>
+    <string name="link_paste">Namathisela</string>
+    <string name="link_recent">Okwakamuva</string>
+    <string name="link_clear_recent">Sula</string>
+    <string name="link_kind_youtube">Ividiyo ye-YouTube</string>
+    <string name="link_kind_video">Ifayela levidiyo</string>
+    <string name="link_kind_audio">Ifayela lomsindo</string>
+    <string name="link_kind_image">Isithombe</string>
+    <string name="link_kind_web">Ikhasi lewebhu</string>
+    <string name="link_action_app">Vula ku-%1$s</string>
+    <string name="link_action_media">Dlala ku-TV</string>
+    <string name="link_action_browser">Vula kusiphequluli se-TV</string>
+    <string name="link_sending">Iyathumela…</string>
+    <string name="link_sent">Kuvuliwe ku-TV</string>
+    <string name="link_failed">I-TV ayilivulanga ilinki. Zama futhi.</string>
+
+    <!-- Share -->
+    <string name="share_title">Thumela ku-TV</string>
+    <string name="share_no_link">Ayikho ilinki kulokho okwabelene ngakho.</string>
+    <string name="share_not_paired">Le foni ayikabhanqwa ne-TV.</string>
+    <string name="share_open_app">Vula irimothi</string>
+    <string name="share_waiting">Iyaxhuma…</string>
+    <string name="share_cant_open">Le TV ayikwazi ukuvula amalinki e-%1$s</string>
+    <string name="action_close">Vala</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Ikhibhodi</string>
+    <string name="keyboard_placeholder_waiting">Khetha ibhokisi lombhalo ku-TV</string>
+    <string name="keyboard_backspace">Sula emuva</string>
+    <string name="keyboard_clear">Sula</string>
+    <string name="keyboard_enter">Faka</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d uhlamvu selukhona ku-TV</item>
+        <item quantity="other">%1$d izinhlamvu sezikhona ku-TV</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Okuningi</string>
+    <string name="more_menu">Amasethingi</string>
+    <string name="more_quick">Imenyu esheshayo</string>
+    <string name="more_quick_short">Imenyu</string>
+    <string name="more_info">Ulwazi</string>
+    <string name="more_inputs">Imithombo</string>
+    <string name="more_exit">Phuma</string>
+    <string name="more_channel_up">Isiteshi esilandelayo</string>
+    <string name="more_channel_down">Isiteshi esedlule</string>
+    <string name="more_red">Bomvu</string>
+    <string name="more_green">Luhlaza</string>
+    <string name="more_yellow">Phuzi</string>
+    <string name="more_blue">Okwesibhakabhaka</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Amandla</string>
+    <string name="power_screen_off">Cisha isikrini</string>
+    <string name="power_off">Cisha i-TV</string>
+    <string name="power_off_confirm">Thepha futhi ukuze uyicishe</string>
+    <string name="power_turn_off">Cisha</string>
+    <string name="power_tap_again">Thepha futhi</string>
+    <string name="switch_on">Kuvuliwe</string>
+    <string name="switch_off">Kuvaliwe</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Amasethingi</string>
+    <string name="settings_tv">I-TV</string>
+    <string name="settings_name">Igama</string>
+    <string name="settings_host">Ikheli</string>
+    <string name="settings_host_invalid">Faka ikheli le-IP noma igama le-host</string>
+    <string name="settings_mac">Ikheli le-MAC (ukuze uyivule)</string>
+    <string name="settings_mac_invalid">Amapheya ayisithupha ezinombolo ze-hex, njengo-00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Thola ama-TV aseduze</string>
+    <string name="settings_finding">Iseshela ama-TV…</string>
+    <string name="settings_found_none">Ayikho i-TV ephendulile.</string>
+    <string name="settings_found_no_new">Awekho amanye ama-TV atholakele</string>
+    <string name="settings_in_use">Iyasetshenziswa</string>
+    <string name="settings_add">Engeza</string>
+    <string name="settings_forget_tv">Khohlwa i-%1$s</string>
+    
+    <string name="settings_use_tv">Sebenzisa le TV</string>
+    <string name="settings_remove_tv">Susa</string>
+    <string name="settings_remove_confirm">Thepha futhi ukuze ususe</string>
+    <string name="settings_move_up">Yisa phezulu</string>
+    <string name="settings_move_down">Yisa phansi</string>
+    <string name="settings_sensitivity">Ukuzwela</string>
+    <string name="settings_touchpad">Iphedi yokuthinta</string>
+    <string name="settings_phone">Ifoni</string>
+    <string name="settings_natural_scroll">Ukuskrola kwemvelo</string>
+    <string name="settings_scroll_strip">Ukuskrola</string>
+    <string name="settings_hidden">Okufihliwe</string>
+    <string name="settings_show">Bonisa</string>
+    <string name="settings_theme">Itimu</string>
+    <string name="settings_theme_auto">Okuzenzakalelayo</string>
+    <string name="settings_language">Ulimi</string>
+    <string name="settings_theme_system">Isistimu</string>
+    <string name="settings_theme_light">Ukukhanya</string>
+    <string name="settings_theme_dark">Mnyama</string>
+    <string name="settings_scroll_strip_right">Kwesokunene</string>
+    <string name="settings_scroll_strip_left">Kwesokunxele</string>
+    <string name="settings_scroll_strip_off">Kuvaliwe</string>
+    <string name="settings_search_engine">Usesho lwewebhu</string>
+    <string name="settings_search">Usesho</string>
+    
+    <string name="settings_volume_keys">Izinkinobho zevolumu</string>
+    <string name="settings_auto_keyboard">Ikhibhodi ezivulayo</string>
+    <string name="settings_haptics">Ukudlidliza</string>
+    <string name="settings_keep_screen_on">Gcina isikrini sivuliwe</string>
+    <string name="settings_forget">Khohlwa ukubhanqa</string>
+    <string name="settings_forget_body">I-TV izophinde ibuze ngokuzayo</string>
+    <string name="settings_forget_confirm">Thepha futhi ukuze ukhohlwe</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Akuxhunyiwe ne-TV</string>
+    <string name="notice_command_failed">I-TV ayiphendulanga kulokho</string>
+    <string name="notice_launch_failed">Ayikwazanga ukuvula leyo app</string>
+    <string name="notice_open_failed">I-TV ayikwazanga ukuvula ilinki</string>
+    <string name="notice_no_renderer">Isidlali semidiya se-TV asiphenduli. Ingabe sivuliwe?</string>
+    <string name="notice_cast_failed">I-TV ayikwazanga ukudlala leyo linki</string>
+    <string name="notice_wake_sent">Isignali yokuvusa ithunyelwe</string>
+    <string name="notice_tv_moved">I-TV itholakele ekhelini elisha</string>
+    <string name="notice_wake_failed">Ayikwazanga ukuthumela isignali yokuvusa. Hlola ikheli le-MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Uxhumano oluyagaya</string>
+    <string name="link_help_stalling">I-Wi-Fi ye-TV ihlala inqamuka isikhashana.</string>
+    <string name="link_help_slow">I-Wi-Fi ye-TV ibuthakathaka noma imatasa.</string>
+    <string name="link_fix_24_title">Xhuma i-TV ku-Wi-Fi ye-2.4 GHz</string>
+    <string name="link_fix_ethernet_title">Sebenzisa ikhebula le-Ethernet</string>
+    <string name="link_fix_extender_title">Engeza isandisi se-Wi-Fi phakathi nendawo</string>
+    <string name="link_fix_listen_title">Vala i-Listen Mode ku-Screen Share</string>
+    <string name="link_fix_closer_title">Sondeza i-router eduze ne-TV</string>
+    <string name="link_fix_band_title">Zama elinye ibhendi le-Wi-Fi</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Irimothi ye-TV</string>
+    <string name="notify_channel_body">Dlala, misa isikhashana nevolumu ye-TV uma ivuliwe</string>
+    <string name="notify_on_tv">Ku-TV</string>
+    <string name="notify_close">Vala</string>
+    <string name="settings_notification_controls">Izilawuli zemidiya</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Thayipha ikhodi eboniswa ku-TV</string>
+    <string name="pair_code_title">Faka ikhodi evela ku-TV</string>
+    <string name="pair_code_wrong">Leyo khodi ayifani. Zama entsha eku-TV.</string>
+    <string name="pair_code_label">Ikhodi</string>
+    <string name="pair_code_submit">Bhanqa</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">I-TV yedemo</string>
+    <string name="settings_demo_tv_body">Zama irimothi ngaphandle kwe-TV</string>
+    <string name="settings_demo_tv_listed">Yengeza i-TV yokuzenzisa kuma-TV akho</string>
+    <string name="settings_help">Usizo</string>
+    <string name="settings_report">Bika inkinga</string>
+    <string name="settings_privacy">Inqubomgomo yobumfihlo</string>
+    <string name="settings_reset">Setha kabusha amasethingi</string>
+    <string name="settings_reset_body">Ama-TV akho azohlala ebhangqiwe</string>
+    <string name="settings_reset_confirm">Thepha futhi ukuze usethe kabusha</string>
+    <string name="offline_no_wifi_title">Ayikho i-Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">I-Roku yamukela imiyalo ethile kuphela evela kumafoni. Ku-Advanced system settings yayo, setha i-Control by mobile apps ibe ngu-Enabled.</string>
+    <string name="notice_adb_off">Vula i-ADB debugging ku-Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Kuvaliwe</string>
+    <string name="ambilight_video">Ividiyo</string>
+    <string name="ambilight_audio">Umsindo</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Bhanqa ukuze ulawule i-Ambilight</string>
+    <string name="ambilight_pin_hint">I-PIN eku-TV</string>
+    <string name="ambilight_pin_wrong">I-PIN ayilungile. Zama entsha</string>
+    <string name="search_opens_app">Ivula i-%1$s</string>
+    <string name="voice_search">Sesha ngezwi</string>
+    <string name="voice_stop">Yeka ukulalela</string>
+    <string name="voice_listening">Iyalalela…</string>
+    <string name="voice_mic_off">Ukufinyelela kumakrofoni kuvaliwe</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">I-TennaRC ivaleke ngokungalindelekile</string>
+    <string name="crash_send">Thumela</string>
+    <string name="crash_report_subject">Umbiko wephutha le-TennaRC %1$s</string>
+    <string name="crash_sent">Umbiko uthunyelwe. Ngiyabonga</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Dlala, misa isikhashana nevolumu ye-TV</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Dlala kusuka kule foni</string>
+    <string name="phone_mirror">Bonisa isikrini</string>
+    <string name="phone_mirror_label">Bonisa isikrini sale foni ku-TV</string>
+    <string name="phone_gallery">Igalari</string>
+    <string name="phone_gallery_label">Dlala isithombe noma ividiyo kusuka kule foni</string>
+    <string name="share_cant_play_file">Le TV ayikwazi ukudlala amafayela avela kufoni</string>
+    <string name="notice_cast_unsupported">I-TV ayikwazi ukubonisa lolu hlobo lwesithombe</string>
+    <string name="notice_not_on_tv_network">Xhuma ifoni ku-Wi-Fi ye-TV ukuze udlale amafayela ayo</string>
+    <string name="notice_file_unreadable">Ayikwazanga ukufunda lelo fayela</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Iseshela ama-TV</string>
+    <string name="setup_choose">Khetha i-TV yakho</string>
+    <string name="setup_none">Awekho ama-TV atholakele</string>
+    <string name="setup_search_again">Sesha futhi</string>
+    <string name="setup_enter_ip">Faka ikheli le-IP</string>
+    <string name="setup_ip_label">Ikheli le-IP</string>
+    <string name="setup_ip_none">Ayikho i-TV ephendulile lapho</string>
+    <string name="setup_connect">Xhuma</string>
+    <string name="setup_demo">Zama idemo</string>
+    <string name="setup_code_wrong">Hlola ikhodi eku-TV</string>
+    <string name="setup_fire_tv_allow">Maka i-Always allow, bese u-OK</string>
+    <string name="setup_adb_title">Vula i-ADB debugging</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Vula i-Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Kwenziwe</string>
+
+    <string name="dev_link_allow">Vumela ku-TV</string>
+    <string name="dev_link_allow_body">Maka i-Always allow from this computer, bese u-OK</string>
+    <string name="dev_link_away">I-TV ayiphenduli. I-app iyazama futhi ngokwayo uma irimothi ivuliwe.</string>
+    <string name="dev_link_away_short">Ayiphenduli</string>
+    <string name="dev_link_body">Ibonisa imithombo ye-TV nawo wonke ama-app ayo, ishintsha umthombo kuma-TV angazinaki izinkinobho ze-HDMI, futhi isetha ukukhanya kwamanye. Isebenzisa uxhumano lokususa amaphutha (ADB) lwe-TV. Izinkinobho nokuthayipha kusebenza ngendlela efanayo ngaphandle kwalo.</string>
+    <string name="dev_link_connect">Xhuma</string>
+    <string name="dev_link_debugging_off">I-TV ilwenqabile uxhumano. Hlola ukuthi i-USB debugging ivuliwe. Kusukela ku-Android TV 14 amanye ama-TV amukela kuphela i-Wireless debugging, i-TennaRC engakakwazi ukuyisebenzisa.</string>
+    <string name="dev_link_debugging_off_short">I-debugging ivaliwe ku-TV</string>
+    <string name="dev_link_forgotten">I-TV ikhohliwe le foni, njengoba i-Android TV yenza kufoni engayibonanga isonto. Zama futhi, bese uyivumela ku-TV.</string>
+    <string name="dev_link_forgotten_short">I-TV ikhohliwe le foni</string>
+    <string name="dev_link_not_allowed">Akekho okuvumele ku-TV. Zama futhi, bese ukhetha u-OK lapho.</string>
+    <string name="dev_link_not_allowed_short">Akuvunyelwe ku-TV</string>
+    <string name="dev_link_off">Kuvaliwe. Yengeza imithombo nawo wonke ama-app</string>
+    <string name="dev_link_step_allow">Thepha u-Xhuma, bese ku-TV umaka i-Always allow futhi ukhethe u-OK.</string>
+    <string name="dev_link_step_debugging">Vula i-Developer options, eduze ne-About, bese uvula i-USB debugging. Ku-Shield yi-Network debugging.</string>
+    <string name="dev_link_step_developer">Ku-TV, vula Settings › System › About bese ukhetha i-Android TV OS build kasikhombisa. Kuma-TV amadala yi-Device Preferences › About › Build.</string>
+    <string name="dev_link_title">Uxhumano lukanjiniyela</string>
+    <string name="dev_link_turn_off">Vala</string>
+    <string name="dev_link_wireless">Kuvulwe kuphela i-Wireless debugging, i-TennaRC engakakwazi ukuyisebenzisa. Vula ne-USB debugging, noma ubhanqe kanye kusuka kukhompyutha bese usebenzisa i-adb tcpip 5555, ehlala ize i-TV iqale kabusha.</string>
+    <string name="dev_link_wireless_short">Kuvulwe kuphela i-Wireless debugging</string>
+    <string name="settings_edit_tv">Hlela</string>
+    <string name="settings_find_titles">Sesha amafilimu novidiyo</string>
+    <string name="find_titles_ask">Ukuze uwathole, i-TennaRC ithumela okubhalayo ku-YouTube, JustWatch kanye ne-Wikidata. Ungakushintsha lokhu kumaSethingi.</string>
+    <string name="find_titles_not_now">Hhayi manje</string>
+</resources>

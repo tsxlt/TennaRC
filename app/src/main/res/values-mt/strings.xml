@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Ibgħat lit-TV</string>
+    <string name="tile_label">Rimot tat-TV</string>
+    <string name="shortcut_link">Fittex</string>
+    <string name="shortcut_keyboard">Ikteb fuq it-TV</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Konness</string>
+    <string name="status_connecting">Qed jikkonnettja…</string>
+    <string name="status_awaiting">Aċċetta fuq it-TV</string>
+    <string name="status_offline">Jidher li t-TV mitfija</string>
+    <string name="status_not_paired">Għadu mhux imqabbad</string>
+    <string name="status_standby">Fi standby</string>
+    <string name="status_screen_off">Skrin mitfi, ħoss mixgħul</string>
+    <string name="standby_title">It-TV mitfija</string>
+    <string name="action_turn_on">Ixgħel</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Qabbad mat-TV</string>
+    <string name="pair_body">Aċċetta fuq it-TV meta tistaqsik.</string>
+    <string name="pair_declined_body">It-TV qalet le. Din id-darba agħżel Aċċetta.</string>
+    <string name="pair_action">Qabbad</string>
+    <string name="pair_timeout_body">L-ebda tweġiba mit-TV.</string>
+    <string name="pair_forgotten_body">It-TV insiet dan it-telefon.</string>
+    <string name="approval_title">Aċċetta fuq it-TV</string>
+    <string name="connecting_title">Qed jikkonnettja…</string>
+    <string name="offline_title">Jidher li t-TV mitfija</string>
+    <string name="action_retry">Erġa\' pprova</string>
+    <string name="action_cancel">Ikkanċella</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Fittex</string>
+    <string name="touchpad_label">Touchpad. Kaxkar biex tmexxi l-pointer, ittektek biex tikklikkja, kaxkar b\'żewġ swaba\' biex tiskrollja.</string>
+    <string name="dpad_label">Buttuni tad-direzzjoni</string>
+    <string name="key_up">Fuq</string>
+    <string name="key_down">Taħt</string>
+    <string name="key_left">Xellug</string>
+    <string name="key_right">Lemin</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Lura</string>
+    <string name="key_home">Home</string>
+    <string name="key_keyboard">Tastiera</string>
+    <string name="key_touchpad">Touchpad</string>
+    <string name="key_dpad">Vleġeġ</string>
+    <string name="key_more">Aktar</string>
+    <string name="key_rewind">Lura</string>
+    <string name="key_play">Ħaddem</string>
+    <string name="key_pause">Pawża</string>
+    <string name="key_fast_forward">\'Il quddiem malajr</string>
+    <string name="key_stop">Waqqaf</string>
+    <string name="key_volume_up">Għolli l-volum</string>
+    <string name="key_volume_down">Baxxi l-volum</string>
+    <string name="key_mute">Itfi l-ħoss</string>
+    <string name="key_unmute">Ixgħel il-ħoss</string>
+    <string name="volume_value">Volum %1$d</string>
+    <string name="volume_unknown">Volum, livell mhux magħruf</string>
+    <string name="volume_muted">Bla ħoss</string>
+    <string name="power">Ixgħel/Itfi</string>
+    <string name="settings">Issettjar</string>
+    <string name="all_apps">L-apps kollha</string>
+    <string name="inputs">Daħliet</string>
+    <string name="picture_title">Stampa</string>
+    <string name="picture_standard">Standard</string>
+    <string name="picture_vivid">Ħaj</string>
+    <string name="picture_cinema">Sinema</string>
+    <string name="picture_game">Logħba</string>
+    <string name="picture_sports">Sport</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Espert</string>
+    <string name="picture_backlight">Luminożità</string>
+    <string name="sound_title">Ħoss</string>
+    <string name="sound_tv">Spikers tat-TV</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Ottiku</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Headphones</string>
+    <string name="sound_tv_short">Spikers</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Line out</string>
+    <string name="more_subtitles">Sottotitoli</string>
+    <string name="more_audio_track">Awdjo</string>
+    <string name="sleep_title">Timer tal-irqad</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Jintefa fil-%1$s</string>
+    <string name="sleep_cancel">Ikkanċella t-timer</string>
+    <string name="app_on_screen">%1$s, fuq l-iskrin issa</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Qed tibda fuq it-TV…</string>
+    <string name="cast_playing">Għaddej fuq it-TV</string>
+    <string name="cast_paused">Ippawżat</string>
+    <string name="cast_stalled">Mhux miexi. Is-server tal-vidjo għadu jaħdem?</string>
+    <string name="cast_play">Kompli</string>
+    <string name="cast_pause">Pawża</string>
+    <string name="cast_stop">Waqqaf fuq it-TV</string>
+    <string name="cast_position">Pożizzjoni</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Agħlaq it-tfittxija</string>
+    <string name="tv_picker">TVs, issa %1$s</string>
+    <string name="tv_picker_add_short">Żid</string>
+    <string name="hold_hide">Aħbi</string>
+    <string name="hold_rename">Ibdel l-isem</string>
+    <string name="rename_input">Ibdel l-isem tad-daħla</string>
+    <string name="rename_save">Issalva</string>
+    <string name="rename_reset">Uża l-isem tal-TV</string>
+    <string name="more_channel_list">Lista</string>
+    <string name="more_guide">Gwida</string>
+    <string name="input_label">%1$s, daħla</string>
+    <string name="channel_label">%2$s, kanal %1$s</string>
+    <string name="on_screen_now">Fuq l-iskrin issa</string>
+    <string name="deck_expanded">Estiż</string>
+    <string name="deck_collapsed">Magħluq</string>
+    <string name="channel_hidden">%1$s moħbi</string>
+    <string name="action_undo">Erġa\' lura</string>
+    <string name="offline_switch">Uża %1$s</string>
+    <string name="search_picks">Popolari issa</string>
+    <string name="search_clear">Ħassar</string>
+    <string name="search_fill">Poġġih fil-kaxxa tat-tfittxija</string>
+    <string name="search_type_on_tv">Ikteb fuq it-TV</string>
+    <string name="search_in_app">Fittex %1$s</string>
+    <string name="search_web">Fittex %1$s</string>
+    <string name="link_paste">Waħħal</string>
+    <string name="link_recent">Riċenti</string>
+    <string name="link_clear_recent">Ħassar</string>
+    <string name="link_kind_youtube">Vidjo ta\' YouTube</string>
+    <string name="link_kind_video">Fajl tal-vidjo</string>
+    <string name="link_kind_audio">Fajl tal-awdjo</string>
+    <string name="link_kind_image">Stampa</string>
+    <string name="link_kind_web">Paġna tal-web</string>
+    <string name="link_action_app">Iftaħ f\'%1$s</string>
+    <string name="link_action_media">Ħaddem fuq it-TV</string>
+    <string name="link_action_browser">Iftaħ fil-browser tal-TV</string>
+    <string name="link_sending">Qed jintbagħat…</string>
+    <string name="link_sent">Infetaħ fuq it-TV</string>
+    <string name="link_failed">It-TV ma fetħitux. Erġa\' pprova.</string>
+
+    <!-- Share -->
+    <string name="share_title">Ibgħat lit-TV</string>
+    <string name="share_no_link">M\'hemmx link f\'dak li qsamt.</string>
+    <string name="share_not_paired">Dan it-telefon għadu mhux imqabbad mat-TV.</string>
+    <string name="share_open_app">Iftaħ ir-rimot</string>
+    <string name="share_waiting">Qed jikkonnettja…</string>
+    <string name="share_cant_open">Din it-TV ma tistax tiftaħ links ta\' %1$s</string>
+    <string name="action_close">Agħlaq</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Tastiera</string>
+    <string name="keyboard_placeholder_waiting">Agħżel kaxxa tat-test fuq it-TV</string>
+    <string name="keyboard_backspace">Backspace</string>
+    <string name="keyboard_clear">Ħassar</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d karattru diġà fuq it-TV</item>
+        <item quantity="two">%1$d karattri diġà fuq it-TV</item>
+        <item quantity="few">%1$d karattri diġà fuq it-TV</item>
+        <item quantity="many">%1$d karattru diġà fuq it-TV</item>
+        <item quantity="other">%1$d karattru diġà fuq it-TV</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Aktar</string>
+    <string name="more_menu">Issettjar</string>
+    <string name="more_quick">Menu ta\' malajr</string>
+    <string name="more_quick_short">Menu</string>
+    <string name="more_info">Info</string>
+    <string name="more_inputs">Daħliet</string>
+    <string name="more_exit">Oħroġ</string>
+    <string name="more_channel_up">Il-kanal li jmiss</string>
+    <string name="more_channel_down">Il-kanal ta\' qabel</string>
+    <string name="more_red">Aħmar</string>
+    <string name="more_green">Aħdar</string>
+    <string name="more_yellow">Isfar</string>
+    <string name="more_blue">Blu</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Ixgħel/Itfi</string>
+    <string name="power_screen_off">Itfi l-iskrin</string>
+    <string name="power_off">Itfi l-TV</string>
+    <string name="power_off_confirm">Erġa\' ttektek biex titfi</string>
+    <string name="power_turn_off">Itfi</string>
+    <string name="power_tap_again">Erġa\' ttektek</string>
+    <string name="switch_on">Mixgħul</string>
+    <string name="switch_off">Mitfi</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Issettjar</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Isem</string>
+    <string name="settings_host">Indirizz</string>
+    <string name="settings_host_invalid">Daħħal indirizz IP jew isem tal-host</string>
+    <string name="settings_mac">Indirizz MAC (biex tixgħelha)</string>
+    <string name="settings_mac_invalid">Sitt pari ta\' ċifri hex, bħal 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Sib TVs fil-qrib</string>
+    <string name="settings_finding">Qed infittex TVs…</string>
+    <string name="settings_found_none">L-ebda TV ma wieġbet.</string>
+    <string name="settings_found_no_new">Ma nstabet l-ebda TV oħra</string>
+    <string name="settings_in_use">Qed jintuża</string>
+    <string name="settings_add">Żid</string>
+    <string name="settings_forget_tv">Insa %1$s</string>
+    
+    <string name="settings_use_tv">Uża din il-TV</string>
+    <string name="settings_remove_tv">Neħħi</string>
+    <string name="settings_remove_confirm">Erġa\' ttektek biex tneħħi</string>
+    <string name="settings_move_up">Ċaqlaq \'il fuq</string>
+    <string name="settings_move_down">Ċaqlaq \'l isfel</string>
+    <string name="settings_sensitivity">Sensittività</string>
+    <string name="settings_touchpad">Touchpad</string>
+    <string name="settings_phone">Telefon</string>
+    <string name="settings_natural_scroll">Skrolljar naturali</string>
+    <string name="settings_scroll_strip">Strixxa tal-iskrolljar</string>
+    <string name="settings_hidden">Moħbija</string>
+    <string name="settings_show">Uri</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_auto">Awtomatiku</string>
+    <string name="settings_language">Lingwa</string>
+    <string name="settings_theme_system">Sistema</string>
+    <string name="settings_theme_light">Ċar</string>
+    <string name="settings_theme_dark">Skur</string>
+    <string name="settings_scroll_strip_right">Lemin</string>
+    <string name="settings_scroll_strip_left">Xellug</string>
+    <string name="settings_scroll_strip_off">Mitfi</string>
+    <string name="settings_search_engine">Tfittxija fuq il-web</string>
+    <string name="settings_search">Tfittxija</string>
+    
+    <string name="settings_volume_keys">Buttuni tal-volum</string>
+    <string name="settings_auto_keyboard">Tastiera awtomatika</string>
+    <string name="settings_haptics">Vibrazzjoni</string>
+    <string name="settings_keep_screen_on">Żomm l-iskrin mixgħul</string>
+    <string name="settings_forget">Insa t-tqabbid</string>
+    <string name="settings_forget_body">It-TV terġa\' tistaqsi d-darba li jmiss</string>
+    <string name="settings_forget_confirm">Erġa\' ttektek biex tinsa</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Mhux konness mat-TV</string>
+    <string name="notice_command_failed">It-TV ma rrispondietx għal dan</string>
+    <string name="notice_launch_failed">Dik l-app ma setgħetx tinfetaħ</string>
+    <string name="notice_open_failed">It-TV ma setgħetx tiftaħ il-link</string>
+    <string name="notice_no_renderer">Il-media player tat-TV mhux qed iwieġeb. Mixgħul?</string>
+    <string name="notice_cast_failed">It-TV ma setgħetx tħaddem dak il-link</string>
+    <string name="notice_wake_sent">Is-sinjal tat-tqajjim intbagħat</string>
+    <string name="notice_tv_moved">It-TV instabet f\'indirizz ġdid</string>
+    <string name="notice_wake_failed">Is-sinjal tat-tqajjim ma setax jintbagħat. Iċċekkja l-indirizz MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Konnessjoni bil-mod</string>
+    <string name="link_help_stalling">Il-Wi-Fi tat-TV jibqa\' jinqata\' għal ftit.</string>
+    <string name="link_help_slow">Il-Wi-Fi tat-TV dgħajjef jew mgħobbi.</string>
+    <string name="link_fix_24_title">Qabbad it-TV mal-Wi-Fi ta\' 2.4 GHz</string>
+    <string name="link_fix_ethernet_title">Uża kablu tal-Ethernet</string>
+    <string name="link_fix_extender_title">Żid Wi-Fi extender f\'nofs it-triq</string>
+    <string name="link_fix_listen_title">Itfi Listen Mode fi Screen Share</string>
+    <string name="link_fix_closer_title">Qarreb ir-router lejn it-TV</string>
+    <string name="link_fix_band_title">Ipprova l-band l-oħra tal-Wi-Fi</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Rimot tat-TV</string>
+    <string name="notify_channel_body">Ħaddem, pawża u volum għat-TV meta tkun mixgħula</string>
+    <string name="notify_on_tv">Fuq it-TV</string>
+    <string name="notify_close">Agħlaq</string>
+    <string name="settings_notification_controls">Kontrolli tal-midja</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Ikteb il-kodiċi li jidher fuq it-TV</string>
+    <string name="pair_code_title">Daħħal il-kodiċi mit-TV</string>
+    <string name="pair_code_wrong">Dak il-kodiċi ma qabilx. Ipprova l-ġdid fuq it-TV.</string>
+    <string name="pair_code_label">Kodiċi</string>
+    <string name="pair_code_submit">Qabbad</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">TV demo</string>
+    <string name="settings_demo_tv_body">Ipprova r-rimot mingħajr TV</string>
+    <string name="settings_demo_tv_listed">Iżżid TV fittizja mat-TVs tiegħek</string>
+    <string name="settings_help">Għajnuna</string>
+    <string name="settings_report">Irrapporta problema</string>
+    <string name="settings_privacy">Politika tal-privatezza</string>
+    <string name="settings_reset">Irrisettja l-issettjar</string>
+    <string name="settings_reset_body">It-televixins tiegħek jibqgħu mqabbla</string>
+    <string name="settings_reset_confirm">Erġa\' ttektek biex tirrisettja</string>
+    <string name="offline_no_wifi_title">Bla Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Ir-Roku jaċċetta biss xi kmandi mit-telefons. Issettja Control by mobile apps għal Enabled fl-Advanced system settings tiegħu.</string>
+    <string name="notice_adb_off">Ixgħel ADB debugging fuq il-Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Mitfi</string>
+    <string name="ambilight_video">Vidjo</string>
+    <string name="ambilight_audio">Awdjo</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Qabbad biex tikkontrolla l-Ambilight</string>
+    <string name="ambilight_pin_hint">PIN fuq it-TV</string>
+    <string name="ambilight_pin_wrong">PIN ħażin. Ipprova l-ġdid</string>
+    <string name="search_opens_app">Jiftaħ %1$s</string>
+    <string name="voice_search">Fittex bil-vuċi</string>
+    <string name="voice_stop">Ieqaf isma\'</string>
+    <string name="voice_listening">Qed nisma\'…</string>
+    <string name="voice_mic_off">L-aċċess għall-mikrofonu mitfi</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC għalqet bla mistenni</string>
+    <string name="crash_send">Ibgħat</string>
+    <string name="crash_report_subject">Rapport ta\' crash ta\' TennaRC %1$s</string>
+    <string name="crash_sent">Rapport mibgħut. Grazzi</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Ħaddem, pawża u volum għat-TV</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Ħaddem minn dan it-telefon</string>
+    <string name="phone_mirror">Mera</string>
+    <string name="phone_mirror_label">Irrifletti l-iskrin ta\' dan it-telefon</string>
+    <string name="phone_gallery">Gallerija</string>
+    <string name="phone_gallery_label">Ħaddem ritratt jew vidjo minn dan it-telefon</string>
+    <string name="share_cant_play_file">Din it-TV ma tistax tħaddem fajls mit-telefon</string>
+    <string name="notice_cast_unsupported">It-TV ma tistax turi dan it-tip ta\' stampa</string>
+    <string name="notice_not_on_tv_network">Qabbad it-telefon mal-Wi-Fi tat-TV biex tħaddem il-fajls tiegħu</string>
+    <string name="notice_file_unreadable">Dak il-fajl ma setax jinqara</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Qed infittex TVs</string>
+    <string name="setup_choose">Agħżel it-TV tiegħek</string>
+    <string name="setup_none">Ma nstabet l-ebda TV</string>
+    <string name="setup_search_again">Erġa\' fittex</string>
+    <string name="setup_enter_ip">Daħħal l-indirizz IP</string>
+    <string name="setup_ip_label">Indirizz IP</string>
+    <string name="setup_ip_none">L-ebda TV ma wieġbet hemm</string>
+    <string name="setup_connect">Ikkonnettja</string>
+    <string name="setup_demo">Ipprova d-demo</string>
+    <string name="setup_code_wrong">Iċċekkja l-kodiċi fuq it-TV</string>
+    <string name="setup_fire_tv_allow">Immarka Always allow, imbagħad OK</string>
+    <string name="setup_adb_title">Ixgħel ADB debugging</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Ixgħel Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Lest</string>
+
+    <string name="dev_link_allow">Ippermetti fuq it-TV</string>
+    <string name="dev_link_allow_body">Immarka Always allow from this computer, imbagħad OK</string>
+    <string name="dev_link_away">It-TV mhix qed twieġeb. Terġa\' tipprova waħedha sakemm ir-rimot ikun miftuħ.</string>
+    <string name="dev_link_away_short">Mhix qed twieġeb</string>
+    <string name="dev_link_body">Turi d-daħliet u l-apps kollha tat-TV, taqleb id-daħla fuq TVs li ma jagħtux kas tal-buttuni HDMI, u fuq xi wħud tissettja l-luminożità. Taħdem permezz tal-konnessjoni tad-debugging tat-TV (ADB). Il-buttuni u t-tajping jaħdmu l-istess mingħajrha.</string>
+    <string name="dev_link_connect">Ikkonnettja</string>
+    <string name="dev_link_debugging_off">It-TV irrifjutat il-konnessjoni. Iċċekkja li USB debugging mixgħul. Minn Android TV 14 xi TVs jaċċettaw biss Wireless debugging, li TennaRC għadha ma tistax tuża.</string>
+    <string name="dev_link_debugging_off_short">Id-debugging mitfi fuq it-TV</string>
+    <string name="dev_link_forgotten">It-TV insiet dan it-telefon, kif tagħmel Android TV ma\' wieħed li ma tarax għal ġimgħa. Erġa\' pprova, u ppermettih fuq it-TV.</string>
+    <string name="dev_link_forgotten_short">It-TV insiet dan it-telefon</string>
+    <string name="dev_link_not_allowed">Ħadd ma ppermettieh fuq it-TV. Erġa\' pprova, u agħżel OK hemm.</string>
+    <string name="dev_link_not_allowed_short">Mhux permess fuq it-TV</string>
+    <string name="dev_link_off">Mitfija. Iżżid id-daħliet u l-apps kollha</string>
+    <string name="dev_link_step_allow">Ittektek Ikkonnettja, imbagħad fuq it-TV immarka Always allow u agħżel OK.</string>
+    <string name="dev_link_step_debugging">Iftaħ Developer options, ħdejn About, u ixgħel USB debugging. Fuq Shield huwa Network debugging.</string>
+    <string name="dev_link_step_developer">Fuq it-TV, iftaħ Settings › System › About u agħżel Android TV OS build seba\' darbiet. Fuq TVs eqdem huwa Device Preferences › About › Build.</string>
+    <string name="dev_link_title">Konnessjoni tal-iżviluppatur</string>
+    <string name="dev_link_turn_off">Itfi</string>
+    <string name="dev_link_wireless">Wireless debugging biss mixgħul, li TennaRC għadha ma tistax tuża. Ixgħel ukoll USB debugging, jew qabbad darba minn kompjuter u ħaddem adb tcpip 5555, li jibqa\' sakemm it-TV terġa\' tibda.</string>
+    <string name="dev_link_wireless_short">Wireless debugging biss mixgħul</string>
+    <string name="settings_edit_tv">Editja</string>
+    <string name="settings_find_titles">Fittex il-films u l-vidjow</string>
+    <string name="find_titles_ask">Biex isibhom, TennaRC jibgħat dak li tikteb lil YouTube, JustWatch u Wikidata. Tista\' tbiddel dan fl-Issettjar.</string>
+    <string name="find_titles_not_now">Mhux issa</string>
+</resources>

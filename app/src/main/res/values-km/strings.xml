@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">ផ្ញើទៅទូរទស្សន៍</string>
+    <string name="tile_label">តេឡេបញ្ជាទូរទស្សន៍</string>
+    <string name="shortcut_link">ស្វែងរក</string>
+    <string name="shortcut_keyboard">វាយលើទូរទស្សន៍</string>
+
+    <!-- Status line -->
+    <string name="status_connected">បានភ្ជាប់</string>
+    <string name="status_connecting">កំពុងភ្ជាប់…</string>
+    <string name="status_awaiting">ទទួលយកលើទូរទស្សន៍</string>
+    <string name="status_offline">ទូរទស្សន៍ហាក់ដូចជាបិទ</string>
+    <string name="status_not_paired">មិនទាន់ផ្គូផ្គងទេ</string>
+    <string name="status_standby">កំពុងរង់ចាំ</string>
+    <string name="status_screen_off">អេក្រង់បិទ សំឡេងបើក</string>
+    <string name="standby_title">ទូរទស្សន៍បិទ</string>
+    <string name="action_turn_on">បើក</string>
+
+    <!-- State panels -->
+    <string name="pair_title">ផ្គូផ្គងជាមួយទូរទស្សន៍</string>
+    <string name="pair_body">ទទួលយកលើទូរទស្សន៍នៅពេលវាស្នើ។</string>
+    <string name="pair_declined_body">ទូរទស្សន៍បានបដិសេធ។ លើកនេះ ជ្រើស ទទួលយក។</string>
+    <string name="pair_action">ផ្គូផ្គង</string>
+    <string name="pair_timeout_body">គ្មានការឆ្លើយតបពីទូរទស្សន៍។</string>
+    <string name="pair_forgotten_body">ទូរទស្សន៍បានភ្លេចទូរស័ព្ទនេះ។</string>
+    <string name="approval_title">ទទួលយកលើទូរទស្សន៍</string>
+    <string name="connecting_title">កំពុងភ្ជាប់…</string>
+    <string name="offline_title">ទូរទស្សន៍ហាក់ដូចជាបិទ</string>
+    <string name="action_retry">ព្យាយាមម្តងទៀត</string>
+    <string name="action_cancel">បោះបង់</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">ស្វែងរក</string>
+    <string name="touchpad_label">ផ្ទាំងប៉ះ។ អូសដើម្បីផ្លាស់ទីទស្សន៍ទ្រនិច ប៉ះដើម្បីចុច អូសដោយម្រាមដៃពីរដើម្បីរំកិល។</string>
+    <string name="dpad_label">ប៊ូតុងទិសដៅ</string>
+    <string name="key_up">ឡើង</string>
+    <string name="key_down">ចុះ</string>
+    <string name="key_left">ឆ្វេង</string>
+    <string name="key_right">ស្តាំ</string>
+    <string name="key_ok">យល់ព្រម</string>
+    <string name="key_back">ថយក្រោយ</string>
+    <string name="key_home">ទំព័រដើម</string>
+    <string name="key_keyboard">ក្ដារចុច</string>
+    <string name="key_touchpad">ផ្ទាំងប៉ះ</string>
+    <string name="key_dpad">ព្រួញ</string>
+    <string name="key_more">ច្រើនទៀត</string>
+    <string name="key_rewind">ថយក្រោយលឿន</string>
+    <string name="key_play">ចាក់</string>
+    <string name="key_pause">ផ្អាក</string>
+    <string name="key_fast_forward">ទៅមុខលឿន</string>
+    <string name="key_stop">បញ្ឈប់</string>
+    <string name="key_volume_up">បង្កើនសំឡេង</string>
+    <string name="key_volume_down">បន្ថយសំឡេង</string>
+    <string name="key_mute">បិទសំឡេង</string>
+    <string name="key_unmute">បើកសំឡេង</string>
+    <string name="volume_value">កម្រិតសំឡេង %1$d</string>
+    <string name="volume_unknown">កម្រិតសំឡេង មិនដឹងកម្រិត</string>
+    <string name="volume_muted">បានបិទសំឡេង</string>
+    <string name="power">ថាមពល</string>
+    <string name="settings">ការកំណត់</string>
+    <string name="all_apps">កម្មវិធីទាំងអស់</string>
+    <string name="inputs">ប្រភពបញ្ចូល</string>
+    <string name="picture_title">រូបភាព</string>
+    <string name="picture_standard">ស្តង់ដារ</string>
+    <string name="picture_vivid">រស់រវើក</string>
+    <string name="picture_cinema">ភាពយន្ត</string>
+    <string name="picture_game">ហ្គេម</string>
+    <string name="picture_sports">កីឡា</string>
+    <string name="picture_eco">សន្សំថាមពល</string>
+    <string name="picture_expert">អ្នកជំនាញ</string>
+    <string name="picture_backlight">ពន្លឺ</string>
+    <string name="sound_title">សំឡេង</string>
+    <string name="sound_tv">បំពងសំឡេងទូរទស្សន៍</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optical</string>
+    <string name="sound_bluetooth">ប្លូធូស</string>
+    <string name="sound_headphones">កាស</string>
+    <string name="sound_tv_short">បំពងសំឡេង</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Line out</string>
+    <string name="more_subtitles">អក្សររត់</string>
+    <string name="more_audio_track">សំឡេង</string>
+    <string name="sleep_title">កំណត់ម៉ោងបិទ</string>
+    <string name="sleep_minutes">%1$d នាទី</string>
+    <string name="sleep_at">បិទនៅម៉ោង %1$s</string>
+    <string name="sleep_cancel">បោះបង់ការកំណត់ម៉ោង</string>
+    <string name="app_on_screen">%1$s កំពុងនៅលើអេក្រង់</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">កំពុងចាប់ផ្ដើមលើទូរទស្សន៍…</string>
+    <string name="cast_playing">កំពុងចាក់លើទូរទស្សន៍</string>
+    <string name="cast_paused">បានផ្អាក</string>
+    <string name="cast_stalled">មិនដើរទៅមុខ។ តើម៉ាស៊ីនមេវីដេអូនៅដំណើរការទេ?</string>
+    <string name="cast_play">បន្ត</string>
+    <string name="cast_pause">ផ្អាក</string>
+    <string name="cast_stop">ឈប់ចាក់លើទូរទស្សន៍</string>
+    <string name="cast_position">ទីតាំងចាក់</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">បិទការស្វែងរក</string>
+    <string name="tv_picker">ទូរទស្សន៍ ឥឡូវ %1$s</string>
+    <string name="tv_picker_add_short">បន្ថែម</string>
+    <string name="hold_hide">លាក់</string>
+    <string name="hold_rename">ប្ដូរឈ្មោះ</string>
+    <string name="rename_input">ប្ដូរឈ្មោះប្រភពបញ្ចូល</string>
+    <string name="rename_save">រក្សាទុក</string>
+    <string name="rename_reset">ប្រើឈ្មោះទូរទស្សន៍</string>
+    <string name="more_channel_list">បញ្ជី</string>
+    <string name="more_guide">កាលវិភាគ</string>
+    <string name="input_label">%1$s ប្រភពបញ្ចូល</string>
+    <string name="channel_label">%2$s ប៉ុស្តិ៍ %1$s</string>
+    <string name="on_screen_now">កំពុងនៅលើអេក្រង់</string>
+    <string name="deck_expanded">បានពង្រីក</string>
+    <string name="deck_collapsed">បានបង្រួម</string>
+    <string name="channel_hidden">បានលាក់ %1$s</string>
+    <string name="action_undo">មិនធ្វើវិញ</string>
+    <string name="offline_switch">ប្រើ %1$s</string>
+    <string name="search_picks">កំពុងពេញនិយម</string>
+    <string name="search_clear">សម្អាត</string>
+    <string name="search_fill">ដាក់ក្នុងប្រអប់ស្វែងរក</string>
+    <string name="search_type_on_tv">វាយលើទូរទស្សន៍</string>
+    <string name="search_in_app">ស្វែងរក %1$s</string>
+    <string name="search_web">ស្វែងរក %1$s</string>
+    <string name="link_paste">បិទភ្ជាប់</string>
+    <string name="link_recent">ថ្មីៗ</string>
+    <string name="link_clear_recent">សម្អាត</string>
+    <string name="link_kind_youtube">វីដេអូ YouTube</string>
+    <string name="link_kind_video">ឯកសារវីដេអូ</string>
+    <string name="link_kind_audio">ឯកសារសំឡេង</string>
+    <string name="link_kind_image">រូបភាព</string>
+    <string name="link_kind_web">ទំព័របណ្ដាញ</string>
+    <string name="link_action_app">បើកក្នុង %1$s</string>
+    <string name="link_action_media">ចាក់លើទូរទស្សន៍</string>
+    <string name="link_action_browser">បើកក្នុងកម្មវិធីរុករករបស់ទូរទស្សន៍</string>
+    <string name="link_sending">កំពុងផ្ញើ…</string>
+    <string name="link_sent">បានបើកលើទូរទស្សន៍</string>
+    <string name="link_failed">ទូរទស្សន៍មិនបានបើកវាទេ។ ព្យាយាមម្តងទៀត។</string>
+
+    <!-- Share -->
+    <string name="share_title">ផ្ញើទៅទូរទស្សន៍</string>
+    <string name="share_no_link">មិនមានតំណភ្ជាប់ក្នុងអ្វីដែលអ្នកបានចែករំលែកទេ។</string>
+    <string name="share_not_paired">ទូរស័ព្ទនេះមិនទាន់ផ្គូផ្គងជាមួយទូរទស្សន៍ទេ។</string>
+    <string name="share_open_app">បើកតេឡេបញ្ជា</string>
+    <string name="share_waiting">កំពុងភ្ជាប់…</string>
+    <string name="share_cant_open">ទូរទស្សន៍នេះមិនអាចបើកតំណ %1$s បានទេ</string>
+    <string name="action_close">បិទ</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">ក្ដារចុច</string>
+    <string name="keyboard_placeholder_waiting">ជ្រើសរើសប្រអប់អត្ថបទលើទូរទស្សន៍</string>
+    <string name="keyboard_backspace">លុបថយក្រោយ</string>
+    <string name="keyboard_clear">សម្អាត</string>
+    <string name="keyboard_enter">បញ្ចូល</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="other">មានតួអក្សរ %1$d នៅលើទូរទស្សន៍រួចហើយ</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">ច្រើនទៀត</string>
+    <string name="more_menu">ការកំណត់</string>
+    <string name="more_quick">ម៉ឺនុយរហ័ស</string>
+    <string name="more_quick_short">ម៉ឺនុយ</string>
+    <string name="more_info">ព័ត៌មាន</string>
+    <string name="more_inputs">ប្រភពបញ្ចូល</string>
+    <string name="more_exit">ចាកចេញ</string>
+    <string name="more_channel_up">ប៉ុស្តិ៍បន្ទាប់</string>
+    <string name="more_channel_down">ប៉ុស្តិ៍មុន</string>
+    <string name="more_red">ក្រហម</string>
+    <string name="more_green">បៃតង</string>
+    <string name="more_yellow">លឿង</string>
+    <string name="more_blue">ខៀវ</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">ថាមពល</string>
+    <string name="power_screen_off">បិទអេក្រង់</string>
+    <string name="power_off">បិទទូរទស្សន៍</string>
+    <string name="power_off_confirm">ចុចម្តងទៀតដើម្បីបិទ</string>
+    <string name="power_turn_off">បិទ</string>
+    <string name="power_tap_again">ចុចម្តងទៀត</string>
+    <string name="switch_on">បើក</string>
+    <string name="switch_off">បិទ</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">ការកំណត់</string>
+    <string name="settings_tv">ទូរទស្សន៍</string>
+    <string name="settings_name">ឈ្មោះ</string>
+    <string name="settings_host">អាសយដ្ឋាន</string>
+    <string name="settings_host_invalid">បញ្ចូលអាសយដ្ឋាន IP ឬឈ្មោះម៉ាស៊ីន</string>
+    <string name="settings_mac">អាសយដ្ឋាន MAC (ដើម្បីបើកវា)</string>
+    <string name="settings_mac_invalid">លេខគោលដប់ប្រាំមួយ ប្រាំមួយគូ ដូចជា 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">រកទូរទស្សន៍នៅក្បែរ</string>
+    <string name="settings_finding">កំពុងរកទូរទស្សន៍…</string>
+    <string name="settings_found_none">គ្មានទូរទស្សន៍ឆ្លើយតបទេ។</string>
+    <string name="settings_found_no_new">មិនបានរកឃើញទូរទស្សន៍ផ្សេងទៀត</string>
+    <string name="settings_in_use">កំពុងប្រើ</string>
+    <string name="settings_add">បន្ថែម</string>
+    <string name="settings_forget_tv">ភ្លេច %1$s</string>
+    <string name="settings_use_tv">ប្រើទូរទស្សន៍នេះ</string>
+    <string name="settings_remove_tv">ដកចេញ</string>
+    <string name="settings_remove_confirm">ចុចម្តងទៀតដើម្បីដកចេញ</string>
+    <string name="settings_move_up">ផ្លាស់ឡើងលើ</string>
+    <string name="settings_move_down">ផ្លាស់ចុះក្រោម</string>
+    <string name="settings_sensitivity">ភាពរសើប</string>
+    <string name="settings_touchpad">ផ្ទាំងប៉ះ</string>
+    <string name="settings_phone">ទូរស័ព្ទ</string>
+    <string name="settings_natural_scroll">ការរំកិលធម្មជាតិ</string>
+    <string name="settings_scroll_strip">របាររំកិល</string>
+    <string name="settings_hidden">លាក់</string>
+    <string name="settings_show">បង្ហាញ</string>
+    <string name="settings_theme">រចនាប័ទ្ម</string>
+    <string name="settings_theme_auto">ស្វ័យប្រវត្តិ</string>
+    <string name="settings_language">ភាសា</string>
+    <string name="settings_theme_system">ប្រព័ន្ធ</string>
+    <string name="settings_theme_light">ភ្លឺ</string>
+    <string name="settings_theme_dark">ងងឹត</string>
+    <string name="settings_scroll_strip_right">ស្តាំ</string>
+    <string name="settings_scroll_strip_left">ឆ្វេង</string>
+    <string name="settings_scroll_strip_off">បិទ</string>
+    <string name="settings_search_engine">ស្វែងរកលើបណ្ដាញ</string>
+    <string name="settings_search">ស្វែងរក</string>
+    <string name="settings_find_titles">ស្វាគមន៍ខ្សែភាពយន្ត និងវីដេអូ</string>
+    <string name="find_titles_ask">ដើម្បីស្វែងរកវា TennaRC ផ្ញើអ្វីដែលអ្នកវាយទៅ YouTube, JustWatch និង Wikidata។ អ្នកអាចប្ដូរវានៅក្នុងការកំណត់។</string>
+    <string name="find_titles_not_now">មិនមែនឥឡូវនេះ</string>
+    <string name="settings_volume_keys">ប៊ូតុងកម្រិតសំឡេង</string>
+    <string name="settings_auto_keyboard">ក្ដារចុចស្វ័យប្រវត្តិ</string>
+    <string name="settings_haptics">ការញ័រ</string>
+    <string name="settings_keep_screen_on">ទុកអេក្រង់ឱ្យបើក</string>
+    <string name="settings_forget">ភ្លេចការផ្គូផ្គង</string>
+    <string name="settings_forget_body">ទូរទស្សន៍នឹងសួរម្ដងទៀតនៅលើកក្រោយ</string>
+    <string name="settings_forget_confirm">ចុចម្តងទៀតដើម្បីភ្លេច</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">មិនបានភ្ជាប់ទៅទូរទស្សន៍</string>
+    <string name="notice_command_failed">ទូរទស្សន៍មិនបានឆ្លើយតបនឹងពាក្យបញ្ជានោះទេ</string>
+    <string name="notice_launch_failed">មិនអាចបើកកម្មវិធីនោះបានទេ</string>
+    <string name="notice_open_failed">ទូរទស្សន៍មិនអាចបើកតំណបានទេ</string>
+    <string name="notice_no_renderer">កម្មវិធីចាក់មេឌៀរបស់ទូរទស្សន៍មិនឆ្លើយតប។ តើវាបើកទេ?</string>
+    <string name="notice_cast_failed">ទូរទស្សន៍មិនអាចចាក់តំណនោះបានទេ</string>
+    <string name="notice_wake_sent">បានផ្ញើសញ្ញាដាស់</string>
+    <string name="notice_tv_moved">បានរកឃើញទូរទស្សន៍នៅអាសយដ្ឋានថ្មី</string>
+    <string name="notice_wake_failed">មិនអាចផ្ញើសញ្ញាដាស់បានទេ។ ពិនិត្យអាសយដ្ឋាន MAC។</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">ការតភ្ជាប់យឺត</string>
+    <string name="link_help_stalling">Wi-Fi របស់ទូរទស្សន៍ដាច់មួយភ្លែតៗជាញឹកញាប់។</string>
+    <string name="link_help_slow">Wi-Fi របស់ទូរទស្សន៍ខ្សោយ ឬរវល់។</string>
+    <string name="link_fix_24_title">ភ្ជាប់ទូរទស្សន៍ទៅ Wi-Fi 2.4 GHz</string>
+    <string name="link_fix_ethernet_title">ប្រើខ្សែ Ethernet</string>
+    <string name="link_fix_extender_title">ដាក់ឧបករណ៍ពង្រីក Wi-Fi នៅចន្លោះកណ្ដាល</string>
+    <string name="link_fix_listen_title">បិទ Listen Mode ក្នុង Screen Share</string>
+    <string name="link_fix_closer_title">ដាក់រ៉ោតទ័រឱ្យនៅជិតទូរទស្សន៍</string>
+    <string name="link_fix_band_title">សាកល្បងរលក Wi-Fi មួយទៀត</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">តេឡេបញ្ជាទូរទស្សន៍</string>
+    <string name="notify_channel_body">ចាក់ ផ្អាក និងកម្រិតសំឡេងទូរទស្សន៍ ពេលវាបើក</string>
+    <string name="notify_on_tv">លើទូរទស្សន៍</string>
+    <string name="notify_close">បិទ</string>
+    <string name="settings_notification_controls">ការគ្រប់គ្រងមេឌៀ</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">វាយលេខកូដដែលបង្ហាញលើទូរទស្សន៍</string>
+    <string name="pair_code_title">បញ្ចូលលេខកូដពីទូរទស្សន៍</string>
+    <string name="pair_code_wrong">លេខកូដនោះមិនត្រូវគ្នាទេ។ ព្យាយាមលេខកូដថ្មីលើទូរទស្សន៍។</string>
+    <string name="pair_code_label">លេខកូដ</string>
+    <string name="pair_code_submit">ផ្គូផ្គង</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">ទូរទស្សន៍សាកល្បង</string>
+    <string name="settings_demo_tv_body">សាកល្បងតេឡេបញ្ជាដោយគ្មានទូរទស្សន៍</string>
+    <string name="settings_demo_tv_listed">បន្ថែមទូរទស្សន៍សម្មតិមួយទៅក្នុងបញ្ជីទូរទស្សន៍របស់អ្នក</string>
+    <string name="settings_help">ជំនួយ</string>
+    <string name="settings_report">រាយការណ៍បញ្ហា</string>
+    <string name="settings_privacy">គោលការណ៍ឯកជនភាព</string>
+    <string name="settings_reset">កំណត់ការកំណត់ឡើងវិញ</string>
+    <string name="settings_reset_body">ទូរទស្សន៍របស់អ្នកនៅតែផ្គូផ្គង</string>
+    <string name="settings_reset_confirm">ចុចម្តងទៀតដើម្បីកំណត់ឡើងវិញ</string>
+    <string name="offline_no_wifi_title">មិនមាន Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku ទទួលបញ្ជាខ្លះៗប៉ុណ្ណោះពីទូរស័ព្ទ។ ក្នុង Advanced system settings របស់វា កំណត់ Control by mobile apps ទៅ Enabled។</string>
+    <string name="notice_adb_off">បើក ADB debugging នៅលើ Fire TV៖ Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">បិទ</string>
+    <string name="ambilight_video">វីឌេអូ</string>
+    <string name="ambilight_audio">សំឡេង</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">ផ្គូផ្គងដើម្បីគ្រប់គ្រង Ambilight</string>
+    <string name="ambilight_pin_hint">PIN លើទូរទស្សន៍</string>
+    <string name="ambilight_pin_wrong">PIN ខុស។ សាកល្បង PIN ថ្មី</string>
+    <string name="search_opens_app">បើក %1$s</string>
+    <string name="voice_search">ស្វែងរកដោយសំឡេង</string>
+    <string name="voice_stop">ឈប់ស្ដាប់</string>
+    <string name="voice_listening">កំពុងស្ដាប់…</string>
+    <string name="voice_mic_off">ការចូលប្រើមីក្រូហ្វូនត្រូវបានបិទ</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC បានបិទដោយមិនបានរំពឹងទុក</string>
+    <string name="crash_send">ផ្ញើ</string>
+    <string name="crash_report_subject">របាយការណ៍គាំង TennaRC %1$s</string>
+    <string name="crash_sent">បានផ្ញើរបាយការណ៍។ សូមអរគុណ</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">ចាក់ ផ្អាក និងកម្រិតសំឡេងទូរទស្សន៍</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">ចាក់ពីទូរស័ព្ទនេះ</string>
+    <string name="phone_mirror">បញ្ចាំងអេក្រង់</string>
+    <string name="phone_mirror_label">បញ្ចាំងអេក្រង់ទូរស័ព្ទនេះ</string>
+    <string name="phone_gallery">វិចិត្រសាល</string>
+    <string name="phone_gallery_label">ចាក់រូបថត ឬវីដេអូពីទូរស័ព្ទនេះ</string>
+    <string name="share_cant_play_file">ទូរទស្សន៍នេះមិនអាចចាក់ឯកសារពីទូរស័ព្ទបានទេ</string>
+    <string name="notice_cast_unsupported">ទូរទស្សន៍មិនអាចបង្ហាញរូបភាពប្រភេទនេះបានទេ</string>
+    <string name="notice_not_on_tv_network">ភ្ជាប់ទូរស័ព្ទទៅ Wi-Fi របស់ទូរទស្សន៍ ដើម្បីចាក់ឯកសាររបស់វា</string>
+    <string name="notice_file_unreadable">មិនអាចអានឯកសារនោះបានទេ</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">កំពុងរកទូរទស្សន៍</string>
+    <string name="setup_choose">ជ្រើសទូរទស្សន៍របស់អ្នក</string>
+    <string name="setup_none">រកមិនឃើញទូរទស្សន៍</string>
+    <string name="setup_search_again">ស្វែងរកម្ដងទៀត</string>
+    <string name="setup_enter_ip">បញ្ចូលអាសយដ្ឋាន IP</string>
+    <string name="setup_ip_label">អាសយដ្ឋាន IP</string>
+    <string name="setup_ip_none">គ្មានទូរទស្សន៍ឆ្លើយតបនៅទីនោះ</string>
+    <string name="setup_connect">ភ្ជាប់</string>
+    <string name="setup_demo">សាកល្បង</string>
+    <string name="setup_code_wrong">ពិនិត្យលេខកូដលើទូរទស្សន៍</string>
+    <string name="setup_fire_tv_allow">ធីក Always allow រួចចុច OK</string>
+    <string name="setup_adb_title">បើក ADB debugging</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">បើក Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">រួចរាល់</string>
+    <string name="settings_edit_tv">កែ</string>
+    <string name="dev_link_title">ការតភ្ជាប់អ្នកអភិវឌ្ឍន៍</string>
+    <string name="dev_link_body">បង្ហាញប្រភពបញ្ចូល និងកម្មវិធីទាំងអស់របស់ទូរទស្សន៍ ប្ដូរប្រភពបញ្ចូលលើទូរទស្សន៍ដែលមិនទទួលប៊ូតុង HDMI និងកំណត់ពន្លឺលើទូរទស្សន៍ខ្លះ។ វាដំណើរការតាមការតភ្ជាប់ debugging របស់ទូរទស្សន៍ (ADB)។ ប៊ូតុង និងការវាយអក្សរដំណើរការដូចគ្នា ទោះគ្មានវាក៏ដោយ។</string>
+    <string name="dev_link_step_developer">នៅលើទូរទស្សន៍ បើក Settings › System › About ហើយជ្រើស Android TV OS build ប្រាំពីរដង។ នៅលើទូរទស្សន៍ចាស់ វាគឺ Device Preferences › About › Build។</string>
+    <string name="dev_link_step_debugging">បើក Developer options នៅក្បែរ About ហើយបើក USB debugging។ នៅលើ Shield វាគឺ Network debugging។</string>
+    <string name="dev_link_step_allow">ចុច ភ្ជាប់ រួចនៅលើទូរទស្សន៍ ធីក Always allow ហើយជ្រើស OK។</string>
+    <string name="dev_link_connect">ភ្ជាប់</string>
+    <string name="dev_link_allow">អនុញ្ញាតលើទូរទស្សន៍</string>
+    <string name="dev_link_allow_body">ធីក Always allow from this computer រួចចុច OK</string>
+    <string name="dev_link_turn_off">បិទ</string>
+    <string name="dev_link_off">បិទ។ បន្ថែមប្រភពបញ្ចូល និងកម្មវិធីទាំងអស់</string>
+    <string name="dev_link_away">ទូរទស្សន៍មិនឆ្លើយតប។ វាព្យាយាមម្ដងទៀតដោយខ្លួនឯង ពេលតេឡេបញ្ជានៅបើក។</string>
+    <string name="dev_link_away_short">មិនឆ្លើយតប</string>
+    <string name="dev_link_debugging_off">ទូរទស្សន៍បានបដិសេធការតភ្ជាប់។ ពិនិត្យថា USB debugging បើក។ ចាប់ពី Android TV 14 ទូរទស្សន៍ខ្លះទទួលតែ Wireless debugging ដែល TennaRC មិនទាន់អាចប្រើបាន។</string>
+    <string name="dev_link_debugging_off_short">ទូរទស្សន៍បិទ debugging</string>
+    <string name="dev_link_wireless">មានតែ Wireless debugging ដែលបើក ដែល TennaRC មិនទាន់អាចប្រើបាន។ បើក USB debugging ផងដែរ ឬផ្គូផ្គងពីកុំព្យូទ័រម្ដង ហើយដំណើរការ adb tcpip 5555 ដែលនៅជាប់រហូតដល់ទូរទស្សន៍ចាប់ផ្ដើមឡើងវិញ។</string>
+    <string name="dev_link_wireless_short">បើកតែ Wireless debugging</string>
+    <string name="dev_link_not_allowed">គ្មាននរណាអនុញ្ញាតលើទូរទស្សន៍ទេ។ ព្យាយាមម្ដងទៀត ហើយជ្រើស OK នៅទីនោះ។</string>
+    <string name="dev_link_not_allowed_short">មិនបានអនុញ្ញាតលើទូរទស្សន៍</string>
+    <string name="dev_link_forgotten">ទូរទស្សន៍បានភ្លេចទូរស័ព្ទនេះ ដូចដែល Android TV ធ្វើចំពោះឧបករណ៍ដែលវាមិនបានឃើញមួយសប្ដាហ៍។ ព្យាយាមម្ដងទៀត ហើយអនុញ្ញាតលើទូរទស្សន៍។</string>
+    <string name="dev_link_forgotten_short">ទូរទស្សន៍បានភ្លេចទូរស័ព្ទនេះ</string>
+</resources>

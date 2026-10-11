@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Gửi đến TV</string>
+    <string name="tile_label">Điều khiển TV</string>
+    <string name="shortcut_link">Tìm kiếm</string>
+    <string name="shortcut_keyboard">Gõ trên TV</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Đã kết nối</string>
+    <string name="status_connecting">Đang kết nối…</string>
+    <string name="status_awaiting">Chấp nhận trên TV</string>
+    <string name="status_offline">TV dường như đã tắt</string>
+    <string name="status_not_paired">Chưa ghép nối</string>
+    <string name="status_standby">Ở chế độ chờ</string>
+    <string name="status_screen_off">Màn hình tắt, âm thanh bật</string>
+    <string name="standby_title">TV đã tắt</string>
+    <string name="action_turn_on">Bật</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Ghép nối với TV</string>
+    <string name="pair_body">Chấp nhận trên TV khi TV hỏi.</string>
+    <string name="pair_declined_body">TV đã từ chối. Lần này hãy chọn Chấp nhận.</string>
+    <string name="pair_action">Ghép nối</string>
+    <string name="pair_timeout_body">Không có phản hồi từ TV.</string>
+    <string name="pair_forgotten_body">TV đã quên điện thoại này.</string>
+    <string name="approval_title">Chấp nhận trên TV</string>
+    <string name="connecting_title">Đang kết nối…</string>
+    <string name="offline_title">TV dường như đã tắt</string>
+    <string name="action_retry">Thử lại</string>
+    <string name="action_cancel">Hủy</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Tìm kiếm</string>
+    <string name="touchpad_label">Bàn cảm ứng. Kéo để di chuyển con trỏ, chạm để nhấp, kéo bằng hai ngón tay để cuộn.</string>
+    <string name="dpad_label">Phím điều hướng</string>
+    <string name="key_up">Lên</string>
+    <string name="key_down">Xuống</string>
+    <string name="key_left">Trái</string>
+    <string name="key_right">Phải</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Quay lại</string>
+    <string name="key_home">Màn hình chính</string>
+    <string name="key_keyboard">Bàn phím</string>
+    <string name="key_touchpad">Bàn cảm ứng</string>
+    <string name="key_dpad">Mũi tên</string>
+    <string name="key_more">Thêm</string>
+    <string name="key_rewind">Tua lại</string>
+    <string name="key_play">Phát</string>
+    <string name="key_pause">Tạm dừng</string>
+    <string name="key_fast_forward">Tua nhanh</string>
+    <string name="key_stop">Dừng</string>
+    <string name="key_volume_up">Tăng âm lượng</string>
+    <string name="key_volume_down">Giảm âm lượng</string>
+    <string name="key_mute">Tắt tiếng</string>
+    <string name="key_unmute">Bật tiếng</string>
+    <string name="volume_value">Âm lượng %1$d</string>
+    <string name="volume_unknown">Âm lượng, mức không rõ</string>
+    <string name="volume_muted">Đã tắt tiếng</string>
+    <string name="power">Nguồn</string>
+    <string name="settings">Cài đặt</string>
+    <string name="all_apps">Tất cả ứng dụng</string>
+    <string name="inputs">Nguồn vào</string>
+    <string name="picture_title">Hình ảnh</string>
+    <string name="picture_standard">Chuẩn</string>
+    <string name="picture_vivid">Sống động</string>
+    <string name="picture_cinema">Điện ảnh</string>
+    <string name="picture_game">Trò chơi</string>
+    <string name="picture_sports">Thể thao</string>
+    <string name="picture_eco">Tiết kiệm</string>
+    <string name="picture_expert">Chuyên gia</string>
+    <string name="picture_backlight">Độ sáng</string>
+    <string name="sound_title">Âm thanh</string>
+    <string name="sound_tv">Loa TV</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Quang</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Tai nghe</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Loa</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Đầu ra line</string>
+    <string name="more_subtitles">Phụ đề</string>
+    <string name="more_audio_track">Âm thanh</string>
+    <string name="sleep_title">Hẹn giờ tắt</string>
+    <string name="sleep_minutes">%1$d phút</string>
+    <string name="sleep_at">Tắt lúc %1$s</string>
+    <string name="sleep_cancel">Hủy hẹn giờ</string>
+    <string name="app_on_screen">%1$s, đang hiển thị</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Đang bắt đầu trên TV…</string>
+    <string name="cast_playing">Đang phát trên TV</string>
+    <string name="cast_paused">Tạm dừng</string>
+    <string name="cast_stalled">Video đang bị đứng. Máy chủ video còn hoạt động không?</string>
+    <string name="cast_play">Tiếp tục</string>
+    <string name="cast_pause">Tạm dừng</string>
+    <string name="cast_stop">Dừng phát trên TV</string>
+    <string name="cast_position">Vị trí phát</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Đóng tìm kiếm</string>
+    <string name="tv_picker">TV, hiện tại %1$s</string>
+    <string name="tv_picker_add_short">Thêm</string>
+    <string name="hold_hide">Ẩn</string>
+    <string name="hold_rename">Đổi tên</string>
+    <string name="rename_input">Đổi tên nguồn vào</string>
+    <string name="rename_save">Lưu</string>
+    <string name="rename_reset">Dùng tên do TV đặt</string>
+    <string name="more_channel_list">Danh sách</string>
+    <string name="more_guide">Lịch TV</string>
+    <string name="input_label">%1$s, nguồn vào</string>
+    <string name="channel_label">%2$s, kênh %1$s</string>
+    <string name="on_screen_now">Đang hiển thị</string>
+    <string name="deck_expanded">Mở rộng</string>
+    <string name="deck_collapsed">Thu gọn</string>
+    <string name="channel_hidden">%1$s đã ẩn</string>
+    <string name="action_undo">Hoàn tác</string>
+    <string name="offline_switch">Sử dụng %1$s</string>
+    <string name="search_picks">Đang thịnh hành</string>
+    <string name="search_clear">Xóa</string>
+    <string name="search_fill">Điền vào ô tìm kiếm</string>
+    <string name="search_type_on_tv">Gõ trên TV</string>
+    <string name="search_in_app">Tìm trong %1$s</string>
+    <string name="search_web">Tìm bằng %1$s</string>
+    <string name="link_paste">Dán</string>
+    <string name="link_recent">Gần đây</string>
+    <string name="link_clear_recent">Xóa</string>
+    <string name="link_kind_youtube">Video YouTube</string>
+    <string name="link_kind_video">Tệp video</string>
+    <string name="link_kind_audio">Tệp âm thanh</string>
+    <string name="link_kind_image">Hình ảnh</string>
+    <string name="link_kind_web">Trang web</string>
+    <string name="link_action_app">Mở trong %1$s</string>
+    <string name="link_action_media">Phát trên TV</string>
+    <string name="link_action_browser">Mở trong trình duyệt TV</string>
+    <string name="link_sending">Đang gửi…</string>
+    <string name="link_sent">Đã mở trên TV</string>
+    <string name="link_failed">TV không mở được. Hãy thử lại.</string>
+
+    <!-- Share -->
+    <string name="share_title">Gửi đến TV</string>
+    <string name="share_no_link">Nội dung bạn chia sẻ không có liên kết.</string>
+    <string name="share_not_paired">Điện thoại này chưa ghép nối với TV.</string>
+    <string name="share_open_app">Mở điều khiển</string>
+    <string name="share_waiting">Đang kết nối…</string>
+    <string name="share_cant_open">TV này không thể mở liên kết %1$s</string>
+    <string name="action_close">Đóng</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Bàn phím</string>
+    <string name="keyboard_placeholder_waiting">Chọn hộp văn bản trên TV</string>
+    <string name="keyboard_backspace">Xóa</string>
+    <string name="keyboard_clear">Xóa tất cả</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="other">Đã có %1$d ký tự trên TV</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Thêm</string>
+    <string name="more_menu">Cài đặt</string>
+    <string name="more_quick">Menu nhanh</string>
+    <string name="more_quick_short">Menu</string>
+    <string name="more_info">Thông tin</string>
+    <string name="more_inputs">Nguồn vào</string>
+    <string name="more_exit">Thoát</string>
+    <string name="more_channel_up">Kênh tiếp theo</string>
+    <string name="more_channel_down">Kênh trước</string>
+    <string name="more_red">Đỏ</string>
+    <string name="more_green">Xanh lục</string>
+    <string name="more_yellow">Vàng</string>
+    <string name="more_blue">Xanh lam</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Nguồn</string>
+    <string name="power_screen_off">Tắt màn hình</string>
+    <string name="power_off">Tắt TV</string>
+    <string name="power_off_confirm">Chạm lại để tắt</string>
+    <string name="power_turn_off">Tắt</string>
+    <string name="power_tap_again">Chạm lại</string>
+    <string name="switch_on">Bật</string>
+    <string name="switch_off">Tắt</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Cài đặt</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Tên</string>
+    <string name="settings_host">Địa chỉ</string>
+    <string name="settings_host_invalid">Nhập địa chỉ IP hoặc tên máy chủ</string>
+    <string name="settings_mac">Địa chỉ MAC (để bật TV)</string>
+    <string name="settings_mac_invalid">Sáu cặp chữ số thập lục phân, như 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Tìm TV ở gần</string>
+    <string name="settings_finding">Đang tìm TV…</string>
+    <string name="settings_found_none">Không có TV nào phản hồi.</string>
+    <string name="settings_found_no_new">Không tìm thấy TV khác</string>
+    <string name="settings_in_use">Đang sử dụng</string>
+    <string name="settings_add">Thêm</string>
+    <string name="settings_forget_tv">Quên %1$s</string>
+    <string name="settings_use_tv">Sử dụng TV này</string>
+    <string name="settings_remove_tv">Xóa</string>
+    <string name="settings_remove_confirm">Chạm lại để xóa</string>
+    <string name="settings_move_up">Di chuyển lên</string>
+    <string name="settings_move_down">Di chuyển xuống</string>
+    <string name="settings_sensitivity">Độ nhạy</string>
+    <string name="settings_touchpad">Bàn cảm ứng</string>
+    <string name="settings_phone">Điện thoại</string>
+    <string name="settings_natural_scroll">Cuộn tự nhiên</string>
+    <string name="settings_scroll_strip">Dải cuộn</string>
+    <string name="settings_hidden">Đã ẩn</string>
+    <string name="settings_show">Hiển thị</string>
+    <string name="settings_theme">Chủ đề</string>
+    <string name="settings_theme_auto">Tự động</string>
+    <string name="settings_language">Ngôn ngữ</string>
+    <string name="settings_theme_system">Hệ thống</string>
+    <string name="settings_theme_light">Sáng</string>
+    <string name="settings_theme_dark">Tối</string>
+    <string name="settings_scroll_strip_right">Phải</string>
+    <string name="settings_scroll_strip_left">Trái</string>
+    <string name="settings_scroll_strip_off">Tắt</string>
+    <string name="settings_search_engine">Tìm kiếm web</string>
+    <string name="settings_search">Tìm kiếm</string>
+    
+    <string name="settings_volume_keys">Nút âm lượng</string>
+    <string name="settings_auto_keyboard">Bàn phím tự động</string>
+    <string name="settings_haptics">Rung</string>
+    <string name="settings_keep_screen_on">Giữ màn hình luôn bật</string>
+    <string name="settings_forget">Hủy ghép nối</string>
+    <string name="settings_forget_body">Lần tới TV sẽ hỏi lại</string>
+    <string name="settings_forget_confirm">Chạm lại để quên</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Chưa kết nối với TV</string>
+    <string name="notice_command_failed">TV không phản hồi lệnh đó</string>
+    <string name="notice_launch_failed">Không thể mở ứng dụng đó</string>
+    <string name="notice_open_failed">TV không thể mở liên kết</string>
+    <string name="notice_no_renderer">Trình phát đa phương tiện của TV không phản hồi. TV có đang bật không?</string>
+    <string name="notice_cast_failed">TV không thể phát liên kết đó</string>
+    <string name="notice_wake_sent">Đã gửi tín hiệu bật TV</string>
+    <string name="notice_tv_moved">Tìm thấy TV ở địa chỉ mới</string>
+    <string name="notice_wake_failed">Không gửi được tín hiệu bật TV. Hãy kiểm tra địa chỉ MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Kết nối bị giật</string>
+    <string name="link_help_stalling">Wi-Fi của TV thỉnh thoảng lại mất kết nối trong giây lát.</string>
+    <string name="link_help_slow">Wi-Fi của TV yếu hoặc đang quá tải.</string>
+    <string name="link_fix_24_title">Kết nối TV với Wi-Fi 2,4 GHz</string>
+    <string name="link_fix_ethernet_title">Sử dụng cáp Ethernet</string>
+    <string name="link_fix_extender_title">Đặt bộ kích sóng Wi-Fi ở giữa</string>
+    <string name="link_fix_listen_title">Tắt Listen Mode trong Screen Share</string>
+    <string name="link_fix_closer_title">Đặt router gần TV hơn</string>
+    <string name="link_fix_band_title">Thử băng tần Wi-Fi khác</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Điều khiển TV</string>
+    <string name="notify_channel_body">Phát, tạm dừng và âm lượng khi TV đang bật</string>
+    <string name="notify_on_tv">Trên TV</string>
+    <string name="notify_close">Đóng</string>
+    <string name="settings_notification_controls">Điều khiển phương tiện</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Nhập mã hiển thị trên TV</string>
+    <string name="pair_code_title">Nhập mã từ TV</string>
+    <string name="pair_code_wrong">Mã không khớp. Hãy nhập mã mới trên TV.</string>
+    <string name="pair_code_label">Mã</string>
+    <string name="pair_code_submit">Ghép nối</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">TV demo</string>
+    <string name="settings_demo_tv_body">Dùng thử điều khiển mà không có TV</string>
+    <string name="settings_demo_tv_listed">Thêm một TV ảo vào danh sách TV của bạn</string>
+    <string name="settings_help">Trợ giúp</string>
+    <string name="settings_report">Báo cáo sự cố</string>
+    <string name="settings_privacy">Chính sách quyền riêng tư</string>
+    <string name="settings_reset">Đặt lại cài đặt</string>
+    <string name="settings_reset_body">TV của bạn vẫn được ghép nối</string>
+    <string name="settings_reset_confirm">Chạm lại để đặt lại</string>
+    <string name="offline_no_wifi_title">Không có Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku chỉ nhận một số lệnh từ điện thoại. Trong Advanced system settings, đặt Control by mobile apps thành Enabled.</string>
+    <string name="notice_adb_off">Bật gỡ lỗi ADB trên Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Tắt</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Âm thanh</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Ghép nối để điều khiển Ambilight</string>
+    <string name="ambilight_pin_hint">Mã PIN trên TV</string>
+    <string name="ambilight_pin_wrong">Sai mã PIN. Hãy thử mã mới</string>
+    <string name="search_opens_app">Mở %1$s</string>
+    <string name="voice_search">Tìm kiếm bằng giọng nói</string>
+    <string name="voice_stop">Dừng lắng nghe</string>
+    <string name="voice_listening">Đang lắng nghe…</string>
+    <string name="voice_mic_off">Quyền truy cập micrô đang tắt</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC đã đóng đột ngột</string>
+    <string name="crash_send">Gửi</string>
+    <string name="crash_report_subject">Báo cáo lỗi TennaRC %1$s</string>
+    <string name="crash_sent">Đã gửi báo cáo. Cảm ơn bạn</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Phát, tạm dừng và âm lượng của TV</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Phát từ điện thoại này</string>
+    <string name="phone_mirror">Phản chiếu</string>
+    <string name="phone_mirror_label">Phản chiếu màn hình điện thoại này</string>
+    <string name="phone_gallery">Thư viện</string>
+    <string name="phone_gallery_label">Phát một ảnh hoặc video từ điện thoại này</string>
+    <string name="share_cant_play_file">TV này không thể phát tệp từ điện thoại</string>
+    <string name="notice_cast_unsupported">TV không thể hiển thị loại ảnh này</string>
+    <string name="notice_not_on_tv_network">Kết nối điện thoại với Wi-Fi của TV để phát tệp từ điện thoại</string>
+    <string name="notice_file_unreadable">Không thể đọc tệp đó</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Đang tìm TV</string>
+    <string name="setup_choose">Chọn TV của bạn</string>
+    <string name="setup_none">Không tìm thấy TV</string>
+    <string name="setup_search_again">Tìm lại</string>
+    <string name="setup_enter_ip">Nhập địa chỉ IP</string>
+    <string name="setup_ip_label">Địa chỉ IP</string>
+    <string name="setup_ip_none">Không có TV nào phản hồi ở địa chỉ đó</string>
+    <string name="setup_connect">Kết nối</string>
+    <string name="setup_demo">Dùng thử bản demo</string>
+    <string name="setup_code_wrong">Kiểm tra mã trên TV</string>
+    <string name="setup_fire_tv_allow">Đánh dấu Always allow rồi chọn OK</string>
+    <string name="setup_adb_title">Bật gỡ lỗi ADB</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Bật Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Xong</string>
+
+    <string name="dev_link_allow">Cho phép trên TV</string>
+    <string name="dev_link_allow_body">Đánh dấu Luôn cho phép từ máy tính này, rồi chọn OK</string>
+    <string name="dev_link_away">TV không phản hồi. Ứng dụng sẽ tự thử lại khi điều khiển đang mở.</string>
+    <string name="dev_link_away_short">Không phản hồi</string>
+    <string name="dev_link_body">Hiển thị các nguồn vào của TV và mọi ứng dụng trên đó, chuyển nguồn vào trên những TV không nhận phím HDMI, và chỉnh độ sáng trên một số TV. Kết nối này đi qua cổng gỡ lỗi của TV (ADB). Không có nó, các phím và việc nhập chữ vẫn hoạt động như cũ.</string>
+    <string name="dev_link_connect">Kết nối</string>
+    <string name="dev_link_debugging_off">TV đã từ chối kết nối. Hãy kiểm tra xem Gỡ lỗi qua USB đã bật chưa. Từ Android TV 14, một số TV chỉ nhận Gỡ lỗi không dây, mà TennaRC chưa dùng được.</string>
+    <string name="dev_link_debugging_off_short">Tính năng gỡ lỗi trên TV đang tắt</string>
+    <string name="dev_link_forgotten">TV đã quên điện thoại này, như Android TV vẫn làm với điện thoại không kết nối trong một tuần. Hãy thử lại và cho phép trên TV.</string>
+    <string name="dev_link_forgotten_short">TV đã quên điện thoại này</string>
+    <string name="dev_link_not_allowed">Chưa ai cho phép trên TV. Hãy thử lại và chọn OK trên TV.</string>
+    <string name="dev_link_not_allowed_short">Chưa được cho phép trên TV</string>
+    <string name="dev_link_off">Tắt. Bổ sung nguồn vào và mọi ứng dụng</string>
+    <string name="dev_link_step_allow">Nhấn Kết nối, rồi trên TV đánh dấu Luôn cho phép và chọn OK.</string>
+    <string name="dev_link_step_debugging">Mở Tùy chọn cho nhà phát triển, ngay cạnh Giới thiệu, rồi bật Gỡ lỗi qua USB. Trên Shield, mục này là Gỡ lỗi qua mạng.</string>
+    <string name="dev_link_step_developer">Trên TV, mở Cài đặt › Hệ thống › Giới thiệu rồi chọn Bản dựng hệ điều hành Android TV bảy lần. Trên TV đời cũ, mục này nằm ở Lựa chọn ưu tiên về thiết bị › Giới thiệu › Bản dựng.</string>
+    <string name="dev_link_title">Kết nối cho nhà phát triển</string>
+    <string name="dev_link_turn_off">Tắt</string>
+    <string name="dev_link_wireless">Chỉ Gỡ lỗi không dây đang bật, mà TennaRC chưa dùng được. Hãy bật thêm Gỡ lỗi qua USB, hoặc ghép nối một lần từ máy tính rồi chạy adb tcpip 5555; cách này giữ được đến khi TV khởi động lại.</string>
+    <string name="dev_link_wireless_short">Chỉ Gỡ lỗi không dây đang bật</string>
+    <string name="settings_edit_tv">Chỉnh sửa</string>
+    <string name="settings_find_titles">Tìm kiếm phim và video</string>
+    <string name="find_titles_ask">Để tìm chúng, TennaRC gửi nội dung bạn nhập đến YouTube, JustWatch và Wikidata. Bạn có thể thay đổi điều này trong Cài đặt.</string>
+    <string name="find_titles_not_now">Để sau</string>
+</resources>

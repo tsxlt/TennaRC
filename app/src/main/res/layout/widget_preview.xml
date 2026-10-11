@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@android:id/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_background"
+    android:orientation="vertical"
+    android:paddingHorizontal="12dp"
+    android:paddingVertical="13dp"
+    tools:ignore="HardcodedText,ContentDescription">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/widget_key"
+            android:backgroundTint="@color/widget_dot"
+            android:importantForAccessibility="no"
+            android:scaleType="center"
+            android:src="@drawable/widget_play"
+            android:tint="#FFFFFFFF" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-medium"
+                android:maxLines="1"
+                android:text="Tenna"
+                android:textColor="@color/widget_ink_dim"
+                android:textSize="12sp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                tools:ignore="UseCompoundDrawables">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-medium"
+                    android:maxLines="1"
+                    android:text="YouTube"
+                    android:textColor="@color/widget_ink"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="6dp"
+                    android:layout_height="6dp"
+                    android:layout_marginStart="8dp"
+                    android:importantForAccessibility="no"
+                    android:src="@drawable/widget_dot"
+                    android:tint="@color/widget_dot" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:importantForAccessibility="no"
+            android:scaleType="center"
+            android:src="@drawable/widget_power"
+            android:tint="@color/widget_ink" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:orientation="horizontal">
+
+        <TextView style="@style/WidgetPreviewFavorite" android:text="N" />
+
+        <FrameLayout style="@style/WidgetPreviewGap" />
+
+        <TextView style="@style/WidgetPreviewFavorite" android:text="P" />
+
+        <FrameLayout style="@style/WidgetPreviewGap" />
+
+        <TextView style="@style/WidgetPreviewFavorite" android:text="D" />
+
+        <FrameLayout style="@style/WidgetPreviewGap" />
+
+        <TextView style="@style/WidgetPreviewFavorite" android:text="S" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:orientation="horizontal">
+
+        <ImageView style="@style/WidgetPreviewKey" android:src="@drawable/widget_volume" />
+
+        <FrameLayout style="@style/WidgetPreviewGap" />
+
+        <ImageView style="@style/WidgetPreviewKey" android:src="@drawable/widget_pause" />
+
+        <FrameLayout style="@style/WidgetPreviewGap" />
+
+        <LinearLayout
+            android:layout_width="96dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:background="@drawable/widget_volume_pill"
+            android:backgroundTint="@color/widget_key"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_weight="1"
+                android:importantForAccessibility="no"
+                android:scaleType="center"
+                android:src="@drawable/widget_minus"
+                android:tint="@color/widget_ink" />
+
+            <FrameLayout
+                android:layout_width="1dp"
+                android:layout_height="20dp"
+                android:background="@color/widget_hairline" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_weight="1"
+                android:importantForAccessibility="no"
+                android:scaleType="center"
+                android:src="@drawable/widget_plus"
+                android:tint="@color/widget_ink" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

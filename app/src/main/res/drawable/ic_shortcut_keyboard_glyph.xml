@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Lucide "keyboard" (ISC licence) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:scaleX="2" android:scaleY="2" android:translateX="30" android:translateY="30">
+        <path android:pathData="M10,8 h0.01 M12,12 h0.01 M14,8 h0.01 M16,12 h0.01 M18,8 h0.01 M6,8 h0.01 M7,16 h10 M8,12 h0.01" android:strokeColor="#FF8A4C" android:strokeWidth="2" android:strokeLineCap="round" android:strokeLineJoin="round" />
+        <path android:pathData="M4,4 H20 A2,2 0 0 1 22,6 V18 A2,2 0 0 1 20,20 H4 A2,2 0 0 1 2,18 V6 A2,2 0 0 1 4,4 Z" android:strokeColor="#FF8A4C" android:strokeWidth="2" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    </group>
+</vector>

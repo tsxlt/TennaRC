@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Anfon i\'r teledu</string>
+    <string name="tile_label">Rheolydd o bell</string>
+    <string name="shortcut_link">Chwilio</string>
+    <string name="shortcut_keyboard">Teipio ar y teledu</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Wedi cysylltu</string>
+    <string name="status_connecting">Yn cysylltu…</string>
+    <string name="status_awaiting">Derbyniwch ar y teledu</string>
+    <string name="status_offline">Mae\'r teledu i\'w weld wedi\'i ddiffodd</string>
+    <string name="status_not_paired">Heb ei baru eto</string>
+    <string name="status_standby">Ar stand-by</string>
+    <string name="status_screen_off">Sgrin i ffwrdd, sain ymlaen</string>
+    <string name="standby_title">Mae\'r teledu wedi\'i ddiffodd</string>
+    <string name="action_turn_on">Troi ymlaen</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Paru â\'r teledu</string>
+    <string name="pair_body">Derbyniwch ar y teledu pan fydd yn gofyn.</string>
+    <string name="pair_declined_body">Gwrthododd y teledu. Dewiswch Derbyn y tro hwn.</string>
+    <string name="pair_action">Paru</string>
+    <string name="pair_timeout_body">Dim ymateb o\'r teledu.</string>
+    <string name="pair_forgotten_body">Mae\'r teledu wedi anghofio\'r ffôn hwn.</string>
+    <string name="approval_title">Derbyniwch ar y teledu</string>
+    <string name="connecting_title">Yn cysylltu…</string>
+    <string name="offline_title">Mae\'r teledu i\'w weld wedi\'i ddiffodd</string>
+    <string name="action_retry">Rhoi cynnig arall</string>
+    <string name="action_cancel">Canslo</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Chwilio</string>
+    <string name="touchpad_label">Pad cyffwrdd. Llusgwch i symud y pwyntydd, tapiwch i glicio, a llusgwch â dau fys i sgrolio.</string>
+    <string name="dpad_label">Bysellau cyfeiriad</string>
+    <string name="key_up">I fyny</string>
+    <string name="key_down">I lawr</string>
+    <string name="key_left">Chwith</string>
+    <string name="key_right">De</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Nôl</string>
+    <string name="key_home">Cartref</string>
+    <string name="key_keyboard">Bysellfwrdd</string>
+    <string name="key_touchpad">Pad cyffwrdd</string>
+    <string name="key_dpad">Saethau</string>
+    <string name="key_more">Mwy</string>
+    <string name="key_rewind">Dirwyn yn ôl</string>
+    <string name="key_play">Chwarae</string>
+    <string name="key_pause">Oedi</string>
+    <string name="key_fast_forward">Dirwyn ymlaen</string>
+    <string name="key_stop">Stopio</string>
+    <string name="key_volume_up">Codi\'r sain</string>
+    <string name="key_volume_down">Gostwng y sain</string>
+    <string name="key_mute">Distewi</string>
+    <string name="key_unmute">Dad-ddistewi</string>
+    <string name="volume_value">Lefel sain %1$d</string>
+    <string name="volume_unknown">Lefel sain anhysbys</string>
+    <string name="volume_muted">Wedi distewi</string>
+    <string name="power">Pŵer</string>
+    <string name="settings">Gosodiadau</string>
+    <string name="all_apps">Pob ap</string>
+    <string name="inputs">Mewnbwn</string>
+    <string name="picture_title">Darlun</string>
+    <string name="picture_standard">Safonol</string>
+    <string name="picture_vivid">Llachar</string>
+    <string name="picture_cinema">Sinema</string>
+    <string name="picture_game">Gêm</string>
+    <string name="picture_sports">Chwaraeon</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Arbenigwr</string>
+    <string name="picture_backlight">Disgleirdeb</string>
+    <string name="sound_title">Sain</string>
+    <string name="sound_tv">Seinyddion y teledu</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optegol</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Clustffonau</string>
+    <string name="sound_tv_short">Seinyddion</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Allbwn llinell</string>
+    <string name="more_subtitles">Isdeitlau</string>
+    <string name="more_audio_track">Sain</string>
+    <string name="sleep_title">Amserydd cysgu</string>
+    <string name="sleep_minutes">%1$d mun</string>
+    <string name="sleep_at">Diffodd am %1$s</string>
+    <string name="sleep_cancel">Canslo\'r amserydd</string>
+    <string name="app_on_screen">%1$s, ar y sgrin nawr</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Dechrau ar y teledu…</string>
+    <string name="cast_playing">Yn chwarae ar y teledu</string>
+    <string name="cast_paused">Wedi oedi</string>
+    <string name="cast_stalled">Ddim yn symud. Ydy gweinydd y fideo yn dal ymlaen?</string>
+    <string name="cast_play">Ailddechrau</string>
+    <string name="cast_pause">Oedi</string>
+    <string name="cast_stop">Stopio chwarae ar y teledu</string>
+    <string name="cast_position">Safle chwarae</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Cau chwilio</string>
+    <string name="tv_picker">Setiau teledu, nawr %1$s</string>
+    <string name="tv_picker_add_short">Newydd</string>
+    <string name="hold_hide">Cuddio</string>
+    <string name="hold_rename">Ailenwi</string>
+    <string name="rename_input">Ailenwi mewnbwn</string>
+    <string name="rename_save">Cadw</string>
+    <string name="rename_reset">Defnyddio enw\'r teledu</string>
+    <string name="more_channel_list">Rhestr</string>
+    <string name="more_guide">Canllaw</string>
+    <string name="input_label">%1$s, mewnbwn</string>
+    <string name="channel_label">%2$s, sianel %1$s</string>
+    <string name="on_screen_now">Ar y sgrin nawr</string>
+    <string name="deck_expanded">Wedi\'i ehangu</string>
+    <string name="deck_collapsed">Wedi\'i grynhoi</string>
+    <string name="channel_hidden">%1$s cudd</string>
+    <string name="action_undo">Dadwneud</string>
+    <string name="offline_switch">Defnyddio %1$s</string>
+    <string name="search_picks">Poblogaidd nawr</string>
+    <string name="search_clear">Clirio</string>
+    <string name="search_fill">Rhoi yn y blwch chwilio</string>
+    <string name="search_type_on_tv">Teipio ar y teledu</string>
+    <string name="search_in_app">Chwilio yn %1$s</string>
+    <string name="search_web">Chwilio gyda %1$s</string>
+    <string name="link_paste">Gludo</string>
+    <string name="link_recent">Diweddar</string>
+    <string name="link_clear_recent">Clirio</string>
+    <string name="link_kind_youtube">Fideo YouTube</string>
+    <string name="link_kind_video">Ffeil fideo</string>
+    <string name="link_kind_audio">Ffeil sain</string>
+    <string name="link_kind_image">Delwedd</string>
+    <string name="link_kind_web">Tudalen we</string>
+    <string name="link_action_app">Agor yn %1$s</string>
+    <string name="link_action_media">Chwarae ar y teledu</string>
+    <string name="link_action_browser">Agor ym mhorwr y teledu</string>
+    <string name="link_sending">Yn anfon…</string>
+    <string name="link_sent">Agorwyd ar y teledu</string>
+    <string name="link_failed">Wnaeth y teledu ddim ei agor. Rhowch gynnig arall arni.</string>
+
+    <!-- Share -->
+    <string name="share_title">Anfon i\'r teledu</string>
+    <string name="share_no_link">Does dim dolen yn yr hyn a rannoch chi.</string>
+    <string name="share_not_paired">Nid yw\'r ffôn hwn wedi\'i baru â\'r teledu eto.</string>
+    <string name="share_open_app">Agor y rheolydd</string>
+    <string name="share_waiting">Yn cysylltu…</string>
+    <string name="share_cant_open">Ni all y teledu hwn agor dolenni %1$s</string>
+    <string name="action_close">Cau</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Bysellfwrdd</string>
+    <string name="keyboard_placeholder_waiting">Dewiswch flwch testun ar y teledu</string>
+    <string name="keyboard_backspace">Dileu</string>
+    <string name="keyboard_clear">Clirio</string>
+    <string name="keyboard_enter">Rhoi i mewn</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="zero">%1$d nod ar y teledu yn barod</item>
+        <item quantity="one">%1$d nod ar y teledu yn barod</item>
+        <item quantity="two">%1$d nod ar y teledu yn barod</item>
+        <item quantity="few">%1$d nod ar y teledu yn barod</item>
+        <item quantity="many">%1$d nod ar y teledu yn barod</item>
+        <item quantity="other">%1$d nod ar y teledu yn barod</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Mwy</string>
+    <string name="more_menu">Gosodiadau</string>
+    <string name="more_quick">Dewislen gyflym</string>
+    <string name="more_quick_short">Dewislen</string>
+    <string name="more_info">Gwybodaeth</string>
+    <string name="more_inputs">Mewnbwn</string>
+    <string name="more_exit">Gadael</string>
+    <string name="more_channel_up">Sianel nesaf</string>
+    <string name="more_channel_down">Sianel flaenorol</string>
+    <string name="more_red">Coch</string>
+    <string name="more_green">Gwyrdd</string>
+    <string name="more_yellow">Melyn</string>
+    <string name="more_blue">Glas</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Pŵer</string>
+    <string name="power_screen_off">Sgrin i ffwrdd</string>
+    <string name="power_off">Diffodd y teledu</string>
+    <string name="power_off_confirm">Tapiwch eto i ddiffodd</string>
+    <string name="power_turn_off">Diffodd</string>
+    <string name="power_tap_again">Tapiwch eto</string>
+    <string name="switch_on">Ymlaen</string>
+    <string name="switch_off">I ffwrdd</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Gosodiadau</string>
+    <string name="settings_tv">Teledu</string>
+    <string name="settings_name">Enw</string>
+    <string name="settings_host">Cyfeiriad</string>
+    <string name="settings_host_invalid">Rhowch gyfeiriad IP neu enw gwesteiwr</string>
+    <string name="settings_mac">Cyfeiriad MAC (i\'w droi ymlaen)</string>
+    <string name="settings_mac_invalid">Chwe phâr o ddigidau hecsadegol, fel 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Chwilio am setiau teledu gerllaw</string>
+    <string name="settings_finding">Yn chwilio am setiau teledu…</string>
+    <string name="settings_found_none">Wnaeth dim teledu ymateb.</string>
+    <string name="settings_found_no_new">Heb ddod o hyd i setiau teledu eraill</string>
+    <string name="settings_in_use">Yn cael ei ddefnyddio</string>
+    <string name="settings_add">Ychwanegu</string>
+    <string name="settings_forget_tv">Anghofio %1$s</string>
+    <string name="settings_use_tv">Defnyddio\'r teledu hwn</string>
+    <string name="settings_remove_tv">Tynnu</string>
+    <string name="settings_remove_confirm">Tapiwch eto i dynnu</string>
+    <string name="settings_move_up">Symud i fyny</string>
+    <string name="settings_move_down">Symud i lawr</string>
+    <string name="settings_sensitivity">Sensitifrwydd</string>
+    <string name="settings_touchpad">Pad cyffwrdd</string>
+    <string name="settings_phone">Ffôn</string>
+    <string name="settings_natural_scroll">Sgrolio naturiol</string>
+    <string name="settings_scroll_strip">Stribed sgrolio</string>
+    <string name="settings_hidden">Cudd</string>
+    <string name="settings_show">Dangos</string>
+    <string name="settings_theme">Thema</string>
+    <string name="settings_theme_auto">Awtomatig</string>
+    <string name="settings_language">Iaith</string>
+    <string name="settings_theme_system">System</string>
+    <string name="settings_theme_light">Golau</string>
+    <string name="settings_theme_dark">Tywyll</string>
+    <string name="settings_scroll_strip_right">De</string>
+    <string name="settings_scroll_strip_left">Chwith</string>
+    <string name="settings_scroll_strip_off">I ffwrdd</string>
+    <string name="settings_search_engine">Chwilio\'r we</string>
+    <string name="settings_search">Chwilio</string>
+    <string name="settings_find_titles">Chwiliwch am ffilmiau a fideos</string>
+    <string name="find_titles_ask">I ddod o hyd iddyn nhw, mae TennaRC yn anfon yr hyn rydych chi\'n ei deipio at YouTube, JustWatch a Wikidata. Gallwch newid hyn yn y Gosodiadau.</string>
+    <string name="find_titles_not_now">Dim nawr</string>
+    <string name="settings_volume_keys">Botymau sain</string>
+    <string name="settings_auto_keyboard">Bysellfwrdd awtomatig</string>
+    <string name="settings_haptics">Dirgryniad</string>
+    <string name="settings_keep_screen_on">Cadw\'r sgrin ymlaen</string>
+    <string name="settings_forget">Anghofio\'r paru</string>
+    <string name="settings_forget_body">Bydd y teledu yn gofyn eto y tro nesaf</string>
+    <string name="settings_forget_confirm">Tapiwch eto i anghofio</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Heb gysylltu â\'r teledu</string>
+    <string name="notice_command_failed">Wnaeth y teledu ddim ymateb i hynny</string>
+    <string name="notice_launch_failed">Ni ellid agor yr ap hwnnw</string>
+    <string name="notice_open_failed">Doedd y teledu ddim yn gallu agor y ddolen</string>
+    <string name="notice_no_renderer">Dydy chwaraewr cyfryngau\'r teledu ddim yn ymateb. Ydy e ymlaen?</string>
+    <string name="notice_cast_failed">Doedd y teledu ddim yn gallu chwarae\'r ddolen honno</string>
+    <string name="notice_wake_sent">Signal deffro wedi\'i anfon</string>
+    <string name="notice_tv_moved">Daethpwyd o hyd i\'r teledu ar gyfeiriad newydd</string>
+    <string name="notice_wake_failed">Methu anfon y signal deffro. Gwiriwch y cyfeiriad MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Cysylltiad araf</string>
+    <string name="link_help_stalling">Mae Wi-Fi y teledu yn dal i ddatgysylltu am eiliad.</string>
+    <string name="link_help_slow">Mae Wi-Fi y teledu yn wan neu\'n brysur.</string>
+    <string name="link_fix_24_title">Rhowch y teledu ar Wi-Fi 2,4 GHz</string>
+    <string name="link_fix_ethernet_title">Defnyddiwch gebl Ethernet</string>
+    <string name="link_fix_extender_title">Ychwanegwch estynnydd Wi-Fi hanner ffordd</string>
+    <string name="link_fix_listen_title">Diffoddwch Listen Mode yn Screen Share</string>
+    <string name="link_fix_closer_title">Symudwch y llwybrydd yn agosach at y teledu</string>
+    <string name="link_fix_band_title">Ceisiwch y band Wi-Fi arall</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Rheolydd o bell</string>
+    <string name="notify_channel_body">Chwarae, oedi a sain y teledu tra mae ymlaen</string>
+    <string name="notify_on_tv">Ar y teledu</string>
+    <string name="notify_close">Cau</string>
+    <string name="settings_notification_controls">Rheolau cyfryngau</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Teipiwch y cod a ddangosir ar y teledu</string>
+    <string name="pair_code_title">Rhowch y cod o\'r teledu</string>
+    <string name="pair_code_wrong">Doedd y cod ddim yn cyfateb. Rhowch gynnig ar yr un newydd ar y teledu.</string>
+    <string name="pair_code_label">Cod</string>
+    <string name="pair_code_submit">Paru</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Teledu demo</string>
+    <string name="settings_demo_tv_body">Rhowch gynnig ar y rheolydd heb deledu</string>
+    <string name="settings_demo_tv_listed">Yn ychwanegu teledu ffug at eich setiau teledu</string>
+    <string name="settings_help">Help</string>
+    <string name="settings_report">Rhoi gwybod am broblem</string>
+    <string name="settings_privacy">Polisi preifatrwydd</string>
+    <string name="settings_reset">Ailosod gosodiadau</string>
+    <string name="settings_reset_body">Bydd eich setiau teledu\'n aros wedi\'u paru</string>
+    <string name="settings_reset_confirm">Tapiwch eto i ailosod</string>
+    <string name="offline_no_wifi_title">Dim Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Dim ond rhai gorchmynion gan ffonau mae\'r Roku yn eu derbyn. Gosodwch Control by mobile apps i Enabled yn Advanced system settings.</string>
+    <string name="notice_adb_off">Trowch dadfygio ADB ymlaen ar y Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">I ffwrdd</string>
+    <string name="ambilight_video">Fideo</string>
+    <string name="ambilight_audio">Sain</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Parwch i reoli Ambilight</string>
+    <string name="ambilight_pin_hint">PIN ar y teledu</string>
+    <string name="ambilight_pin_wrong">PIN anghywir. Rhowch gynnig ar yr un newydd</string>
+    <string name="search_opens_app">Yn agor %1$s</string>
+    <string name="voice_search">Chwilio â llais</string>
+    <string name="voice_stop">Rhoi\'r gorau i wrando</string>
+    <string name="voice_listening">Yn gwrando…</string>
+    <string name="voice_mic_off">Mae mynediad y meicroffon i ffwrdd</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">Caeodd TennaRC yn annisgwyl</string>
+    <string name="crash_send">Anfon</string>
+    <string name="crash_report_subject">Adroddiad chwalu TennaRC %1$s</string>
+    <string name="crash_sent">Adroddiad wedi\'i anfon. Diolch</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Chwarae, oedi a sain y teledu</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Chwarae o\'r ffôn hwn</string>
+    <string name="phone_mirror">Adlewyrchu</string>
+    <string name="phone_mirror_label">Adlewyrchu sgrin y ffôn hwn</string>
+    <string name="phone_gallery">Oriel</string>
+    <string name="phone_gallery_label">Dangos llun neu fideo o\'r ffôn hwn</string>
+    <string name="share_cant_play_file">Ni all y teledu hwn chwarae ffeiliau o\'r ffôn</string>
+    <string name="notice_cast_unsupported">Ni all y teledu ddangos y math hwn o ddelwedd</string>
+    <string name="notice_not_on_tv_network">Cysylltwch y ffôn â Wi-Fi y teledu i chwarae ei ffeiliau</string>
+    <string name="notice_file_unreadable">Ni ellid darllen y ffeil honno</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Yn chwilio am setiau teledu</string>
+    <string name="setup_choose">Dewiswch eich teledu</string>
+    <string name="setup_none">Heb ddod o hyd i setiau teledu</string>
+    <string name="setup_search_again">Chwilio eto</string>
+    <string name="setup_enter_ip">Rhowch y cyfeiriad IP</string>
+    <string name="setup_ip_label">Cyfeiriad IP</string>
+    <string name="setup_ip_none">Wnaeth dim teledu ymateb yn y cyfeiriad hwnnw</string>
+    <string name="setup_connect">Cysylltu</string>
+    <string name="setup_demo">Rhoi cynnig ar y demo</string>
+    <string name="setup_code_wrong">Gwiriwch y cod ar y teledu</string>
+    <string name="setup_fire_tv_allow">Ticiwch Always allow, yna OK</string>
+    <string name="setup_adb_title">Trowch dadfygio ADB ymlaen</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Trowch Control by mobile apps ymlaen</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Wedi gorffen</string>
+    <string name="settings_edit_tv">Golygu</string>
+    <string name="dev_link_title">Cysylltiad datblygwr</string>
+    <string name="dev_link_body">Mae\'n rhestru mewnbynnau\'r teledu ei hun a\'i holl apiau, yn newid mewnbwn ar setiau sy\'n anwybyddu\'r bysellau HDMI, ac yn gosod y disgleirdeb ar rai. Mae\'n defnyddio cysylltiad dadfygio\'r teledu (ADB). Mae\'r bysellau a\'r teipio\'n gweithio yr un fath hebddo.</string>
+    <string name="dev_link_step_developer">Ar y teledu, agorwch Settings › System › About a dewiswch Android TV OS build saith gwaith. Ar setiau hŷn, Device Preferences › About › Build yw e.</string>
+    <string name="dev_link_step_debugging">Agorwch Developer options, wrth ymyl About, a throwch USB debugging ymlaen. Ar Shield, Network debugging yw e.</string>
+    <string name="dev_link_step_allow">Tapiwch Cysylltu, yna ar y teledu ticiwch Always allow a dewiswch OK.</string>
+    <string name="dev_link_connect">Cysylltu</string>
+    <string name="dev_link_allow">Caniatáu ar y teledu</string>
+    <string name="dev_link_allow_body">Ticiwch Always allow from this computer, yna OK</string>
+    <string name="dev_link_turn_off">Diffodd</string>
+    <string name="dev_link_off">I ffwrdd. Yn ychwanegu mewnbynnau a\'r holl apiau</string>
+    <string name="dev_link_away">Dydy\'r teledu ddim yn ymateb. Bydd yn rhoi cynnig arall arni ei hun tra bo\'r rheolydd ar agor.</string>
+    <string name="dev_link_away_short">Dim ymateb</string>
+    <string name="dev_link_debugging_off">Gwrthododd y teledu\'r cysylltiad. Gwiriwch fod USB debugging ymlaen. Ers Android TV 14, dim ond Wireless debugging mae rhai setiau\'n ei dderbyn, a dydy TennaRC ddim yn gallu ei ddefnyddio eto.</string>
+    <string name="dev_link_debugging_off_short">Mae dadfygio i ffwrdd ar y teledu</string>
+    <string name="dev_link_wireless">Dim ond Wireless debugging sydd ymlaen, a dydy TennaRC ddim yn gallu ei ddefnyddio eto. Trowch USB debugging ymlaen hefyd, neu parwch o gyfrifiadur unwaith a rhedeg adb tcpip 5555, sy\'n para nes i\'r teledu ailgychwyn.</string>
+    <string name="dev_link_wireless_short">Dim ond Wireless debugging sydd ymlaen</string>
+    <string name="dev_link_not_allowed">Wnaeth neb ei ganiatáu ar y teledu. Rhowch gynnig arall arni, a dewiswch OK yno.</string>
+    <string name="dev_link_not_allowed_short">Heb ei ganiatáu ar y teledu</string>
+    <string name="dev_link_forgotten">Mae\'r teledu wedi anghofio\'r ffôn hwn, fel y bydd Android TV yn ei wneud ag un nad yw wedi\'i weld ers wythnos. Rhowch gynnig arall arni, a\'i ganiatáu ar y teledu.</string>
+    <string name="dev_link_forgotten_short">Mae\'r teledu wedi anghofio\'r ffôn hwn</string>
+</resources>

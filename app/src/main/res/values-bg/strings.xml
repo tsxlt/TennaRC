@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Изпращане към телевизора</string>
+    <string name="tile_label">Дистанционно</string>
+    <string name="shortcut_link">Търсене</string>
+    <string name="shortcut_keyboard">Писане на телевизора</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Свързано</string>
+    <string name="status_connecting">Свързване…</string>
+    <string name="status_awaiting">Приемете на телевизора</string>
+    <string name="status_offline">Телевизорът изглежда изключен</string>
+    <string name="status_not_paired">Още не е сдвоено</string>
+    <string name="status_standby">В режим на готовност</string>
+    <string name="status_screen_off">Екран изключен, звук включен</string>
+    <string name="standby_title">Телевизорът е изключен</string>
+    <string name="action_turn_on">Включване</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Сдвояване с телевизора</string>
+    <string name="pair_body">Приемете на телевизора, когато попита.</string>
+    <string name="pair_declined_body">Телевизорът отказа. Този път приемете заявката.</string>
+    <string name="pair_action">Сдвояване</string>
+    <string name="pair_timeout_body">Телевизорът не отговори.</string>
+    <string name="pair_forgotten_body">Телевизорът забрави този телефон.</string>
+    <string name="approval_title">Приемете на телевизора</string>
+    <string name="connecting_title">Свързване…</string>
+    <string name="offline_title">Телевизорът изглежда изключен</string>
+    <string name="action_retry">Опитайте отново</string>
+    <string name="action_cancel">Отмяна</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Търсене</string>
+    <string name="touchpad_label">Тъчпад. Плъзнете, за да преместите показалеца, докоснете, за да щракнете, и плъзнете с два пръста за превъртане.</string>
+    <string name="dpad_label">Бутони за посока</string>
+    <string name="key_up">Нагоре</string>
+    <string name="key_down">Надолу</string>
+    <string name="key_left">Наляво</string>
+    <string name="key_right">Надясно</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Назад</string>
+    <string name="key_home">Начало</string>
+    <string name="key_keyboard">Клавиатура</string>
+    <string name="key_touchpad">Тъчпад</string>
+    <string name="key_dpad">Стрелки</string>
+    <string name="key_more">Повече</string>
+    <string name="key_rewind">Превъртане назад</string>
+    <string name="key_play">Възпроизвеждане</string>
+    <string name="key_pause">Пауза</string>
+    <string name="key_fast_forward">Превъртане напред</string>
+    <string name="key_stop">Спиране</string>
+    <string name="key_volume_up">Усилване на звука</string>
+    <string name="key_volume_down">Намаляване на звука</string>
+    <string name="key_mute">Заглушаване</string>
+    <string name="key_unmute">Включване на звука</string>
+    <string name="volume_value">Сила на звука %1$d</string>
+    <string name="volume_unknown">Сила на звука, неизвестно ниво</string>
+    <string name="volume_muted">Заглушено</string>
+    <string name="power">Захранване</string>
+    <string name="settings">Настройки</string>
+    <string name="all_apps">Всички приложения</string>
+    <string name="inputs">Входове</string>
+    <string name="picture_title">Картина</string>
+    <string name="picture_standard">Стандартен</string>
+    <string name="picture_vivid">Ярък</string>
+    <string name="picture_cinema">Кино</string>
+    <string name="picture_game">Игра</string>
+    <string name="picture_sports">Спорт</string>
+    <string name="picture_eco">Еко</string>
+    <string name="picture_expert">Експертен</string>
+    <string name="picture_backlight">Яркост</string>
+    <string name="sound_title">Звук</string>
+    <string name="sound_tv">Говорители на телевизора</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Оптичен</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Слушалки</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Говорители</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Линеен изход</string>
+    <string name="more_subtitles">Субтитри</string>
+    <string name="more_audio_track">Аудио</string>
+    <string name="sleep_title">Таймер за изключване</string>
+    <string name="sleep_minutes">%1$d мин</string>
+    <string name="sleep_at">Изключва се в %1$s</string>
+    <string name="sleep_cancel">Отмяна на таймер</string>
+    <string name="app_on_screen">%1$s, сега на екрана</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Стартиране на телевизора…</string>
+    <string name="cast_playing">Възпроизвежда се на телевизора</string>
+    <string name="cast_paused">На пауза</string>
+    <string name="cast_stalled">Видеото е спряло. Сървърът му още ли работи?</string>
+    <string name="cast_play">Продължаване</string>
+    <string name="cast_pause">Пауза</string>
+    <string name="cast_stop">Спиране на телевизора</string>
+    <string name="cast_position">Позиция</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Затваряне на търсенето</string>
+    <string name="tv_picker">Телевизори, сега %1$s</string>
+    <string name="tv_picker_add_short">Добави</string>
+    <string name="hold_hide">Скриване</string>
+    <string name="hold_rename">Преименуване</string>
+    <string name="rename_input">Преименуване на вход</string>
+    <string name="rename_save">Запазване</string>
+    <string name="rename_reset">Името от телевизора</string>
+    <string name="more_channel_list">Списък</string>
+    <string name="more_guide">Програма</string>
+    <string name="input_label">%1$s, вход</string>
+    <string name="channel_label">%2$s, канал %1$s</string>
+    <string name="on_screen_now">Сега на екрана</string>
+    <string name="deck_expanded">Разширено</string>
+    <string name="deck_collapsed">Свито</string>
+    <string name="channel_hidden">Скрито: %1$s</string>
+    <string name="action_undo">Отмяна</string>
+    <string name="offline_switch">Използване на %1$s</string>
+    <string name="search_picks">Популярно сега</string>
+    <string name="search_clear">Изчистване</string>
+    <string name="search_fill">Поставяне в полето за търсене</string>
+    <string name="search_type_on_tv">Писане на телевизора</string>
+    <string name="search_in_app">Търсене в %1$s</string>
+    <string name="search_web">Търсене с %1$s</string>
+    <string name="link_paste">Поставяне</string>
+    <string name="link_recent">Скорошни</string>
+    <string name="link_clear_recent">Изчистване</string>
+    <string name="link_kind_youtube">YouTube видео</string>
+    <string name="link_kind_video">Видеофайл</string>
+    <string name="link_kind_audio">Аудиофайл</string>
+    <string name="link_kind_image">Изображение</string>
+    <string name="link_kind_web">Уебстраница</string>
+    <string name="link_action_app">Отваряне в %1$s</string>
+    <string name="link_action_media">Пускане на телевизора</string>
+    <string name="link_action_browser">Отваряне в браузъра на телевизора</string>
+    <string name="link_sending">Изпращане…</string>
+    <string name="link_sent">Отворено на телевизора</string>
+    <string name="link_failed">Телевизорът не го отвори. Опитайте отново.</string>
+
+    <!-- Share -->
+    <string name="share_title">Изпращане към телевизора</string>
+    <string name="share_no_link">В споделеното няма връзка.</string>
+    <string name="share_not_paired">Този телефон още не е сдвоен с телевизора.</string>
+    <string name="share_open_app">Отваряне на дистанционното</string>
+    <string name="share_waiting">Свързване…</string>
+    <string name="share_cant_open">Този телевизор не може да отваря връзки от %1$s</string>
+    <string name="action_close">Затваряне</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Клавиатура</string>
+    <string name="keyboard_placeholder_waiting">Изберете поле на телевизора</string>
+    <string name="keyboard_backspace">Изтриване</string>
+    <string name="keyboard_clear">Изчистване</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d символ вече е на телевизора</item>
+        <item quantity="other">%1$d символа вече са на телевизора</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Повече</string>
+    <string name="more_menu">Настройки</string>
+    <string name="more_quick">Бързо меню</string>
+    <string name="more_quick_short">Меню</string>
+    <string name="more_info">Инфо</string>
+    <string name="more_inputs">Входове</string>
+    <string name="more_exit">Изход</string>
+    <string name="more_channel_up">Следващ канал</string>
+    <string name="more_channel_down">Предишен канал</string>
+    <string name="more_red">Червено</string>
+    <string name="more_green">Зелено</string>
+    <string name="more_yellow">Жълто</string>
+    <string name="more_blue">Синьо</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Захранване</string>
+    <string name="power_screen_off">Само звук</string>
+    <string name="power_off">Изключване на телевизора</string>
+    <string name="power_off_confirm">Докоснете отново за изключване</string>
+    <string name="power_turn_off">Изключване</string>
+    <string name="power_tap_again">Докоснете отново</string>
+    <string name="switch_on">Вкл.</string>
+    <string name="switch_off">Изкл.</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Настройки</string>
+    <string name="settings_tv">Телевизор</string>
+    <string name="settings_name">Име</string>
+    <string name="settings_host">Адрес</string>
+    <string name="settings_host_invalid">Въведете IP адрес или име на хост</string>
+    <string name="settings_mac">MAC адрес (за включване)</string>
+    <string name="settings_mac_invalid">Шест двойки шестнадесетични цифри, като 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Търсене на телевизори наблизо</string>
+    <string name="settings_finding">Търсят се телевизори…</string>
+    <string name="settings_found_none">Нито един телевизор не отговори.</string>
+    <string name="settings_found_no_new">Не са намерени други телевизори</string>
+    <string name="settings_in_use">В употреба</string>
+    <string name="settings_add">Добавяне</string>
+    <string name="settings_forget_tv">Забравяне на %1$s</string>
+    <string name="settings_use_tv">Използване на този телевизор</string>
+    <string name="settings_remove_tv">Премахване</string>
+    <string name="settings_remove_confirm">Докоснете отново за премахване</string>
+    <string name="settings_move_up">Преместване нагоре</string>
+    <string name="settings_move_down">Преместване надолу</string>
+    <string name="settings_sensitivity">Чувствителност</string>
+    <string name="settings_touchpad">Тъчпад</string>
+    <string name="settings_phone">Телефон</string>
+    <string name="settings_natural_scroll">Естествено превъртане</string>
+    <string name="settings_scroll_strip">Лента за превъртане</string>
+    <string name="settings_hidden">Скрити</string>
+    <string name="settings_show">Показване</string>
+    <string name="settings_theme">Тема</string>
+    <string name="settings_theme_auto">Авто</string>
+    <string name="settings_language">Език</string>
+    <string name="settings_theme_system">Система</string>
+    <string name="settings_theme_light">Светла</string>
+    <string name="settings_theme_dark">Тъмна</string>
+    <string name="settings_scroll_strip_right">Вдясно</string>
+    <string name="settings_scroll_strip_left">Вляво</string>
+    <string name="settings_scroll_strip_off">Изкл.</string>
+    <string name="settings_search_engine">Веб търсене</string>
+    <string name="settings_search">Търсене</string>
+    <string name="settings_find_titles">Търсене на филми и видеоклипове</string>
+    <string name="find_titles_ask">За да ги намери, TennaRC изпраща въведеното от вас до YouTube, JustWatch и Wikidata. Можете да промените това в „Настройки“.</string>
+    <string name="find_titles_not_now">Не сега</string>
+    <string name="settings_volume_keys">Бутони за звук</string>
+    <string name="settings_auto_keyboard">Автоматична клавиатура</string>
+    <string name="settings_haptics">Вибрация</string>
+    <string name="settings_keep_screen_on">Екранът да остава включен</string>
+    <string name="settings_forget">Забравяне на сдвояването</string>
+    <string name="settings_forget_body">Следващия път телевизорът ще попита отново</string>
+    <string name="settings_forget_confirm">Докоснете отново за забравяне</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Няма връзка с телевизора</string>
+    <string name="notice_command_failed">Телевизорът не отговори на командата</string>
+    <string name="notice_launch_failed">Приложението не можа да се отвори</string>
+    <string name="notice_open_failed">Телевизорът не можа да отвори връзката</string>
+    <string name="notice_no_renderer">Медийният плейър на телевизора не отговаря. Включен ли е?</string>
+    <string name="notice_cast_failed">Телевизорът не можа да пусне връзката</string>
+    <string name="notice_wake_sent">Сигналът за включване е изпратен</string>
+    <string name="notice_tv_moved">Телевизорът е намерен на нов адрес</string>
+    <string name="notice_wake_failed">Сигналът за включване не можа да се изпрати. Проверете MAC адреса.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Бавна връзка</string>
+    <string name="link_help_stalling">Wi-Fi връзката на телевизора прекъсва за миг отново и отново.</string>
+    <string name="link_help_slow">Wi-Fi връзката на телевизора е слаба или претоварена.</string>
+    <string name="link_fix_24_title">Свържете телевизора към Wi-Fi на 2,4 GHz</string>
+    <string name="link_fix_ethernet_title">Използвайте Ethernet кабел</string>
+    <string name="link_fix_extender_title">Поставете Wi-Fi удължител по средата</string>
+    <string name="link_fix_listen_title">Изключете Listen Mode в Screen Share</string>
+    <string name="link_fix_closer_title">Преместете рутера по-близо до телевизора</string>
+    <string name="link_fix_band_title">Опитайте другата Wi-Fi честота</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Дистанционно за телевизора</string>
+    <string name="notify_channel_body">Пускане, пауза и звук, докато телевизорът е включен</string>
+    <string name="notify_on_tv">На телевизора</string>
+    <string name="notify_close">Затваряне</string>
+    <string name="settings_notification_controls">Управление на медии</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Въведете кода от екрана на телевизора</string>
+    <string name="pair_code_title">Въведете кода от телевизора</string>
+    <string name="pair_code_wrong">Кодът не съвпада. Въведете новия код от телевизора.</string>
+    <string name="pair_code_label">Код</string>
+    <string name="pair_code_submit">Сдвояване</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Демо ТВ</string>
+    <string name="settings_demo_tv_body">Изпробвайте дистанционното без телевизор</string>
+    <string name="settings_demo_tv_listed">Добавя въображаем телевизор към списъка</string>
+    <string name="settings_help">Помощ</string>
+    <string name="settings_report">Подаване на сигнал за проблем</string>
+    <string name="settings_privacy">Политика за поверителност</string>
+    <string name="settings_reset">Нулиране на настройките</string>
+    <string name="settings_reset_body">Телевизорите остават сдвоени</string>
+    <string name="settings_reset_confirm">Докоснете отново за нулиране</string>
+    <string name="offline_no_wifi_title">Без Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku приема само някои команди от телефона. В Advanced system settings задайте Control by mobile apps на Enabled.</string>
+    <string name="notice_adb_off">Включете отстраняването на грешки през ADB на Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Изкл.</string>
+    <string name="ambilight_video">Видео</string>
+    <string name="ambilight_audio">Звук</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Сдвоете, за да управлявате Ambilight</string>
+    <string name="ambilight_pin_hint">PIN на телевизора</string>
+    <string name="ambilight_pin_wrong">Грешен PIN. Опитайте новия</string>
+    <string name="search_opens_app">Отваря %1$s</string>
+    <string name="voice_search">Гласово търсене</string>
+    <string name="voice_stop">Спиране на слушането</string>
+    <string name="voice_listening">Слушам…</string>
+    <string name="voice_mic_off">Достъпът до микрофона е изключен</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC се затвори неочаквано</string>
+    <string name="crash_send">Изпращане</string>
+    <string name="crash_report_subject">Доклад за срив на TennaRC %1$s</string>
+    <string name="crash_sent">Сигналът е изпратен. Благодарим ви</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Пускане, пауза и звук за телевизора</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Пускане от този телефон</string>
+    <string name="phone_mirror">Дублиране</string>
+    <string name="phone_mirror_label">Дублиране на екрана на телефона</string>
+    <string name="phone_gallery">Галерия</string>
+    <string name="phone_gallery_label">Показване на снимка или видео от телефона</string>
+    <string name="share_cant_play_file">Този телевизор не може да пуска файлове от телефона</string>
+    <string name="notice_cast_unsupported">Телевизорът не може да покаже такова изображение</string>
+    <string name="notice_not_on_tv_network">Свържете телефона към Wi-Fi мрежата на телевизора, за да пускате файловете му</string>
+    <string name="notice_file_unreadable">Файлът не можа да се прочете</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Търсене на телевизори</string>
+    <string name="setup_choose">Изберете телевизора си</string>
+    <string name="setup_none">Не са намерени телевизори</string>
+    <string name="setup_search_again">Ново търсене</string>
+    <string name="setup_enter_ip">Въведете IP адрес</string>
+    <string name="setup_ip_label">IP адрес</string>
+    <string name="setup_ip_none">На този адрес не отговори телевизор</string>
+    <string name="setup_connect">Свързване</string>
+    <string name="setup_demo">Изпробване на демо</string>
+    <string name="setup_code_wrong">Проверете кода на телевизора</string>
+    <string name="setup_fire_tv_allow">Отметнете Always allow, след това OK</string>
+    <string name="setup_adb_title">Включете отстраняването на грешки през ADB</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Включете Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Готово</string>
+    <string name="settings_edit_tv">Редактиране</string>
+    <string name="dev_link_title">Връзка за разработчици</string>
+    <string name="dev_link_body">Показва собствените входове на телевизора и всичките му приложения, превключва входовете на телевизори, които не реагират на бутоните HDMI, а на някои настройва и яркостта. Работи през връзката за отстраняване на грешки на телевизора (ADB). Бутоните и писането работят и без нея.</string>
+    <string name="dev_link_step_developer">На телевизора отворете Настройки › Система › Информация и изберете седем пъти Компилация на ОС Android TV. На по-стари телевизори е Предпочитания за устройството › Информация › Компилация.</string>
+    <string name="dev_link_step_debugging">Отворете Опции за програмисти до Информация и включете Отстраняване на грешки през USB. На Shield е Мрежово отстраняване на грешки.</string>
+    <string name="dev_link_step_allow">Докоснете Свързване, после на телевизора отметнете Винаги да се разрешава и изберете OK.</string>
+    <string name="dev_link_connect">Свързване</string>
+    <string name="dev_link_allow">Разрешете на телевизора</string>
+    <string name="dev_link_allow_body">Отметнете Винаги да се разрешава от този компютър, после OK</string>
+    <string name="dev_link_turn_off">Изключване</string>
+    <string name="dev_link_off">Изключено. Добавя входове и всички приложения</string>
+    <string name="dev_link_away">Телевизорът не отговаря. Докато дистанционното е отворено, връзката сама опитва отново.</string>
+    <string name="dev_link_away_short">Няма отговор</string>
+    <string name="dev_link_debugging_off">Телевизорът отказа връзката. Проверете дали Отстраняването на грешки през USB е включено. От Android TV 14 някои телевизори приемат само Безжично отстраняване на грешки, което TennaRC още не поддържа.</string>
+    <string name="dev_link_debugging_off_short">Отстраняването на грешки е изключено</string>
+    <string name="dev_link_wireless">Включено е само Безжичното отстраняване на грешки, което TennaRC още не поддържа. Включете и Отстраняване на грешки през USB или сдвоете веднъж от компютър и изпълнете adb tcpip 5555 – това важи до рестартиране на телевизора.</string>
+    <string name="dev_link_wireless_short">Включено е само безжичното отстраняване</string>
+    <string name="dev_link_not_allowed">Никой не го разреши на телевизора. Опитайте отново и там изберете OK.</string>
+    <string name="dev_link_not_allowed_short">Не е разрешено на телевизора</string>
+    <string name="dev_link_forgotten">Телевизорът забрави този телефон, както Android TV прави с телефони, които не е виждал от седмица. Опитайте отново и разрешете на телевизора.</string>
+    <string name="dev_link_forgotten_short">Телевизорът забрави този телефон</string>
+</resources>

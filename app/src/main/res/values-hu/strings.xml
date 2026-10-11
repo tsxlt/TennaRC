@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Küldés a TV-re</string>
+    <string name="tile_label">TV-távirányító</string>
+    <string name="shortcut_link">Keresés</string>
+    <string name="shortcut_keyboard">Gépelés a TV-n</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Csatlakozva</string>
+    <string name="status_connecting">Csatlakozás…</string>
+    <string name="status_awaiting">Hagyd jóvá a TV-n</string>
+    <string name="status_offline">A TV kikapcsoltnak tűnik</string>
+    <string name="status_not_paired">Még nincs párosítva</string>
+    <string name="status_standby">Készenlétben</string>
+    <string name="status_screen_off">Kép ki, hang be</string>
+    <string name="standby_title">A TV ki van kapcsolva</string>
+    <string name="action_turn_on">Bekapcsolás</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Párosítás a TV-vel</string>
+    <string name="pair_body">Hagyd jóvá a TV-n, amikor rákérdez.</string>
+    <string name="pair_declined_body">A TV elutasította. Ezúttal hagyd jóvá a kérést.</string>
+    <string name="pair_action">Párosítás</string>
+    <string name="pair_timeout_body">Nem érkezett válasz a TV-től.</string>
+    <string name="pair_forgotten_body">A TV elfelejtette ezt a telefont.</string>
+    <string name="approval_title">Hagyd jóvá a TV-n</string>
+    <string name="connecting_title">Csatlakozás…</string>
+    <string name="offline_title">A TV kikapcsoltnak tűnik</string>
+    <string name="action_retry">Próbáld újra</string>
+    <string name="action_cancel">Mégse</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Keresés</string>
+    <string name="touchpad_label">Érintőpad. Húzással mozgathatod a mutatót, koppintással kattinthatsz, két ujjal húzva görgethetsz.</string>
+    <string name="dpad_label">Iránygombok</string>
+    <string name="key_up">Fel</string>
+    <string name="key_down">Le</string>
+    <string name="key_left">Balra</string>
+    <string name="key_right">Jobbra</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Vissza</string>
+    <string name="key_home">Kezdőlap</string>
+    <string name="key_keyboard">Billentyűzet</string>
+    <string name="key_touchpad">Érintőpad</string>
+    <string name="key_dpad">Nyilak</string>
+    <string name="key_more">Több</string>
+    <string name="key_rewind">Visszatekerés</string>
+    <string name="key_play">Lejátszás</string>
+    <string name="key_pause">Szünet</string>
+    <string name="key_fast_forward">Előretekerés</string>
+    <string name="key_stop">Leállítás</string>
+    <string name="key_volume_up">Hangerő fel</string>
+    <string name="key_volume_down">Hangerő le</string>
+    <string name="key_mute">Némítás</string>
+    <string name="key_unmute">Némítás feloldása</string>
+    <string name="volume_value">Hangerő %1$d</string>
+    <string name="volume_unknown">Hangerő, ismeretlen szint</string>
+    <string name="volume_muted">Némítva</string>
+    <string name="power">Be/Ki</string>
+    <string name="settings">Beállítások</string>
+    <string name="all_apps">Összes alkalmazás</string>
+    <string name="inputs">Bemenetek</string>
+    <string name="picture_title">Kép</string>
+    <string name="picture_standard">Normál</string>
+    <string name="picture_vivid">Élénk</string>
+    <string name="picture_cinema">Mozi</string>
+    <string name="picture_game">Játék</string>
+    <string name="picture_sports">Sport</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Szakértői</string>
+    <string name="picture_backlight">Fényerő</string>
+    <string name="sound_title">Hang</string>
+    <string name="sound_tv">TV hangszórói</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optikai</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Fejhallgató</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Hangszórók</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Vonali kimenet</string>
+    <string name="more_subtitles">Feliratok</string>
+    <string name="more_audio_track">Hangsáv</string>
+    <string name="sleep_title">Elalváskapcsoló</string>
+    <string name="sleep_minutes">%1$d perc</string>
+    <string name="sleep_at">Kikapcsol: %1$s</string>
+    <string name="sleep_cancel">Időzítő törlése</string>
+    <string name="app_on_screen">%1$s, most a képernyőn</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Indítás a TV-n…</string>
+    <string name="cast_playing">Lejátszás a TV-n</string>
+    <string name="cast_paused">Szüneteltetve</string>
+    <string name="cast_stalled">Elakadt. Fut még a videó szervere?</string>
+    <string name="cast_play">Folytatás</string>
+    <string name="cast_pause">Szünet</string>
+    <string name="cast_stop">Lejátszás leállítása a TV-n</string>
+    <string name="cast_position">Lejátszási pozíció</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Keresés bezárása</string>
+    <string name="tv_picker">TV-k, most: %1$s</string>
+    <string name="tv_picker_add_short">Hozzáad</string>
+    <string name="hold_hide">Elrejtés</string>
+    <string name="hold_rename">Átnevezés</string>
+    <string name="rename_input">Bemenet átnevezése</string>
+    <string name="rename_save">Mentés</string>
+    <string name="rename_reset">A TV által adott név</string>
+    <string name="more_channel_list">Lista</string>
+    <string name="more_guide">Műsor</string>
+    <string name="input_label">%1$s, bemenet</string>
+    <string name="channel_label">%2$s, csatorna %1$s</string>
+    <string name="on_screen_now">Most a képernyőn</string>
+    <string name="deck_expanded">Kibontva</string>
+    <string name="deck_collapsed">Összecsukva</string>
+    <string name="channel_hidden">%1$s elrejtve</string>
+    <string name="action_undo">Visszavonás</string>
+    <string name="offline_switch">%1$s használata</string>
+    <string name="search_picks">Most népszerű</string>
+    <string name="search_clear">Törlés</string>
+    <string name="search_fill">Beírás a keresőmezőbe</string>
+    <string name="search_type_on_tv">Gépelés a TV-n</string>
+    <string name="search_in_app">Keresés itt: %1$s</string>
+    <string name="search_web">Keresés ezzel: %1$s</string>
+    <string name="link_paste">Beillesztés</string>
+    <string name="link_recent">Legutóbbiak</string>
+    <string name="link_clear_recent">Törlés</string>
+    <string name="link_kind_youtube">YouTube-videó</string>
+    <string name="link_kind_video">Videófájl</string>
+    <string name="link_kind_audio">Hangfájl</string>
+    <string name="link_kind_image">Kép</string>
+    <string name="link_kind_web">Weboldal</string>
+    <string name="link_action_app">Megnyitás itt: %1$s</string>
+    <string name="link_action_media">Lejátszás a TV-n</string>
+    <string name="link_action_browser">Megnyitás a TV böngészőjében</string>
+    <string name="link_sending">Küldés…</string>
+    <string name="link_sent">Megnyitva a TV-n</string>
+    <string name="link_failed">A TV nem nyitotta meg. Próbáld újra.</string>
+
+    <!-- Share -->
+    <string name="share_title">Küldés a TV-re</string>
+    <string name="share_no_link">Abban, amit megosztottál, nincs link.</string>
+    <string name="share_not_paired">Ez a telefon még nincs párosítva a TV-vel.</string>
+    <string name="share_open_app">Távirányító megnyitása</string>
+    <string name="share_waiting">Csatlakozás…</string>
+    <string name="share_cant_open">Ez a TV nem tudja megnyitni az ilyen linkeket: %1$s</string>
+    <string name="action_close">Bezárás</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Billentyűzet</string>
+    <string name="keyboard_placeholder_waiting">Válassz egy szövegmezőt a TV-n</string>
+    <string name="keyboard_backspace">Visszatörlés</string>
+    <string name="keyboard_clear">Törlés</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d karakter már a TV-n van</item>
+        <item quantity="other">%1$d karakter már a TV-n van</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Több</string>
+    <string name="more_menu">Beállítások</string>
+    <string name="more_quick">Gyorsmenü</string>
+    <string name="more_quick_short">Menü</string>
+    <string name="more_info">Infó</string>
+    <string name="more_inputs">Bemenetek</string>
+    <string name="more_exit">Kilépés</string>
+    <string name="more_channel_up">Következő csatorna</string>
+    <string name="more_channel_down">Előző csatorna</string>
+    <string name="more_red">Piros</string>
+    <string name="more_green">Zöld</string>
+    <string name="more_yellow">Sárga</string>
+    <string name="more_blue">Kék</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Be/Ki</string>
+    <string name="power_screen_off">Csak hang</string>
+    <string name="power_off">A TV kikapcsolása</string>
+    <string name="power_off_confirm">Koppints újra a kikapcsoláshoz</string>
+    <string name="power_turn_off">Kikapcsolás</string>
+    <string name="power_tap_again">Koppints újra</string>
+    <string name="switch_on">Be</string>
+    <string name="switch_off">Ki</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Beállítások</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Név</string>
+    <string name="settings_host">Cím</string>
+    <string name="settings_host_invalid">Adj meg IP-címet vagy gépnevet</string>
+    <string name="settings_mac">MAC-cím (bekapcsoláshoz)</string>
+    <string name="settings_mac_invalid">Hat hexadecimális számpár, pl. 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">TV-k keresése a közelben</string>
+    <string name="settings_finding">TV-k keresése…</string>
+    <string name="settings_found_none">Egy TV sem válaszolt.</string>
+    <string name="settings_found_no_new">Nem található több TV</string>
+    <string name="settings_in_use">Használatban</string>
+    <string name="settings_add">Hozzáadás</string>
+    <string name="settings_forget_tv">%1$s elfelejtése</string>
+    <string name="settings_use_tv">Használat</string>
+    <string name="settings_remove_tv">Eltávolítás</string>
+    <string name="settings_remove_confirm">Koppints újra az eltávolításhoz</string>
+    <string name="settings_move_up">Feljebb</string>
+    <string name="settings_move_down">Lejjebb</string>
+    <string name="settings_sensitivity">Érzékenység</string>
+    <string name="settings_touchpad">Érintőpad</string>
+    <string name="settings_phone">Telefon</string>
+    <string name="settings_natural_scroll">Természetes görgetés</string>
+    <string name="settings_scroll_strip">Görgetési sáv</string>
+    <string name="settings_hidden">Rejtett</string>
+    <string name="settings_show">Megjelenítés</string>
+    <string name="settings_theme">Téma</string>
+    <string name="settings_theme_auto">Automatikus</string>
+    <string name="settings_language">Nyelv</string>
+    <string name="settings_theme_system">Rendszer</string>
+    <string name="settings_theme_light">Világos</string>
+    <string name="settings_theme_dark">Sötét</string>
+    <string name="settings_scroll_strip_right">Jobbra</string>
+    <string name="settings_scroll_strip_left">Balra</string>
+    <string name="settings_scroll_strip_off">Ki</string>
+    <string name="settings_search_engine">Webes keresés</string>
+    <string name="settings_search">Keresés</string>
+    <string name="settings_find_titles">Filmek és videók keresése</string>
+    <string name="find_titles_ask">A kereséshez a TennaRC elküldi a beírtakat a YouTube-nak, a JustWatchnak és a Wikidatának. Ezt a Beállításokban módosíthatod.</string>
+    <string name="find_titles_not_now">Most nem</string>
+    <string name="settings_volume_keys">Hangerőgombok</string>
+    <string name="settings_auto_keyboard">Automatikus billentyűzet</string>
+    <string name="settings_haptics">Rezgés</string>
+    <string name="settings_keep_screen_on">Képernyő ébren tartása</string>
+    <string name="settings_forget">Párosítás elfelejtése</string>
+    <string name="settings_forget_body">A TV legközelebb újra rákérdez</string>
+    <string name="settings_forget_confirm">Koppints újra az elfelejtéshez</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Nincs kapcsolat a TV-vel</string>
+    <string name="notice_command_failed">A TV nem reagált a parancsra</string>
+    <string name="notice_launch_failed">Nem sikerült megnyitni az alkalmazást</string>
+    <string name="notice_open_failed">A TV nem tudta megnyitni a linket</string>
+    <string name="notice_no_renderer">A TV médialejátszója nem válaszol. Be van kapcsolva?</string>
+    <string name="notice_cast_failed">A TV nem tudta lejátszani a linket</string>
+    <string name="notice_wake_sent">Ébresztőjel elküldve</string>
+    <string name="notice_tv_moved">A TV új címen található</string>
+    <string name="notice_wake_failed">Nem sikerült elküldeni az ébresztőjelet. Ellenőrizd a MAC-címet.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Akadozó kapcsolat</string>
+    <string name="link_help_stalling">A TV Wi-Fi-je időről időre röviden kimarad.</string>
+    <string name="link_help_slow">A TV Wi-Fi-je gyenge vagy túlterhelt.</string>
+    <string name="link_fix_24_title">Csatlakoztasd a TV-t 2,4 GHz-es Wi-Fi-hez</string>
+    <string name="link_fix_ethernet_title">Használj Ethernet-kábelt</string>
+    <string name="link_fix_extender_title">Tegyél félútra egy Wi-Fi-jelerősítőt</string>
+    <string name="link_fix_listen_title">Kapcsold ki a Listen Mode-ot a Screen Share-ben</string>
+    <string name="link_fix_closer_title">Vidd közelebb a routert a TV-hez</string>
+    <string name="link_fix_band_title">Próbáld ki a másik Wi-Fi-sávot</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">TV-távirányító</string>
+    <string name="notify_channel_body">Lejátszás, szünet és hangerő, amíg a TV be van kapcsolva</string>
+    <string name="notify_on_tv">A TV-n</string>
+    <string name="notify_close">Bezárás</string>
+    <string name="settings_notification_controls">Médiavezérlés</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Gépeld be a TV-n megjelenő kódot</string>
+    <string name="pair_code_title">Írd be a TV-n látható kódot</string>
+    <string name="pair_code_wrong">A kód nem egyezik. Írd be a TV-n megjelenő új kódot.</string>
+    <string name="pair_code_label">Kód</string>
+    <string name="pair_code_submit">Párosítás</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Demó TV</string>
+    <string name="settings_demo_tv_body">Próbáld a távirányítót TV nélkül</string>
+    <string name="settings_demo_tv_listed">Egy kitalált TV-t ad a TV-id listájához</string>
+    <string name="settings_help">Súgó</string>
+    <string name="settings_report">Probléma jelentése</string>
+    <string name="settings_privacy">Adatvédelmi irányelvek</string>
+    <string name="settings_reset">Beállítások visszaállítása</string>
+    <string name="settings_reset_body">A tévék párosítva maradnak</string>
+    <string name="settings_reset_confirm">Koppints újra a visszaállításhoz</string>
+    <string name="offline_no_wifi_title">Nincs Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">A Roku csak néhány parancsot fogad el telefonról. Az Advanced system settings menüben állítsd a Control by mobile apps opciót Enabled értékre.</string>
+    <string name="notice_adb_off">Kapcsold be az ADB-hibakeresést a Fire TV-n: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Ki</string>
+    <string name="ambilight_video">Videó</string>
+    <string name="ambilight_audio">Hang</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Párosítsd az Ambilight vezérléséhez</string>
+    <string name="ambilight_pin_hint">PIN-kód a TV-n</string>
+    <string name="ambilight_pin_wrong">Hibás PIN-kód. Próbáld az újat</string>
+    <string name="search_opens_app">Megnyitja: %1$s</string>
+    <string name="voice_search">Hangalapú keresés</string>
+    <string name="voice_stop">Hallgatás leállítása</string>
+    <string name="voice_listening">Figyelek…</string>
+    <string name="voice_mic_off">A mikrofonhozzáférés ki van kapcsolva</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">A TennaRC váratlanul bezárult</string>
+    <string name="crash_send">Küldés</string>
+    <string name="crash_report_subject">TennaRC összeomlási jelentés %1$s</string>
+    <string name="crash_sent">Jelentés elküldve. Köszönjük</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Lejátszás, szünet és hangerő a TV-hez</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Lejátszás erről a telefonról</string>
+    <string name="phone_mirror">Tükrözés</string>
+    <string name="phone_mirror_label">A telefon képernyőjének tükrözése</string>
+    <string name="phone_gallery">Galéria</string>
+    <string name="phone_gallery_label">Fotó vagy videó lejátszása erről a telefonról</string>
+    <string name="share_cant_play_file">Ez a TV nem tudja lejátszani a telefon fájljait</string>
+    <string name="notice_cast_unsupported">A TV nem tudja megjeleníteni ezt a fajta képet</string>
+    <string name="notice_not_on_tv_network">Csatlakoztasd a telefont a TV Wi-Fi-hálózatához, hogy lejátszhasd a fájljait</string>
+    <string name="notice_file_unreadable">Nem sikerült beolvasni a fájlt</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">TV-k keresése</string>
+    <string name="setup_choose">Válaszd ki a TV-t</string>
+    <string name="setup_none">Nem található TV</string>
+    <string name="setup_search_again">Keresés újra</string>
+    <string name="setup_enter_ip">IP-cím beírása</string>
+    <string name="setup_ip_label">IP-cím</string>
+    <string name="setup_ip_none">Ezen a címen nem válaszolt TV</string>
+    <string name="setup_connect">Csatlakozás</string>
+    <string name="setup_demo">Demó kipróbálása</string>
+    <string name="setup_code_wrong">Ellenőrizd a TV-n látható kódot</string>
+    <string name="setup_fire_tv_allow">Jelöld be az Always allow lehetőséget, majd OK</string>
+    <string name="setup_adb_title">Kapcsold be az ADB-hibakeresést</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Kapcsold be a Control by mobile apps opciót</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Kész</string>
+    <string name="settings_edit_tv">Szerkesztés</string>
+    <string name="dev_link_title">Fejlesztői kapcsolat</string>
+    <string name="dev_link_body">Megjeleníti a TV saját bemeneteit és összes alkalmazását, bemenetet vált azokon a TV-ken, amelyek nem reagálnak a HDMI-gombokra, és némelyiken a fényerőt is beállítja. A TV hibakeresési kapcsolatán (ADB) keresztül működik. A gombok és a gépelés nélküle is ugyanúgy működnek.</string>
+    <string name="dev_link_step_developer">A TV-n nyisd meg a Beállítások › Rendszer › Névjegy menüt, és válaszd ki hétszer az Android TV OS-buildszámot. Régebbi TV-ken ez Eszközbeállítások › Névjegy › Buildszám.</string>
+    <string name="dev_link_step_debugging">Nyisd meg a Névjegy melletti Fejlesztői beállításokat, és kapcsold be az USB-hibakeresést. Shieldnél ez a Hálózati hibakeresés.</string>
+    <string name="dev_link_step_allow">Koppints a Csatlakozás gombra, majd a TV-n jelöld be a Mindig engedélyezze lehetőséget, és válaszd az OK-t.</string>
+    <string name="dev_link_connect">Csatlakozás</string>
+    <string name="dev_link_allow">Engedélyezd a TV-n</string>
+    <string name="dev_link_allow_body">Jelöld be a Mindig engedélyezze erről a számítógépről lehetőséget, majd OK</string>
+    <string name="dev_link_turn_off">Kikapcsolás</string>
+    <string name="dev_link_off">Ki. Hozzáadja a bemeneteket és az összes alkalmazást</string>
+    <string name="dev_link_away">A TV nem válaszol. Amíg a távirányító nyitva van, a kapcsolat magától újrapróbálkozik.</string>
+    <string name="dev_link_away_short">Nem válaszol</string>
+    <string name="dev_link_debugging_off">A TV elutasította a kapcsolatot. Ellenőrizd, hogy be van-e kapcsolva az USB-hibakeresés. Az Android TV 14 óta egyes TV-k csak a vezeték nélküli hibakeresést fogadják el, amelyet a TennaRC még nem tud használni.</string>
+    <string name="dev_link_debugging_off_short">A hibakeresés ki van kapcsolva a TV-n</string>
+    <string name="dev_link_wireless">Csak a vezeték nélküli hibakeresés van bekapcsolva, amelyet a TennaRC még nem tud használni. Kapcsold be az USB-hibakeresést is, vagy párosítsd egyszer számítógépről, és futtasd az adb tcpip 5555 parancsot, amely a TV újraindításáig érvényes.</string>
+    <string name="dev_link_wireless_short">Csak a vezeték nélküli hibakeresés van be</string>
+    <string name="dev_link_not_allowed">Senki nem engedélyezte a TV-n. Próbáld újra, és ott válaszd az OK-t.</string>
+    <string name="dev_link_not_allowed_short">Nincs engedélyezve a TV-n</string>
+    <string name="dev_link_forgotten">A TV elfelejtette ezt a telefont, ahogy az Android TV teszi azokkal, amelyeket egy hete nem látott. Próbáld újra, és engedélyezd a TV-n.</string>
+    <string name="dev_link_forgotten_short">A TV elfelejtette ezt a telefont</string>
+</resources>

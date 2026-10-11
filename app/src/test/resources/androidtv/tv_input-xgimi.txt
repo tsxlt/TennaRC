@@ -1,0 +1,64 @@
+User Ids (Current user: 0):
+  0
+UserState (0):
+  inputMap: inputId -> TvInputState
+    com.google.android.videos/.tv.usecase.tvinput.playback.TvInputService: info: TvInputInfo{id=com.google.android.videos/.tv.usecase.tvinput.playback.TvInputService, pkg=com.google.android.videos, service=com.google.android.videos.tv.usecase.tvinput.playback.TvInputService}; state: 0
+    com.google.android.videos/com.google.android.apps.play.movies.tv.usecase.tvinput.playback.VideoPreviewInputService: info: TvInputInfo{id=com.google.android.videos/com.google.android.apps.play.movies.tv.usecase.tvinput.playback.VideoPreviewInputService, pkg=com.google.android.videos, service=com.google.android.apps.play.movies.tv.usecase.tvinput.playback.VideoPreviewInputService}; state: 0
+    com.xgimi.tvinput/.inputservice.Hdmi2TvInputService/HW2: info: TvInputInfo{id=com.xgimi.tvinput/.inputservice.Hdmi2TvInputService/HW2, pkg=com.xgimi.tvinput, service=com.xgimi.tvinput.inputservice.Hdmi2TvInputService}; state: 0
+    org.videolan.vlc/.PreviewVideoInputService: info: TvInputInfo{id=org.videolan.vlc/.PreviewVideoInputService, pkg=org.videolan.vlc, service=org.videolan.vlc.PreviewVideoInputService}; state: 0
+    com.xgimi.tvinput/.inputservice.Hdmi1TvInputService/HW1: info: TvInputInfo{id=com.xgimi.tvinput/.inputservice.Hdmi1TvInputService/HW1, pkg=com.xgimi.tvinput, service=com.xgimi.tvinput.inputservice.Hdmi1TvInputService}; state: 1
+  packageSet:
+    com.google.android.videos
+    com.xgimi.tvinput
+    org.videolan.vlc
+  clientStateMap: ITvInputClient -> ClientState
+  serviceStateMap: ComponentName -> ServiceState
+    ComponentInfo{com.xgimi.tvinput/com.xgimi.tvinput.inputservice.Hdmi1TvInputService}: com.android.server.tv.TvInputManagerService$ServiceState@2f5f053
+      sessionTokens:
+      service: android.media.tv.ITvInputService$Stub$Proxy@522cd90
+      callback: com.android.server.tv.TvInputManagerService$ServiceCallback@7d39689
+      bound: true
+      reconnecting: false
+    ComponentInfo{com.xgimi.tvinput/com.xgimi.tvinput.inputservice.Hdmi3TvInputService}: com.android.server.tv.TvInputManagerService$ServiceState@3eb068e
+      sessionTokens:
+      service: android.media.tv.ITvInputService$Stub$Proxy@6e53eaf
+      callback: com.android.server.tv.TvInputManagerService$ServiceCallback@30f32bc
+      bound: true
+      reconnecting: false
+    ComponentInfo{com.xgimi.tvinput/com.xgimi.tvinput.inputservice.Hdmi2TvInputService}: com.android.server.tv.TvInputManagerService$ServiceState@8561245
+      sessionTokens:
+      service: android.media.tv.ITvInputService$Stub$Proxy@c94fd9a
+      callback: com.android.server.tv.TvInputManagerService$ServiceCallback@fd116cb
+      bound: true
+      reconnecting: false
+  sessionStateMap: ITvInputSession -> SessionState
+  mCallbacks:
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@cfabea8
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@da9249a
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@aca8dc1
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@5854a7
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@f911d54
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@219c554
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@ab144fd
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@e9a7c0e
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@7b48abb
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@c2b9443
+    android.media.tv.ITvInputManagerCallback$Stub$Proxy@76c2f3e
+    android.media.tv.TvInputManager$2@eb87c87
+  mainSessionToken: null
+TvInputHardwareManager Info:
+  mConnections: deviceId -> Connection
+    1: Connection{ mHardwareInfo: TvInputHardwareInfo {id=1, type=9, audio_type=-2147483616, audio_addr=, hdmi_port=1, cable_connection_status=0}, mInfo: TvInputInfo{id=com.xgimi.tvinput/.inputservice.Hdmi1TvInputService/HW1, pkg=com.xgimi.tvinput, service=com.xgimi.tvinput.inputservice.Hdmi1TvInputService}, mCallback: android.media.tv.ITvInputHardwareCallback$Stub$Proxy@769319f, mConfigs: [], mCallingUid: 1000, mResolvedUserId: 0, mResourceClientProfile: ResourceClientProfile {tvInputSessionId=null, useCase=400} }
+    2: Connection{ mHardwareInfo: TvInputHardwareInfo {id=2, type=9, audio_type=-2147483616, audio_addr=, hdmi_port=2, cable_connection_status=0}, mInfo: TvInputInfo{id=com.xgimi.tvinput/.inputservice.Hdmi2TvInputService/HW2, pkg=com.xgimi.tvinput, service=com.xgimi.tvinput.inputservice.Hdmi2TvInputService}, mCallback: android.media.tv.ITvInputHardwareCallback$Stub$Proxy@4e2c2ec, mConfigs: [TvStreamConfig {mStreamId=0;mType=1;mGeneration=0}, TvStreamConfig {mStreamId=1;mType=1;mGeneration=0}], mCallingUid: 1000, mResolvedUserId: 0, mResourceClientProfile: ResourceClientProfile {tvInputSessionId=null, useCase=400} }
+  mHardwareList:
+    TvInputHardwareInfo {id=1, type=9, audio_type=-2147483616, audio_addr=, hdmi_port=1, cable_connection_status=0}
+    TvInputHardwareInfo {id=2, type=9, audio_type=-2147483616, audio_addr=, hdmi_port=2, cable_connection_status=0}
+  mHdmiDeviceList:
+  mHardwareInputIdMap: deviceId -> inputId
+    1: com.xgimi.tvinput/.inputservice.Hdmi1TvInputService/HW1
+    2: com.xgimi.tvinput/.inputservice.Hdmi2TvInputService/HW2
+  mHdmiInputIdMap: id -> inputId
+  mInputMap: inputId -> inputInfo
+    com.xgimi.tvinput/.inputservice.Hdmi2TvInputService/HW2: TvInputInfo{id=com.xgimi.tvinput/.inputservice.Hdmi2TvInputService/HW2, pkg=com.xgimi.tvinput, service=com.xgimi.tvinput.inputservice.Hdmi2TvInputService}
+    com.xgimi.tvinput/.inputservice.Hdmi1TvInputService/HW1: TvInputInfo{id=com.xgimi.tvinput/.inputservice.Hdmi1TvInputService/HW1, pkg=com.xgimi.tvinput, service=com.xgimi.tvinput.inputservice.Hdmi1TvInputService}
+

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Senda í sjónvarp</string>
+    <string name="tile_label">Fjarstýring</string>
+    <string name="shortcut_link">Leita</string>
+    <string name="shortcut_keyboard">Skrifa á sjónvarpinu</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Tengt</string>
+    <string name="status_connecting">Tengist…</string>
+    <string name="status_awaiting">Staðfestu á sjónvarpinu</string>
+    <string name="status_offline">Sjónvarpið virðist slökkt</string>
+    <string name="status_not_paired">Ekki parað enn</string>
+    <string name="status_standby">Í biðstöðu</string>
+    <string name="status_screen_off">Skjár slökktur, hljóð kveikt</string>
+    <string name="standby_title">Slökkt er á sjónvarpinu</string>
+    <string name="action_turn_on">Kveikja</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Para við sjónvarpið</string>
+    <string name="pair_body">Staðfestu á sjónvarpinu þegar það spyr.</string>
+    <string name="pair_declined_body">Sjónvarpið hafnaði. Veldu Staðfesta í þetta sinn.</string>
+    <string name="pair_action">Para</string>
+    <string name="pair_timeout_body">Ekkert svar frá sjónvarpinu.</string>
+    <string name="pair_forgotten_body">Sjónvarpið gleymdi þessum síma.</string>
+    <string name="approval_title">Staðfestu á sjónvarpinu</string>
+    <string name="connecting_title">Tengist…</string>
+    <string name="offline_title">Sjónvarpið virðist slökkt</string>
+    <string name="action_retry">Reyna aftur</string>
+    <string name="action_cancel">Hætta við</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Leita</string>
+    <string name="touchpad_label">Snertiflötur. Dragðu til að færa bendilinn, ýttu til að smella og dragðu með tveimur fingrum til að fletta.</string>
+    <string name="dpad_label">Stefnuhnappar</string>
+    <string name="key_up">Upp</string>
+    <string name="key_down">Niður</string>
+    <string name="key_left">Vinstri</string>
+    <string name="key_right">Hægri</string>
+    <string name="key_ok">Í lagi</string>
+    <string name="key_back">Til baka</string>
+    <string name="key_home">Heim</string>
+    <string name="key_keyboard">Lyklaborð</string>
+    <string name="key_touchpad">Snertiflötur</string>
+    <string name="key_dpad">Örvar</string>
+    <string name="key_more">Meira</string>
+    <string name="key_rewind">Spóla til baka</string>
+    <string name="key_play">Spila</string>
+    <string name="key_pause">Hlé</string>
+    <string name="key_fast_forward">Spóla áfram</string>
+    <string name="key_stop">Stöðva</string>
+    <string name="key_volume_up">Hækka hljóð</string>
+    <string name="key_volume_down">Lækka hljóð</string>
+    <string name="key_mute">Slökkva á hljóði</string>
+    <string name="key_unmute">Kveikja á hljóði</string>
+    <string name="volume_value">Hljóðstyrkur %1$d</string>
+    <string name="volume_unknown">Hljóðstyrkur óþekktur</string>
+    <string name="volume_muted">Slökkt á hljóði</string>
+    <string name="power">Afl</string>
+    <string name="settings">Stillingar</string>
+    <string name="all_apps">Öll forrit</string>
+    <string name="inputs">Inntök</string>
+    <string name="picture_title">Mynd</string>
+    <string name="picture_standard">Staðlað</string>
+    <string name="picture_vivid">Líflegt</string>
+    <string name="picture_cinema">Bíó</string>
+    <string name="picture_game">Leikur</string>
+    <string name="picture_sports">Íþróttir</string>
+    <string name="picture_eco">Spar</string>
+    <string name="picture_expert">Sérfræðingur</string>
+    <string name="picture_backlight">Birtustig</string>
+    <string name="sound_title">Hljóð</string>
+    <string name="sound_tv">Hátalarar sjónvarps</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Ljósleiðari</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Heyrnartól</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Hátalarar</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Línuútgangur</string>
+    <string name="more_subtitles">Skjátextar</string>
+    <string name="more_audio_track">Hljóð</string>
+    <string name="sleep_title">Svefntímastillir</string>
+    <string name="sleep_minutes">%1$d mín</string>
+    <string name="sleep_at">Slekkur á sér kl. %1$s</string>
+    <string name="sleep_cancel">Hætta við tímastilli</string>
+    <string name="app_on_screen">%1$s, núna á skjánum</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Ræsir á sjónvarpinu…</string>
+    <string name="cast_playing">Spilar á sjónvarpinu</string>
+    <string name="cast_paused">Hlé</string>
+    <string name="cast_stalled">Spilun stopp. Er myndbandsþjónninn enn virkur?</string>
+    <string name="cast_play">Halda áfram</string>
+    <string name="cast_pause">Hlé</string>
+    <string name="cast_stop">Stöðva spilun á sjónvarpinu</string>
+    <string name="cast_position">Staða spilunar</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Loka leit</string>
+    <string name="tv_picker">Sjónvörp, núna %1$s</string>
+    <string name="tv_picker_add_short">Bæta við</string>
+    <string name="hold_hide">Fela</string>
+    <string name="hold_rename">Endurnefna</string>
+    <string name="rename_input">Endurnefna inntak</string>
+    <string name="rename_save">Vista</string>
+    <string name="rename_reset">Nota heiti sjónvarpsins</string>
+    <string name="more_channel_list">Listi</string>
+    <string name="more_guide">Dagskrá</string>
+    <string name="input_label">%1$s, inntak</string>
+    <string name="channel_label">%2$s, rás %1$s</string>
+    <string name="on_screen_now">Núna á skjánum</string>
+    <string name="deck_expanded">Útvíkkað</string>
+    <string name="deck_collapsed">Minnkað</string>
+    <string name="channel_hidden">%1$s falið</string>
+    <string name="action_undo">Afturkalla</string>
+    <string name="offline_switch">Nota %1$s</string>
+    <string name="search_picks">Vinsælt núna</string>
+    <string name="search_clear">Hreinsa</string>
+    <string name="search_fill">Setja í leitarreitinn</string>
+    <string name="search_type_on_tv">Skrifa á sjónvarpinu</string>
+    <string name="search_in_app">Leita í %1$s</string>
+    <string name="search_web">Leita með %1$s</string>
+    <string name="link_paste">Líma</string>
+    <string name="link_recent">Nýlegt</string>
+    <string name="link_clear_recent">Hreinsa</string>
+    <string name="link_kind_youtube">YouTube-myndskeið</string>
+    <string name="link_kind_video">Myndskeiðsskrá</string>
+    <string name="link_kind_audio">Hljóðskrá</string>
+    <string name="link_kind_image">Mynd</string>
+    <string name="link_kind_web">Vefsíða</string>
+    <string name="link_action_app">Opna í %1$s</string>
+    <string name="link_action_media">Spila á sjónvarpinu</string>
+    <string name="link_action_browser">Opna í vafra sjónvarpsins</string>
+    <string name="link_sending">Sendir…</string>
+    <string name="link_sent">Opnað á sjónvarpinu</string>
+    <string name="link_failed">Sjónvarpið opnaði þetta ekki. Reyndu aftur.</string>
+
+    <!-- Share -->
+    <string name="share_title">Senda í sjónvarp</string>
+    <string name="share_no_link">Enginn tengill er í því sem þú deildir.</string>
+    <string name="share_not_paired">Þessi sími er ekki enn paraður við sjónvarpið.</string>
+    <string name="share_open_app">Opna fjarstýringu</string>
+    <string name="share_waiting">Tengist…</string>
+    <string name="share_cant_open">Þetta sjónvarp getur ekki opnað %1$s-tengla</string>
+    <string name="action_close">Loka</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Lyklaborð</string>
+    <string name="keyboard_placeholder_waiting">Veldu textareit á sjónvarpinu</string>
+    <string name="keyboard_backspace">Eyða</string>
+    <string name="keyboard_clear">Hreinsa</string>
+    <string name="keyboard_enter">Staðfesta</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d stafur er þegar á sjónvarpinu</item>
+        <item quantity="other">%1$d stafir eru þegar á sjónvarpinu</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Meira</string>
+    <string name="more_menu">Stillingar</string>
+    <string name="more_quick">Flýtivalmynd</string>
+    <string name="more_quick_short">Valmynd</string>
+    <string name="more_info">Upplýsingar</string>
+    <string name="more_inputs">Inntök</string>
+    <string name="more_exit">Hætta</string>
+    <string name="more_channel_up">Næsta rás</string>
+    <string name="more_channel_down">Fyrri rás</string>
+    <string name="more_red">Rauður</string>
+    <string name="more_green">Grænn</string>
+    <string name="more_yellow">Gulur</string>
+    <string name="more_blue">Blár</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Afl</string>
+    <string name="power_screen_off">Slökkva á skjá</string>
+    <string name="power_off">Slökkva á sjónvarpinu</string>
+    <string name="power_off_confirm">Snertu aftur til að slökkva</string>
+    <string name="power_turn_off">Slökkva</string>
+    <string name="power_tap_again">Snertu aftur</string>
+    <string name="switch_on">Kveikt</string>
+    <string name="switch_off">Slökkt</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Stillingar</string>
+    <string name="settings_tv">Sjónvarp</string>
+    <string name="settings_name">Heiti</string>
+    <string name="settings_host">Vistfang</string>
+    <string name="settings_host_invalid">Sláðu inn IP-tölu eða hýsilheiti</string>
+    <string name="settings_mac">MAC-vistfang (til að kveikja á því)</string>
+    <string name="settings_mac_invalid">Sex pör sextándakerfistalna, t.d. 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Finna sjónvörp nálægt</string>
+    <string name="settings_finding">Leitar að sjónvörpum…</string>
+    <string name="settings_found_none">Ekkert sjónvarp svaraði.</string>
+    <string name="settings_found_no_new">Engin önnur sjónvörp fundust</string>
+    <string name="settings_in_use">Í notkun</string>
+    <string name="settings_add">Bæta við</string>
+    <string name="settings_forget_tv">Gleyma %1$s</string>
+    <string name="settings_use_tv">Nota þetta sjónvarp</string>
+    <string name="settings_remove_tv">Fjarlægja</string>
+    <string name="settings_remove_confirm">Snertu aftur til að fjarlægja</string>
+    <string name="settings_move_up">Færa upp</string>
+    <string name="settings_move_down">Færa niður</string>
+    <string name="settings_sensitivity">Næmi</string>
+    <string name="settings_touchpad">Snertiflötur</string>
+    <string name="settings_phone">Sími</string>
+    <string name="settings_natural_scroll">Náttúruleg flettun</string>
+    <string name="settings_scroll_strip">Flettistika</string>
+    <string name="settings_hidden">Falið</string>
+    <string name="settings_show">Sýna</string>
+    <string name="settings_theme">Þema</string>
+    <string name="settings_theme_auto">Sjálfkrafa</string>
+    <string name="settings_language">Tungumál</string>
+    <string name="settings_theme_system">Kerfi</string>
+    <string name="settings_theme_light">Ljóst</string>
+    <string name="settings_theme_dark">Dökkt</string>
+    <string name="settings_scroll_strip_right">Hægri</string>
+    <string name="settings_scroll_strip_left">Vinstri</string>
+    <string name="settings_scroll_strip_off">Slökkt</string>
+    <string name="settings_search_engine">Vefleit</string>
+    <string name="settings_search">Leita</string>
+    <string name="settings_find_titles">Leita að kvikmyndum og myndböndum</string>
+    <string name="find_titles_ask">Til að finna þetta sendir TennaRC það sem þú skrifar til YouTube, JustWatch og Wikidata. Þú getur breytt þessu í stillingum.</string>
+    <string name="find_titles_not_now">Ekki núna</string>
+    <string name="settings_volume_keys">Hljóðstyrkshnappar</string>
+    <string name="settings_auto_keyboard">Sjálfvirkt lyklaborð</string>
+    <string name="settings_haptics">Titringur</string>
+    <string name="settings_keep_screen_on">Halda skjá virkum</string>
+    <string name="settings_forget">Gleyma pörun</string>
+    <string name="settings_forget_body">Sjónvarpið spyr aftur næst</string>
+    <string name="settings_forget_confirm">Snertu aftur til að gleyma</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Ekki tengt við sjónvarpið</string>
+    <string name="notice_command_failed">Sjónvarpið brást ekki við þessu</string>
+    <string name="notice_launch_failed">Ekki tókst að opna forritið</string>
+    <string name="notice_open_failed">Sjónvarpið gat ekki opnað tengilinn</string>
+    <string name="notice_no_renderer">Margmiðlunarspilari sjónvarpsins svarar ekki. Er kveikt á honum?</string>
+    <string name="notice_cast_failed">Sjónvarpið gat ekki spilað þennan tengil</string>
+    <string name="notice_wake_sent">Vakningarmerki sent</string>
+    <string name="notice_tv_moved">Sjónvarpið fannst á nýju vistfangi</string>
+    <string name="notice_wake_failed">Ekki tókst að senda vakningarmerki. Athugaðu MAC-vistfangið.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Hæg tenging</string>
+    <string name="link_help_stalling">Wi-Fi-tenging sjónvarpsins dettur sífellt út í smástund.</string>
+    <string name="link_help_slow">Wi-Fi sjónvarpsins er veikt eða upptekið.</string>
+    <string name="link_fix_24_title">Tengdu sjónvarpið við 2,4 GHz Wi-Fi</string>
+    <string name="link_fix_ethernet_title">Notaðu Ethernet-snúru</string>
+    <string name="link_fix_extender_title">Bættu við Wi-Fi-endurvarpa miðja vegu</string>
+    <string name="link_fix_listen_title">Slökktu á Listen Mode í Screen Share</string>
+    <string name="link_fix_closer_title">Færðu beininn nær sjónvarpinu</string>
+    <string name="link_fix_band_title">Prófaðu hitt Wi-Fi-tíðnisviðið</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Fjarstýring</string>
+    <string name="notify_channel_body">Spilun, hlé og hljóðstyrkur meðan kveikt er á sjónvarpinu</string>
+    <string name="notify_on_tv">Á sjónvarpinu</string>
+    <string name="notify_close">Loka</string>
+    <string name="settings_notification_controls">Margmiðlunarstýringar</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Sláðu inn kóðann sem birtist á sjónvarpinu</string>
+    <string name="pair_code_title">Sláðu inn kóðann frá sjónvarpinu</string>
+    <string name="pair_code_wrong">Kóðinn passaði ekki. Prófaðu nýja kóðann á sjónvarpinu.</string>
+    <string name="pair_code_label">Kóði</string>
+    <string name="pair_code_submit">Para</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Prufa</string>
+    <string name="settings_demo_tv_body">Prófaðu fjarstýringuna án sjónvarps</string>
+    <string name="settings_demo_tv_listed">Bætir gervisjónvarpi við sjónvörpin þín</string>
+    <string name="settings_help">Hjálp</string>
+    <string name="settings_report">Tilkynna vandamál</string>
+    <string name="settings_privacy">Persónuverndarstefna</string>
+    <string name="settings_reset">Endurstilla stillingar</string>
+    <string name="settings_reset_body">Sjónvörpin haldast pöruð</string>
+    <string name="settings_reset_confirm">Snertu aftur til að endurstilla</string>
+    <string name="offline_no_wifi_title">Ekkert Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku tekur aðeins við sumum skipunum frá símum. Stilltu Control by mobile apps á Enabled í Advanced system settings.</string>
+    <string name="notice_adb_off">Kveiktu á ADB-villuleit á Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Slökkt</string>
+    <string name="ambilight_video">Myndskeið</string>
+    <string name="ambilight_audio">Hljóð</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Paraðu til að stjórna Ambilight</string>
+    <string name="ambilight_pin_hint">PIN á sjónvarpinu</string>
+    <string name="ambilight_pin_wrong">Rangt PIN. Prófaðu nýja</string>
+    <string name="search_opens_app">Opnar %1$s</string>
+    <string name="voice_search">Raddleit</string>
+    <string name="voice_stop">Hætta að hlusta</string>
+    <string name="voice_listening">Hlustar…</string>
+    <string name="voice_mic_off">Slökkt er á aðgangi að hljóðnema</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC lokaðist óvænt</string>
+    <string name="crash_send">Senda</string>
+    <string name="crash_report_subject">TennaRC hrunskýrsla %1$s</string>
+    <string name="crash_sent">Tilkynning send. Takk</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Spilun, hlé og hljóðstyrkur sjónvarpsins</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Spila úr þessum síma</string>
+    <string name="phone_mirror">Spegla</string>
+    <string name="phone_mirror_label">Spegla skjá þessa síma</string>
+    <string name="phone_gallery">Gallerí</string>
+    <string name="phone_gallery_label">Spila mynd eða myndskeið úr þessum síma</string>
+    <string name="share_cant_play_file">Þetta sjónvarp getur ekki spilað skrár úr símanum</string>
+    <string name="notice_cast_unsupported">Sjónvarpið getur ekki sýnt mynd af þessari gerð</string>
+    <string name="notice_not_on_tv_network">Tengdu símann við Wi-Fi sjónvarpsins til að spila skrárnar hans</string>
+    <string name="notice_file_unreadable">Gat ekki lesið þá skrá</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Leita að sjónvörpum</string>
+    <string name="setup_choose">Veldu sjónvarpið þitt</string>
+    <string name="setup_none">Engin sjónvörp fundust</string>
+    <string name="setup_search_again">Leita aftur</string>
+    <string name="setup_enter_ip">Sláðu inn IP-tölu</string>
+    <string name="setup_ip_label">IP-tala</string>
+    <string name="setup_ip_none">Ekkert sjónvarp svaraði á þessu vistfangi</string>
+    <string name="setup_connect">Tengjast</string>
+    <string name="setup_demo">Prófa kynningu</string>
+    <string name="setup_code_wrong">Athugaðu kóðann á sjónvarpinu</string>
+    <string name="setup_fire_tv_allow">Hakaðu við Always allow og svo OK</string>
+    <string name="setup_adb_title">Kveiktu á ADB-villuleit</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Kveiktu á Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Lokið</string>
+    <string name="settings_edit_tv">Breyta</string>
+    <string name="dev_link_title">Forritaratenging</string>
+    <string name="dev_link_body">Sýnir eigin inntök sjónvarpsins og öll forrit þess, skiptir um inntak á sjónvörpum sem hunsa HDMI-hnappana og stillir birtustig á sumum. Þetta fer um villuleitartengingu sjónvarpsins (ADB). Hnappar og innsláttur virka eins án hennar.</string>
+    <string name="dev_link_step_developer">Opnaðu Stillingar › Kerfi › Um á sjónvarpinu og veldu Smíð Android TV OS sjö sinnum. Á eldri sjónvörpum er það Kjörstillingar tækis › Um › Smíð.</string>
+    <string name="dev_link_step_debugging">Opnaðu Forritunarkosti, við hliðina á Um, og kveiktu á USB-villuleit. Á Shield heitir það Netvilluleit.</string>
+    <string name="dev_link_step_allow">Ýttu á Tengjast, hakaðu svo við Leyfa alltaf á sjónvarpinu og veldu Í lagi.</string>
+    <string name="dev_link_connect">Tengjast</string>
+    <string name="dev_link_allow">Leyfðu á sjónvarpinu</string>
+    <string name="dev_link_allow_body">Hakaðu við Leyfa alltaf úr þessari tölvu og svo Í lagi</string>
+    <string name="dev_link_turn_off">Slökkva</string>
+    <string name="dev_link_off">Slökkt. Bætir við inntökum og öllum forritum</string>
+    <string name="dev_link_away">Sjónvarpið svarar ekki. Tengingin reynir sjálf aftur meðan fjarstýringin er opin.</string>
+    <string name="dev_link_away_short">Svarar ekki</string>
+    <string name="dev_link_debugging_off">Sjónvarpið hafnaði tengingunni. Athugaðu hvort kveikt sé á USB-villuleit. Frá Android TV 14 taka sum sjónvörp aðeins við þráðlausri villuleit, sem TennaRC ræður ekki við enn.</string>
+    <string name="dev_link_debugging_off_short">Slökkt er á villuleit á sjónvarpinu</string>
+    <string name="dev_link_wireless">Aðeins er kveikt á þráðlausri villuleit, sem TennaRC ræður ekki við enn. Kveiktu líka á USB-villuleit, eða paraðu einu sinni úr tölvu og keyrðu adb tcpip 5555, sem gildir þar til sjónvarpið endurræsir sig.</string>
+    <string name="dev_link_wireless_short">Aðeins kveikt á þráðlausri villuleit</string>
+    <string name="dev_link_not_allowed">Enginn leyfði það á sjónvarpinu. Reyndu aftur og veldu Í lagi þar.</string>
+    <string name="dev_link_not_allowed_short">Ekki leyft á sjónvarpinu</string>
+    <string name="dev_link_forgotten">Sjónvarpið gleymdi þessum síma, eins og Android TV gerir við síma sem það hefur ekki séð í viku. Reyndu aftur og leyfðu tenginguna á sjónvarpinu.</string>
+    <string name="dev_link_forgotten_short">Sjónvarpið gleymdi þessum síma</string>
+</resources>

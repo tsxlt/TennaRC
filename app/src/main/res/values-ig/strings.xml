@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Zipu na TV</string>
+    <string name="tile_label">Rimọt TV</string>
+    <string name="shortcut_link">Chọọ</string>
+    <string name="shortcut_keyboard">Dee na TV</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Ejikọọla</string>
+    <string name="status_connecting">Na-ejikọ…</string>
+    <string name="status_awaiting">Kweta na TV</string>
+    <string name="status_offline">Ọ dị ka TV agbanyụọla</string>
+    <string name="status_not_paired">Ejikọtabeghị ya</string>
+    <string name="status_standby">Na nchere</string>
+    <string name="status_screen_off">Ihuenyo agbanyụọla, ụda na-akpọ</string>
+    <string name="standby_title">TV agbanyụọla</string>
+    <string name="action_turn_on">Gbanye</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Jikọọ na TV</string>
+    <string name="pair_body">Kweta na TV mgbe ọ jụrụ.</string>
+    <string name="pair_declined_body">TV jụrụ. Nke ugbu a, họrọ Kweta.</string>
+    <string name="pair_action">Jikọọ</string>
+    <string name="pair_timeout_body">TV azaghị.</string>
+    <string name="pair_forgotten_body">TV echefuola ekwentị a.</string>
+    <string name="approval_title">Kweta na TV</string>
+    <string name="connecting_title">Na-ejikọ…</string>
+    <string name="offline_title">Ọ dị ka TV agbanyụọla</string>
+    <string name="action_retry">Nwaa ọzọ</string>
+    <string name="action_cancel">Kagbuo</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Chọọ</string>
+    <string name="touchpad_label">Mpaghara mmetụ. Dọkpụ ka ị kwaga ihe nrụtụ aka, pịa ka ị klịk, jiri mkpịsị aka abụọ dọkpụ ka ị pịgharịa.</string>
+    <string name="dpad_label">Bọtịnụ ntụziaka</string>
+    <string name="key_up">Elu</string>
+    <string name="key_down">Ala</string>
+    <string name="key_left">Aka ekpe</string>
+    <string name="key_right">Aka nri</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Azụ</string>
+    <string name="key_home">Ụlọ</string>
+    <string name="key_keyboard">Ahụigodo</string>
+    <string name="key_touchpad">Mpaghara mmetụ</string>
+    <string name="key_dpad">Akụ</string>
+    <string name="key_more">Ọzọ</string>
+    <string name="key_rewind">Laghachi azụ</string>
+    <string name="key_play">Kpọọ</string>
+    <string name="key_pause">Kwụsịtụ</string>
+    <string name="key_fast_forward">Ọsọ n\'ihu</string>
+    <string name="key_stop">Kwụsị</string>
+    <string name="key_volume_up">Welie olu</string>
+    <string name="key_volume_down">Wedata olu</string>
+    <string name="key_mute">Mechie ụda</string>
+    <string name="key_unmute">Meghee ụda</string>
+    <string name="volume_value">Olu %1$d</string>
+    <string name="volume_unknown">Olu, amaghị ọkwa ya</string>
+    <string name="volume_muted">Ụda mechiri</string>
+    <string name="power">Ọkụ</string>
+    <string name="settings">Ntọala</string>
+    <string name="all_apps">Ngwa niile</string>
+    <string name="inputs">Ntinye</string>
+    <string name="picture_title">Onyonyo</string>
+    <string name="picture_standard">Nkịtị</string>
+    <string name="picture_vivid">Na-egbuke egbuke</string>
+    <string name="picture_cinema">Sinima</string>
+    <string name="picture_game">Egwuregwu</string>
+    <string name="picture_sports">Spọọtụ</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Ọkachamara</string>
+    <string name="picture_backlight">Nchapụta</string>
+    <string name="sound_title">Ụda</string>
+    <string name="sound_tv">Spika TV</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optical</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Ekweisi</string>
+    <string name="sound_tv_short">Spika</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Line out</string>
+    <string name="more_subtitles">Ederede</string>
+    <string name="more_audio_track">Ụda</string>
+    <string name="sleep_title">Ngụ oge ụra</string>
+    <string name="sleep_minutes">%1$d nkeji</string>
+    <string name="sleep_at">Ọ ga-agbanyụ na %1$s</string>
+    <string name="sleep_cancel">Kagbuo ngụ oge</string>
+    <string name="app_on_screen">%1$s, nọ n\'ihuenyo ugbu a</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Na-amalite na TV…</string>
+    <string name="cast_playing">Na-akpọ na TV</string>
+    <string name="cast_paused">Kwụsịtụrụ</string>
+    <string name="cast_stalled">Ọ naghị aga. Sava vidiyo ahụ ọ ka na-arụ ọrụ?</string>
+    <string name="cast_play">Gaa n\'ihu</string>
+    <string name="cast_pause">Kwụsịtụ</string>
+    <string name="cast_stop">Kwụsị ịkpọ na TV</string>
+    <string name="cast_position">Ebe ọ ruru</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Mechie nchọ</string>
+    <string name="tv_picker">TV, ugbu a %1$s</string>
+    <string name="tv_picker_add_short">Tinye</string>
+    <string name="hold_hide">Zoo</string>
+    <string name="hold_rename">Gụgharịa aha</string>
+    <string name="rename_input">Gụgharịa aha ntinye</string>
+    <string name="rename_save">Chekwaa</string>
+    <string name="rename_reset">Jiri aha TV</string>
+    <string name="more_channel_list">Ndepụta</string>
+    <string name="more_guide">Usoro</string>
+    <string name="input_label">%1$s, ntinye</string>
+    <string name="channel_label">%2$s, ọwa %1$s</string>
+    <string name="on_screen_now">N\'ihuenyo ugbu a</string>
+    <string name="deck_expanded">Emepere</string>
+    <string name="deck_collapsed">Emechiri</string>
+    <string name="channel_hidden">Ezoola %1$s</string>
+    <string name="action_undo">Weghachi</string>
+    <string name="offline_switch">Jiri %1$s</string>
+    <string name="search_picks">Ihe na-ewu ewu ugbu a</string>
+    <string name="search_clear">Kpochapụ</string>
+    <string name="search_fill">Tinye na igbe nchọ</string>
+    <string name="search_type_on_tv">Dee na TV</string>
+    <string name="search_in_app">Chọọ %1$s</string>
+    <string name="search_web">Chọọ %1$s</string>
+    <string name="link_paste">Mado</string>
+    <string name="link_recent">Nso nso a</string>
+    <string name="link_clear_recent">Kpochapụ</string>
+    <string name="link_kind_youtube">Vidiyo YouTube</string>
+    <string name="link_kind_video">Faịlụ vidiyo</string>
+    <string name="link_kind_audio">Faịlụ ụda</string>
+    <string name="link_kind_image">Onyonyo</string>
+    <string name="link_kind_web">Ibe weebụ</string>
+    <string name="link_action_app">Mepee na %1$s</string>
+    <string name="link_action_media">Kpọọ na TV</string>
+    <string name="link_action_browser">Mepee na ihe nchọgharị TV</string>
+    <string name="link_sending">Na-ezipu…</string>
+    <string name="link_sent">Emepere ya na TV</string>
+    <string name="link_failed">TV emeghị ya. Nwaa ọzọ.</string>
+
+    <!-- Share -->
+    <string name="share_title">Zipu na TV</string>
+    <string name="share_no_link">Enweghị njikọ n\'ihe ị kesara.</string>
+    <string name="share_not_paired">Ejikọtabeghị ekwentị a na TV.</string>
+    <string name="share_open_app">Mepee rimọt</string>
+    <string name="share_waiting">Na-ejikọ…</string>
+    <string name="share_cant_open">TV a enweghị ike imepe njikọ %1$s</string>
+    <string name="action_close">Mechie</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Ahụigodo</string>
+    <string name="keyboard_placeholder_waiting">Họrọ igbe ederede na TV</string>
+    <string name="keyboard_backspace">Hichapụ</string>
+    <string name="keyboard_clear">Kpochapụ</string>
+    <string name="keyboard_enter">Banye</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="other">Mkpụrụedemede %1$d adịlarị na TV</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Ọzọ</string>
+    <string name="more_menu">Ntọala</string>
+    <string name="more_quick">Menu ngwa ngwa</string>
+    <string name="more_quick_short">Menu</string>
+    <string name="more_info">Ozi</string>
+    <string name="more_inputs">Ntinye</string>
+    <string name="more_exit">Pụọ</string>
+    <string name="more_channel_up">Ọwa na-esote</string>
+    <string name="more_channel_down">Ọwa gara aga</string>
+    <string name="more_red">Ọbara ọbara</string>
+    <string name="more_green">Akwụkwọ ndụ</string>
+    <string name="more_yellow">Edo edo</string>
+    <string name="more_blue">Anụnụ anụnụ</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Ọkụ</string>
+    <string name="power_screen_off">Naanị ụda</string>
+    <string name="power_off">Gbanyụọ TV</string>
+    <string name="power_off_confirm">Pịa ọzọ ka ị gbanyụọ</string>
+    <string name="power_turn_off">Gbanyụọ</string>
+    <string name="power_tap_again">Pịa ọzọ</string>
+    <string name="switch_on">Gbanyere</string>
+    <string name="switch_off">Agbanyụọla</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Ntọala</string>
+    <string name="settings_tv">TV</string>
+    <string name="settings_name">Aha</string>
+    <string name="settings_host">Adreesị</string>
+    <string name="settings_host_invalid">Tinye adreesị IP ma ọ bụ aha ngwaọrụ</string>
+    <string name="settings_mac">Adreesị MAC (iji gbanye ya)</string>
+    <string name="settings_mac_invalid">Ụzọ isii nke ọnụọgụ hex abụọ, dịka 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Chọta TV dị nso</string>
+    <string name="settings_finding">Na-achọ TV…</string>
+    <string name="settings_found_none">Ọ dịghị TV zara.</string>
+    <string name="settings_found_no_new">Ahụghị TV ọzọ</string>
+    <string name="settings_in_use">A na-eji ya</string>
+    <string name="settings_add">Tinye</string>
+    <string name="settings_forget_tv">Chefuo %1$s</string>
+    <string name="settings_edit_tv">Dezie</string>
+    <string name="settings_use_tv">Jiri TV a</string>
+    <string name="settings_remove_tv">Wepụ</string>
+    <string name="settings_remove_confirm">Pịa ọzọ ka ị wepụ</string>
+    <string name="settings_move_up">Bulie elu</string>
+    <string name="settings_move_down">Wedata ala</string>
+    <string name="settings_sensitivity">Mmetụta</string>
+    <string name="settings_touchpad">Mpaghara mmetụ</string>
+    <string name="settings_phone">Ekwentị</string>
+    <string name="settings_natural_scroll">Mpịgharị nkịtị</string>
+    <string name="settings_scroll_strip">Eriri mpịgharị</string>
+    <string name="settings_hidden">Ezoro ezo</string>
+    <string name="settings_show">Gosi</string>
+    <string name="settings_theme">Isiokwu</string>
+    <string name="settings_theme_auto">Akpaaka</string>
+    <string name="settings_language">Asụsụ</string>
+    <string name="settings_theme_system">Sistemụ</string>
+    <string name="settings_theme_light">Ìhè</string>
+    <string name="settings_theme_dark">Ọchịchịrị</string>
+    <string name="settings_scroll_strip_right">Aka nri</string>
+    <string name="settings_scroll_strip_left">Aka ekpe</string>
+    <string name="settings_scroll_strip_off">Agbanyụọla</string>
+    <string name="settings_search_engine">Nchọ weebụ</string>
+    <string name="settings_search">Nchọ</string>
+    <string name="settings_find_titles">Chọkwu ihe nkiri na vidio</string>
+    <string name="find_titles_ask">Iji chọta ha, TennaRC na-eziga ihe ị dere na YouTube, JustWatch na Wikidata. Ị nwere ike ịgbanwe nke a na Ntọala.</string>
+    <string name="find_titles_not_now">Ọ bụghị ugbu a</string>
+    <string name="settings_volume_keys">Bọtịnụ olu</string>
+    <string name="settings_auto_keyboard">Ahụigodo akpaaka</string>
+    <string name="settings_haptics">Ịma jijiji</string>
+    <string name="settings_keep_screen_on">Hapụ ihuenyo ka ọ gbanye</string>
+    <string name="settings_forget">Chefuo njikọ</string>
+    <string name="settings_forget_body">TV ga-ajụ ọzọ oge ọzọ</string>
+    <string name="settings_forget_confirm">Pịa ọzọ ka ị chefuo</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Ejikọghị na TV</string>
+    <string name="notice_command_failed">TV azaghị nke ahụ</string>
+    <string name="notice_launch_failed">Enweghị ike imepe ngwa ahụ</string>
+    <string name="notice_open_failed">TV enweghị ike imepe njikọ ahụ</string>
+    <string name="notice_no_renderer">Ihe ọkpụkpọ mgbasa ozi TV anaghị aza. Ọ gbanyere?</string>
+    <string name="notice_cast_failed">TV enweghị ike ịkpọ njikọ ahụ</string>
+    <string name="notice_wake_sent">Ezipụla mgbama ịkpọte</string>
+    <string name="notice_tv_moved">Ahụrụ TV n\'adreesị ọhụrụ</string>
+    <string name="notice_wake_failed">Enweghị ike izipu mgbama ịkpọte. Lelee adreesị MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Njikọ dị nwayọ</string>
+    <string name="link_help_stalling">Wi-Fi TV na-akwụsị nwa oge ugboro ugboro.</string>
+    <string name="link_help_slow">Wi-Fi TV adịghị ike ma ọ bụ na-arụsi ọrụ ike.</string>
+    <string name="link_fix_24_title">Tinye TV na Wi-Fi 2.4 GHz</string>
+    <string name="link_fix_ethernet_title">Jiri waya Ethernet</string>
+    <string name="link_fix_extender_title">Tinye ihe ndọtị Wi-Fi n\'etiti</string>
+    <string name="link_fix_listen_title">Gbanyụọ Listen Mode na Screen Share</string>
+    <string name="link_fix_closer_title">Bugharịa router ka ọ dị nso na TV</string>
+    <string name="link_fix_band_title">Nwaa band Wi-Fi nke ọzọ</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Rimọt TV</string>
+    <string name="notify_channel_body">Kpọọ, kwụsịtụ na olu TV mgbe ọ gbanyere</string>
+    <string name="notify_on_tv">Na TV</string>
+    <string name="notify_close">Mechie</string>
+    <string name="settings_notification_controls">Njikwa mgbasa ozi</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Dee koodu dị na TV</string>
+    <string name="pair_code_title">Tinye koodu sitere na TV</string>
+    <string name="pair_code_wrong">Koodu ahụ adabaghị. Nwaa nke ọhụrụ dị na TV.</string>
+    <string name="pair_code_label">Koodu</string>
+    <string name="pair_code_submit">Jikọọ</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">TV ngosi</string>
+    <string name="settings_demo_tv_body">Nwaa rimọt na-enweghị TV</string>
+    <string name="settings_demo_tv_listed">Na-agbakwunye TV ngosi na TV gị</string>
+    <string name="settings_help">Enyemaka</string>
+    <string name="settings_report">Kọọ banyere nsogbu</string>
+    <string name="settings_privacy">Iwu nzuzo</string>
+    <string name="settings_reset">Tọgharịa ntọala</string>
+    <string name="settings_reset_body">TV gị ga-anọgide na-ejikọ</string>
+    <string name="settings_reset_confirm">Pịa ọzọ ka ị tọgharịa</string>
+    <string name="offline_no_wifi_title">Enweghị Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku na-anabata naanị ụfọdụ iwu site na ekwentị. N\'Advanced system settings ya, tọọ Control by mobile apps ka ọ bụrụ Enabled.</string>
+    <string name="notice_adb_off">Gbanye ADB debugging na Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Agbanyụọla</string>
+    <string name="ambilight_video">Vidiyo</string>
+    <string name="ambilight_audio">Ụda</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Jikọọ ka ị jikwaa Ambilight</string>
+    <string name="ambilight_pin_hint">PIN dị na TV</string>
+    <string name="ambilight_pin_wrong">PIN ezighi ezi. Nwaa nke ọhụrụ</string>
+    <string name="search_opens_app">Na-emepe %1$s</string>
+    <string name="voice_search">Jiri olu chọọ</string>
+    <string name="voice_stop">Kwụsị ige ntị</string>
+    <string name="voice_listening">Na-ege ntị…</string>
+    <string name="voice_mic_off">Ohere maikrofọn agbanyụọla</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC mechiri na mberede</string>
+    <string name="crash_send">Zipu</string>
+    <string name="crash_report_subject">Akụkọ nkwụsị TennaRC %1$s</string>
+    <string name="crash_sent">Ezigara akụkọ. Daalụ</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Kpọọ, kwụsịtụ na olu TV</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Kpọọ site na ekwentị a</string>
+    <string name="phone_mirror">Ngosipụta</string>
+    <string name="phone_mirror_label">Gosipụta ihuenyo ekwentị a na TV</string>
+    <string name="phone_gallery">Ụlọ ngosi</string>
+    <string name="phone_gallery_label">Kpọọ foto ma ọ bụ vidiyo site na ekwentị a</string>
+    <string name="share_cant_play_file">TV a enweghị ike ịkpọ faịlụ sitere na ekwentị</string>
+    <string name="notice_cast_unsupported">TV enweghị ike igosi ụdị foto a</string>
+    <string name="notice_not_on_tv_network">Jikọọ ekwentị na Wi-Fi TV ka ị kpọọ faịlụ ya</string>
+    <string name="notice_file_unreadable">Enweghị ike ịgụ faịlụ ahụ</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Na-achọ TV</string>
+    <string name="setup_choose">Họrọ TV gị</string>
+    <string name="setup_none">Ahụghị TV ọ bụla</string>
+    <string name="setup_search_again">Chọọ ọzọ</string>
+    <string name="setup_enter_ip">Tinye adreesị IP</string>
+    <string name="setup_ip_label">Adreesị IP</string>
+    <string name="setup_ip_none">Ọ dịghị TV zara n\'ebe ahụ</string>
+    <string name="setup_connect">Jikọọ</string>
+    <string name="setup_demo">Nwaa ngosi</string>
+    <string name="setup_code_wrong">Lelee koodu dị na TV</string>
+    <string name="setup_fire_tv_allow">Tinye akara n\'Always allow, wee pịa OK</string>
+    <string name="setup_adb_title">Gbanye ADB debugging</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Gbanye Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Emechaala</string>
+    <string name="dev_link_title">Njikọ ndị mmepe</string>
+    <string name="dev_link_body">Na-egosi ntinye TV na ngwa ya niile, na-agbanwe ntinye na TV ndị na-anaghị anabata bọtịnụ HDMI, ma na-edozi nchapụta na ụfọdụ. Ọ na-agafe na njikọ nchọpụta mperi TV (ADB). Bọtịnụ na ide ihe na-arụ otu ụzọ n\'enweghị ya.</string>
+    <string name="dev_link_step_developer">Na TV, mepee Settings › System › About ma họrọ Android TV OS build ugboro asaa. Na TV ochie, ọ bụ Device Preferences › About › Build.</string>
+    <string name="dev_link_step_debugging">Mepee Developer options, n\'akụkụ About, ma gbanye USB debugging. Na Shield, ọ bụ Network debugging.</string>
+    <string name="dev_link_step_allow">Pịa Jikọọ, wee tinye akara n\'Always allow na TV ma họrọ OK.</string>
+    <string name="dev_link_connect">Jikọọ</string>
+    <string name="dev_link_allow">Kwe ya na TV</string>
+    <string name="dev_link_allow_body">Tinye akara n\'Always allow from this computer, wee pịa OK</string>
+    <string name="dev_link_turn_off">Gbanyụọ</string>
+    <string name="dev_link_off">Agbanyụọla. Na-agbakwunye ntinye na ngwa niile</string>
+    <string name="dev_link_away">TV anaghị aza. Ọ na-anwa ọzọ n\'onwe ya mgbe rimọt ka mepere emepe.</string>
+    <string name="dev_link_away_short">Anaghị aza</string>
+    <string name="dev_link_debugging_off">TV jụrụ njikọ ahụ. Lelee na USB debugging gbanyere. Site na Android TV 14, ụfọdụ TV na-anabata naanị Wireless debugging, nke TennaRC enweghị ike iji ugbu a.</string>
+    <string name="dev_link_debugging_off_short">Debugging agbanyụọla na TV</string>
+    <string name="dev_link_wireless">Naanị Wireless debugging gbanyere, nke TennaRC enweghị ike iji ugbu a. Gbanyekwa USB debugging, ma ọ bụ jikọọ otu ugboro site na kọmputa ma gbaa adb tcpip 5555, nke na-adịgide ruo mgbe TV malitere ọzọ.</string>
+    <string name="dev_link_wireless_short">Naanị Wireless debugging gbanyere</string>
+    <string name="dev_link_not_allowed">Ọ dịghị onye kwere ya na TV. Nwaa ọzọ, ma họrọ OK n\'ebe ahụ.</string>
+    <string name="dev_link_not_allowed_short">Ekweghị ya na TV</string>
+    <string name="dev_link_forgotten">TV echefuola ekwentị a, dịka Android TV na-eme nke ọ na-ahụbeghị otu izu. Nwaa ọzọ, ma kwe ya na TV.</string>
+    <string name="dev_link_forgotten_short">TV echefuola ekwentị a</string>
+</resources>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Seol chuig an teilifís</string>
+    <string name="tile_label">Cianrialtán</string>
+    <string name="shortcut_link">Cuardaigh</string>
+    <string name="shortcut_keyboard">Clóscríobh ar an teilifís</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Ceangailte</string>
+    <string name="status_connecting">Ag ceangal…</string>
+    <string name="status_awaiting">Glac leis ar an teilifís</string>
+    <string name="status_offline">Is cosúil go bhfuil an teilifís múchta</string>
+    <string name="status_not_paired">Gan péireáil go fóill</string>
+    <string name="status_standby">Ar fuireachas</string>
+    <string name="status_screen_off">Scáileán múchta, fuaim ar siúl</string>
+    <string name="standby_title">Tá an teilifís múchta</string>
+    <string name="action_turn_on">Cas air</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Péireáil leis an teilifís</string>
+    <string name="pair_body">Glac leis ar an teilifís nuair a iarrann sí.</string>
+    <string name="pair_declined_body">Dhiúltaigh an teilifís. Roghnaigh Glac leis an uair seo.</string>
+    <string name="pair_action">Péireáil</string>
+    <string name="pair_timeout_body">Níor fhreagair an teilifís.</string>
+    <string name="pair_forgotten_body">Rinne an teilifís dearmad ar an bhfón seo.</string>
+    <string name="approval_title">Glac leis ar an teilifís</string>
+    <string name="connecting_title">Ag ceangal…</string>
+    <string name="offline_title">Is cosúil go bhfuil an teilifís múchta</string>
+    <string name="action_retry">Triail arís</string>
+    <string name="action_cancel">Cealaigh</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Cuardaigh</string>
+    <string name="touchpad_label">Ceap tadhaill. Tarraing chun an pointeoir a bhogadh, tapáil chun cliceáil, agus tarraing le dhá mhéar chun scrollú.</string>
+    <string name="dpad_label">Cnaipí treo</string>
+    <string name="key_up">Suas</string>
+    <string name="key_down">Síos</string>
+    <string name="key_left">Clé</string>
+    <string name="key_right">Deas</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Ar ais</string>
+    <string name="key_home">Baile</string>
+    <string name="key_keyboard">Méarchlár</string>
+    <string name="key_touchpad">Ceap tadhaill</string>
+    <string name="key_dpad">Saigheada</string>
+    <string name="key_more">Níos mó</string>
+    <string name="key_rewind">Siar go tapa</string>
+    <string name="key_play">Seinn</string>
+    <string name="key_pause">Sos</string>
+    <string name="key_fast_forward">Ar aghaidh go tapa</string>
+    <string name="key_stop">Stad</string>
+    <string name="key_volume_up">Airde suas</string>
+    <string name="key_volume_down">Airde síos</string>
+    <string name="key_mute">Balbhaigh</string>
+    <string name="key_unmute">Díbhalbhaigh</string>
+    <string name="volume_value">Airde %1$d</string>
+    <string name="volume_unknown">Airde, leibhéal anaithnid</string>
+    <string name="volume_muted">Balbhaithe</string>
+    <string name="power">Cumhacht</string>
+    <string name="settings">Socruithe</string>
+    <string name="all_apps">Gach aip</string>
+    <string name="inputs">Ionchuir</string>
+    <string name="picture_title">Pictiúr</string>
+    <string name="picture_standard">Caighdeánach</string>
+    <string name="picture_vivid">Beoga</string>
+    <string name="picture_cinema">Pictiúrlann</string>
+    <string name="picture_game">Cluiche</string>
+    <string name="picture_sports">Spóirt</string>
+    <string name="picture_eco">Eco</string>
+    <string name="picture_expert">Saineolaí</string>
+    <string name="picture_backlight">Gile</string>
+    <string name="sound_title">Fuaim</string>
+    <string name="sound_tv">Callairí na teilifíse</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optúil</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Cluasáin</string>
+    <string name="sound_tv_short">Callairí</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Aschur líne</string>
+    <string name="more_subtitles">Fotheidil</string>
+    <string name="more_audio_track">Fuaim</string>
+    <string name="sleep_title">Amadóir codlata</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Múchfar ag %1$s</string>
+    <string name="sleep_cancel">Cealaigh an t-amadóir</string>
+    <string name="app_on_screen">%1$s, ar an scáileán anois</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Ag tosú ar an teilifís…</string>
+    <string name="cast_playing">Á sheinm ar an teilifís</string>
+    <string name="cast_paused">Ar sos</string>
+    <string name="cast_stalled">Níl sé ag bogadh. An bhfuil freastalaí an fhíseáin fós ar siúl?</string>
+    <string name="cast_play">Lean ar aghaidh</string>
+    <string name="cast_pause">Sos</string>
+    <string name="cast_stop">Stad an seinm ar an teilifís</string>
+    <string name="cast_position">Suíomh seinnte</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Dún cuardach</string>
+    <string name="tv_picker">Teilifíseáin, anois %1$s</string>
+    <string name="tv_picker_add_short">Cuir leis</string>
+    <string name="hold_hide">Folaigh</string>
+    <string name="hold_rename">Athainmnigh</string>
+    <string name="rename_input">Athainmnigh an t-ionchur</string>
+    <string name="rename_save">Sábháil</string>
+    <string name="rename_reset">Úsáid ainm na teilifíse</string>
+    <string name="more_channel_list">Liosta</string>
+    <string name="more_guide">Treoir</string>
+    <string name="input_label">%1$s, ionchur</string>
+    <string name="channel_label">%2$s, cainéal %1$s</string>
+    <string name="on_screen_now">Ar an scáileán anois</string>
+    <string name="deck_expanded">Leathnaithe</string>
+    <string name="deck_collapsed">Laghdaithe</string>
+    <string name="channel_hidden">%1$s i bhfolach</string>
+    <string name="action_undo">Cuir ar ais</string>
+    <string name="offline_switch">Úsáid %1$s</string>
+    <string name="search_picks">Treochtaí anois</string>
+    <string name="search_clear">Glan</string>
+    <string name="search_fill">Cuir sa bhosca cuardaigh</string>
+    <string name="search_type_on_tv">Clóscríobh ar an teilifís</string>
+    <string name="search_in_app">Cuardaigh in %1$s</string>
+    <string name="search_web">Cuardaigh le %1$s</string>
+    <string name="link_paste">Greamaigh</string>
+    <string name="link_recent">Le déanaí</string>
+    <string name="link_clear_recent">Glan</string>
+    <string name="link_kind_youtube">Físeán YouTube</string>
+    <string name="link_kind_video">Comhad físe</string>
+    <string name="link_kind_audio">Comhad fuaime</string>
+    <string name="link_kind_image">Íomhá</string>
+    <string name="link_kind_web">Leathanach gréasáin</string>
+    <string name="link_action_app">Oscail in %1$s</string>
+    <string name="link_action_media">Seinn ar an teilifís</string>
+    <string name="link_action_browser">Oscail i mbrabhsálaí na teilifíse</string>
+    <string name="link_sending">Á sheoladh…</string>
+    <string name="link_sent">Oscailte ar an teilifís</string>
+    <string name="link_failed">Níor oscail an teilifís é. Triail arís.</string>
+
+    <!-- Share -->
+    <string name="share_title">Seol chuig an teilifís</string>
+    <string name="share_no_link">Níl aon nasc ann sa rud a roinn tú.</string>
+    <string name="share_not_paired">Níl an fón seo péireáilte leis an teilifís go fóill.</string>
+    <string name="share_open_app">Oscail an cianrialtán</string>
+    <string name="share_waiting">Ag ceangal…</string>
+    <string name="share_cant_open">Ní féidir leis an teilifís seo naisc %1$s a oscailt</string>
+    <string name="action_close">Dún</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Méarchlár</string>
+    <string name="keyboard_placeholder_waiting">Roghnaigh bosca ar an teilifís</string>
+    <string name="keyboard_backspace">Scrios siar</string>
+    <string name="keyboard_clear">Glan</string>
+    <string name="keyboard_enter">Iontráil</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d charachtar ar an teilifís cheana</item>
+        <item quantity="two">%1$d charachtar ar an teilifís cheana</item>
+        <item quantity="few">%1$d charachtar ar an teilifís cheana</item>
+        <item quantity="many">%1$d gcarachtar ar an teilifís cheana</item>
+        <item quantity="other">%1$d carachtar ar an teilifís cheana</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Níos mó</string>
+    <string name="more_menu">Socruithe</string>
+    <string name="more_quick">Roghchlár tapa</string>
+    <string name="more_quick_short">Roghchlár</string>
+    <string name="more_info">Eolas</string>
+    <string name="more_inputs">Ionchuir</string>
+    <string name="more_exit">Scoir</string>
+    <string name="more_channel_up">Cainéal suas</string>
+    <string name="more_channel_down">Cainéal síos</string>
+    <string name="more_red">Dearg</string>
+    <string name="more_green">Glas</string>
+    <string name="more_yellow">Buí</string>
+    <string name="more_blue">Gorm</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Cumhacht</string>
+    <string name="power_screen_off">Fuaim amháin</string>
+    <string name="power_off">Múch an teilifís</string>
+    <string name="power_off_confirm">Tapáil arís chun múchadh</string>
+    <string name="power_turn_off">Múch</string>
+    <string name="power_tap_again">Tapáil arís</string>
+    <string name="switch_on">Ar siúl</string>
+    <string name="switch_off">As</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Socruithe</string>
+    <string name="settings_tv">Teilifís</string>
+    <string name="settings_name">Ainm</string>
+    <string name="settings_host">Seoladh</string>
+    <string name="settings_host_invalid">Iontráil seoladh IP nó ainm óstríomhaire</string>
+    <string name="settings_mac">Seoladh MAC (chun í a chasadh air)</string>
+    <string name="settings_mac_invalid">Sé phéire de dhigití heicsidheachúlacha, mar shampla 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Aimsigh teilifíseáin in aice láimhe</string>
+    <string name="settings_finding">Ag cuardach teilifíseán…</string>
+    <string name="settings_found_none">Níor fhreagair aon teilifís.</string>
+    <string name="settings_found_no_new">Níor aimsíodh teilifíseáin eile</string>
+    <string name="settings_in_use">In úsáid</string>
+    <string name="settings_add">Cuir leis</string>
+    <string name="settings_forget_tv">Déan dearmad ar %1$s</string>
+    <string name="settings_use_tv">Úsáid an teilifís seo</string>
+    <string name="settings_remove_tv">Bain</string>
+    <string name="settings_remove_confirm">Tapáil arís chun é a bhaint</string>
+    <string name="settings_move_up">Bog suas</string>
+    <string name="settings_move_down">Bog síos</string>
+    <string name="settings_sensitivity">Íogaireacht</string>
+    <string name="settings_touchpad">Ceap tadhaill</string>
+    <string name="settings_phone">Fón</string>
+    <string name="settings_natural_scroll">Scrollú nádúrtha</string>
+    <string name="settings_scroll_strip">Stiall scrollaithe</string>
+    <string name="settings_hidden">I bhfolach</string>
+    <string name="settings_show">Taispeáin</string>
+    <string name="settings_theme">Téama</string>
+    <string name="settings_theme_auto">Uathoibríoch</string>
+    <string name="settings_language">Teanga</string>
+    <string name="settings_theme_system">Córas</string>
+    <string name="settings_theme_light">Éadrom</string>
+    <string name="settings_theme_dark">Dorcha</string>
+    <string name="settings_scroll_strip_right">Deas</string>
+    <string name="settings_scroll_strip_left">Clé</string>
+    <string name="settings_scroll_strip_off">As</string>
+    <string name="settings_search_engine">Cuardach gréasáin</string>
+    <string name="settings_search">Cuardaigh</string>
+    <string name="settings_find_titles">Cuardach ar scannáin agus ar fhíseáin</string>
+    <string name="find_titles_ask">Chun iad a aimsiú, seolann TennaRC a gclóscríobhann tú chuig YouTube, JustWatch agus Wikidata. Is féidir leat é seo a athrú sna Socruithe.</string>
+    <string name="find_titles_not_now">Ní anois</string>
+    <string name="settings_volume_keys">Cnaipí airde</string>
+    <string name="settings_auto_keyboard">Méarchlár uathoibríoch</string>
+    <string name="settings_haptics">Creathadh</string>
+    <string name="settings_keep_screen_on">Coinnigh an scáileán ar</string>
+    <string name="settings_forget">Déan dearmad ar an bpéireáil</string>
+    <string name="settings_forget_body">Iarrfaidh an teilifís arís an chéad uair eile</string>
+    <string name="settings_forget_confirm">Tapáil arís chun dearmad a dhéanamh</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Gan ceangal leis an teilifís</string>
+    <string name="notice_command_failed">Níor fhreagair an teilifís ar sin</string>
+    <string name="notice_launch_failed">Níorbh fhéidir an aip sin a oscailt</string>
+    <string name="notice_open_failed">Níorbh fhéidir leis an teilifís an nasc a oscailt</string>
+    <string name="notice_no_renderer">Níl seinnteoir meán na teilifíse ag freagairt. An bhfuil sé ar siúl?</string>
+    <string name="notice_cast_failed">Níorbh fhéidir leis an teilifís an nasc sin a sheinm</string>
+    <string name="notice_wake_sent">Comhartha dúisithe seolta</string>
+    <string name="notice_tv_moved">Aimsíodh an teilifís ag seoladh nua</string>
+    <string name="notice_wake_failed">Níorbh fhéidir an comhartha dúisithe a sheoladh. Seiceáil an seoladh MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Nasc mall</string>
+    <string name="link_help_stalling">Titeann Wi-Fi na teilifíse amach ar feadh nóiméid arís is arís eile.</string>
+    <string name="link_help_slow">Tá Wi-Fi na teilifíse lag nó gnóthach.</string>
+    <string name="link_fix_24_title">Cuir an teilifís ar Wi-Fi 2.4 GHz</string>
+    <string name="link_fix_ethernet_title">Úsáid cábla Ethernet</string>
+    <string name="link_fix_extender_title">Cuir síneadóir Wi-Fi leath bealaigh</string>
+    <string name="link_fix_listen_title">Múch Listen Mode in Screen Share</string>
+    <string name="link_fix_closer_title">Bog an ródaire níos gaire don teilifís</string>
+    <string name="link_fix_band_title">Triail an banda Wi-Fi eile</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Cianrialtán</string>
+    <string name="notify_channel_body">Seinm, sos agus airde na teilifíse fad is atá sí ar siúl</string>
+    <string name="notify_on_tv">Ar an teilifís</string>
+    <string name="notify_close">Dún</string>
+    <string name="settings_notification_controls">Rialtáin meán</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Clóscríobh an cód a thaispeáintar ar an teilifís</string>
+    <string name="pair_code_title">Iontráil an cód ón teilifís</string>
+    <string name="pair_code_wrong">Níor mheaitseáil an cód sin. Triail an ceann nua ar an teilifís.</string>
+    <string name="pair_code_label">Cód</string>
+    <string name="pair_code_submit">Péireáil</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Teilifís taispeána</string>
+    <string name="settings_demo_tv_body">Triail an cianrialtán gan teilifís</string>
+    <string name="settings_demo_tv_listed">Cuireann sé teilifís bhréige le do theilifíseáin</string>
+    <string name="settings_help">Cabhair</string>
+    <string name="settings_report">Tuairiscigh fadhb</string>
+    <string name="settings_privacy">Polasaí príobháideachais</string>
+    <string name="settings_reset">Athshocraigh na socruithe</string>
+    <string name="settings_reset_body">Fanann do theilifíseáin péireáilte</string>
+    <string name="settings_reset_confirm">Tapáil arís chun athshocrú</string>
+    <string name="offline_no_wifi_title">Gan Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Ní ghlacann an Roku ach le roinnt orduithe ó ghutháin. In Advanced system settings, socraigh Control by mobile apps go Enabled.</string>
+    <string name="notice_adb_off">Cas air dífhabhtú ADB ar an Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">As</string>
+    <string name="ambilight_video">Físeán</string>
+    <string name="ambilight_audio">Fuaim</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Péireáil chun Ambilight a rialú</string>
+    <string name="ambilight_pin_hint">PIN ar an teilifís</string>
+    <string name="ambilight_pin_wrong">PIN mícheart. Triail an ceann nua</string>
+    <string name="search_opens_app">Osclaíonn sé %1$s</string>
+    <string name="voice_search">Cuardach gutha</string>
+    <string name="voice_stop">Stop ag éisteacht</string>
+    <string name="voice_listening">Ag éisteacht…</string>
+    <string name="voice_mic_off">Tá rochtain ar an micreafón múchta</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">Dhún TennaRC go tobann</string>
+    <string name="crash_send">Seol</string>
+    <string name="crash_report_subject">Tuairisc tuairte TennaRC %1$s</string>
+    <string name="crash_sent">Tuairisc seolta. Go raibh maith agat</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Seinm, sos agus airde na teilifíse</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Seinn ón bhfón seo</string>
+    <string name="phone_mirror">Scáthánaigh</string>
+    <string name="phone_mirror_label">Scáthánaigh scáileán an fhóin seo</string>
+    <string name="phone_gallery">Gailearí</string>
+    <string name="phone_gallery_label">Seinn grianghraf nó físeán ón bhfón seo</string>
+    <string name="share_cant_play_file">Ní féidir leis an teilifís seo comhaid ón bhfón a sheinm</string>
+    <string name="notice_cast_unsupported">Ní féidir leis an teilifís an cineál íomhá seo a thaispeáint</string>
+    <string name="notice_not_on_tv_network">Ceangail an fón le Wi-Fi na teilifíse chun a chuid comhad a sheinm</string>
+    <string name="notice_file_unreadable">Níorbh fhéidir an comhad sin a léamh</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Ag cuardach teilifíseán</string>
+    <string name="setup_choose">Roghnaigh do theilifís</string>
+    <string name="setup_none">Níor aimsíodh aon teilifís</string>
+    <string name="setup_search_again">Cuardaigh arís</string>
+    <string name="setup_enter_ip">Iontráil an seoladh IP</string>
+    <string name="setup_ip_label">Seoladh IP</string>
+    <string name="setup_ip_none">Níor fhreagair aon teilifís ag an seoladh sin</string>
+    <string name="setup_connect">Ceangail</string>
+    <string name="setup_demo">Triail an léiriú</string>
+    <string name="setup_code_wrong">Seiceáil an cód ar an teilifís</string>
+    <string name="setup_fire_tv_allow">Cuir tic le Always allow, ansin OK</string>
+    <string name="setup_adb_title">Cas air dífhabhtú ADB</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Cas air Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">Déanta</string>
+    <string name="settings_edit_tv">Cuir in eagar</string>
+    <string name="dev_link_title">Nasc forbróra</string>
+    <string name="dev_link_body">Liostaíonn sé ionchuir na teilifíse féin agus a cuid aipeanna go léir, athraíonn sé an t-ionchur ar theilifíseáin nach bhfreagraíonn do na cnaipí HDMI, agus socraíonn sé an ghile ar chuid acu. Úsáideann sé nasc dífhabhtaithe na teilifíse (ADB). Oibríonn na cnaipí agus an clóscríobh mar an gcéanna gan é.</string>
+    <string name="dev_link_step_developer">Ar an teilifís, oscail Settings › System › About agus roghnaigh Android TV OS build seacht n-uaire. Ar theilifíseáin níos sine, is é Device Preferences › About › Build é.</string>
+    <string name="dev_link_step_debugging">Oscail Developer options, in aice le About, agus cas air USB debugging. Ar Shield, is é Network debugging é.</string>
+    <string name="dev_link_step_allow">Tapáil Ceangail, ansin ar an teilifís cuir tic le Always allow agus roghnaigh OK.</string>
+    <string name="dev_link_connect">Ceangail</string>
+    <string name="dev_link_allow">Ceadaigh ar an teilifís</string>
+    <string name="dev_link_allow_body">Cuir tic le Always allow from this computer, ansin OK</string>
+    <string name="dev_link_turn_off">Múch</string>
+    <string name="dev_link_off">Múchta. Cuireann sé ionchuir agus gach aip leis</string>
+    <string name="dev_link_away">Níl an teilifís ag freagairt. Triailfear arís go huathoibríoch fad atá an cianrialtán oscailte.</string>
+    <string name="dev_link_away_short">Gan freagra</string>
+    <string name="dev_link_debugging_off">Dhiúltaigh an teilifís don nasc. Seiceáil go bhfuil USB debugging ar siúl. Ó Android TV 14 i leith, ní ghlacann roinnt teilifíseán ach le Wireless debugging, rud nach féidir le TennaRC a úsáid fós.</string>
+    <string name="dev_link_debugging_off_short">Tá an dífhabhtú múchta ar an teilifís</string>
+    <string name="dev_link_wireless">Níl ach Wireless debugging ar siúl, rud nach féidir le TennaRC a úsáid fós. Cas air USB debugging freisin, nó péireáil ó ríomhaire uair amháin agus rith adb tcpip 5555, a mhaireann go dtí go n-atosaíonn an teilifís.</string>
+    <string name="dev_link_wireless_short">Níl ach Wireless debugging ar siúl</string>
+    <string name="dev_link_not_allowed">Níor cheadaigh aon duine é ar an teilifís. Triail arís, agus roghnaigh OK ansin.</string>
+    <string name="dev_link_not_allowed_short">Níor ceadaíodh é ar an teilifís</string>
+    <string name="dev_link_forgotten">Rinne an teilifís dearmad ar an bhfón seo, mar a dhéanann Android TV le gléas nach bhfaca sé le seachtain. Triail arís, agus ceadaigh é ar an teilifís.</string>
+    <string name="dev_link_forgotten_short">Rinne an teilifís dearmad ar an bhfón seo</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tenna_ink">#0C0D10</color>
+    <color name="tenna_ember">#FF8A4C</color>
+
+    <style name="Theme.Tenna" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/tenna_ink</item>
+        <item name="android:colorAccent">@color/tenna_ember</item>
+    </style>
+
+    <style name="GlassDialogMotion">
+        <item name="android:windowEnterAnimation">@null</item>
+        <item name="android:windowExitAnimation">@anim/glass_out</item>
+    </style>
+
+    <style name="Theme.Tenna.Share">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>

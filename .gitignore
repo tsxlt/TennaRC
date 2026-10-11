@@ -1,0 +1,14 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+.idea/
+*.iml
+.venv/
+__pycache__/
+adb-pair-qr.png
+
+.claude/
+AGENTS.md
+CLAUDE.md
+CLAUDE.local.md

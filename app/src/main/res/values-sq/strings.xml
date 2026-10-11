@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">Dërgo në televizor</string>
+    <string name="tile_label">Telekomanda</string>
+    <string name="shortcut_link">Kërko</string>
+    <string name="shortcut_keyboard">Shkruaj në televizor</string>
+
+    <!-- Status line -->
+    <string name="status_connected">Lidhur</string>
+    <string name="status_connecting">Po lidhet…</string>
+    <string name="status_awaiting">Konfirmo në televizor</string>
+    <string name="status_offline">Televizori duket i fikur</string>
+    <string name="status_not_paired">Ende i paçiftuar</string>
+    <string name="status_standby">Në gatishmëri</string>
+    <string name="status_screen_off">Ekrani i fikur, zëri i ndezur</string>
+    <string name="standby_title">Televizori është i fikur</string>
+    <string name="action_turn_on">Ndez</string>
+
+    <!-- State panels -->
+    <string name="pair_title">Çifto me televizorin</string>
+    <string name="pair_body">Konfirmo në televizor kur të pyesë.</string>
+    <string name="pair_declined_body">Televizori refuzoi. Këtë herë zgjidh Konfirmo.</string>
+    <string name="pair_action">Çifto</string>
+    <string name="pair_timeout_body">Televizori nuk u përgjigj.</string>
+    <string name="pair_forgotten_body">Televizori e harroi këtë telefon.</string>
+    <string name="approval_title">Konfirmo në televizor</string>
+    <string name="connecting_title">Po lidhet…</string>
+    <string name="offline_title">Televizori duket i fikur</string>
+    <string name="action_retry">Provo përsëri</string>
+    <string name="action_cancel">Anulo</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">Kërko</string>
+    <string name="touchpad_label">Blloku me prekje. Zvarrit për të lëvizur treguesin, trokit për të klikuar dhe zvarrit me dy gishta për të lëvizur faqen.</string>
+    <string name="dpad_label">Butonat e drejtimit</string>
+    <string name="key_up">Lart</string>
+    <string name="key_down">Poshtë</string>
+    <string name="key_left">Majtas</string>
+    <string name="key_right">Djathtas</string>
+    <string name="key_ok">OK</string>
+    <string name="key_back">Prapa</string>
+    <string name="key_home">Kreu</string>
+    <string name="key_keyboard">Tastatura</string>
+    <string name="key_touchpad">Blloku me prekje</string>
+    <string name="key_dpad">Shigjetat</string>
+    <string name="key_more">Më shumë</string>
+    <string name="key_rewind">Mbrapa shpejt</string>
+    <string name="key_play">Luaj</string>
+    <string name="key_pause">Pauzë</string>
+    <string name="key_fast_forward">Përpara shpejt</string>
+    <string name="key_stop">Ndal</string>
+    <string name="key_volume_up">Rrit zërin</string>
+    <string name="key_volume_down">Ul zërin</string>
+    <string name="key_mute">Hiq zërin</string>
+    <string name="key_unmute">Aktivizo zërin</string>
+    <string name="volume_value">Volumi %1$d</string>
+    <string name="volume_unknown">Volumi, niveli i panjohur</string>
+    <string name="volume_muted">Pa zë</string>
+    <string name="power">Energjia</string>
+    <string name="settings">Cilësimet</string>
+    <string name="all_apps">Të gjitha aplikacionet</string>
+    <string name="inputs">Hyrjet</string>
+    <string name="picture_title">Figura</string>
+    <string name="picture_standard">Standard</string>
+    <string name="picture_vivid">E gjallë</string>
+    <string name="picture_cinema">Sinema</string>
+    <string name="picture_game">Lojë</string>
+    <string name="picture_sports">Sport</string>
+    <string name="picture_eco">Eko</string>
+    <string name="picture_expert">Ekspert</string>
+    <string name="picture_backlight">Ndriçim</string>
+    <string name="sound_title">Zëri</string>
+    <string name="sound_tv">Altoparlantët e televizorit</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optik</string>
+    <string name="sound_bluetooth">Bluetooth</string>
+    <string name="sound_headphones">Kufje</string>
+    <!-- Short forms for the narrow tile that shows the one in use. -->
+    <string name="sound_tv_short">Altoparlantët</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Dalja e linjës</string>
+    <string name="more_subtitles">Titrat</string>
+    <string name="more_audio_track">Zëri</string>
+    <string name="sleep_title">Kohëmatësi i fikjes</string>
+    <string name="sleep_minutes">%1$d min</string>
+    <string name="sleep_at">Fiket në %1$s</string>
+    <string name="sleep_cancel">Anulo kohëmatësin</string>
+    <string name="app_on_screen">%1$s, tani në ekran</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">Po niset në televizor…</string>
+    <string name="cast_playing">Po luhet në televizor</string>
+    <string name="cast_paused">Pauzë</string>
+    <string name="cast_stalled">Nuk po lëviz. A punon ende serveri i videos?</string>
+    <string name="cast_play">Vazhdo</string>
+    <string name="cast_pause">Pauzë</string>
+    <string name="cast_stop">Ndalo luajtjen në televizor</string>
+    <string name="cast_position">Pozicioni i luajtjes</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">Mbyll kërkimin</string>
+    <string name="tv_picker">Televizorët, tani %1$s</string>
+    <string name="tv_picker_add_short">Shto</string>
+    <string name="hold_hide">Fsheh</string>
+    <string name="hold_rename">Riemërto</string>
+    <string name="rename_input">Riemërto hyrjen</string>
+    <string name="rename_save">Ruaj</string>
+    <string name="rename_reset">Përdor emrin e televizorit</string>
+    <string name="more_channel_list">Lista</string>
+    <string name="more_guide">Guida TV</string>
+    <string name="input_label">%1$s, hyrje</string>
+    <string name="channel_label">%2$s, kanali %1$s</string>
+    <string name="on_screen_now">Tani në ekran</string>
+    <string name="deck_expanded">Zgjeruar</string>
+    <string name="deck_collapsed">Palosur</string>
+    <string name="channel_hidden">%1$s u fsheh</string>
+    <string name="action_undo">Zhbëj</string>
+    <string name="offline_switch">Përdor %1$s</string>
+    <string name="search_picks">Në trend tani</string>
+    <string name="search_clear">Pastro</string>
+    <string name="search_fill">Vendose te kërkimi</string>
+    <string name="search_type_on_tv">Shkruaj në televizor</string>
+    <string name="search_in_app">Kërko në %1$s</string>
+    <string name="search_web">Kërko me %1$s</string>
+    <string name="link_paste">Ngjit</string>
+    <string name="link_recent">Të fundit</string>
+    <string name="link_clear_recent">Pastro</string>
+    <string name="link_kind_youtube">Video në YouTube</string>
+    <string name="link_kind_video">Skedar video</string>
+    <string name="link_kind_audio">Skedar audio</string>
+    <string name="link_kind_image">Imazh</string>
+    <string name="link_kind_web">Faqe uebi</string>
+    <string name="link_action_app">Hap në %1$s</string>
+    <string name="link_action_media">Luaj në televizor</string>
+    <string name="link_action_browser">Hap në shfletuesin e televizorit</string>
+    <string name="link_sending">Po dërgohet…</string>
+    <string name="link_sent">U hap në televizor</string>
+    <string name="link_failed">Televizori nuk e hapi. Provo përsëri.</string>
+
+    <!-- Share -->
+    <string name="share_title">Dërgo në televizor</string>
+    <string name="share_no_link">Nuk ka lidhje në atë që ndave.</string>
+    <string name="share_not_paired">Ky telefon nuk është çiftuar ende me televizorin.</string>
+    <string name="share_open_app">Hap telekomandën</string>
+    <string name="share_waiting">Po lidhet…</string>
+    <string name="share_cant_open">Ky televizor nuk mund të hapë lidhje %1$s</string>
+    <string name="action_close">Mbyll</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">Tastatura</string>
+    <string name="keyboard_placeholder_waiting">Zgjidh një fushë teksti në televizor</string>
+    <string name="keyboard_backspace">Fshi</string>
+    <string name="keyboard_clear">Pastro</string>
+    <string name="keyboard_enter">Konfirmo</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">%1$d karakter është tashmë në televizor</item>
+        <item quantity="other">%1$d karaktere janë tashmë në televizor</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">Më shumë</string>
+    <string name="more_menu">Cilësimet</string>
+    <string name="more_quick">Menyja e shpejtë</string>
+    <string name="more_quick_short">Menyja</string>
+    <string name="more_info">Informacione</string>
+    <string name="more_inputs">Hyrjet</string>
+    <string name="more_exit">Dil</string>
+    <string name="more_channel_up">Kanali tjetër</string>
+    <string name="more_channel_down">Kanali i mëparshëm</string>
+    <string name="more_red">E kuqe</string>
+    <string name="more_green">E gjelbër</string>
+    <string name="more_yellow">E verdhë</string>
+    <string name="more_blue">Blu</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">Energjia</string>
+    <string name="power_screen_off">Fik ekranin</string>
+    <string name="power_off">Fik televizorin</string>
+    <string name="power_off_confirm">Trokit përsëri për ta fikur</string>
+    <string name="power_turn_off">Fik</string>
+    <string name="power_tap_again">Trokit përsëri</string>
+    <string name="switch_on">Ndezur</string>
+    <string name="switch_off">Fikur</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">Cilësimet</string>
+    <string name="settings_tv">Televizori</string>
+    <string name="settings_name">Emri</string>
+    <string name="settings_host">Adresa</string>
+    <string name="settings_host_invalid">Fut një adresë IP ose emër hosti</string>
+    <string name="settings_mac">Adresa MAC (për ndezjen)</string>
+    <string name="settings_mac_invalid">Gjashtë palë shifra heksadecimale, si 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">Gjej televizorë në afërsi</string>
+    <string name="settings_finding">Po kërkohen televizorë…</string>
+    <string name="settings_found_none">Asnjë televizor nuk u përgjigj.</string>
+    <string name="settings_found_no_new">Nuk u gjetën televizorë të tjerë</string>
+    <string name="settings_in_use">Në përdorim</string>
+    <string name="settings_add">Shto</string>
+    <string name="settings_forget_tv">Harro %1$s</string>
+    <string name="settings_use_tv">Përdor këtë televizor</string>
+    <string name="settings_remove_tv">Hiq</string>
+    <string name="settings_remove_confirm">Trokit përsëri për ta hequr</string>
+    <string name="settings_move_up">Lëviz lart</string>
+    <string name="settings_move_down">Lëviz poshtë</string>
+    <string name="settings_sensitivity">Ndjeshmëria</string>
+    <string name="settings_touchpad">Blloku me prekje</string>
+    <string name="settings_phone">Telefon</string>
+    <string name="settings_natural_scroll">Lëvizje natyrale</string>
+    <string name="settings_scroll_strip">Shiriti i lëvizjes</string>
+    <string name="settings_hidden">Të fshehura</string>
+    <string name="settings_show">Shfaq</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_auto">Automatike</string>
+    <string name="settings_language">Gjuha</string>
+    <string name="settings_theme_system">Sistemi</string>
+    <string name="settings_theme_light">E çelët</string>
+    <string name="settings_theme_dark">E errët</string>
+    <string name="settings_scroll_strip_right">Djathtas</string>
+    <string name="settings_scroll_strip_left">Majtas</string>
+    <string name="settings_scroll_strip_off">Joaktiv</string>
+    <string name="settings_search_engine">Kërkimi në web</string>
+    <string name="settings_search">Kërko</string>
+    
+    <string name="settings_volume_keys">Butonat e volumit</string>
+    <string name="settings_auto_keyboard">Tastatura automatike</string>
+    <string name="settings_haptics">Dridhja</string>
+    <string name="settings_keep_screen_on">Mbaje ekranin ndezur</string>
+    <string name="settings_forget">Harro çiftimin</string>
+    <string name="settings_forget_body">Herën tjetër televizori do të pyesë përsëri</string>
+    <string name="settings_forget_confirm">Trokit përsëri për ta harruar</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">Nuk je lidhur me televizorin</string>
+    <string name="notice_command_failed">Televizori nuk iu përgjigj komandës</string>
+    <string name="notice_launch_failed">Ky aplikacion nuk u hap</string>
+    <string name="notice_open_failed">Televizori nuk e hapi dot lidhjen</string>
+    <string name="notice_no_renderer">Luajtësi i medias së televizorit nuk përgjigjet. A është ndezur?</string>
+    <string name="notice_cast_failed">Televizori nuk e luajti dot lidhjen</string>
+    <string name="notice_wake_sent">Sinjali i zgjimit u dërgua</string>
+    <string name="notice_tv_moved">Televizori u gjet në një adresë të re</string>
+    <string name="notice_wake_failed">Sinjali i zgjimit nuk u dërgua. Kontrollo adresën MAC.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">Lidhje e ngadaltë</string>
+    <string name="link_help_stalling">Wi-Fi i televizorit ndërpritet herë pas here për një çast.</string>
+    <string name="link_help_slow">Wi-Fi i televizorit është i dobët ose i ngarkuar.</string>
+    <string name="link_fix_24_title">Lidhe televizorin me Wi-Fi 2,4 GHz</string>
+    <string name="link_fix_ethernet_title">Përdor një kabllo Ethernet</string>
+    <string name="link_fix_extender_title">Shto një përforcues Wi-Fi në mes të rrugës</string>
+    <string name="link_fix_listen_title">Çaktivizo Listen Mode në Screen Share</string>
+    <string name="link_fix_closer_title">Afroje ruterin te televizori</string>
+    <string name="link_fix_band_title">Provo brezin tjetër të Wi-Fi</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">Telekomanda</string>
+    <string name="notify_channel_body">Luajtja, pauza dhe volumi i televizorit kur është ndezur</string>
+    <string name="notify_on_tv">Në televizor</string>
+    <string name="notify_close">Mbyll</string>
+    <string name="settings_notification_controls">Kontrollet e mediave</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">Shkruaj kodin që shfaqet në televizor</string>
+    <string name="pair_code_title">Fut kodin nga televizori</string>
+    <string name="pair_code_wrong">Kodi nuk përputhej. Provo kodin e ri në televizor.</string>
+    <string name="pair_code_label">Kodi</string>
+    <string name="pair_code_submit">Çifto</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">Televizor demo</string>
+    <string name="settings_demo_tv_body">Provo telekomandën pa televizor</string>
+    <string name="settings_demo_tv_listed">Shton një televizor fiktiv te televizorët e tu</string>
+    <string name="settings_help">Ndihmë</string>
+    <string name="settings_report">Raporto një problem</string>
+    <string name="settings_privacy">Politika e privatësisë</string>
+    <string name="settings_reset">Rivendos cilësimet</string>
+    <string name="settings_reset_body">Televizorët mbeten të çiftuar</string>
+    <string name="settings_reset_confirm">Trokit përsëri për ta rivendosur</string>
+    <string name="offline_no_wifi_title">Nuk ka Wi-Fi</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku pranon vetëm disa komanda nga telefonat. Te Advanced system settings, vendos Control by mobile apps në Enabled.</string>
+    <string name="notice_adb_off">Aktivizo korrigjimin ADB në Fire TV: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">Joaktiv</string>
+    <string name="ambilight_video">Video</string>
+    <string name="ambilight_audio">Audio</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Çifto për të kontrolluar Ambilight</string>
+    <string name="ambilight_pin_hint">PIN-i në televizor</string>
+    <string name="ambilight_pin_wrong">PIN i gabuar. Provo të riun</string>
+    <string name="search_opens_app">Hap %1$s</string>
+    <string name="voice_search">Kërkim me zë</string>
+    <string name="voice_stop">Ndalo dëgjimin</string>
+    <string name="voice_listening">Duke dëgjuar…</string>
+    <string name="voice_mic_off">Qasja te mikrofoni është çaktivizuar</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC u mbyll papritur</string>
+    <string name="crash_send">Dërgo</string>
+    <string name="crash_report_subject">Raporti i ndërprerjes së TennaRC %1$s</string>
+    <string name="crash_sent">Raporti u dërgua. Faleminderit</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">Luajtja, pauza dhe volumi i televizorit</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">Luaj nga ky telefon</string>
+    <string name="phone_mirror">Pasqyro</string>
+    <string name="phone_mirror_label">Pasqyro ekranin e këtij telefoni</string>
+    <string name="phone_gallery">Galeria</string>
+    <string name="phone_gallery_label">Shfaq një foto ose video nga ky telefon</string>
+    <string name="share_cant_play_file">Ky televizor nuk mund të luajë skedarë nga telefoni</string>
+    <string name="notice_cast_unsupported">Televizori nuk mund ta shfaqë këtë lloj figure</string>
+    <string name="notice_not_on_tv_network">Lidhe telefonin me Wi-Fi e televizorit për të luajtur skedarët e tij</string>
+    <string name="notice_file_unreadable">Ky skedar nuk u lexua</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">Po kërkohen televizorë</string>
+    <string name="setup_choose">Zgjidh televizorin</string>
+    <string name="setup_none">Nuk u gjet asnjë televizor</string>
+    <string name="setup_search_again">Kërko përsëri</string>
+    <string name="setup_enter_ip">Fut adresën IP</string>
+    <string name="setup_ip_label">Adresa IP</string>
+    <string name="setup_ip_none">Asnjë televizor nuk u përgjigj në atë adresë</string>
+    <string name="setup_connect">Lidh</string>
+    <string name="setup_demo">Provo demon</string>
+    <string name="setup_code_wrong">Kontrollo kodin në televizor</string>
+    <string name="setup_fire_tv_allow">Shëno Always allow, pastaj OK</string>
+    <string name="setup_adb_title">Aktivizo korrigjimin ADB</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Aktivizo Control by mobile apps</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">U krye</string>
+
+    <string name="dev_link_allow">Lejo në televizor</string>
+    <string name="dev_link_allow_body">Shëno Lejo gjithmonë nga ky kompjuter, pastaj OK</string>
+    <string name="dev_link_away">Televizori nuk përgjigjet. Lidhja provon vetë përsëri sa kohë që telekomanda është e hapur.</string>
+    <string name="dev_link_away_short">Nuk përgjigjet</string>
+    <string name="dev_link_body">Shfaq hyrjet e vetë televizorit dhe të gjitha aplikacionet e tij, ndërron hyrjen te televizorët që nuk reagojnë ndaj butonave HDMI dhe te disa cakton edhe ndriçimin. Funksionon përmes lidhjes së korrigjimit të televizorit (ADB). Butonat dhe shkrimi funksionojnë njësoj edhe pa të.</string>
+    <string name="dev_link_connect">Lidh</string>
+    <string name="dev_link_debugging_off">Televizori e refuzoi lidhjen. Kontrollo që Korrigjimi i USB-së të jetë aktiv. Që nga Android TV 14, disa televizorë pranojnë vetëm Korrigjimin me lidhje pa tel, të cilin TennaRC nuk e mbështet ende.</string>
+    <string name="dev_link_debugging_off_short">Korrigjimi është joaktiv në televizor</string>
+    <string name="dev_link_forgotten">Televizori e harroi këtë telefon, siç bën Android TV me një telefon që nuk e ka parë për një javë. Provo përsëri dhe lejoje në televizor.</string>
+    <string name="dev_link_forgotten_short">Televizori e harroi këtë telefon</string>
+    <string name="dev_link_not_allowed">Askush nuk e lejoi në televizor. Provo përsëri dhe zgjidh OK atje.</string>
+    <string name="dev_link_not_allowed_short">Nuk u lejua në televizor</string>
+    <string name="dev_link_off">Joaktive. Shton hyrjet dhe të gjitha aplikacionet</string>
+    <string name="dev_link_step_allow">Prek Lidh, pastaj në televizor shëno Lejo gjithmonë dhe zgjidh OK.</string>
+    <string name="dev_link_step_debugging">Hap Opsionet e zhvilluesit, pranë Rreth, dhe aktivizo Korrigjimi i USB-së. Te Shield quhet Korrigjimi në rrjet.</string>
+    <string name="dev_link_step_developer">Në televizor hap Cilësimet › Sistemi › Rreth dhe zgjidh shtatë herë Ndërtimi i Android TV OS. Te televizorët më të vjetër është Preferencat e pajisjes › Rreth › Ndërtimi.</string>
+    <string name="dev_link_title">Lidhja për zhvilluesit</string>
+    <string name="dev_link_turn_off">Çaktivizo</string>
+    <string name="dev_link_wireless">Aktiv është vetëm Korrigjimi me lidhje pa tel, të cilin TennaRC nuk e mbështet ende. Aktivizo edhe Korrigjimin e USB-së ose çifto një herë nga një kompjuter dhe ekzekuto adb tcpip 5555, që vlen derisa televizori të riniset.</string>
+    <string name="dev_link_wireless_short">Aktiv është vetëm korrigjimi pa tel</string>
+    <string name="settings_edit_tv">Përpuno</string>
+    <string name="settings_find_titles">Kërko filma dhe video</string>
+    <string name="find_titles_ask">Për t\'i gjetur, TennaRC dërgon atë që shkruan te YouTube, JustWatch dhe Wikidata. Mund ta ndryshosh këtë te Cilësimet.</string>
+    <string name="find_titles_not_now">Jo tani</string>
+</resources>

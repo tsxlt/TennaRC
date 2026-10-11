@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">ටීවීයට යවන්න</string>
+    <string name="tile_label">ටීවී දුරස්ථ පාලකය</string>
+    <string name="shortcut_link">සොයන්න</string>
+    <string name="shortcut_keyboard">ටීවීයේ ටයිප් කරන්න</string>
+
+    <!-- Status line -->
+    <string name="status_connected">සම්බන්ධිතයි</string>
+    <string name="status_connecting">සම්බන්ධ වෙමින්…</string>
+    <string name="status_awaiting">ටීවීයේ පිළිගන්න</string>
+    <string name="status_offline">ටීවීය ක්‍රියාවිරහිත බව පෙනේ</string>
+    <string name="status_not_paired">තවම යුගල කර නැත</string>
+    <string name="status_standby">පොරොත්තු ප්‍රකාරයේ</string>
+    <string name="status_screen_off">තිරය අක්‍රියයි, හඬ ක්‍රියාත්මකයි</string>
+    <string name="standby_title">ටීවීය ක්‍රියාවිරහිතයි</string>
+    <string name="action_turn_on">ක්‍රියාත්මක කරන්න</string>
+
+    <!-- State panels -->
+    <string name="pair_title">ටීවීය සමඟ යුගල කරන්න</string>
+    <string name="pair_body">ටීවීය අසන විට පිළිගන්න.</string>
+    <string name="pair_declined_body">ටීවීය ප්‍රතික්ෂේප කළා. මෙවර පිළිගන්න තෝරන්න.</string>
+    <string name="pair_action">යුගල කරන්න</string>
+    <string name="pair_timeout_body">ටීවීයෙන් පිළිතුරක් නැත.</string>
+    <string name="pair_forgotten_body">ටීවීය මෙම දුරකථනය අමතක කළා.</string>
+    <string name="approval_title">ටීවීයේ පිළිගන්න</string>
+    <string name="connecting_title">සම්බන්ධ වෙමින්…</string>
+    <string name="offline_title">ටීවීය ක්‍රියාවිරහිත බව පෙනේ</string>
+    <string name="action_retry">නැවත උත්සාහ කරන්න</string>
+    <string name="action_cancel">අවලංගු කරන්න</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">සොයන්න</string>
+    <string name="touchpad_label">ස්පර්ශ පුවරුව. දර්ශකය ගෙන යාමට අදින්න, ක්ලික් කිරීමට තට්ටු කරන්න, අනුචලනයට ඇඟිලි දෙකකින් අදින්න.</string>
+    <string name="dpad_label">දිශා බොත්තම්</string>
+    <string name="key_up">ඉහළ</string>
+    <string name="key_down">පහළ</string>
+    <string name="key_left">වම</string>
+    <string name="key_right">දකුණ</string>
+    <string name="key_ok">හරි</string>
+    <string name="key_back">ආපසු</string>
+    <string name="key_home">මුල් පිටුව</string>
+    <string name="key_keyboard">යතුරු පුවරුව</string>
+    <string name="key_touchpad">ස්පර්ශ පුවරුව</string>
+    <string name="key_dpad">ඊතල</string>
+    <string name="key_more">තවත්</string>
+    <string name="key_rewind">ආපසු පෙරළන්න</string>
+    <string name="key_play">වාදනය කරන්න</string>
+    <string name="key_pause">විරාම කරන්න</string>
+    <string name="key_fast_forward">ඉක්මනින් ඉදිරියට</string>
+    <string name="key_stop">නවත්වන්න</string>
+    <string name="key_volume_up">හඬ වැඩි කරන්න</string>
+    <string name="key_volume_down">හඬ අඩු කරන්න</string>
+    <string name="key_mute">නිහඬ කරන්න</string>
+    <string name="key_unmute">නිහඬ බව ඉවත් කරන්න</string>
+    <string name="volume_value">හඬ පරිමාව %1$d</string>
+    <string name="volume_unknown">හඬ පරිමාව, මට්ටම නොදනී</string>
+    <string name="volume_muted">නිහඬයි</string>
+    <string name="power">බලය</string>
+    <string name="settings">සැකසීම්</string>
+    <string name="all_apps">සියලු යෙදුම්</string>
+    <string name="inputs">ආදාන</string>
+    <string name="picture_title">පින්තූරය</string>
+    <string name="picture_standard">සම්මත</string>
+    <string name="picture_vivid">ජීවන්ත</string>
+    <string name="picture_cinema">සිනමා</string>
+    <string name="picture_game">ක්‍රීඩා</string>
+    <string name="picture_sports">ක්‍රීඩා තරග</string>
+    <string name="picture_eco">ඉකෝ</string>
+    <string name="picture_expert">විශේෂඥ</string>
+    <string name="picture_backlight">දීප්තිය</string>
+    <string name="sound_title">හඬ</string>
+    <string name="sound_tv">ටීවී ස්පීකර</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">Optical</string>
+    <string name="sound_bluetooth">බ්ලූටුත්</string>
+    <string name="sound_headphones">හෙඩ්ෆෝන්</string>
+    <string name="sound_tv_short">ස්පීකර</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">Line out</string>
+    <string name="more_subtitles">උපසිරසි</string>
+    <string name="more_audio_track">ශ්‍රව්‍ය</string>
+    <string name="sleep_title">නින්ද කාල ගණකය</string>
+    <string name="sleep_minutes">මිනි. %1$d</string>
+    <string name="sleep_at">%1$s ට ක්‍රියාවිරහිත වේ</string>
+    <string name="sleep_cancel">කාල ගණකය අවලංගු කරන්න</string>
+    <string name="app_on_screen">%1$s, දැන් තිරයේ</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">ටීවීයේ ආරම්භ වෙමින්…</string>
+    <string name="cast_playing">ටීවීයේ වාදනය වෙමින්</string>
+    <string name="cast_paused">විරාම කළා</string>
+    <string name="cast_stalled">ඉදිරියට යන්නේ නැත. වීඩියෝවේ සේවාදායකය තවමත් ක්‍රියාත්මකද?</string>
+    <string name="cast_play">නැවත අරඹන්න</string>
+    <string name="cast_pause">විරාම කරන්න</string>
+    <string name="cast_stop">ටීවීයේ වාදනය නවත්වන්න</string>
+    <string name="cast_position">වාදන ස්ථානය</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">සෙවීම වසන්න</string>
+    <string name="tv_picker">ටීවී, දැන් %1$s</string>
+    <string name="tv_picker_add_short">එකතු</string>
+    <string name="hold_hide">සඟවන්න</string>
+    <string name="hold_rename">නැවත නම් කරන්න</string>
+    <string name="rename_input">ආදානය නැවත නම් කරන්න</string>
+    <string name="rename_save">සුරකින්න</string>
+    <string name="rename_reset">ටීවීයේ නම භාවිතා කරන්න</string>
+    <string name="more_channel_list">ලැයිස්තුව</string>
+    <string name="more_guide">වැඩසටහන්</string>
+    <string name="input_label">%1$s, ආදාන</string>
+    <string name="channel_label">%2$s, නාලිකාව %1$s</string>
+    <string name="on_screen_now">දැන් තිරයේ</string>
+    <string name="deck_expanded">විහිදුවා ඇත</string>
+    <string name="deck_collapsed">හකුළා ඇත</string>
+    <string name="channel_hidden">%1$s සඟවා ඇත</string>
+    <string name="action_undo">පසුගමනය කරන්න</string>
+    <string name="offline_switch">%1$s භාවිතා කරන්න</string>
+    <string name="search_picks">දැන් ජනප්‍රිය</string>
+    <string name="search_clear">හිස් කරන්න</string>
+    <string name="search_fill">සෙවුම් කොටුවට දමන්න</string>
+    <string name="search_type_on_tv">ටීවීයේ ටයිප් කරන්න</string>
+    <string name="search_in_app">%1$s හි සොයන්න</string>
+    <string name="search_web">%1$s හි සොයන්න</string>
+    <string name="link_paste">අලවන්න</string>
+    <string name="link_recent">මෑත</string>
+    <string name="link_clear_recent">හිස් කරන්න</string>
+    <string name="link_kind_youtube">YouTube වීඩියෝ</string>
+    <string name="link_kind_video">වීඩියෝ ගොනුව</string>
+    <string name="link_kind_audio">ශ්‍රව්‍ය ගොනුව</string>
+    <string name="link_kind_image">පින්තූරය</string>
+    <string name="link_kind_web">වෙබ් පිටුව</string>
+    <string name="link_action_app">%1$s හි විවෘත කරන්න</string>
+    <string name="link_action_media">ටීවීයේ වාදනය කරන්න</string>
+    <string name="link_action_browser">ටීවී බ්‍රවුසරයේ විවෘත කරන්න</string>
+    <string name="link_sending">යවමින්…</string>
+    <string name="link_sent">ටීවීයේ විවෘත කළා</string>
+    <string name="link_failed">ටීවීය එය විවෘත කළේ නැත. නැවත උත්සාහ කරන්න.</string>
+
+    <!-- Share -->
+    <string name="share_title">ටීවීයට යවන්න</string>
+    <string name="share_no_link">ඔබ බෙදාගත් දෙයෙහි සබැඳියක් නැත.</string>
+    <string name="share_not_paired">මෙම දුරකථනය තවම ටීවීය සමඟ යුගල කර නැත.</string>
+    <string name="share_open_app">දුරස්ථ පාලකය විවෘත කරන්න</string>
+    <string name="share_waiting">සම්බන්ධ වෙමින්…</string>
+    <string name="share_cant_open">මෙම ටීවීයට %1$s සබැඳි විවෘත කළ නොහැක</string>
+    <string name="action_close">වසන්න</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">යතුරු පුවරුව</string>
+    <string name="keyboard_placeholder_waiting">ටීවීයේ පෙළ කොටුවක් තෝරන්න</string>
+    <string name="keyboard_backspace">Backspace</string>
+    <string name="keyboard_clear">හිස් කරන්න</string>
+    <string name="keyboard_enter">Enter</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">ටීවීයේ දැනටමත් අක්ෂර %1$d ක් ඇත</item>
+        <item quantity="other">ටීවීයේ දැනටමත් අක්ෂර %1$d ක් ඇත</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">තවත්</string>
+    <string name="more_menu">සැකසීම්</string>
+    <string name="more_quick">ඉක්මන් මෙනුව</string>
+    <string name="more_quick_short">මෙනුව</string>
+    <string name="more_info">තොරතුරු</string>
+    <string name="more_inputs">ආදාන</string>
+    <string name="more_exit">පිටවන්න</string>
+    <string name="more_channel_up">ඊළඟ නාලිකාව</string>
+    <string name="more_channel_down">පෙර නාලිකාව</string>
+    <string name="more_red">රතු</string>
+    <string name="more_green">කොළ</string>
+    <string name="more_yellow">කහ</string>
+    <string name="more_blue">නිල්</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">බලය</string>
+    <string name="power_screen_off">හඬ පමණක්</string>
+    <string name="power_off">ටීවීය ක්‍රියාවිරහිත කරන්න</string>
+    <string name="power_off_confirm">ක්‍රියාවිරහිත කිරීමට නැවත තට්ටු කරන්න</string>
+    <string name="power_turn_off">ක්‍රියාවිරහිත කරන්න</string>
+    <string name="power_tap_again">නැවත තට්ටු කරන්න</string>
+    <string name="switch_on">ක්‍රියාත්මකයි</string>
+    <string name="switch_off">ක්‍රියාවිරහිතයි</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">සැකසීම්</string>
+    <string name="settings_tv">ටීවී</string>
+    <string name="settings_name">නම</string>
+    <string name="settings_host">ලිපිනය</string>
+    <string name="settings_host_invalid">IP ලිපිනයක් හෝ ධාරක නාමයක් ඇතුල් කරන්න</string>
+    <string name="settings_mac">MAC ලිපිනය (එය ක්‍රියාත්මක කිරීමට)</string>
+    <string name="settings_mac_invalid">හෙක්ස් ඉලක්කම් යුගල හයක්, උදා. 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">අවට ටීවී සොයන්න</string>
+    <string name="settings_finding">ටීවී සොයමින්…</string>
+    <string name="settings_found_none">කිසිදු ටීවීයක් පිළිතුරු දුන්නේ නැත.</string>
+    <string name="settings_found_no_new">වෙනත් ටීවී හමු නොවීය</string>
+    <string name="settings_in_use">භාවිතයේ</string>
+    <string name="settings_add">එකතු කරන්න</string>
+    <string name="settings_forget_tv">%1$s අමතක කරන්න</string>
+    <string name="settings_use_tv">මෙම ටීවීය භාවිතා කරන්න</string>
+    <string name="settings_remove_tv">ඉවත් කරන්න</string>
+    <string name="settings_remove_confirm">ඉවත් කිරීමට නැවත තට්ටු කරන්න</string>
+    <string name="settings_move_up">ඉහළට</string>
+    <string name="settings_move_down">පහළට</string>
+    <string name="settings_sensitivity">සංවේදීතාව</string>
+    <string name="settings_touchpad">ස්පර්ශ පුවරුව</string>
+    <string name="settings_phone">දුරකථනය</string>
+    <string name="settings_natural_scroll">ස්වාභාවික අනුචලනය</string>
+    <string name="settings_scroll_strip">අනුචලන තීරුව</string>
+    <string name="settings_hidden">සඟවා ඇත</string>
+    <string name="settings_show">පෙන්වන්න</string>
+    <string name="settings_theme">තේමාව</string>
+    <string name="settings_theme_auto">ස්වයංක්‍රීය</string>
+    <string name="settings_language">භාෂාව</string>
+    <string name="settings_theme_system">පද්ධතිය</string>
+    <string name="settings_theme_light">ආලෝක</string>
+    <string name="settings_theme_dark">අඳුරු</string>
+    <string name="settings_scroll_strip_right">දකුණ</string>
+    <string name="settings_scroll_strip_left">වම</string>
+    <string name="settings_scroll_strip_off">ක්‍රියාවිරහිතයි</string>
+    <string name="settings_search_engine">වෙබ් සෙවීම</string>
+    <string name="settings_search">සෙවීම</string>
+    
+    <string name="settings_volume_keys">හඬ බොත්තම්</string>
+    <string name="settings_auto_keyboard">ස්වයංක්‍රීය යතුරු පුවරුව</string>
+    <string name="settings_haptics">කම්පනය</string>
+    <string name="settings_keep_screen_on">තිරය සක්‍රියව තබන්න</string>
+    <string name="settings_forget">යුගල කිරීම අමතක කරන්න</string>
+    <string name="settings_forget_body">ටීවීය ඊළඟ වතාවේ නැවත අසනු ඇත</string>
+    <string name="settings_forget_confirm">අමතක කිරීමට නැවත තට්ටු කරන්න</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">ටීවීය සමඟ සම්බන්ධ නැත</string>
+    <string name="notice_command_failed">ටීවීය එයට ප්‍රතිචාර දැක්වූයේ නැත</string>
+    <string name="notice_launch_failed">එම යෙදුම විවෘත කළ නොහැකි විය</string>
+    <string name="notice_open_failed">ටීවීයට සබැඳිය විවෘත කළ නොහැකි විය</string>
+    <string name="notice_no_renderer">ටීවීයේ මාධ්‍ය වාදකය ප්‍රතිචාර නොදක්වයි. එය ක්‍රියාත්මකද?</string>
+    <string name="notice_cast_failed">ටීවීයට එම සබැඳිය වාදනය කළ නොහැකි විය</string>
+    <string name="notice_wake_sent">අවදි කිරීමේ සංඥාව යැව්වා</string>
+    <string name="notice_tv_moved">ටීවීය නව ලිපිනයක හමු විය</string>
+    <string name="notice_wake_failed">අවදි කිරීමේ සංඥාව යැවිය නොහැකි විය. MAC ලිපිනය පරීක්ෂා කරන්න.</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">මන්දගාමී සම්බන්ධතාවය</string>
+    <string name="link_help_stalling">ටීවීයේ Wi-Fi නිතර මොහොතකට විසන්ධි වේ.</string>
+    <string name="link_help_slow">ටීවීයේ Wi-Fi දුර්වලයි හෝ කාර්යබහුලයි.</string>
+    <string name="link_fix_24_title">ටීවීය 2.4 GHz Wi-Fi වෙත සම්බන්ධ කරන්න</string>
+    <string name="link_fix_ethernet_title">Ethernet කේබලයක් භාවිතා කරන්න</string>
+    <string name="link_fix_extender_title">මැද Wi-Fi පුළුල්කාරකයක් එකතු කරන්න</string>
+    <string name="link_fix_listen_title">Screen Share හි Listen Mode ක්‍රියාවිරහිත කරන්න</string>
+    <string name="link_fix_closer_title">රවුටරය ටීවීයට ළං කරන්න</string>
+    <string name="link_fix_band_title">අනෙක් Wi-Fi කලාපය උත්සාහ කරන්න</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">ටීවී දුරස්ථ පාලකය</string>
+    <string name="notify_channel_body">ටීවීය ක්‍රියාත්මක විට වාදනය, විරාමය සහ හඬ</string>
+    <string name="notify_on_tv">ටීවීයේ</string>
+    <string name="notify_close">වසන්න</string>
+    <string name="settings_notification_controls">මාධ්‍ය පාලනයන්</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">ටීවීයේ පෙන්වන කේතය ටයිප් කරන්න</string>
+    <string name="pair_code_title">ටීවීයේ කේතය ඇතුළු කරන්න</string>
+    <string name="pair_code_wrong">එම කේතය නොගැළපේ. ටීවීයේ නව කේතය උත්සාහ කරන්න.</string>
+    <string name="pair_code_label">කේතය</string>
+    <string name="pair_code_submit">යුගල කරන්න</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">ආදර්ශ ටීවී</string>
+    <string name="settings_demo_tv_body">ටීවීයක් නොමැතිව දුරස්ථ පාලකය උත්සාහ කරන්න</string>
+    <string name="settings_demo_tv_listed">ඔබේ ටීවී ලැයිස්තුවට ව්‍යාජ ටීවීයක් එක් කරයි</string>
+    <string name="settings_help">උදව්</string>
+    <string name="settings_report">ගැටලුවක් වාර්තා කරන්න</string>
+    <string name="settings_privacy">රහස්‍යතා ප්‍රතිපත්තිය</string>
+    <string name="settings_reset">සැකසීම් යළි සකසන්න</string>
+    <string name="settings_reset_body">ඔබේ රූපවාහිනී යුගලව පවතී</string>
+    <string name="settings_reset_confirm">යළි සැකසීමට නැවත තට්ටු කරන්න</string>
+    <string name="offline_no_wifi_title">Wi-Fi නැත</string>
+    <string name="action_wifi_settings">Wi-Fi</string>
+    <string name="notice_roku_limited">Roku දුරකථනවලින් සමහර විධාන පමණක් ගනී. එහි Advanced system settings හි Control by mobile apps, Enabled ලෙස සකසන්න.</string>
+    <string name="notice_adb_off">Fire TV හි ADB debugging ක්‍රියාත්මක කරන්න: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">අක්‍රියයි</string>
+    <string name="ambilight_video">වීඩියෝ</string>
+    <string name="ambilight_audio">ශ්‍රව්‍ය</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Ambilight පාලනය කිරීමට යුගළ කරන්න</string>
+    <string name="ambilight_pin_hint">ටීවීයේ PIN</string>
+    <string name="ambilight_pin_wrong">වැරදි PIN. නව එක උත්සාහ කරන්න</string>
+    <string name="search_opens_app">%1$s විවෘත කරයි</string>
+    <string name="voice_search">හඬින් සොයන්න</string>
+    <string name="voice_stop">සවන්දීම නතර කරන්න</string>
+    <string name="voice_listening">සවන්දෙමින්…</string>
+    <string name="voice_mic_off">මයික්‍රොෆෝන ප්‍රවේශය අක්‍රියයි</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC අනපේක්ෂිතව වැසුණා</string>
+    <string name="crash_send">යවන්න</string>
+    <string name="crash_report_subject">TennaRC බිඳවැටීම් වාර්තාව %1$s</string>
+    <string name="crash_sent">වාර්තාව යැව්වා. ස්තූතියි</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">ටීවීය සඳහා වාදනය, විරාමය සහ හඬ</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">මෙම දුරකථනයෙන් වාදනය කරන්න</string>
+    <string name="phone_mirror">දර්පණ</string>
+    <string name="phone_mirror_label">මෙම දුරකථනයේ තිරය දර්පණය කරන්න</string>
+    <string name="phone_gallery">ගැලරිය</string>
+    <string name="phone_gallery_label">මෙම දුරකථනයෙන් ඡායාරූපයක් හෝ වීඩියෝවක් වාදනය කරන්න</string>
+    <string name="share_cant_play_file">මෙම ටීවීයට දුරකථනයේ ගොනු වාදනය කළ නොහැක</string>
+    <string name="notice_cast_unsupported">ටීවීයට මෙවැනි පින්තූර පෙන්විය නොහැක</string>
+    <string name="notice_not_on_tv_network">දුරකථනයේ ගොනු වාදනයට දුරකථනය ටීවීයේ Wi-Fi වෙත සම්බන්ධ කරන්න</string>
+    <string name="notice_file_unreadable">එම ගොනුව කියවිය නොහැකි විය</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">ටීවී සොයමින්</string>
+    <string name="setup_choose">ඔබේ ටීවීය තෝරන්න</string>
+    <string name="setup_none">ටීවී හමු නොවීය</string>
+    <string name="setup_search_again">නැවත සොයන්න</string>
+    <string name="setup_enter_ip">IP ලිපිනය ඇතුල් කරන්න</string>
+    <string name="setup_ip_label">IP ලිපිනය</string>
+    <string name="setup_ip_none">එහි කිසිදු ටීවීයක් පිළිතුරු දුන්නේ නැත</string>
+    <string name="setup_connect">සම්බන්ධ කරන්න</string>
+    <string name="setup_demo">ආදර්ශනය උත්සාහ කරන්න</string>
+    <string name="setup_code_wrong">ටීවීයේ කේතය පරීක්ෂා කරන්න</string>
+    <string name="setup_fire_tv_allow">Always allow ලකුණු කරන්න, ඉන්පසු OK</string>
+    <string name="setup_adb_title">ADB debugging ක්‍රියාත්මක කරන්න</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Control by mobile apps ක්‍රියාත්මක කරන්න</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">නිමයි</string>
+
+    <string name="dev_link_allow">ටීවීයේ ඉඩ දෙන්න</string>
+    <string name="dev_link_allow_body">Always allow from this computer ලකුණු කරන්න, ඉන්පසු OK</string>
+    <string name="dev_link_away">ටීවීය ප්‍රතිචාර නොදක්වයි. දුරස්ථ පාලකය විවෘතව ඇති තාක් එය ස්වයංක්‍රීයව නැවත උත්සාහ කරයි.</string>
+    <string name="dev_link_away_short">ප්‍රතිචාර නැත</string>
+    <string name="dev_link_body">ටීවීයේ ආදාන සහ සියලු යෙදුම් පෙන්වයි, HDMI බොත්තම් නොසලකන ටීවී වල ආදානය මාරු කරයි, සහ සමහර ඒවායේ දීප්තිය සකසයි. එය ටීවීයේ debugging සම්බන්ධතාවය (ADB) හරහා ක්‍රියා කරයි. එය නොමැතිවද බොත්තම් සහ ටයිප් කිරීම එලෙසම ක්‍රියා කරයි.</string>
+    <string name="dev_link_connect">සම්බන්ධ කරන්න</string>
+    <string name="dev_link_debugging_off">ටීවීය සම්බන්ධතාවය ප්‍රතික්ෂේප කළා. USB debugging ක්‍රියාත්මකදැයි පරීක්ෂා කරන්න. Android TV 14 සිට සමහර ටීවී Wireless debugging පමණක් ගනී, එය TennaRC හට තවම භාවිතා කළ නොහැක.</string>
+    <string name="dev_link_debugging_off_short">ටීවීයේ debugging අක්‍රියයි</string>
+    <string name="dev_link_forgotten">සතියක් නොදුටු උපාංගයක් Android TV අමතක කරන සේ, ටීවීය මෙම දුරකථනය අමතක කර ඇත. නැවත උත්සාහ කර ටීවීයේ ඉඩ දෙන්න.</string>
+    <string name="dev_link_forgotten_short">ටීවීය මෙම දුරකථනය අමතක කළා</string>
+    <string name="dev_link_not_allowed">ටීවීයේ කිසිවෙකු ඉඩ දුන්නේ නැත. නැවත උත්සාහ කර එහි OK තෝරන්න.</string>
+    <string name="dev_link_not_allowed_short">ටීවීයේ ඉඩ දී නැත</string>
+    <string name="dev_link_off">ක්‍රියාවිරහිතයි. ආදාන සහ සියලු යෙදුම් එක් කරයි</string>
+    <string name="dev_link_step_allow">සම්බන්ධ කරන්න තට්ටු කර, ඉන්පසු ටීවීයේ Always allow ලකුණු කර OK තෝරන්න.</string>
+    <string name="dev_link_step_debugging">About අසල ඇති Developer options විවෘත කර USB debugging ක්‍රියාත්මක කරන්න. Shield එකක එය Network debugging වේ.</string>
+    <string name="dev_link_step_developer">ටීවීයේ Settings › System › About විවෘත කර Android TV OS build හත් වතාවක් තෝරන්න. පැරණි ටීවී වල එය Device Preferences › About › Build වේ.</string>
+    <string name="dev_link_title">සංවර්ධක සම්බන්ධතාවය</string>
+    <string name="dev_link_turn_off">ක්‍රියාවිරහිත කරන්න</string>
+    <string name="dev_link_wireless">Wireless debugging පමණක් ක්‍රියාත්මකයි, එය TennaRC හට තවම භාවිතා කළ නොහැක. USB debugging ද ක්‍රියාත්මක කරන්න, නැතහොත් පරිගණකයකින් එක් වරක් යුගල කර adb tcpip 5555 ධාවනය කරන්න; ටීවීය නැවත ආරම්භ වන තුරු එය පවතී.</string>
+    <string name="dev_link_wireless_short">Wireless debugging පමණක් ක්‍රියාත්මකයි</string>
+    <string name="settings_edit_tv">සංස්කරණය</string>
+    <string name="settings_find_titles">චිත්‍රපටි සහ වීඩියෝ සෙවීම</string>
+    <string name="find_titles_ask">ඒවා සොයා ගැනීමට TennaRC ඔබ ටයිප් කරන දේ YouTube, JustWatch සහ Wikidata වෙත යවයි. ඔබට මෙය සැකසීම් තුළ වෙනස් කළ හැක.</string>
+    <string name="find_titles_not_now">දැන් නොවේ</string>
+</resources>

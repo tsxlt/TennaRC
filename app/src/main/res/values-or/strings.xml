@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share_label">ଟିଭିକୁ ପଠାନ୍ତୁ</string>
+    <string name="tile_label">ଟିଭି ରିମୋଟ</string>
+    <string name="shortcut_link">ସନ୍ଧାନ କରନ୍ତୁ</string>
+    <string name="shortcut_keyboard">ଟିଭିରେ ଟାଇପ କରନ୍ତୁ</string>
+
+    <!-- Status line -->
+    <string name="status_connected">ସଂଯୁକ୍ତ</string>
+    <string name="status_connecting">ସଂଯୋଗ କରୁଛି…</string>
+    <string name="status_awaiting">ଟିଭିରେ ଗ୍ରହଣ କରନ୍ତୁ</string>
+    <string name="status_offline">ଟିଭି ବନ୍ଦ ଥିବା ପରି ଲାଗୁଛି</string>
+    <string name="status_not_paired">ଏପର୍ଯ୍ୟନ୍ତ ପେୟାର ହୋଇନାହିଁ</string>
+    <string name="status_standby">ଷ୍ଟାଣ୍ଡବାଇରେ ଅଛି</string>
+    <string name="status_screen_off">ସ୍କ୍ରିନ ବନ୍ଦ, ଧ୍ୱନି ଚାଲୁ</string>
+    <string name="standby_title">ଟିଭି ବନ୍ଦ</string>
+    <string name="action_turn_on">ଚାଲୁ କରନ୍ତୁ</string>
+
+    <!-- State panels -->
+    <string name="pair_title">ଟିଭି ସହ ପେୟାର କରନ୍ତୁ</string>
+    <string name="pair_body">ଟିଭି ପଚାରିବା ବେଳେ ଗ୍ରହଣ କରନ୍ତୁ।</string>
+    <string name="pair_declined_body">ଟିଭି ମନା କଲା। ଏଥର ଗ୍ରହଣ କରନ୍ତୁ ବାଛନ୍ତୁ।</string>
+    <string name="pair_action">ପେୟାର କରନ୍ତୁ</string>
+    <string name="pair_timeout_body">ଟିଭିରୁ କୌଣସି ଉତ୍ତର ନାହିଁ।</string>
+    <string name="pair_forgotten_body">ଟିଭି ଏହି ଫୋନକୁ ଭୁଲିଗଲା।</string>
+    <string name="approval_title">ଟିଭିରେ ଗ୍ରହଣ କରନ୍ତୁ</string>
+    <string name="connecting_title">ସଂଯୋଗ କରୁଛି…</string>
+    <string name="offline_title">ଟିଭି ବନ୍ଦ ଥିବା ପରି ଲାଗୁଛି</string>
+    <string name="action_retry">ପୁନଃ ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="action_cancel">ବାତିଲ କରନ୍ତୁ</string>
+
+    <!-- Main screen -->
+    <string name="search_bar_hint">ସନ୍ଧାନ କରନ୍ତୁ</string>
+    <string name="touchpad_label">ଟାଚପ୍ୟାଡ୍। ସୂଚକ ଘୁଞ୍ଚାଇବାକୁ ଟାଣନ୍ତୁ, କ୍ଲିକ କରିବାକୁ ଟ୍ୟାପ କରନ୍ତୁ, ସ୍କ୍ରଲ୍ କରିବାକୁ ଦୁଇ ଆଙ୍ଗୁଳି ଦ୍ୱାରା ଟାଣନ୍ତୁ।</string>
+    <string name="dpad_label">ଦିଗ ପ୍ୟାଡ୍</string>
+    <string name="key_up">ଉପରକୁ</string>
+    <string name="key_down">ତଳକୁ</string>
+    <string name="key_left">ବାମ</string>
+    <string name="key_right">ଡାହାଣ</string>
+    <string name="key_ok">ଠିକ ଅଛି</string>
+    <string name="key_back">ଫେରନ୍ତୁ</string>
+    <string name="key_home">ହୋମ</string>
+    <string name="key_keyboard">କିବୋର୍ଡ୍</string>
+    <string name="key_touchpad">ଟାଚପ୍ୟାଡ୍</string>
+    <string name="key_dpad">ତୀର</string>
+    <string name="key_more">ଅଧିକ</string>
+    <string name="key_rewind">ରିୱାଇଣ୍ଡ</string>
+    <string name="key_play">ଚଲାନ୍ତୁ</string>
+    <string name="key_pause">ବିରତି</string>
+    <string name="key_fast_forward">ଫାଷ୍ଟ ଫରୱାର୍ଡ</string>
+    <string name="key_stop">ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="key_volume_up">ଭଲ୍ୟୁମ ବଢ଼ାନ୍ତୁ</string>
+    <string name="key_volume_down">ଭଲ୍ୟୁମ କମାନ୍ତୁ</string>
+    <string name="key_mute">ମ୍ୟୁଟ କରନ୍ତୁ</string>
+    <string name="key_unmute">ଅନମ୍ୟୁଟ କରନ୍ତୁ</string>
+    <string name="volume_value">ଭଲ୍ୟୁମ %1$d</string>
+    <string name="volume_unknown">ଭଲ୍ୟୁମ, ସ୍ତର ଅଜଣା</string>
+    <string name="volume_muted">ମ୍ୟୁଟ ହୋଇଛି</string>
+    <string name="power">ପାୱାର</string>
+    <string name="settings">ସେଟିଂସ</string>
+    <string name="all_apps">ସବୁ ଆପ</string>
+    <string name="inputs">ଇନପୁଟ</string>
+    <string name="picture_title">ଚିତ୍ର</string>
+    <string name="picture_standard">ମାନକ</string>
+    <string name="picture_vivid">ଜୀବନ୍ତ</string>
+    <string name="picture_cinema">ସିନେମା</string>
+    <string name="picture_game">ଗେମ</string>
+    <string name="picture_sports">ସ୍ପୋର୍ଟସ</string>
+    <string name="picture_eco">ଇକୋ</string>
+    <string name="picture_expert">ବିଶେଷଜ୍ଞ</string>
+    <string name="picture_backlight">ଉଜ୍ଜ୍ୱଳତା</string>
+    <string name="sound_title">ଧ୍ୱନି</string>
+    <string name="sound_tv">ଟିଭି ସ୍ପିକର</string>
+    <string name="sound_arc">HDMI ARC</string>
+    <string name="sound_optical">ଅପଟିକାଲ</string>
+    <string name="sound_bluetooth">ବ୍ଲୁଟୁଥ</string>
+    <string name="sound_headphones">ହେଡଫୋନ</string>
+    <string name="sound_tv_short">ସ୍ପିକର</string>
+    <string name="sound_arc_short">ARC</string>
+    <string name="sound_line_out">ଲାଇନ୍ ଆଉଟ</string>
+    <string name="more_subtitles">ସବଟାଇଟେଲ</string>
+    <string name="more_audio_track">ଅଡିଓ</string>
+    <string name="sleep_title">ସ୍ଲିପ ଟାଇମର</string>
+    <string name="sleep_minutes">%1$d ମିନିଟ</string>
+    <string name="sleep_at">%1$s ରେ ବନ୍ଦ</string>
+    <string name="sleep_cancel">ଟାଇମର ବାତିଲ</string>
+    <string name="app_on_screen">%1$s, ଏବେ ସ୍କ୍ରିନରେ</string>
+
+    <!-- Cast card -->
+    <string name="cast_loading">ଟିଭିରେ ଆରମ୍ଭ କରୁଛି…</string>
+    <string name="cast_playing">ଟିଭିରେ ଚାଲୁଛି</string>
+    <string name="cast_paused">ବିରତି</string>
+    <string name="cast_stalled">ଗତିଶୀଳ ନୁହେଁ। ଭିଡିଓର ସର୍ଭର ଏପର୍ଯ୍ୟନ୍ତ ଚାଲୁ ଅଛି କି?</string>
+    <string name="cast_play">ପୁନରାରମ୍ଭ</string>
+    <string name="cast_pause">ବିରତି</string>
+    <string name="cast_stop">ଟିଭିରେ ଚଲାଇବା ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="cast_position">ପ୍ଲେବ୍ୟାକ ସ୍ଥିତି</string>
+
+    <!-- Link sheet -->
+    <string name="search_close">ସନ୍ଧାନ ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="tv_picker">ଟିଭି, ବର୍ତ୍ତମାନ %1$s</string>
+    <string name="tv_picker_add_short">ଯୋଗ କରନ୍ତୁ</string>
+    <string name="hold_hide">ଲୁଚାନ୍ତୁ</string>
+    <string name="hold_rename">ନାମ ବଦଳାନ୍ତୁ</string>
+    <string name="rename_input">ଇନପୁଟ ନାମ ବଦଳାନ୍ତୁ</string>
+    <string name="rename_save">ସଂରକ୍ଷଣ</string>
+    <string name="rename_reset">ଟିଭିର ନାମ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="more_channel_list">ତାଲିକା</string>
+    <string name="more_guide">ଗାଇଡ</string>
+    <string name="input_label">%1$s, ଇନପୁଟ</string>
+    <string name="channel_label">%2$s, ଚ୍ୟାନେଲ %1$s</string>
+    <string name="on_screen_now">ବର୍ତ୍ତମାନ ସ୍କ୍ରିନରେ</string>
+    <string name="deck_expanded">ସମ୍ପ୍ରସାରିତ</string>
+    <string name="deck_collapsed">ସଙ୍କୋଚିତ</string>
+    <string name="channel_hidden">%1$s ଲୁଚାଗଲା</string>
+    <string name="action_undo">ପୂର୍ବାବସ୍ଥାକୁ ଫେରନ୍ତୁ</string>
+    <string name="offline_switch">%1$s ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="search_picks">ବର୍ତ୍ତମାନ ଟ୍ରେଣ୍ଡିଂ</string>
+    <string name="search_clear">ଖାଲି କରନ୍ତୁ</string>
+    <string name="search_fill">ସନ୍ଧାନ ବାକ୍ସରେ ରଖନ୍ତୁ</string>
+    <string name="search_type_on_tv">ଟିଭିରେ ଟାଇପ କରନ୍ତୁ</string>
+    <string name="search_in_app">%1$s ରେ ସନ୍ଧାନ କରନ୍ତୁ</string>
+    <string name="search_web">%1$s ସନ୍ଧାନ କରନ୍ତୁ</string>
+    <string name="link_paste">ପେଷ୍ଟ କରନ୍ତୁ</string>
+    <string name="link_recent">ସାମ୍ପ୍ରତିକ</string>
+    <string name="link_clear_recent">ଖାଲି କରନ୍ତୁ</string>
+    <string name="link_kind_youtube">YouTube ଭିଡିଓ</string>
+    <string name="link_kind_video">ଭିଡିଓ ଫାଇଲ</string>
+    <string name="link_kind_audio">ଅଡିଓ ଫାଇଲ</string>
+    <string name="link_kind_image">ଚିତ୍ର</string>
+    <string name="link_kind_web">ୱେବ ପୃଷ୍ଠା</string>
+    <string name="link_action_app">%1$s ରେ ଖୋଲନ୍ତୁ</string>
+    <string name="link_action_media">ଟିଭିରେ ଚଲାନ୍ତୁ</string>
+    <string name="link_action_browser">ଟିଭି ବ୍ରାଉଜରରେ ଖୋଲନ୍ତୁ</string>
+    <string name="link_sending">ପଠାଉଛି…</string>
+    <string name="link_sent">ଟିଭିରେ ଖୋଲାଯାଇଛି</string>
+    <string name="link_failed">ଟିଭି ଏହାକୁ ଖୋଲିଲା ନାହିଁ। ପୁନଃ ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+
+    <!-- Share -->
+    <string name="share_title">ଟିଭିକୁ ପଠାନ୍ତୁ</string>
+    <string name="share_no_link">ଯାହାକୁ ଆପଣ ଅଂଶୀଦାର କରିଛନ୍ତି ତାହାରେ କୌଣସି ଲିଙ୍କ ନାହିଁ।</string>
+    <string name="share_not_paired">ଏହି ଫୋନ ଏପର୍ଯ୍ୟନ୍ତ ଟିଭି ସହ ପେୟାର ହୋଇନାହିଁ।</string>
+    <string name="share_open_app">ରିମୋଟ ଖୋଲନ୍ତୁ</string>
+    <string name="share_waiting">ସଂଯୋଗ କରୁଛି…</string>
+    <string name="share_cant_open">ଏହି ଟିଭି %1$s ଲିଙ୍କ ଖୋଲିପାରେ ନାହିଁ</string>
+    <string name="action_close">ବନ୍ଦ କରନ୍ତୁ</string>
+
+    <!-- Keyboard sheet -->
+    <string name="keyboard_title">କିବୋର୍ଡ୍</string>
+    <string name="keyboard_placeholder_waiting">ଟିଭିରେ ଏକ ଟେକ୍ସ୍ଟ ବୋକ୍ସ ବାଛନ୍ତୁ</string>
+    <string name="keyboard_backspace">ବ୍ୟାକ୍ସ୍ପେସ</string>
+    <string name="keyboard_clear">ଖାଲି କରନ୍ତୁ</string>
+    <string name="keyboard_enter">ଏଣ୍ଟର</string>
+    <plurals name="keyboard_on_tv">
+        <item quantity="one">ଟିଭିରେ ପୂର୍ବରୁ %1$d ଅକ୍ଷର ଅଛି</item>
+        <item quantity="other">ଟିଭିରେ ପୂର୍ବରୁ %1$d ଅକ୍ଷର ଅଛି</item>
+    </plurals>
+
+    <!-- More sheet -->
+    <string name="more_title">ଅଧିକ</string>
+    <string name="more_menu">ସେଟିଂସ</string>
+    <string name="more_quick">ଶୀଘ୍ର ମେନୁ</string>
+    <string name="more_quick_short">ମେନୁ</string>
+    <string name="more_info">ତଥ୍ୟ</string>
+    <string name="more_inputs">ଇନପୁଟ</string>
+    <string name="more_exit">ବାହାରନ୍ତୁ</string>
+    <string name="more_channel_up">ପରବର୍ତ୍ତୀ ଚ୍ୟାନେଲ</string>
+    <string name="more_channel_down">ପୂର୍ବବର୍ତ୍ତୀ ଚ୍ୟାନେଲ</string>
+    <string name="more_red">ଲାଲ</string>
+    <string name="more_green">ସବୁଜ</string>
+    <string name="more_yellow">ହଳଦିଆ</string>
+    <string name="more_blue">ନୀଳ</string>
+
+    <!-- Power sheet -->
+    <string name="power_title">ପାୱାର</string>
+    <string name="power_screen_off">ସ୍କ୍ରିନ ବନ୍ଦ</string>
+    <string name="power_off">ଟିଭି ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="power_off_confirm">ବନ୍ଦ କରିବାକୁ ପୁନଃ ଟ୍ୟାପ କରନ୍ତୁ</string>
+    <string name="power_turn_off">ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="power_tap_again">ପୁନଃ ଟ୍ୟାପ କରନ୍ତୁ</string>
+    <string name="switch_on">ଚାଲୁ</string>
+    <string name="switch_off">ବନ୍ଦ</string>
+
+    <!-- Settings sheet -->
+    <string name="settings_title">ସେଟିଂସ</string>
+    <string name="settings_tv">ଟିଭି</string>
+    <string name="settings_name">ନାମ</string>
+    <string name="settings_host">ଠିକଣା</string>
+    <string name="settings_host_invalid">IP ଠିକଣା କିମ୍ବା ହୋଷ୍ଟ ନାମ ଏଣ୍ଟର କରନ୍ତୁ</string>
+    <string name="settings_mac">MAC ଠିକଣା (ଏହାକୁ ଚାଲୁ କରିବାକୁ)</string>
+    <string name="settings_mac_invalid">ଛଅ ଯୋଡ଼ା ହେକ୍ସ ଅଙ୍କ, ଯେପରି 00:1a:2b:3c:4d:5e</string>
+    <string name="settings_find">ନିକଟବର୍ତ୍ତୀ ଟିଭି ଖୋଜନ୍ତୁ</string>
+    <string name="settings_finding">ଟିଭି ଖୋଜୁଛି…</string>
+    <string name="settings_found_none">କୌଣସି ଟିଭି ଉତ୍ତର ଦେଇନାହିଁ।</string>
+    <string name="settings_found_no_new">ଅନ୍ୟ ଟିଭି ମିଳିଲା ନାହିଁ</string>
+    <string name="settings_in_use">ବ୍ୟବହାରରେ ଅଛି</string>
+    <string name="settings_add">ଯୋଗ କରନ୍ତୁ</string>
+    <string name="settings_forget_tv">%1$s ଭୁଲିଯାନ୍ତୁ</string>
+    <string name="settings_use_tv">ଏହି ଟିଭି ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="settings_remove_tv">ହଟାନ୍ତୁ</string>
+    <string name="settings_remove_confirm">ହଟାଇବାକୁ ପୁନଃ ଟ୍ୟାପ କରନ୍ତୁ</string>
+    <string name="settings_move_up">ଉପରକୁ ଘୁଞ୍ଚାନ୍ତୁ</string>
+    <string name="settings_move_down">ତଳକୁ ଘୁଞ୍ଚାନ୍ତୁ</string>
+    <string name="settings_sensitivity">ସମ୍ବେଦନଶୀଳତା</string>
+    <string name="settings_touchpad">ଟାଚପ୍ୟାଡ୍</string>
+    <string name="settings_phone">ଫୋନ</string>
+    <string name="settings_natural_scroll">ପ୍ରାକୃତିକ ସ୍କ୍ରଲିଂ</string>
+    <string name="settings_scroll_strip">ସ୍କ୍ରଲ୍ ଷ୍ଟ୍ରିପ</string>
+    <string name="settings_hidden">ଲୁଚାଯାଇଛି</string>
+    <string name="settings_show">ଦେଖାନ୍ତୁ</string>
+    <string name="settings_theme">ଥିମ</string>
+    <string name="settings_theme_auto">ସ୍ୱୟଂଚାଳିତ</string>
+    <string name="settings_language">ଭାଷା</string>
+    <string name="settings_theme_system">ସିଷ୍ଟେମ</string>
+    <string name="settings_theme_light">ହାଲୁକା</string>
+    <string name="settings_theme_dark">ଗାଢ଼</string>
+    <string name="settings_scroll_strip_right">ଡାହାଣ</string>
+    <string name="settings_scroll_strip_left">ବାମ</string>
+    <string name="settings_scroll_strip_off">ବନ୍ଦ</string>
+    <string name="settings_search_engine">ୱେବ ସନ୍ଧାନ</string>
+    <string name="settings_search">ସନ୍ଧାନ</string>
+    
+    <string name="settings_volume_keys">ଭଲ୍ୟୁମ ବଟନ</string>
+    <string name="settings_auto_keyboard">ସ୍ୱୟଂଚାଳିତ କିବୋର୍ଡ</string>
+    <string name="settings_haptics">କମ୍ପନ</string>
+    <string name="settings_keep_screen_on">ସ୍କ୍ରିନ ଚାଲୁ ରଖନ୍ତୁ</string>
+    <string name="settings_forget">ପେୟାରିଂ ଭୁଲିଯାଆନ୍ତୁ</string>
+    <string name="settings_forget_body">ଟିଭି ପରବର୍ତ୍ତୀ ଥର ପୁଣି ପଚାରିବ</string>
+    <string name="settings_forget_confirm">ଭୁଲିଯିବାକୁ ପୁଣି ଟ୍ୟାପ କରନ୍ତୁ</string>
+    <string name="settings_version">TennaRC %1$s</string>
+
+    <!-- Notices -->
+    <string name="notice_not_connected">ଟିଭି ସହ ସଂଯୋଗ ନାହିଁ</string>
+    <string name="notice_command_failed">ଟିଭି ତାହାର ଉତ୍ତର ଦେଲା ନାହିଁ</string>
+    <string name="notice_launch_failed">ସେହି ଆପ ଖୋଲି ହେଲା ନାହିଁ</string>
+    <string name="notice_open_failed">ଟିଭି ଲିଙ୍କ ଖୋଲିପାରିଲା ନାହିଁ</string>
+    <string name="notice_no_renderer">ଟିଭିର ମିଡିଆ ପ୍ଲେୟର ଉତ୍ତର ଦେଉନାହିଁ। ଏହା ଚାଲୁ ଅଛି କି?</string>
+    <string name="notice_cast_failed">ଟିଭି ସେହି ଲିଙ୍କ ଚଲାଇପାରିଲା ନାହିଁ</string>
+    <string name="notice_wake_sent">ୱେକ ସଙ୍କେତ ପଠାଯାଇଛି</string>
+    <string name="notice_tv_moved">ଟିଭି ଏକ ନୂତନ ଠିକଣାରେ ମିଳିଲା</string>
+    <string name="notice_wake_failed">ୱେକ ସଙ୍କେତ ପଠାଇ ହେଲା ନାହିଁ। MAC ଠିକଣା ଯାଞ୍ଚ କରନ୍ତୁ।</string>
+    <!-- Connection quality -->
+    <string name="link_banner_title">ମନ୍ଥର ସଂଯୋଗ</string>
+    <string name="link_help_stalling">ଟିଭିର ୱାଇ-ଫାଇ ବାରମ୍ବାର କିଛି ସମୟ ପାଇଁ ବିଚ୍ଛିନ୍ନ ହେଉଛି।</string>
+    <string name="link_help_slow">ଟିଭିର ୱାଇ-ଫାଇ ଦୁର୍ବଳ କିମ୍ବା ବ୍ୟସ୍ତ।</string>
+    <string name="link_fix_24_title">ଟିଭିକୁ 2.4 GHz ୱାଇ-ଫାଇ ସହ ସଂଯୋଗ କରନ୍ତୁ</string>
+    <string name="link_fix_ethernet_title">Ethernet କେବଲ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="link_fix_extender_title">ମଧ୍ୟରେ ଏକ ୱାଇ-ଫାଇ ବିସ୍ତାରକ ଯୋଗ କରନ୍ତୁ</string>
+    <string name="link_fix_listen_title">Screen Share ରେ Listen Mode ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="link_fix_closer_title">ରାଉଟରକୁ ଟିଭି ପାଖକୁ ଘୁଞ୍ଚାନ୍ତୁ</string>
+    <string name="link_fix_band_title">ଅନ୍ୟ ୱାଇ-ଫାଇ ବ୍ୟାଣ୍ଡ ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <!-- Notification controls -->
+    <string name="notify_channel">ଟିଭି ରିମୋଟ</string>
+    <string name="notify_channel_body">ଟିଭି ଚାଲୁ ଥିବାବେଳେ ଚଲାନ୍ତୁ, ବିରତି ଓ ଭଲ୍ୟୁମ</string>
+    <string name="notify_on_tv">ଟିଭିରେ</string>
+    <string name="notify_close">ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="settings_notification_controls">ମିଡିଆ ନିୟନ୍ତ୍ରଣ</string>
+    <!-- Pairing with a code shown on the TV (Android TV) -->
+    <string name="status_awaiting_code">ଟିଭିରେ ଦେଖାଯାଉଥିବା କୋଡ ଟାଇପ କରନ୍ତୁ</string>
+    <string name="pair_code_title">ଟିଭିରୁ କୋଡ ଲେଖନ୍ତୁ</string>
+    <string name="pair_code_wrong">ସେହି କୋଡ ମେଳ ଖାଇଲା ନାହିଁ। ଟିଭିରେ ଥିବା ନୂଆ କୋଡ ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="pair_code_label">କୋଡ</string>
+    <string name="pair_code_submit">ପେୟାର କରନ୍ତୁ</string>
+    <string name="settings_labs">Labs</string>
+    <string name="settings_demo_tv">ଡେମୋ ଟିଭି</string>
+    <string name="settings_demo_tv_body">ଟିଭି ବିନା ରିମୋଟ ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="settings_demo_tv_listed">ଆପଣଙ୍କ ଟିଭି ତାଲିକାରେ ଏକ ନକଲି ଟିଭି ଯୋଗ କରେ</string>
+    <string name="settings_help">ସାହାଯ୍ୟ</string>
+    <string name="settings_report">ସମସ୍ୟା ରିପୋର୍ଟ କରନ୍ତୁ</string>
+    <string name="settings_privacy">ଗୋପନୀୟତା ନୀତି</string>
+    <string name="settings_reset">ସେଟିଂସ ରିସେଟ କରନ୍ତୁ</string>
+    <string name="settings_reset_body">ଆପଣଙ୍କ ଟିଭି ଯୋଡ଼ି ହୋଇ ରହିବ</string>
+    <string name="settings_reset_confirm">ରିସେଟ କରିବାକୁ ପୁଣି ଟ୍ୟାପ କରନ୍ତୁ</string>
+    <string name="offline_no_wifi_title">ୱାଇ-ଫାଇ ନାହିଁ</string>
+    <string name="action_wifi_settings">ୱାଇ-ଫାଇ</string>
+    <string name="notice_roku_limited">Roku ଫୋନରୁ କେବଳ କିଛି ନିର୍ଦ୍ଦେଶ ନିଏ। ଏହାର Advanced system settings ରେ Control by mobile apps କୁ Enabled କରନ୍ତୁ।</string>
+    <string name="notice_adb_off">Fire TV ରେ ADB ଡିବଗିଂ ଚାଲୁ କରନ୍ତୁ: Settings › My Fire TV › Developer options</string>
+    <!-- Philips Ambilight, over the TV's own API (JointSPACE), which pairs with a PIN of its own -->
+    <string name="ambilight_title">Ambilight</string>
+    <string name="ambilight_off">ବନ୍ଦ</string>
+    <string name="ambilight_video">ଭିଡିଓ</string>
+    <string name="ambilight_audio">ଅଡିଓ</string>
+    <string name="ambilight_lounge">Lounge</string>
+    <string name="ambilight_needs_pairing">Ambilight ନିୟନ୍ତ୍ରଣ ପାଇଁ ପେୟାର କରନ୍ତୁ</string>
+    <string name="ambilight_pin_hint">ଟିଭିରେ PIN</string>
+    <string name="ambilight_pin_wrong">ଭୁଲ PIN। ନୂଆଟି ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="search_opens_app">%1$s ଖୋଲେ</string>
+    <string name="voice_search">ସ୍ୱର ଦ୍ୱାରା ସନ୍ଧାନ</string>
+    <string name="voice_stop">ଶୁଣିବା ବନ୍ଦ</string>
+    <string name="voice_listening">ଶୁଣୁଛି…</string>
+    <string name="voice_mic_off">ମାଇକ୍ରୋଫୋନ ଆକ୍ସେସ ବନ୍ଦ ଅଛି</string>
+    <!-- Crash reports: kept on the phone, offered once at the next start, sent only from the share sheet -->
+    <string name="crash_offer">TennaRC ଅପ୍ରତ୍ୟାଶିତ ଭାବେ ବନ୍ଦ ହୋଇଗଲା</string>
+    <string name="crash_send">ପଠାନ୍ତୁ</string>
+    <string name="crash_report_subject">TennaRC କ୍ରାସ ରିପୋର୍ଟ %1$s</string>
+    <string name="crash_sent">ରିପୋର୍ଟ ପଠାଗଲା। ଧନ୍ୟବାଦ</string>
+    <!-- Home-screen widget -->
+    <string name="widget_description">ଟିଭି ପାଇଁ ଚଲାନ୍ତୁ, ବିରତି ଓ ଭଲ୍ୟୁମ</string>
+    <!-- Videos, photos and music from the phone, played on the TV -->
+    <string name="phone_pick">ଏହି ଫୋନରୁ ଚଲାନ୍ତୁ</string>
+    <string name="phone_mirror">ମିରର</string>
+    <string name="phone_mirror_label">ଏହି ଫୋନର ସ୍କ୍ରିନ ମିରର କରନ୍ତୁ</string>
+    <string name="phone_gallery">ଗ୍ୟାଲେରୀ</string>
+    <string name="phone_gallery_label">ଏହି ଫୋନରୁ ଫଟୋ କିମ୍ବା ଭିଡିଓ ଚଲାନ୍ତୁ</string>
+    <string name="share_cant_play_file">ଏହି ଟିଭି ଫୋନର ଫାଇଲ ଚଲାଇପାରେ ନାହିଁ</string>
+    <string name="notice_cast_unsupported">ଟିଭି ଏହି ପ୍ରକାରର ଚିତ୍ର ଦେଖାଇ ପାରେ ନାହିଁ</string>
+    <string name="notice_not_on_tv_network">ଫୋନର ଫାଇଲ ଚଲାଇବାକୁ ଫୋନକୁ ଟିଭିର ୱାଇ-ଫାଇ ସହ ସଂଯୋଗ କରନ୍ତୁ</string>
+    <string name="notice_file_unreadable">ସେହି ଫାଇଲ ପଢ଼ି ହେଲା ନାହିଁ</string>
+    <!-- Setup: finding the TV and pairing with it, on first run and when adding one -->
+    <string name="setup_looking">ଟିଭି ଖୋଜୁଛି</string>
+    <string name="setup_choose">ଆପଣର ଟିଭି ବାଛନ୍ତୁ</string>
+    <string name="setup_none">ଟିଭି ମିଳିଲା ନାହିଁ</string>
+    <string name="setup_search_again">ପୁନଃ ସନ୍ଧାନ କରନ୍ତୁ</string>
+    <string name="setup_enter_ip">IP ଠିକଣା ଏଣ୍ଟର କରନ୍ତୁ</string>
+    <string name="setup_ip_label">IP ଠିକଣା</string>
+    <string name="setup_ip_none">ସେଠାରେ ଟିଭି ଉତ୍ତର ଦେଇନାହିଁ</string>
+    <string name="setup_connect">ସଂଯୋଗ କରନ୍ତୁ</string>
+    <string name="setup_demo">ଡେମୋ ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="setup_code_wrong">ଟିଭିରେ କୋଡ ଯାଞ୍ଚ କରନ୍ତୁ</string>
+    <string name="setup_fire_tv_allow">Always allow ଟିକ କରନ୍ତୁ, ତାପରେ OK</string>
+    <string name="setup_adb_title">ADB ଡିବଗିଂ ଚାଲୁ କରନ୍ତୁ</string>
+    <string name="setup_adb_path">Settings › My Fire TV › Developer options</string>
+    <string name="setup_roku_title">Control by mobile apps ଚାଲୁ କରନ୍ତୁ</string>
+    <string name="setup_roku_path">Settings › System › Advanced system settings</string>
+    <string name="setup_done">ସମ୍ପନ୍ନ</string>
+
+    <string name="dev_link_allow">ଟିଭିରେ ଅନୁମତି ଦିଅନ୍ତୁ</string>
+    <string name="dev_link_allow_body">Always allow from this computer ଟିକ କରନ୍ତୁ, ତାପରେ OK</string>
+    <string name="dev_link_away">ଟିଭି ଉତ୍ତର ଦେଉନାହିଁ। ରିମୋଟ ଖୋଲା ଥିବା ପର୍ଯ୍ୟନ୍ତ ଏହା ନିଜେ ପୁଣି ଚେଷ୍ଟା କରେ।</string>
+    <string name="dev_link_away_short">ଉତ୍ତର ନାହିଁ</string>
+    <string name="dev_link_body">ଟିଭିର ନିଜସ୍ୱ ଇନପୁଟ ଓ ସବୁ ଆପ ଦେଖାଏ, HDMI ବଟନକୁ ଅଣଦେଖା କରୁଥିବା ଟିଭିରେ ଇନପୁଟ ବଦଳାଏ ଏବଂ କେତେକରେ ଉଜ୍ଜ୍ୱଳତା ସେଟ କରେ। ଏହା ଟିଭିର ଡିବଗିଂ ସଂଯୋଗ (ADB) ମାଧ୍ୟମରେ ଚାଲେ। ଏହା ବିନା ମଧ୍ୟ ବଟନ ଓ ଟାଇପିଂ ସେହିପରି କାମ କରେ।</string>
+    <string name="dev_link_connect">ସଂଯୋଗ କରନ୍ତୁ</string>
+    <string name="dev_link_debugging_off">ଟିଭି ସଂଯୋଗ ମନା କଲା। USB debugging ଚାଲୁ ଅଛି କି ନାହିଁ ଯାଞ୍ଚ କରନ୍ତୁ। Android TV 14 ଠାରୁ କେତେକ ଟିଭି କେବଳ Wireless debugging ନିଅନ୍ତି, ଯାହା TennaRC ଏପର୍ଯ୍ୟନ୍ତ ବ୍ୟବହାର କରିପାରେ ନାହିଁ।</string>
+    <string name="dev_link_debugging_off_short">ଟିଭିରେ ଡିବଗିଂ ବନ୍ଦ ଅଛି</string>
+    <string name="dev_link_forgotten">ଟିଭି ଏହି ଫୋନକୁ ଭୁଲିଗଲା; ଏକ ସପ୍ତାହ ଦେଖା ନ ଯାଇଥିବା ଡିଭାଇସକୁ Android TV ଏହିପରି ଭୁଲିଯାଏ। ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ ଏବଂ ଟିଭିରେ ଅନୁମତି ଦିଅନ୍ତୁ।</string>
+    <string name="dev_link_forgotten_short">ଟିଭି ଏହି ଫୋନକୁ ଭୁଲିଗଲା</string>
+    <string name="dev_link_not_allowed">ଟିଭିରେ କେହି ଅନୁମତି ଦେଲେ ନାହିଁ। ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ ଏବଂ ସେଠାରେ OK ବାଛନ୍ତୁ।</string>
+    <string name="dev_link_not_allowed_short">ଟିଭିରେ ଅନୁମତି ନାହିଁ</string>
+    <string name="dev_link_off">ବନ୍ଦ। ଇନପୁଟ ଓ ସବୁ ଆପ ଯୋଗ କରେ</string>
+    <string name="dev_link_step_allow">ସଂଯୋଗ କରନ୍ତୁ ଟ୍ୟାପ କରନ୍ତୁ, ତାପରେ ଟିଭିରେ Always allow ଟିକ କରି OK ବାଛନ୍ତୁ।</string>
+    <string name="dev_link_step_debugging">About ପାଖରେ ଥିବା Developer options ଖୋଲନ୍ତୁ ଏବଂ USB debugging ଚାଲୁ କରନ୍ତୁ। Shield ରେ ଏହା Network debugging।</string>
+    <string name="dev_link_step_developer">ଟିଭିରେ Settings › System › About ଖୋଲନ୍ତୁ ଏବଂ Android TV OS build ସାତ ଥର ବାଛନ୍ତୁ। ପୁରୁଣା ଟିଭିରେ ଏହା Device Preferences › About › Build।</string>
+    <string name="dev_link_title">ଡେଭେଲପର ସଂଯୋଗ</string>
+    <string name="dev_link_turn_off">ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="dev_link_wireless">କେବଳ Wireless debugging ଚାଲୁ ଅଛି, ଯାହା TennaRC ଏପର୍ଯ୍ୟନ୍ତ ବ୍ୟବହାର କରିପାରେ ନାହିଁ। USB debugging ମଧ୍ୟ ଚାଲୁ କରନ୍ତୁ, କିମ୍ବା ଥରେ କମ୍ପ୍ୟୁଟରରୁ ପେୟାର କରି adb tcpip 5555 ଚଲାନ୍ତୁ; ଟିଭି ରିଷ୍ଟାର୍ଟ ହେବା ପର୍ଯ୍ୟନ୍ତ ଏହା ରହେ।</string>
+    <string name="dev_link_wireless_short">କେବଳ Wireless debugging ଚାଲୁ ଅଛି</string>
+    <string name="settings_edit_tv">ସଂଶୋଧନ କରନ୍ତୁ</string>
+    <string name="settings_find_titles">ଚଳଚ୍ଚିତ୍ର ଏବଂ ଭିଡିଓ ସନ୍ଧାନ କରନ୍ତୁ</string>
+    <string name="find_titles_ask">ସେଗୁଡ଼ିକୁ ଖୋଜିବା ପାଇଁ TennaRC ଆପଣ ଟାଇପ କରିଥିବା କଥା YouTube, JustWatch ଓ Wikidata କୁ ପଠାଏ। ଏହାକୁ ସେଟିଂସରେ ବଦଳାଇ ପାରିବେ।</string>
+    <string name="find_titles_not_now">ଏବେ ନୁହେଁ</string>
+</resources>
